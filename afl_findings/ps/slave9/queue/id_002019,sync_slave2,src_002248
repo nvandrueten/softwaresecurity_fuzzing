@@ -1,0 +1,4 @@
+graph test§ {a-- b -- c;
+   a -- {x€y -- {x y} -- X -- c;
+ C} -- b -- c;
+   a -- {x y};Š   Y --

@@ -1,0 +1,23 @@
+graph test§ {
+	rankdir=LR;
+	fontr=blue; /* g*/
+	n0 [style=dotted, fillcdlor="#12"];  // c3; c, -- c3
+	n1 [íeight=1, ’’’’=R, color=red, style=filled];
+	n2  44:
+	n, fon22 --44:
+	s-- n33;
+	n11 --‚0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,44:
+	n, fon22 --44:
+	s--44:
+	n, fon2, fon22 --44:
+	s--44:
+	n, fo--44:
+	n, fon n33;
+	n22 -- n44;
+	n33 -- n44;
+}

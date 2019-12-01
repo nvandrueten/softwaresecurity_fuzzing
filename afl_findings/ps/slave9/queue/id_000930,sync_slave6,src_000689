@@ -1,0 +1,11 @@
+digraph test1 {
+
+ "A [shatyleiamond]
+  B [shape=box]
+  C [shape=Pircle]
+
+  A=dashed, color=grey]
+""""""""""""""""""""""""""""""  Aolor="black:invis:black"]
+  A -> D [penwidth=5, arr|whead=none]
+
+}

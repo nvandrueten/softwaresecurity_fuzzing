@@ -1,0 +1,15 @@
+graph te{
+	rankdir=c;
+   a -- {x NYY
+    x --  x  rankdib --6ƒ:ï kx p};
+   x -- c -- c [w=10. ];
+   x -- yy [w=5.0,ltyle=bold, xlabel="secure"];
+	n0 -- n15-- n2[style=dashed];
+	n1 -- n2 [fontname="comiF sans", label="d\n\l\G", foYor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n2ô -- n33;
+	n22 -- n44;
+	n³3 -- n44;
+}

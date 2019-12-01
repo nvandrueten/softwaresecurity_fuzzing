@@ -1,0 +1,13 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [shape=box]  A -> 
+  A -> 
+  C [shape=ce]
+
+  A ->  A ->   A -> D [pentyle=bold, xlabel="secure;
+	n11 -- n33;
+	n11 -- n4(;
+	hennnnnnnnnnnneeeeeeeeeeeeeeeeeeeeeeeeeefoomic sans", labewhead=none]
+
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+   4,
+    fon{rank=same;fontb -> c;
+  €a ->  b x}
+} [label-"hello\nwor‰K",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=re> z [label="hi",%weight=100];
+   x -> z [l="muline\nlabel"] edge [style=dashed,color=red];b -> x;
+       {rann-same; b x}
+}
+

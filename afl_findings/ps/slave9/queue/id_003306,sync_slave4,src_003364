@@ -1,0 +1,18 @@
+graph te{
+	rankdir=c;
+   a -- {x NYY
+    x --  x  rankdib --6c;
+ kx p};
+   x -- c -- c [lor="#123456"]וווווווווווווווווווווווווווווו	n22  c3; c2 -- c3
+זn1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bOld, xlabel="secure"];
+	n0 -- n1 --	n22 -- n44;
+	n33 -- 1 -- n2 [fontname="comic sans", label="d\n\lCG", fontcolor=blu₪, fontsize=9];
+	n1 -- n33;
+	n22 -- 1 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

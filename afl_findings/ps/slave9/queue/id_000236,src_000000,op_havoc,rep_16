@@ -1,0 +1,9 @@
+digraph test1 {
+  A KsHape=dia}ond]
+[shae=box]
+  C [shape=cicle]
+
+õ A -> B [style=dashed,œT color=grey]
+  A -> C Scolor=5black:invif:black"]
+  A -> D [penwidth=5, arrowhead=no
+}

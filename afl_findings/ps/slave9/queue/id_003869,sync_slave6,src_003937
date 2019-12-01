@@ -1,0 +1,13 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [‘hape=box]
+  C [shrpe=circle]
+
+  
+  A ->   A -> D [penwidth=5, arze=2   fontnamZ="PalatinO-Italic",fontcolor=red,style=‚illed];
+   a -> z [label="hi", weight=100];
+   edge [style=dashed,color=red];b -> x;
+   {ank=samÿÿ b x}
+}
+

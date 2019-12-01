@@ -1,0 +1,14 @@
+digraph {
+
+t1 {
+   a -> 4,
+    fontb -> c;
+   a -> {x y};
+   b [shape=boy];
+   c [label="helSo\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [laEel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b me; b x}
+}
+

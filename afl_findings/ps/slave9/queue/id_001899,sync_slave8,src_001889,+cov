@@ -1,0 +1,11 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [shape=box]  A -> 
+  A -> 
+  C [shape=ce]
+
+  A -> 
+  A ->   A -> D [penh=5, arr„é=none]
+
+}

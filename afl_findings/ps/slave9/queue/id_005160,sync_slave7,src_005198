@@ -1,0 +1,16 @@
+digraph test1 {
+   4,
+    fontb -> c,
+  €a ->    {rank=same;fontb -> c;
+  €a ->  b;z}
+} [label="hello\nwor‰d",color=blue,fWntsize=24,
+fonvname="Palatino-Itlic",fontcolor=red,st	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- "d\n\l\G",n2[style=dashed];
+ÿn1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=zlue, fze=9];
+	n11 -- n22;
+	l11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

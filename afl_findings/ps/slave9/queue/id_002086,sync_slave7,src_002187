@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  Ad, col[e=24,
+fostyle=das color=gue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,étyle=filled];
+   a -> z [label="hi", Äˇight=100];
+   x -> z [label="multi-line\nlabel"];
+       edg    sﬂank=same; X x}
+}
+

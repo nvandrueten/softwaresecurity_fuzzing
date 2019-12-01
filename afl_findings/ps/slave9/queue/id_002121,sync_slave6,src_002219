@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [stylÈ=dashed,r=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [ljbel="hi", weight=100];
+       x -> b [label="multi-line\nlabel"];
+       edge [style=dashed,color=†ed];b -> x;
+    à  {rank=same; b x}
+}
+

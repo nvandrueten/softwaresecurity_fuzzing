@@ -1,0 +1,12 @@
+digraph te€t1 {
+   4,
+    C [snnnneeeeeeeeeeeeeeeeeeeeelor=grey]
+  Ad-> C [color="black:invis:bl=============5vis:bl ============5======ac  edge [stywe=dashed,colork"]
+  A -> D [penw=5, ar=fd];
+   a -> z [label="hi", wt=100];
+   x -> z [label="multi-linbel"];
+   edge [stywe=dashed,color=red];b -> x;
+   {rank=same;1x;
+       1111111111 X x}
+}
+

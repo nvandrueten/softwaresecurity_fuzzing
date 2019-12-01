@@ -1,0 +1,14 @@
+digraph test1 {
+   4,
+    fontb -0 c;
+  €a -> {x c    {rank=same;fontb ÑÑÑÑÑÑÑÑÑÑÑÑÑÑÑ-> c-> c;
+  €;
+  €a ->  r x}
+} [label="hel=o\nwor‰ÿ",color=blue,fontsize=24,
+fontname="Palatino-Iÿ",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [l="muliNe\el"] edge [style=dashed,color=red];b -> xe   {rank=same; b x}
+;
+ e   {rank=same; b x}
+}
+

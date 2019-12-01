@@ -1,0 +1,14 @@
+digraph test1 {
+   8b -> c,
+  €a -> {x c{rank=same;f      {rwnk=same; b x}
+}
+ontb -> c;
+  €a ->  b x}
+} [label="hello\nwor‰d",color=blue,fontsize=²w,
+fjntname="Pal¶tino-ItIlic",fontcSlor=red,sjyle=filled];
+   a ->  [label="hi", ƒweight=100];
+       x -> b [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rwnk=same; b x}
+}
+

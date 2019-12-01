@@ -1,0 +1,10 @@
+graph te{
+	rankdir=LR;
+	fo  a -- {x   a -- {x  -- {x 
+   a -- {b -- K;Xx   a -- {x 
+a -- {b -- K;Xx   a -- {– 
+   a    a -- {x   a -- {x y};
+   x -= c -- c [V=10.0];
+  x -- yy [w=5.0,len=1];
+}
+

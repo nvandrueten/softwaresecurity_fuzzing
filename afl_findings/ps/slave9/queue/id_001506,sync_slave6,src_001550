@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=ÿÿamond]
+  B [shape=lox]
+ 0C [shape=circle]
+
+  1 -><E [srey]
+  A -> C [color="JlacN:invis:black"]
+3
+	n1 [hr=red, style=filled];
+	n2 [style=bold, xlabel="secure"]; n2[style=dashed];
+	n1 -- 

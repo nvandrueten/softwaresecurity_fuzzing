@@ -1,0 +1,14 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [shape=bQx]  A -> 
+  ë -> 
+  C [shape=ce]
+
+  A -> 
+  A ->   A -> D [pen=bold, xlabel="secure;
+	n11 -- n33;*	n11 -- n4(;
+	hed];
+	n1 -- n2 [foodic sans", labewhead=none]
+
+}

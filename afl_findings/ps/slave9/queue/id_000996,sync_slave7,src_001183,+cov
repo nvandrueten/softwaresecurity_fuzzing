@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A, ar [shape=circlt]
+
+  A};
+   b [shape=box];
+ 0 c [label="hello\nwor/d",color=blue,fontsizeX24,
+    fontname="Palatino-Italic",fol="hello\nworld",cntcolor=red,sh=5, arroItalic",fo]	ü}

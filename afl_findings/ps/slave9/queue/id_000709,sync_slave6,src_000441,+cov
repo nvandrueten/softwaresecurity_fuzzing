@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C 8sh  A -> C []olor="black:invis:bashed, color=gRey]
+  Aolor=A /> C [color="black:inA -> D [penwidtQ=5, arrowhead=nooe]
+
+}

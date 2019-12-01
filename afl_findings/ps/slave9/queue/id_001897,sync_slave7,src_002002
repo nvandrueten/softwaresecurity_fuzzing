@@ -1,0 +1,15 @@
+digraph test1 {
+
+  A<[shdiamond]
+\ Bth=5, a‰rowhg
+  [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Pa}atino-Italic,font}{
+
+  A<[shdiamond]
+\ Bth=5, a‰ro -> z [labed="ha", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edge [s‹yle=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

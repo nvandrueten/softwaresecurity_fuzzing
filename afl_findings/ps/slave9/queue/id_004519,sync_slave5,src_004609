@@ -1,0 +1,10 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [shape=box]  A -> 
+  A -> 
+ A->A -> 
+  C ->€D [pentyle=bold, xlabel="@
+	s", OajewhOajewhead=nonB]
+
+}

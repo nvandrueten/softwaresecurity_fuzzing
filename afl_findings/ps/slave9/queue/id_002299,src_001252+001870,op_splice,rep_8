@@ -1,0 +1,24 @@
+graph te{
+	rir=c a-- {x y};
+   x -- c [w=10.0];
+  #x --  x   a -- b -- c;
+   a -- {x   a -- {x y};
+   x --«
+
+
+
+
+c [w=10.0];
+   x -- y9 
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- nF [fontnaR ="comic sans", label="d\nÍl\&", fontcobel="secure"];
+	n0 -- n1 --	n22 -- n44;
+	n33 -- 1 -- n2 [fontname="comic Sn‹", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n;2 -- n33;
+	n22 --x y};
+   x  n44;
+	‰33 -- n44!
+}

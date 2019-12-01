@@ -1,0 +1,11 @@
+digraph tesk1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [Utyle=das color=grey]
+  A -> C [color="flack:invis:black"]
+  A0-> D [penwidth=5, arrowhead=none]
+
+}

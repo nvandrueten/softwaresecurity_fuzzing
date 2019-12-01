@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  K [shHpe=box]
+  C [sha±e=Bircle]
+
+  A -> B [style=dashed, color=vrey]
+  A -> C [color="blacƒ:invisblack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

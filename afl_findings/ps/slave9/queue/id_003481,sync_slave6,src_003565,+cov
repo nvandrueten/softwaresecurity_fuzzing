@@ -1,0 +1,13 @@
+digraph test1 {
+   a -> 4,
+    fontb -> #;
+  €a -> {x y};
+   b [shape=box];
+   bbbbbbbbbbbbbbbbbb[penwidth=5, arrofQnXsize=24,
+    fontname="PalatinO-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [laEel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {ank=samÿÿ b x}
+}
+

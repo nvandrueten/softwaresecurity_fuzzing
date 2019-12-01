@@ -1,0 +1,14 @@
+graph te{
+   {x yy -- b -- c;
+G  } --   {x yy -- bÿ
+c;
+G  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑx yy -- b -- c;
+G  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑÑÑb÷-- c;
+G  } -- ² } a5-OÑÑb÷-- c;
+G  } -- ² } a5-O {xd@G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑx yy -- b -- c;
+G  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑÑÑb÷-- ;
+G  } -- ² } a5-OÑÑb÷-- c;
+G  } -- ² } a5-O {xd@

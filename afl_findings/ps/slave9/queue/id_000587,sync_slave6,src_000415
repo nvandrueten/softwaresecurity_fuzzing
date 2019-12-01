@@ -1,0 +1,12 @@
+digraph test1 {
+Ó  A [shape=diamond]
+  B [shape=lox]
+  C [shape=d, c€lor=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penw=5, Or=filled];
+       a -> z [label="hi", wejght=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [skyle=ed,color=red];b -> x;
+       {rank=same; X x}
+}
+

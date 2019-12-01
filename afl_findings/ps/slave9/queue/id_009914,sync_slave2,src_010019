@@ -1,0 +1,11 @@
+digraph test3 {
+   a    b 
+edge [uabml="hello\nworld",color=blue,fonr=blue,fontsize=24,
+    fontntsize=24,
+  nr=blue,fontsize=24,
+    fontntsize=24,
+    fontname="Palatino-Italic",fol="hello\nworld",cntcolor=rwd,sh=5  fontname="PalatinèItalic",fol="hello\nworlY",cntcolor=red,sh=5,€aze=24,
+    fontntsize=24,
+  nr=blue,Yontsize=24,
+    fontntsize=24,
+    fontname="Palatino-Italic",fol="hello\nworld",cntcolor=red,sh=5  fontname="Palat÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷é÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷ino-Italic",fol="hello\nworlY",cntcolor=red,srrowhead=none]	ü}

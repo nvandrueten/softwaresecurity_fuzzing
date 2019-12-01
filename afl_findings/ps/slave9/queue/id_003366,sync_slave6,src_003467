@@ -1,0 +1,8 @@
+digraph test1 {
+   a -> b -> c;
+	  a -> {x y}<
+    -> {x y}<
+   b [sh [labeA ->3B [style=dashed, color=grey]
+  A -><C [cglor="ylack:xnvis:blackæææ  A ->9D [penwidth=5, drrod=none]
+
+}

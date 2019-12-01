@@ -1,0 +1,14 @@
+graph te{
+   {x yt -- b -- c;
+G  } -- ²-- b -- ÿÿÿÿ a5-- {x yy da-- b -2 ÿÿÿÿ  a5-- x yy -- b -- c;
+G  } -- ² }- b -- c3
+	n1 [height=1, width=1, color=red, stylg=filled];
+	n2 [stylƒ=bold, xlabel="sec@re"];
+	n0 -- n1 -- n2 [fontname="comiX sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

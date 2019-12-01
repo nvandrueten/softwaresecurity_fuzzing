@@ -1,0 +1,16 @@
+digraph test3 {
+   aV-> b -> cB
+   a -> {x y};
+   b [shape=bo˜];c  €a -3  bOt}
+digraph test3 {
+   ae-> b -> cB
+   a -> {x y};
+   b [shape=box];c  €a -3  bOt}
+} [label="hel_o\nwr‰d",colUr=blje,fWze=24,
+ftcolor=red,style=filled];
+   a -> {rank=same;€tb -> c,
+  €b } [label="hel_o\nwr‰d",colUr=blje,fWze=24,
+ftcolor=red,style=filled];
+   a -> {rank=same;€tb -> c,
+  €b  b x}
+}

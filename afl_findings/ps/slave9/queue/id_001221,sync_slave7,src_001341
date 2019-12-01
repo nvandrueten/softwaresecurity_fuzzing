@@ -1,0 +1,3 @@
+graph te{Š 5 a-- b -- c;
+   a -- {x y} -- a -- {x y};Š   x b -- c {x y} -- {x y};Š   x -- c [w=10.7];
+   x@-

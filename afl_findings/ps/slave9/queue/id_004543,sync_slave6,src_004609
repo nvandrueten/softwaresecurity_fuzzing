@@ -1,0 +1,15 @@
+graph test4 {
+	rankdir=LR label="d\n^l\Gue; /* c0; c1; c0 -- c1 */
+	n0 [styleGdotted, fillcolo‹="#123456"eight=1, width=1, moloo‹="#123tyle=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=das fontsize=9];
+	n11 -- n22;
+	n11 -- n44;
+	n22 -- x44;
+	n22 -- n3;
+	n22 -- s33;
+	n22 -- n44n0 -- n1 -- n2[stylee=9];
+	n33;
+	n22 -- n44;
+	n33 -- n44;
+}

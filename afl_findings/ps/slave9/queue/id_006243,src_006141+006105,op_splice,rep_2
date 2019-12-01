@@ -1,0 +1,29 @@
+graph te{
+	r, fon22 --44:
+	n-- n33;
+LR;
+	fontr=b /* c*/
+	n0 [style=dotted, f="#12"]; // c, -- c3
+	n1 [height=1, width=R, color=red, style=filled];
+	n2  44:
+	n, fon22 --44:
+	n-- 
+	n -- n2[style=dashed];
+	n1 -- n  
+	n11Frrrrrrrrrrrd4:
+	n, f--44:
+	n,€fo44:
+	n, fon22 --44:
+	n, fon n33;
+	n22 -- n44;
+	n33 -- n4:
+	n, fo44:
+	n, fon22  -- n44;
+	n33 -- n44	n1rrrrrrrrrrrrrrrrrrrrrrrrrr--	n444:
+	n, frrrrrrrrrrrr€ÿÿÿ444:
+	n, o44:
+	n, fon22 --44:
+	n, fon N#ÿÿ
+	n22 -- n44;
+	n33 -- n44;
+}

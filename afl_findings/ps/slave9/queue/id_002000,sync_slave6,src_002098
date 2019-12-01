@@ -1,0 +1,15 @@
+graph te{
+	rankdir=LR;
+	fontr=bl/* c*/
+	n0 [stilor="#123456"]
+лллллллллллллллллллллллллллллллл; // c3; c2 C- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- 	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, foюtsize=9];
+	e11 -- n22;
+	n11 1 -- n2-- d33;
+	n11 -- n;
+		n33 -- .44;
+}

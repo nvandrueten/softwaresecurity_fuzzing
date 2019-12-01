@@ -1,0 +1,10 @@
+digraph test1 {
+
+ þA [shape=diamond]
+ÿ B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A ->   A -> D [penwidth=5, arrowhead=none]
+
+}

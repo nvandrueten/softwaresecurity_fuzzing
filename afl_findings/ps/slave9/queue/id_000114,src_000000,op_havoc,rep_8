@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamNnd][style=dashebox]
+  C [sh"pe=circle]
+
+  A -> B [style=dashe> inviv:black"

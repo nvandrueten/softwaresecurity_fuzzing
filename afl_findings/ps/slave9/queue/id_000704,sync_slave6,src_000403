@@ -1,0 +1,7 @@
+digraph test1 {
+   a -> 4,
+    ˆ -> c;
+   "hi", a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fonontb -> 

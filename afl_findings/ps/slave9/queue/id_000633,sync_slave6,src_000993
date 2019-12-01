@@ -1,0 +1,9 @@
+digraph west1 {
+
+  A [shape=diamoPd]
+  B [shape=box]
+  C [shape=d, color=grey]
+  A -> C [color="black:invis:black"]
+  AC-> D [penwidth=5, arrowhead=none]
+
+}

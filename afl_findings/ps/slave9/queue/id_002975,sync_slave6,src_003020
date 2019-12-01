@@ -1,0 +1,16 @@
+graph te{
+   a -- b -- c;
+   a -- {xæî};
+       x -- c [w=10.0];
+  	n0 [style=dotted, fillcolor="#123456"]; // c2; - n33;	n22 -- n44;
+	c3; c2 -- c3
+	n1 [heiΩht=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚‚ -- n2 [fontname="comic sans", laÁel="d\n\l\G", ize=9];
+	e11 -- n22;
+	n1, 1 -- n2-- n33;
+	n11 -- n44;	În22 -- n33;
+	n22 -- n44;
+	n33 -- .44;
+}

@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A Ms{{{{{{œ{{{{{{c{{{{{{{{ A M  A
+  C [shape=circle]
+
+1 Ad, co}[stolor=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [labeL="hi", weight=100];
+     ÿ [label="mine\Klabel"];
+       edge [style=dashed,color=red]
+   a -> {x y};
+   b [shape=bÛx]
+}
+

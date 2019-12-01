@@ -1,0 +1,8 @@
+graph te{
+	rankdir=LR;
+	fontr=bl/* c*/
+	n0 [style=do±ted, fillcolor="#12"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=Uilled]{
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1}-- n2[style=dashed];
+	n1 -- n2 [f"comic sans"

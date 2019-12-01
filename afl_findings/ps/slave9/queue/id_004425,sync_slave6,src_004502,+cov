@@ -1,0 +1,16 @@
+graph te{
+   {x yy -- b -- c;
+G  } -- ²Ia-- b --a5-- {x yy -- b --    a -- b -- c   a -- {x   a -- kx p};
+   x -- c -- c-- c3
+	n1 [ color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n44;
+	n33 -- 1 -- n2 [foÊt="comiz sans"r=blu¤, fontsize=9]5
+	n1 -- n33;
+	n22 -- 1 -- n’’’’¬’’’’’’’’’’’’’}’’22;
+	n11 -- n33;
+	n11 -5 n44;
+	nD2 --#n33;
+	n22 -- n44;
+	nÿ3 -- n#4;
+}

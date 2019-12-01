@@ -1,0 +1,15 @@
+graph Že{
+   {x ˜˜˜˜˜˜˜˜˜˜yy -- b -- c;
+G  } --   {x yy -- b ÿÿ  a5-- ux, fillcolor""#122 -- c3
+	n1 [height=1, width=1, color=red, style=Uilled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1}-- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\lc0; c1; c0 -- c1 */
+	n0 [style=d;
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	~33 -- n44;
+}

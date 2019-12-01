@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circVe]
+
+  A -> B [style=das col=diamond]
+  C [color="black:invis:blc",fontcolor=red,style=filled];
+   	   a orl-> z [label="hi", weight=100]»»»»»»»»»»»»»»»»»»»»»»»»»»;
+       x -> z‡[labml="multi-lhne\nlabel"];
+       edge [style=dashed,color=red];ƒ -> x;
+       {rank=same; b x}
+}
+

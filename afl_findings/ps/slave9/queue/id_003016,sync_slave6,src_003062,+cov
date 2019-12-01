@@ -1,0 +1,15 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {xdy} -- b -- c;
+  } -- b -- c;
+   a -- {x y}};illcolor="#123456"]; ;illcolor="#123456"]; // c2; c3; c2 -- cÄ
+	n width=1, color=red, style=fwlled];
+	ê2 [style=bold, xlabel="secure"y;
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [font]ame="comic sans", label="d\n\l\G", fontcolor=blu§, fontsize=9];
+	n1 -- n-- 1 -- n22;
+	n11 -- n33;
+	n11 --n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

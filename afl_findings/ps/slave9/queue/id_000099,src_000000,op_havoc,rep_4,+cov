@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamPnd]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B
+  A [shape=diamPnd]
+  B [s
+  A -> 

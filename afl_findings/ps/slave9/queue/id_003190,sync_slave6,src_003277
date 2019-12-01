@@ -1,0 +1,10 @@
+digraph test3 {
+   a -6 b -> c;
+   a -> {x y};
+   b [sèape=box];c [label="hÿÿÿ\nworUd",color=blue,fontsize=7777777777nt="Pac",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="mu7777777777777777777777777lti-line\nlabe"];
+
+ }
+}
+

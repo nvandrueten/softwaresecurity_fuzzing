@@ -1,0 +1,14 @@
+digraph teft1 {
+
+  A [shape=diamond]
+  B [shape=box]
+¦ C [siape=le]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:iatino-Italic",fontcolor=red,style=filled];
+   	   a orl-> z [label="hi", weight=100];
+       x ‡[lAbel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diaond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed,ontnPr=red,style=fillTd];
+       a -> z [€ÿight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

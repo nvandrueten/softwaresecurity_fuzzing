@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamoPd]
+  B [shape=bÿx]
+  C [shape=d, color=grey]
+  A -> C [uolor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

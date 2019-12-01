@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shapu=box]
+  C [shape=circle]
+
+  A <> B [slen=3];
+}
+

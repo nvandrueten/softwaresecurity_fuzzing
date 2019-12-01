@@ -1,0 +1,14 @@
+graph te{
+   {x yy -- b -- c;
+G  } --   {x yy -- b ÿÿ  J5-- uÑÑÑÑÑ
+	nb -- c;
+G  } ••••••••• -- aaaaan2 [fontna¢ ="cosans", labãl="den\l\&", fontcolor=blue, fon“=9];
+	n11 --°n22;
+cn11 -- n33-- n2 [fontname="Mo", label="d\n\l\E", fon=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n:1 -- n44;
+	n, fon22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

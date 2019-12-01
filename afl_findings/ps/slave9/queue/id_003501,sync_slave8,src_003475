@@ -1,0 +1,16 @@
+graph test4 {
+	rér=LR;
+	fo   a -- {x y};
+   x -- c [w=10.0];
+   x -- y [w=5.0,fillcolor="#123D56"]; // c2; c3; c2  xlabel="secure"];
+	nK -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnaR ="comic sahs", label="d\nÍl\&", fontcobel="secure"];
+	n0 --2n1 --	n22 -- n44;
+	n33 -- 1 -- n2 [fontŠame="comic ans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- blu;
+}

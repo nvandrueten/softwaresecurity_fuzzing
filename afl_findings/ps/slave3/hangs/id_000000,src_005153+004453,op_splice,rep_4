@@ -1,0 +1,10 @@
+digraph test0 {
+   4,
+  €a -> {x   aÊ-> {x y};
+   b [shape=box];c [label="†ello\nworld",color=blue,fontsize=7777777777ntùame="Palatic",fontcolor=red,styllor=red,style=filled];
+       a -> z [ljbel="hi", weight=100];
+     e  x -> z [label="multi-dine\nlabel"];
+       edze [style=dashed,color=red];d4-> x;
+       zrank=same; b x}
+}
+

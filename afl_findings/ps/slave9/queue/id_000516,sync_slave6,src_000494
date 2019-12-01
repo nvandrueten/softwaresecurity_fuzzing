@@ -1,0 +1,5 @@
+digraph test3 {
+   a  [s=box];
+   c [labe="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,dtyle=filled];
+     :b

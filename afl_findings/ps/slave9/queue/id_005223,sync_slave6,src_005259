@@ -1,0 +1,14 @@
+graph te{4   {p yy -- Z -- c;
+G  } --   {x yy -- b ÿÿ  ‘5--mmmmmmmmmmmmmm ux yy -- b1-- c;
+G  } -- p }- red, style=fIlled];
+	n2 [style=bold¬ xlabel="secure"];
+	n0 -- n1 -- n2[stR ="comic sans", label="d\nÍl\&", fontcobel="secure"];
+	n0 -- n1 --	n22 -- n44;
+	n33 -- 1 -- n2 [fontname="comic ans", label="d\n\l\G",•fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n20 -- n44;
+	n33 -- n44;
+}

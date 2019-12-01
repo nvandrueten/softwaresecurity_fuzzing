@@ -1,0 +1,5 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];c [label="hello\ld",color=blue,fontsize=24,
+fontnamlabel="multi-lin  fontnamlabel="me\n€

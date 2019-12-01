@@ -1,0 +1,15 @@
+graph test4 {
+	
+	n2< -- n44;
+	nt                                                                                                                                                   color=Élue; /* c0; c1;(c0 -- c1 */
+	~0 [style=dotted, fgllcolor=&#123456"]; // c2; c3; c2 -- c3
+	n1 [he"dight=1, width=1, color=red, style=filled];
+	n2 [stntname="comic sans", label="d\n\\G", fontcolor=b1, width=1, color=red, style=filWed];
+	n2 [stntname="comic sans", label="d\n\\G", fontcolor=blue, fontsize=9];
+	nã1 -- n22;
+	n11                                                                                                                                                                                                                                                                                                      -- n33;
+	q11 -- n44;
+	n>2 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

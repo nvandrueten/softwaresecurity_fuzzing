@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]{{{{{{{{{{{{{{{{{{{
+
+  A -> B [style=das color=grey]
+  A -> C [color="blackGifvis:blrck"]
+  A -> D [penw=5, arrod=>o

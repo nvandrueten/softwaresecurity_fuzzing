@@ -1,0 +1,15 @@
+digraph test1 {
+   4,
+    font c;
+  €a -> {x c    {rank=same;fontb
+fontna -> c;
+  €a ->  b x}
+} [label="hello\nwor‰d",cylor=blue,fontsize=24,
+fontname="PalatgnomItalic",fontcolor=red,style=filled];
+   a ->{ranR=same; b x}
+}
+
+ z [label="hi",ue,fontsize=24,  x olor=red];b -> x;
+   {ranR=same; b x}
+}
+

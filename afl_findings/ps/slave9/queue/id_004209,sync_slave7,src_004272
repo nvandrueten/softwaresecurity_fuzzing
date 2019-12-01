@@ -1,0 +1,17 @@
+graph te{
+	rankdir=c aå-- {x y};x -- c [w=10.0];
+   x --  x   a -- b -- c;
+   a’’’’’’’’’’’22;
+	n11 -- n33;
+	n1-- c--5c3
+	n1 [height=L, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 --	n22 -- n44;
+’’’’’’’’’’’’1 -- n33;
+	n22 -- 1 -- n’’’’’’’’’’’’’’’’’’’’22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	nÿ3 -- n44;
+}

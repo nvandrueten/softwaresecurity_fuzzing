@@ -1,0 +1,15 @@
+digraph test1 {
+
+ şA [shape=liamond]
+ÿ B [shap=box]
+  AÄ-> 
+  A ->   A-> 
+  A -> 
+  C ->€D [pentyle=bold, xlabel="secure@
+	n1D -- n33;
+	n11 -oomic sans",tyle=filled];
+   a ->d  x -> z [Xabel="multi-line\nlabˆl"];
+ € edge [style=dashed,color=red]€b -> x;
+       {rank=samO; b x}
+}
+

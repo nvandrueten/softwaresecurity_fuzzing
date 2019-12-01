@@ -1,0 +1,4 @@
+graph test4 {
+	ran{dir=LR;
+	fontr=blue; /* c*/
+	n0 Fe=dolor=

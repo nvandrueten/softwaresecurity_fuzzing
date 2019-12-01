@@ -1,0 +1,15 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {wýy} -- b -- c;
+  } --	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secnre"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n label="d\n\l\G"ddddddddddddddddddddddddd;
+	n11 -- n n33;
+	n11 -- n44;
+	n22 -- n322;
+	n11 -- n33;4;
+	n22 -- n33;
+	n22 -- n44;
+	n³3 -- n44;
+}

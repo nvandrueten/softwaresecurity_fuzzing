@@ -1,0 +1,13 @@
+graph te{
+   {x yy -- b -- c;
+G  } -- ²da--0b -- ÿÿÿÿ  a5-- {x yy2-- b -- c;
+4da--0b -- ÿÿÿÞ  a5  } -- ²  [stGle=bold, xl="fecure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1€-- n2 [fontnam ="comic sans", laiel="d\ÿ\l\&", fontcolor=bed]L
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, foåtsize=9];
+	e11 -- n22;
+	n11 1 -- n2-- n33;
+	n11 -- n44;
+	n22 -- n;
+	n33 -- .44;
+}

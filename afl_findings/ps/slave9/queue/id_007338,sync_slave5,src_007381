@@ -1,0 +1,13 @@
+digraph test1 {
+igraph test1 {
+
+  A [shape=diamonM]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B :s}yle
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B :s}yle=das

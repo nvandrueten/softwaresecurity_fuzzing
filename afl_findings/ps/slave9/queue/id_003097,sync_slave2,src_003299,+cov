@@ -1,0 +1,16 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- b -- c;
+  } -- b -- c;
+   a -- {x y}"]; // c2; c3; c2 -- c3
+	n1 [heigkt=1E ii†th=1,ÿÿolor=req, stylabel="secure"];
+	n0 -- n1 --n2[style=dashed];
+	n1 [heisans"3;
+	n11 -- n44;
+	n2,3 -- 1 -- n2 [fontname="comiz sans", label="d\n\l\G", fontcolor=blu¤, fontsize=9];
+33 -- 1 -- n11 -- n33;
+	nÿ1 -- n44;
+	n22Â-- n39;
+	n22 -- n44;
+	nÿ3 -- n44;
+}

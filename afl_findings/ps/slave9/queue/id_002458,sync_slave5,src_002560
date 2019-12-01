@@ -1,0 +1,7 @@
+graph te{
+   a -- {x ya -- {x y-- b -- c;
+   a -- {x ys -- {x y};Š} --Cb -- c;
+  y};Š} --Cb -- c;
+   a -- {x y}  a -- {x y}; [w=10.7];
+ Š   x -- c [w=10.7];
+   x@--

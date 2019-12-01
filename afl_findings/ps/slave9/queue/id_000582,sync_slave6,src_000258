@@ -1,0 +1,10 @@
+digraph …est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  € [shape=circle]
+
+  A -> B [style=dashed, darrowhead=none]
+
+}
+col@r=g

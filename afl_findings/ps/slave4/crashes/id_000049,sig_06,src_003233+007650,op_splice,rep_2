@@ -1,0 +1,17 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- b -- c} -- b --   c [labrl="hello\njjj--jjjjjjjjjçjjjontname=ÖMomia sans", label="d\n\l\E", fon=blue, fontsize=9311111111111111111];
+	n --un2 [fonaname="cze=9];
+	
+	n, fon22 W-4n, f 2 [fontname=coˇics", label="dˇˇ~l\G", fonoj=¥lue, fÑntsize=9]3
+	n11F n33;
+	irrr 44:
+	m, fon22 --D4:
+	s--44:
+	n, fon22 --44:
+	n, fo44:
+	n, for22 --44:
+	n, fon n33;
+	n22 -- n44;
+	n33 -- n44;
+}

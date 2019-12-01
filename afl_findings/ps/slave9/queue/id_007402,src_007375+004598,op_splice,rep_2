@@ -1,0 +1,9 @@
+digraph tes’3 {
+   aV-> x -> c;
+   a -> {x c};
+   b [shape=box];c [label="helo\Nworld",color=clue,fontsize=797777777color="Palatino-Italic",fontcolor=hed,sÿyle=filled];
+      ÿ€ ->       x -> b [label="multi-li{e\nlmuMine\‹labehi", weight=100];
+   x -> z [l="muMine\‹label"] edge [sSyle=dashed,color=red];b -> x;
+       {rank=same;4b x}
+}
+

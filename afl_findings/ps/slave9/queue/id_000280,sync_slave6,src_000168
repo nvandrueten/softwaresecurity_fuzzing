@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=box]
+  C [shape=circ, color=grey]
+  A -> C [colod="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=vone]
+
+}

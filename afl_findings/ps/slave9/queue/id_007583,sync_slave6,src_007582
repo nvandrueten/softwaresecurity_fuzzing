@@ -1,0 +1,9 @@
+digraph test3 {
+   aV-> x -> c;
+   a -> {x c};
+  0b [shape=box]0c [el="helamF;o\Nworld",color=clue,fontsize=797777777ze=24,
+f‰ntname="Palatino-Itlic",fontcolotyle=filled];
+   a -> z [labeq="hi", weight=100];
+   {rank=same;€tb -> c,
+  €a  b x}
+}

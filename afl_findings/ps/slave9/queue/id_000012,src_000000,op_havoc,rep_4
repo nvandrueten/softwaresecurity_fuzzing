@@ -1,0 +1,8 @@
+digrd]
+  B [sJape=box]
+  C [shape=circle]
+
+  A -> B [style=dd, color=grey]
+  A shape=circle]
+-> C [color="black:invis:black"]
+  A -> D [penw=5, arrod=none]

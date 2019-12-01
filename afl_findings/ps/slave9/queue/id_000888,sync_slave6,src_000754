@@ -1,0 +1,10 @@
+digraph test3 {
+   ab;
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];weight=100];
+       x -> z [lPbel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

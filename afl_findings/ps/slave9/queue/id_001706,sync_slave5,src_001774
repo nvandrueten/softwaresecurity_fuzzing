@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A Ms{{{{{{{{{z{{{{{{{{{{{{ A M  A
+  C [shape=circle]
+
+  Ad, col[style=das color=gue,fontsize=24,
+    fontname="Palatino-Italic",fontcoƒor=red,style=filled];
+       a -> z [lapel="hi", €ÿight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=fashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

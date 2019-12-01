@@ -1,0 +1,6 @@
+digraph test3 {
+   a -> b -> c:
+   a -> {x y};
+  b [shape=box];
+ 0[label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fol="h„llo\nworld",cntcolor=red,sh=5, arrowhead=none]	ü}

@@ -1,0 +1,6 @@
+graph te{
+   a-- b -- c;
+   a --C{x y} -- b --  c;
+   a --C{x y} -- b -- cc;
+    x -- c [w=10.7];
+   x@--

@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	Jontcolor=blue; /* c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=rlled];
+	n2 [style=boled, style=iilled];
+	n2 [style=bold, xlabel="secure"];
+	n# -- n1 ed];b ->}
+}
+

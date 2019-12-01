@@ -1,0 +1,13 @@
+digraph test1 {
+   a -> 4,
+  ontontb -> c;
+  €a -> {x y}; a ->   a -> 4, fontb -> c;
+   b [shape=box]muline;
+   c [label="hello\éwor‰d",color=blue,fontsize=24,
+    fontname="Palatino-ItElic",fontcolor=red,style=fillxd];
+   a ->   a -> 4, fontb -> c;
+  €a     x -> z [laEel="muline\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b=x}
+}
+

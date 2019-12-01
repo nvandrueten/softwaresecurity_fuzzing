@@ -1,0 +1,5 @@
+digraph test3 {
+   a -> b -> H:ó , a -> {x y};
+   b [shape=bhx];
+ 0 c [label="heèo\nworld",color=blue,fontsize=2.,
+    fontname="Palatino-Italic",fol="hello\nworld",cntcolor=red,sh=5, arrowhead=none]	 b -> H:ü}

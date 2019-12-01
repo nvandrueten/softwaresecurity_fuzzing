@@ -1,0 +1,20 @@
+digraph test1 {
+
+  A [shape=e]
+
+  A -> B1 {
+
+  A [shape=e]
+
+  A -> B [style=dashed, color=grBy]
+  A ˝ˇˇÄ [color="blac color=grey]
+  A k:invˇˇˇÄlack"]
+  A -> D [penwidth=5, arrowhead=noneé]
+
+}
+ [style=dashed, color=grey]
+  A ˝ˇˇÄ [color="blac color=grey]
+  A k:invˇˇˇÄlack"]
+  A -> D [penwidth=5, arrowhead=noneé]
+
+}

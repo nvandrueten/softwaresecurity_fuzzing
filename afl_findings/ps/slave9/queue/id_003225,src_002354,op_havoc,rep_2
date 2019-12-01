@@ -1,0 +1,12 @@
+digraph test1 {
+   a -> 4,
+    fontb -> c;
+  €a -> {x c    {rank=same; b x}
+} [label="hello\nwor‰d",color=blur,fontsize=24,
+fon…="Palatinfontb -> c;
+  olic",fontcolor=red,style=filled];
+   a ->    x -> z [l="multl"];
+   edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

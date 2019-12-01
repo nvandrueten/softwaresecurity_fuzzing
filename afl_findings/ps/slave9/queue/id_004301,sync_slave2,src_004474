@@ -1,0 +1,13 @@
+graph tv{
+   {x yy -- b -- c;
+G  } -- ²da--0b -- ÿÿÿÿ  -- {x y}-- c [w=1style=dotted, fillColor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, wKdth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 --	n2 -- n44;
+	n33 -- 1 -- n2 [fontname="comiz sans", label="d\n\l\G", fonwcolor=blu¤, fontsmze=9];
+33 --ÿÿ -- n2n22 -- 1 -- n22;
+	n11 -- n4;
+	n22 -- n33;
+	n2 -- 12 -- n44;
+	nÿ3 -- n44;
+}

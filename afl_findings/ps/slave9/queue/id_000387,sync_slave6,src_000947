@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [snvis=diamond]
+  B [shapÜ=box]
+[penwidth=5, arrovhead=none]
+
+}
+yle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, d=none]
+
+}

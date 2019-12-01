@@ -1,0 +1,9 @@
+digraph test3 {
+   aV-> b -> c;
+   aÊ-> {x y};
+   b [shape=box];c [label="†ello\nworld",color=blue,fontcolor="black:invis:black"]J A -> D   4 fontb -> c;
+   a -> {x y};e =d
+
+  A -> B{rank=same; b x}
+}
+

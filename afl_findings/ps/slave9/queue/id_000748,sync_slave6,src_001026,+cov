@@ -1,0 +1,7 @@
+digraph test3 {
+   a ->    a -> {x y};
+   b [shape=box]ô
+   c [label="hello\ld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> label"];
+       edge [styleèa   ÿ x -> z [label="muline\nla

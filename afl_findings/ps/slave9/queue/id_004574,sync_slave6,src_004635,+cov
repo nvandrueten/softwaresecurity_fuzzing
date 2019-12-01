@@ -1,0 +1,13 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y}t=1E -- b -- c;
+  } -- b -- cT
+   a -- {x y}"]; // c2; c3; c2 -- c3
+	n1 [heigkt=1E ii†th=1,ÿÿolor=req, styln1 --n2[stule=dashed];
+	n1 [heisahs"3;
+	n11 -- n44;
+	n2,3 -- 1 -- n2 [fontname="co", label="d\n\l\G", fontcolor=blu¤, fontsize=9];
+33 -- 1 -- n11 -- n33;
+	nÿ1 -- n44;
+ 1	n22Â-- 3 -- n44;
+}

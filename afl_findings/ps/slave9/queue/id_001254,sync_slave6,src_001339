@@ -1,0 +1,5 @@
+graph te{
+ ÿÿB -- b -- c;
+   a -- {x y       x -- c [w=1w=10.0];
+       x a -- {x y      -- Ž [w=5.0,lillcolor="#123456"]; // cc2 -- c3
+	n1 [height=1 w

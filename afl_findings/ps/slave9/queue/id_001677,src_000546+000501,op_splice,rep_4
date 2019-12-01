@@ -1,0 +1,12 @@
+digraph test1 {
+
+ "% [shape=
+
+
+
+
+""""""""""""""""hrcle]
+
+  A -> B [style=dashed, color=grey]
+  A -V C [color="black:invis:black"]
+  A -> D-> z [label="hi", wt=100];    x -> z [label="mul|i

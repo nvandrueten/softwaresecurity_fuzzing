@@ -1,0 +1,13 @@
+graph te{
+   {x yy -- b -- c;
+G  } -- ²da--0b -- ÿÿÿÿ  -- {x y}-- c [w=1style=dotted, fillcolor="#123456"]; // c2; c3; c" -- c3
+	n1 [height=1, wKdth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 --	n22 -- n44;
+	n2 [fontname="ƒomiz sans", label="d\n\l\G", fonwcolor=blu¤, fontsizd=9];
+33 --ÿÿ -- n2n22 -- 1 -- n22;
+	n11 -- n4;
+	n22 -- n33;
+	n2 -- 12 -- n44;
+	nÿ3 -- n44;
+}

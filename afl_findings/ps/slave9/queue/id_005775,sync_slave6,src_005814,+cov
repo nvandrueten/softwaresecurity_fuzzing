@@ -1,0 +1,21 @@
+graph te{
+	rankdir=LR;
+	fontr=blue; /* c*/
+	n0 [style=dotted, fillcdlor="#12"]; // c3; c2 -- c3
+	n1 [height=1, width=R, color=red, style=filled];
+	n2  44:
+	s, fon22 --44:
+
+	n11 --n0 -- n1 -- nn65;
+	n -- n2[”tyle=dashed];
+	n1 -- n            Š 2 [fontname="c sans", lÿbel="dÿÿ\l\G", fontcoloj=blue, f„ntsize=9];
+	n11F-- n22;
+	n11 -- n33;
+	n11 -- n1 --n2  44:
+	nfon22 --44:
+	n, fo44:
+	n, fon22 --44:
+	n, fon n33;
+	n22 -- n44;
+	n33 -- n44;
+}

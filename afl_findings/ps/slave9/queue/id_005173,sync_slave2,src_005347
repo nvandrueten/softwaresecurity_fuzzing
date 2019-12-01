@@ -1,0 +1,13 @@
+digraph test1 {
+   4,
+    fontb -> c,
+  €a -> {x c    {rank=same;fontb -> c;
+  €a ->  b;z}
+} [labef="hello\n
+fond",color=blue,fontsize=24,
+fontnƒme="Palo-Italic",fondcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x ß-> z [l="muline\nlabel"] edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

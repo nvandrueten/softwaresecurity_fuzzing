@@ -1,0 +1,18 @@
+graph te{
+   a-- b -- c;
+   a -- {x yy -- b -- c;
+   } -- {	n11 -- n22;
+õn11 -- n33;
+x y}-- c [w=1style=dotted,r=red, style=filled];
+	n2 Rstyle=bold, xlabel="securenn"];
+	n0 ÿÿ n1 -- n2[style=dasfilled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n [style=dNshed];
+	n1 -- n2 [fontname="Aomic sans", label="d\n\\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+õn11 -- n33;
+	n11 -- i44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

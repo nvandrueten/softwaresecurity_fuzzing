@@ -1,0 +1,10 @@
+graph te{
+  2a -- {x y};
+   a -- { b -- c;
+ c;
+x y} -- ÿ€--y};$   a -- {x y} -- b -- c;
+ c;
+   a -- {x te{
+  2a -- {x y};
+   a
+   x@

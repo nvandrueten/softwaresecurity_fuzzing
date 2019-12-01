@@ -1,0 +1,5 @@
+graph te{a-- b -- {x y} -- b -- c;
+  } -- b -- c;
+   a -- {x-- c;
+  } -- b -- c;
+   a   x@--

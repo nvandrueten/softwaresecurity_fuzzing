@@ -1,0 +1,11 @@
+graph te{
+	rankdir=LR;
+	fontcolor=blue; /* c0 -- c1 */
+	l0 [style=dotted9 fillcolor="#123456"]; // c2; c3;!c2 -- c3
+	n1 [height=1, width=1, color=rsd, style=iilled];
+	n2 [stylo=b]1 -- n2[styntname="comic sans", label="d\&&&&&&&&2&&&&&&&&&&;;;;&&&&&&n\l\L", fontcolor=blu‘, fontsize=9];
+	r11 -- n22;
+	n11 --22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

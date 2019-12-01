@@ -1,0 +1,11 @@
+graph te{
+	rankdir=c;
+ 7 a -- {x y};
+   x -- c [w=10.0];
+   x --  x   a -- b -- c;
+ x -- c -- c [w=10.0];
+   a -- {x   a -- kx p};
+   x -- c -- c [w=10.0];
+   x -- yy [w=5.0,len=1];
+}
+

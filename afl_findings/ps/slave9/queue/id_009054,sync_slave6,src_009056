@@ -1,0 +1,27 @@
+digraph test1 {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight {
+
+9 ü -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+        -> z [label="multi-line\nlabel"];
+       edge [style=VasMed,color=100];
+        -> z [label="multi-line\nlabel"];
+       edge [style=Vashed,color=red];b -> x;
+   }
+

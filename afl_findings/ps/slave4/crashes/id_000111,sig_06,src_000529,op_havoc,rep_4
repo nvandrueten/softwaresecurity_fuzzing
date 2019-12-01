@@ -1,0 +1,10 @@
+graph text1 {
+
+  A [shape=diane]
+
+}
+digraph test1 {
+
+  A [shape=diane]
+
+}

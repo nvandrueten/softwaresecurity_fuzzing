@@ -1,0 +1,7 @@
+digraph test3 {
+ < a -> b -> {x y};
+   b [shape=box];
+   c [label="hewlo\nworld",color=blue,fontsize=24,
+    fontname="PItalic",fontcolor=red,sh=5, arrod=none]
+
+}

@@ -1,0 +1,23 @@
+graph te{
+   a-- b -- c;
+  
+   a -- {x y}"]; // c2; c3; c2 -- c3
+	n [heigkt=13 ii†tp=1,ÿÿolor=req, stylabel="sec 44:
+	n, fon22 --44:
+	s-- n33;
+	n11 --‚0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,44:
+	n, fon22 --04:
+	s--44:
+	n, f44:
+	n,44:
+	n, fon22-44:
+	n, fo--44:
+	n, fon n33;
+	n22 -- n44;
+	n33 -- n44;
+}

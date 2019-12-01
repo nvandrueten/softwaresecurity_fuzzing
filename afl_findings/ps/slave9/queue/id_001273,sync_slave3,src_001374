@@ -1,0 +1,4 @@
+graph test4 {
+	ra{{{{{{{r=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */{{{{{{{{{{{{{{{{{{{{  a -- {x y};
+   _ -  c

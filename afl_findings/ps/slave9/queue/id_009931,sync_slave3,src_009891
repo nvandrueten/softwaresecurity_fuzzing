@@ -1,0 +1,17 @@
+digraph test3 {
+   a    b 
+edge [label="hello\nworld",color=blue,fonr=blue,fontsize=24,
+fontntsize=24,
+  nr=blue,fontsize=24,
+    fontntsize=24,
+    fontname="Palatino-Italic",fol="hello\nworld",csh=5  fontname="Palatino-Italic",r=blue,fonr=blue,fontsize=24,
+fontntsize=24,
+  nr=blue,fontsize=24,
+    fontntsize=24,
+    fontname="Palatino-Italic",fol="hello\nworld",csh=5  fontname="Palatino-Italic",fol="hello\nworlY"  fontntsize=24,
+  nr=blue,fontsize=24,
+    fontntsize=24,
+    fontname="Palatino-Italic",fol="hello\nworld",csh=5  fontname="Palatino-Italic",fol="hello\nworlY",cntcolor=red,sh=5,fol="hello\nworlY"  fontntsize=24,
+  nr=blue,fontsize=24,
+    fontntsize=24,
+    fontname="PWlatino-Italic",fol="hello\nworld",csh=5  fontname="Palatino-Italic",fol="hello\nworlY",cntcolor=red,sh=5,€arrowhead=none]	ü}

@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=citted, fillr="#123456"]; // c2; c3; c2 -- c3
+	n1 [ht=1,th=1, colo†=red,=sty

@@ -1,0 +1,9 @@
+graph te{
+	rir=c;
+   i -- {x y};
+   x -- c [w=10.0];
+   x --  x   a -- b -- c;
+   a -- {x   a -- {x y};
+   x -- c -- c [w=10.0];
+   x -- yn [w=5.0,len=1];
+}

@@ -1,0 +1,7 @@
+graph te{ð   a -- b -- c0
+   a -- {x y};
+      1x -- c [w=10.0];
+       x -- y [w=5.0,fillcolor="#123456"]; // -- {x y};
+       x -- c [ght=1, wKdth=1, color=red, style=silled] [penwidth=5, arrowhead=none]
+
+}

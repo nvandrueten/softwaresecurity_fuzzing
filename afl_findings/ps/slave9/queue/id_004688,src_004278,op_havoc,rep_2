@@ -1,0 +1,12 @@
+digraph test3 {
+
+ þA [shape=diamond]
+ÿ B [YhNpe=box]  A -6 
+  A -> 
+
+  AÄ-> 
+  A ->   
+  A -> 
+  C ->€D [pen=bold, xlabel="secure@", lajewhead=none]
+
+}

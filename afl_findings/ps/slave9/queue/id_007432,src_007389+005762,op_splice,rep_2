@@ -1,0 +1,16 @@
+graph te{
+   {x yy -- b -- c;
+7  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑx yy -- b -- c;
+G  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑÑÑb÷-- c;
+G  } -- ² n33;
+	n11 --n0 -- n2 --441 -- nn45;
+	n -- n2[style=dashed];
+	n1 -- n             G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑx yy -- b -- c;
+G  } --   {x yy -- bÿ
+G  } --   {x yy -- bÿÿÿÿ J5-- uÑÑÑÑÑÑÑÑb÷-- c;
+G  } -- ² n33;
+	n11 --n0 -- n2 --441 -- nn4- n4;
+	n33 -- n44;
+}

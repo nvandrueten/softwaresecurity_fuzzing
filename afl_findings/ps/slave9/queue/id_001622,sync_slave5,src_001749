@@ -1,0 +1,17 @@
+digraph test3 {
+   a
+   a l-> {x y};
+   b [shape=box];   edge [sel="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+     ( x -> z [label="multi-line§nlabel"];
+       edge [style=dashed,color=red];b - fontsize=9];
+	n11 -- n22;
+	n11 --44;
+	n22 -- n33;
+	n n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

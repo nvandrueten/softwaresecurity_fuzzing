@@ -1,0 +1,18 @@
+graph te{
+	rankdir=LR;
+	fontr=bl/* f*/
+	n0 [style=dotted, felor="#12"];  // c3; c,¬-¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢’’’width=R, color*red, style=filled];
+	n2  44:
+	n, fon22 --44:
+	s-- n33;
+	n11 --n0 -- n1 -- nn45;
+	n :
+	n, fon22 --44:
+	s--44:
+	n, f•2 n22;
+	n11 -- n33;
+	n11 -- n44;
+	n2 // c3; c,¬-¢¢¢¢¢¡¡¡¡¡¡¡¡¡¡¡¡¡2 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

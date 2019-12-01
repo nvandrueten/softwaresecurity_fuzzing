@@ -1,0 +1,17 @@
+graph te{
+   {x yy -- b -- c;
+G  } --   {x yy -- b ÿÿ  a5-- u --  x   a -- b -0 c;
+   a -- {x   a -- kx p};
+   x -- c -- c-- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 --	n22 -- n4Ž;
+	n33 -- 1 -- n2 [foÊtname="comiz sans"r=blu¤, fontsize=9];
+	n1 -- n33;
+óm22 -- 1 -- n’’’z’’’’’’’’’’’’’’’’§22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	nÿ3 -- n44;
+}

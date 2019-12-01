@@ -1,0 +1,16 @@
+graph te{
+	rankdir=LA;
+	n22;fontcolor=b
+	n1 [hei†ht=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnaR ="comic sans", label="d\nÍl\&", fontcobel="secure"];
+	n0 -- n1 --	n22 -- n44;
+red, styl -- n2 [fontname="comic ans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- ÿÿÿÿ
+}

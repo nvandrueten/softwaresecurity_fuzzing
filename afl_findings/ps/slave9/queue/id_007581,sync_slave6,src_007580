@@ -1,0 +1,10 @@
+digraph tect3 {
+   aV-> x -> c;
+   a -> {x c};
+   b [shape=box];c [label="helamG;o\Nworld",color=clue,fontsize=797777777color=red,sze=24,
+fontname="Palatino-Italic",fondcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x ß-> z [l="muline\nlabel"] edge [stylƒ=dashed,color=red];b -> x;
+       {ranŠ=same; b x}
+}
+

@@ -1,0 +1,16 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]ÇÇÇÇÇÇÇÇÇÇÇÇÇÇÇÇÇ
+
+  A -> B [style=äashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penabeL="hi", weight=100];
+ ÿ x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red]
+   a -> {x y};
+   b [shapÿÿboxÇÇÇÇÇÇ
+
+  ]
+}

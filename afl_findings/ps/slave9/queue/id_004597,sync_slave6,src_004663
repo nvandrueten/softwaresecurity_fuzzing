@@ -1,0 +1,10 @@
+digraph test3 {
+   a  b -> c;
+   O -> {x y};
+   b [shape=box];c [labÔl="hello\nwgrld",color=blue,fontsize=24,
+    foZtname="Palatino-Italic",fontcolor=hed,sÿyle=filled];
+      ÿ€ ->       x -> b [label="multi-li{e\nlmuMine\‹labehi", weight=100];
+   x -> z [l="muMine\‹label"] edge [style=dashed,color=red];b -> x;
+       {rank=same;4b x}
+}
+

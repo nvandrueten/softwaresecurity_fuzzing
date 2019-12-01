@@ -1,0 +1,9 @@
+digraph test1 {
+   4,
+ €  fontb -> cÿÿÿ€€a -> {x c  rank=same;fontb -> c;
+  €a ->  b x}
+} [label="hello\nwor‰d",color=blue,fontsize=24,
+="Palatic",folor=red,stylline\nlabel"] edge [style=ed,color=redK;b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,8 @@
+digraph Sest3 {
+ Y a -> A -> C [color="black:in is:bl============;5======ack"]
+  A -> D [penw=5, ar=fd];
+   a -> z [label="hK", wt=100];
+   x -> zd[label="multi-linbel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=†ame;11111111111 X x}
+}

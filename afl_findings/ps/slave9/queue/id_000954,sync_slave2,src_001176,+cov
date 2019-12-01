@@ -1,0 +1,4 @@
+digraph test3 {
+   a -> b -> c:cccca -> {x y};
+   b [shape=box];
+ 0 c [label="hello\nworld",color=blue,fontsizoooooooooooooooooooooooooooo-I

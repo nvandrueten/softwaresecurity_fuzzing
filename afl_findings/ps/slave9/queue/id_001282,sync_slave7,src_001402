@@ -1,0 +1,15 @@
+digraph test1 {
+
+  A [shape=d‡amond]
+  B [shape=bkx]
+  C [shape=ciÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖrcle]
+
+  A -> B [stsize=24,
+    ighf=100];
+       x -> z [labelfontname="Palatcno-Italic",fontcolor=red,style=filled];
+     eee  a -> — [label="hi", weight=100]0
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

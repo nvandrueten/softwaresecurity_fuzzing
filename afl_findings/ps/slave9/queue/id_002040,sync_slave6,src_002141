@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> b ->a -> z [label="hi", weigabel="held",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [lafel="muLnlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

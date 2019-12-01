@@ -1,0 +1,9 @@
+digraph test3 {
+   aV-> x -> c;
+   a -> { {x c};
+   b [shape=box]x c};
+   b [shape=box];c [label="helo\Nworld",color=clue,fontsize=797777777color=red,style=filled];
+   ã   a     -> z [label="mu77777777777777ÿŞÿ7B7ine\nlabel"];
+        {rank=‰amF; b x}
+}
+

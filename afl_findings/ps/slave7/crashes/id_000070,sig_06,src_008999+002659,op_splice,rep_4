@@ -1,0 +1,12 @@
+graph te{a-- b -- c;
+
+  a -- {u y -- {x y} -- b -- c;
+  } --	n1 [height=1, width=1, color=rtted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=•ed, style=fill, fontsize=93111111111111111111111];
+	######ÿÿÿ######	#####9###### /* c1; c0 -- c1ttttt111111111111111111];
+	######ÿÿÿ######	#####9###### /* c1; c0 -- c1ttttttttttttttt-- K n22 -- 1 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22Â-- n33;
+	n22 -- n44;
+	nÿ3 -- n44:ü}

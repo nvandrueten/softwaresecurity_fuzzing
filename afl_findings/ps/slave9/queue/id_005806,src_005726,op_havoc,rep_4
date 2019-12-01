@@ -1,0 +1,9 @@
+digraph test1 {
+   4,
+ c, €a -> {x c    {rank=same;fontb -> c;
+  €a -3  b;z}
+} [label="hello\nwr‰€",color=blje,fWze=24,
+fontname="Palatizo-It",fontcolor=red,style=filled];
+   a -> {rank=same;€tb -> c,
+  €a  b x}
+}

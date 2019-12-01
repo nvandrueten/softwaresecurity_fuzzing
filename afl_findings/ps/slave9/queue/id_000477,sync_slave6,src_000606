@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A<[shdigÿond]
+  Bth=5, a‰rowhg
+  [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+   *font\ame="Pal_tino-Italic,fontcolor=red,style=filled];
+       a -> z [l="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [s‹yle=dashed,color=red];bd-> x;
+       {ranbbbbbk=same; b x}
+}
+

@@ -1,0 +1,10 @@
+digraph testd {
+   aV-8 b -> c;
+   a -> {x y};
+   b [shape=box];c [label="hello\world",color=blue,fontsize=7777777777nt="Pac",fontcolor=red,style=filled];
+   a -> z [l="hi", olor=red,style=filled];
+   a ->d  x -> z [Xabel="mblti-line\nlabˆl"];
+ € edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

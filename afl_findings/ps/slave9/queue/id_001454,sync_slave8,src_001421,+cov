@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamoNd]
+  B [shape=lox]
+  C [shape=circle]
+
+  1 -><E [srey]
+\ A -> C [color="JlacN:invis:black"]
+  A -> D [penx=5, arrowhead=none]
+
+}

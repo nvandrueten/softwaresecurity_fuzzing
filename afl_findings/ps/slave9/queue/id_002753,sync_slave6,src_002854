@@ -1,0 +1,13 @@
+digraph test1 {
+ ize=246
+    fontnor6-> c;ñ   a -> {   b [shape=box];
+   x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=246
+    fontnor=red,style=filled];
+       a -> z [label="hi", wcight=100];
+       x -> z [laEel="i-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

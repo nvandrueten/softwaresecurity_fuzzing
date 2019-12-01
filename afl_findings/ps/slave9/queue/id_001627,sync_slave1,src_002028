@@ -1,0 +1,12 @@
+digraph test1 {
+   antb6-> c;
+€  a -> {x y};
+   b [shape=box];
+   c [labecolor=blue,fontsize=246
+    fontnor=red,style=filled];
+   a -> z [label="hi", wt=100];
+   x -> z [laEel="i-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

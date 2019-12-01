@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A  A hap€=dph y{{{{{{{{      {rank=s C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="b==========5=====ack"]
+  A -> D [penw=5, ar=fd];
+   a -> z [label="hi", wt=100];
+       x -> z [label="multi-linbel"];
+       edge [stywe=dashed,^ol

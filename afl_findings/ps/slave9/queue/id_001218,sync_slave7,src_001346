@@ -1,0 +1,4 @@
+graph te{
+   a-- b -- c;
+   a -- {x yy -- b -- c;
+   } -- {x y};Š   x -- c [w=10.7_;

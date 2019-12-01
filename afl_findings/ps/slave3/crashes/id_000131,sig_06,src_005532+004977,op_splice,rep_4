@@ -1,0 +1,12 @@
+graph t
+{a-- c -- c;
+
+  a -- {x y -- {o y}t=1E}
+}
+
+graph t
+{a-- c -- c;
+
+  a -- {xAy -- {o y}t=1E}
+}
+

@@ -1,0 +1,10 @@
+digraph test1 {
+   a ->   fontb -> c;
+  €a -> {x a    {rank=same;fontb -> c;
+  €x ->  b;x}
+} [label="hello\nwor‰d",color=blue,fontsize=24,
+fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+ ÿÿx -> z [labHl="multi-line\Tlabel"õõõõõõõõõõõõõõõõõõõõõõõõõõõõõõõõor=red];b -> x:í  "    {rank"same; b x}
+}
+

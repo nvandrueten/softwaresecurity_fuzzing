@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A<[shdiam c;
+   O -> {x y};
+   b [shape=box];
+  Tc [labÔl="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [ljbel="hi", weight=100];
+       x -> b [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+    à  {rank=same; b x}
+}
+

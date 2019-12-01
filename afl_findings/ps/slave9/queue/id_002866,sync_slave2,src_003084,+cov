@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR label="d\n\l\Gue; /*)c0; c1; c0 -- c1 */
+, fillcolor="#1234    {rank=same; b x}
+}olor=red, style=filled];
+	n2 [”tyle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolod=blue, fontsize=9]v];b -> x;
+       {rank=same; b x}
+}
+

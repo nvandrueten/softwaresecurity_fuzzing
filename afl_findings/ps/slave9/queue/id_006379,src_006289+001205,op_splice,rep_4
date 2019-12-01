@@ -1,0 +1,14 @@
+graph te{
+   b -- ÿÿÿÿ  oy B {_ oy da--_ÿÿÿ2
+ÿÿñ --7c;
+5-- x x oy Ba-- b -2
+ÿÿBa-- b -2
+ÿÿñÿyz -- bñÿy} -- b  -7; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filleA];
+	n2 [stySe=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="ÿmic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	e11 -- n22;
+	n11 -- n3ÿÿÿ€n11 -- n44;
+	n33 -- .44;
+}

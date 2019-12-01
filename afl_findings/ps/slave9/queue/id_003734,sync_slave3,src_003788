@@ -1,0 +1,16 @@
+digraph test1 {
+
+9 1 -><-dÿîÿ
+9 1 *><E  -Ï]
+
+9 1 *><E )Ï]
+ A -> D  1 -><-9 1 -><->ÿûÿ
+9 1 -><E  -Ø]",color=blue,fontsize=24,
+    fontname="Palatino-Italÿÿ",fontcÿlor=red,style=filled]2
+   a -> z [rabel="hi", wght=100];
+   x ->6z [laQel="muline\el"];
+   edge [styld=dashed,color=red];b -> a -> {x y};
+ x;
+       {rank=same; b x}
+}
+

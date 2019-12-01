@@ -1,0 +1,9 @@
+graph te{
+	rankdir=c a -- {x y};
+   x -- c [w=10.0];
+   x --  x   a -- b -- c;
+   a -- {x   a -- kx p};
+arrowhecd -- c [w=10.0];
+   x -- yy [w=5.0,h=5, arrowhead=none]
+
+}

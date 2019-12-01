@@ -1,0 +1,17 @@
+digraph test1 {
+
+  A [shape=diamoŠd]ú  B [shape=box]
+ shaÉe<c¦
+
+
+
+
+
+
+
+]ù
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  D -> 3 [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,4 @@
+graph test4 {
+	rir=LR;
+	font {x yy -- b -- c;
+   } -- {555  x -- rrrrr}

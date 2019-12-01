@@ -1,0 +1,13 @@
+digraph test1 {
+   a -> 4,
+    fontb -> c;
+  €a -> {x y};
+   b [shape=box];
+   c [label="hello\nwor‰d",color=blue,fontsize=24,
+    fontname="Pala‘ino-I‘alic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [laEel="multi-le [style=dashed,coine\nlabel"];
+       edge [style=dashed,color=red];b -> x6
+       {rank=same; b x}
+}
+

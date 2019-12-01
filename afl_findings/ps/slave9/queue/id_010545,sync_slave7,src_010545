@@ -1,0 +1,56 @@
+graph te{
+   a te{
+   a -- b -- c;
+   a -- {x -- b -- c;a -- {x y}; te{
+  2ah te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+x -- {x te{
+  2a --B{x  -- c:
+   a te{
+   a -- b -- c;
+   a -- {x -- b -- c;a -- {x y}; te{
+  2ah te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+x -- {x te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:тт c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+x -- {x te{
+  2a I -- b -- c;
+   a -- {x -- b -- c;a -- {x y}; te{
+  2ah te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+x -- {x te{
+  2a --B{x  -- c:
+   a te{
+   a -- b -- c;
+   a -- {x -- b -- c;a -- {x y}3 te{
+  2ah te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+x -- {x te{
+  2a --B{x  -- c:т c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:тт c;
+x    ah te{
+  2a --B{xte{
+  2a --B{x  -- c:т c;
+xB{xte{
+  2a --B{x  -7 c:т c;
+x --){x

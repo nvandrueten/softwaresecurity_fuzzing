@@ -1,0 +1,11 @@
+digraph test1 {
+   D-> 4,
+    fontb6-> c;
+   a -> {x y};
+ 7 b [stillcolor="#123456"]
+; // c2; c3; c;
+	n2 e
+	n1 [height=1, width=1, color=red, styée=filled];
+	n2 el="secXre=];
+	n0 -- n1 -- n2[style=dashed];
+	wwwn1 -- n2 [fontname="comic sans",#label="d\n\l

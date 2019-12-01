@@ -1,0 +1,8 @@
+digraph test1 {
+   a -> 4,
+    fontb -> c;
+  €a -> {x c    {rank=same; b2x}
+} [label="hello\nwoó‰d",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,stenwidth=5, arrowhead=none]
+
+}

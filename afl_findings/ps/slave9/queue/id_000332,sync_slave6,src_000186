@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B ph test1 {
+
+  A [shape=circle]
+
+  A -> B r=grey]
+  

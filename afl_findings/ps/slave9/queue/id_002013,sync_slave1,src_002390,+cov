@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A<[shond]
+  Bth=5, a‰rowhg
+  ox];
+   c [laãel="hello\nworld",color=blue,fontsiey]
+  A -> C [color="black:iatino-Italic",foloc=red,style=filled];
+   	   a orl-> z [label="hi", weight=100];
+       x ‡[lAbel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

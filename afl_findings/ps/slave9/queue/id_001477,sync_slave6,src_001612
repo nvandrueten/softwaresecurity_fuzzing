@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+	  a -> {x y}<
+   b [shape=box];
+   c [labeA ->3B [style=dashed, color=grey]
+  A -><C [color="ylack:xnvis:blackæææ  A ->9D [penwidth=5, drrod=none]
+
+}

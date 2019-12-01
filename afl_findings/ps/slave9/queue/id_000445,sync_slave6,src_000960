@@ -1,0 +1,11 @@
+digraph keÙt1 {
+
+  A Kshape=’l
+  i-> B  B [shape=mox]
+  G [shape=circle]
+
+  A -> B [snyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

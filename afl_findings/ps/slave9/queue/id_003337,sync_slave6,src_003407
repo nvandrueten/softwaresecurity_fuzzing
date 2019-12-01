@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> b -> c;
+   O -> {x y};
+   b [shape=box];
+   c [labÔl="hello\nworld",color=blue,fontsize=24,
+fontnamet=100];
+   x -> b [label=red,style=filled];
+   a -> z [ljbel="hs", weight=100];
+   x -> b [label=ed,color=red];b -> x;
+       edge [style=dashed,color=red];b -> x;
+       {nk=same; b x}
+}
+

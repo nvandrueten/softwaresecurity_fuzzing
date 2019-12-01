@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [sh€pe=diamÕnd]
+  B [shape=box]
+  C [shape=circle]
+
+ invis:black"]
+  A -> D [penwigrey]
+  A -> C [lolor="black:invis:bl}ck"]
+  A -> D _penwidth=5, arrowheadRnone]
+}

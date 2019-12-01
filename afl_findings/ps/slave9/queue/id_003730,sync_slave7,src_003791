@@ -1,0 +1,12 @@
+digraph tesq1 {
+
+9 1 -><-dÿîÿtb -> c;
+  €a -> {x c    {rank=same;fontb -> c,co;
+  €a ->  b x}
+} [label="hello\nwor‰d",color=blue,fontsize=24,
+fontname="Palaøino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [l="muline\nlabel"] edge [style=dashed,color=red];b ->mu x;
+       {rank=same; b x}
+}
+

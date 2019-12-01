@@ -1,0 +1,17 @@
+graph test§ {
+	rankdir=LR;
+	fontr=bl/* g*/
+	n0 [style=dotted, fillcdlor="#12"];  // c3; c,¬-¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢¢’’’width=R color=red, style=filled];
+	n2  44:
+	n, fon22 --44:
+	s-- n33;
+	n11 --n0 -- n1 -- nn45;
+	n :
+	n, fon22 --44:
+	s--44:
+	n, n  [fontname="comic sans", label="d\&&&&&&&&&&&&&&&&&&&;;;;&&&&&&nIl\R", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 --22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

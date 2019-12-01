@@ -1,0 +1,3 @@
+graph te{
+   a--{x y  } -- {x=y}--  b --{x y  } -- {x=y}--  b -- c; n0 [style=No, filor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, w=1, color=rel="d

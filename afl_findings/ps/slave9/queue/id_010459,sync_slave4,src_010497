@@ -1,0 +1,146 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- b -- c;
+  } --	n1 [height=1, width=1, color=rttec, fillcolor="#123456"]; // c2+ c3; c2 -- c3
+	n1 [height=1, width=1, color=•ed, style=filled];
+	n2 [style=invis xlMame="Momia sans /* ", label="d\n\l¼E", fon=blue, fontsize=9111111111111111111];
+#######9###### /* c1; c0 -- c1ttttttutttttttttttttttttttttttttttttttttttttttttttttttttttt±tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt####ÿÿÿ######	#####################:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	ˆ--44:
+	 n --04:o--44:
+		n, fo--44:
+	n, ftttttttttttttttttttttt±tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt####ÿÿÿ######	############graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- b -- c;
+  } --	n1 [height=1, width=1, color=rtted, fillcolor="#123456"]; // c2+ c3; c2 -- c3
+	n1 [height=1, width=1, color=•ed, style=filled];
+	n2 [style=invis xlMame="Momia sans /* ", label="d\n\l¼E", fon=blue, fontsize=9111111111111111111];
+#######9###### /* c1; c0 -- c1ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt±tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt####ÿÿÿ######	#####################:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	ˆ--44:
+	 n --04:o--44:
+		n, fo--44:
+	n, ftttttttttttttttttttttt±tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt####ÿÿÿ######	#####################:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	ˆ--44:
+	 n --04:o--44:
+		n, fo--44:
+	n, fgggggg0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	
+	T--44:
+	n, fo--44:
+	n, fo--44:
+	n,B4:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	 	T--n44gggggg0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	
+	T--44:
+	n, fo--44:
+	n, fo--44:
+	n,B4:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	 	T--n44;
+	n33 -- n44;
+}
+#########:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	ˆ--44:
+	 n --04:o--44:
+		n, fo--44:
+	n, fgggggg0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	
+	T--44:
+	n, fo--44:
+	n, fo--44:
+	n,B4:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	 	T--n44gggggg0 -- n1 -- nn45;
+	n :
+	n, fon22 --4 --44:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	n, fon2, fon22 --48:4:
+	s--44:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	
+	T--44:
+	n, fo--44:
+	n, fo--44:
+	n,B4:
+	n, fo--44:
+	n,B4:
+	n, fon22 --04:
+	s--44:
+	 	T--n44;
+	n33 -- n44;
+}

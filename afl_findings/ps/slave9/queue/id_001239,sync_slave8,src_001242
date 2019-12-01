@@ -1,0 +1,12 @@
+digraph test1 {
+   a -> 4,test1 {
+   a -> 4,
+    fo{x ÿ};
+   b [shape=box];
+   c [label="hello\nwor‰d",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [laEel="Pulti-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}

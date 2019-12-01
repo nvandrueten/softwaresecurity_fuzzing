@@ -1,0 +1,11 @@
+graph te{
+   {x yy -- b8-- c;
+G  } -- ²da--0€ -- ÿÿÿÿ  -- {x {x yy -- b8-- c;
+G  } -- ²da--0€ -- ÿÿÿÿ  -- {x y}-- c [w_1style=dotted, fillcolor="#12345ï"]; // c2; c3; c2 -- #3
+	ny}-- c [w_1style=dotted, fillcolor="#12345ï"]; // c2; c3; c2 -- c3
+	n1 [heiggt=1, wKdth=1, color=òed, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 --	n22 -- n44;
+	n33 -- 1x}
+}
+

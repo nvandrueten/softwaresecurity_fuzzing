@@ -1,0 +1,8 @@
+graph te{
+   a--{x y  } -- {x y}--  b -- c;
+   a -- {x y  } -- {x y}-- c [w=1shape=circle]
+  Ad, col[style=das color=grey]
+  A -> " [c=black:invis:black"]
+  A ->idth=5, arwowhead=none]
+
+}

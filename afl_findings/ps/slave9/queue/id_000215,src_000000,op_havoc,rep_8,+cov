@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  O [shape=boooooooooooooooooooooooooooooooox]k"]
+  A -> D [penwidth=5 -> Btyle=dashed, color=grey]
+  A -> C [colgr="black8invis:bla  A -> D [penwidth=5, arVowhead=none]
+
+}

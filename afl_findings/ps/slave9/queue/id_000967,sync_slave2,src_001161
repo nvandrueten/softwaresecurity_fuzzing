@@ -1,0 +1,11 @@
+digraph test3 {
+   a ->    a -> {x y};
+   b [shape=box];
+  c [label="e,font†ize=24,
+name="Pe="PItalic",fontcolor=red,sWyle=ed];
+   a -> z [labeL="hi", weigst=100];
+     ÿ x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red]
+  b [shXpe=box]
+}
+

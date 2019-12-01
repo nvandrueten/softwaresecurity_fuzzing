@@ -1,0 +1,14 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- w -- c;
+  } -- b -- c;
+kt=13 ii†tn2 [style=bold, xl="secure"]2
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnam ="comic sans", label="d\n\l\&",one=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- Ð44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

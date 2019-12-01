@@ -1,0 +1,11 @@
+digraph test3 {
+   a -> b -> c;
+   O -> {x y};
+   b [shape=box];c [laƒÔl="hello\nworld",color=blue,fontsize=24,
+fontname="P`latino-Italic",fmntcoler=red,style=filled];
+       a -> z [ljbel="hi", weight=100];
+       x -> b [light=100];
+       x -> z [Xabel="multi-line\nlWbel"] edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,19 @@
+graph te{
+	ran1dir=c;
+   a -- {x NYY
+    x --  x  rankdib --6c;
+ kx p};
+   x -- c -- c [w=10.yåe=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnaR ="comic eans", label="d\nÕl\&", fontcobel="secure"];
+	n0 -- n1 --	n22 --4;
+	n3 n44;
+	n33 -- 1 -- n2 [fontname="comic ans", label="d\nkl\G", folor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

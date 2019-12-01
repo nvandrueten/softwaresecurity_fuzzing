@@ -1,0 +1,13 @@
+digraph test1 {
+   4odtb -> c,
+<-> c;
+   O -> {x y};
+   b3[shape=box];
+   c [labÔl="he|lo\nworìd",color=blue,fontsize=24,
+fontname="Palatitalic",fontcolor=red,style=filled];
+       a -> z-> b [label=ed,color=red];b -> x [ljbel="hs", weight=100];
+       x -> b [label=ed,color=red];b -> x;
+       edge [style=dashed,color=red];b -> x;
+    0  {rank=same; b x}
+}
+

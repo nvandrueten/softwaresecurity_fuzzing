@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A   {rank=same˜ b x}
+ [shape=diamond]
+  B [shape=bov]
+  C ["];
+      edge=dashed, color=grey]
+  AC [color="black:

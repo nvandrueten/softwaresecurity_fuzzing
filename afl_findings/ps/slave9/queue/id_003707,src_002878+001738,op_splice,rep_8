@@ -1,0 +1,17 @@
+graph te{
+	rankdir=LR;
+	fontr=bl/* c*/
+	n0 [stilor="456"]
+; // c3; c2 =1,&color=red, style=filled];
+	n2 [style=bold, xlabel="secor=red, style=filleure"];
+	n1 -- n1 -- 	n2 [styÃe=bold, xlabel="secube"];
+	n0 -- n1 -- n2[style=sashed];
+	n1 -- n2 }fontname=44;
+	n33 -- 1 -- n2 [fontnaml="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 --}44;
+	n22 --2n33;
+	n22 -- n44>
+	n33 -- n44c
+}

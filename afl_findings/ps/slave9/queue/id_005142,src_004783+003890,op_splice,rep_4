@@ -1,0 +1,10 @@
+digraph test1 {
+ha{{}}{{}}
+{{{b -> cB
+  €a -> {x c    {rank=same;fontb -> c;
+  €a ->  b z}
+} [label="hello\nwor‰d",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,Žtyle=filled];
+   a -> z [label="hi", weight=100];
+   x -> z ml="mulslabel"] edge [style=dashed,color=red];b -
+

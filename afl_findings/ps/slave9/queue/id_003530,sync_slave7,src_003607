@@ -1,0 +1,17 @@
+graph te{
+	rir=c a -- {x y};x -- c -- K;{x   a -- {x 
+   a -- {b -- K;{x   a -- {x 
+   a -- {x   a -- {x y};
+   x -- c -- c [w=10.0];
+   x -- yy [w=5.0,lolor=red, style=filled];
+	n2 -- n33;
+	n22 -- n42 [style=bOld, xlabel="secure"];
+	n0 -- n1 --èn22 -- n44;
+	nd3 -- 1 -- d2 [fontname="comiV sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

@@ -1,0 +1,3 @@
+graph te{û   a-- b -- c;
+   c -- {x yy -- b -- c;
+   } -- {x y};‚   x -- rrrrrrrrr}

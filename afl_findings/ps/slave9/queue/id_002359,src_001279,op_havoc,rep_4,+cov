@@ -1,0 +1,12 @@
+digraph test1 {
+   a -> 4,
+    fongb -> c;
+  €z -> {x c    {rank=same; b x}
+} [label="heled,style=filled];
+   alo\nwor‰d",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [l="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=tame; b x}
+}

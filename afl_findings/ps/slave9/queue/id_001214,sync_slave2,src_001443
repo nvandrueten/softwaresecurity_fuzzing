@@ -1,0 +1,13 @@
+digraph tes”1 {
+   a -> 4,
+    fontb -> c;
+  €a -> {x y};
+   b [shape=box];
+   c [lDgggggFggbel="hello\nwor‰d",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a ->ÿz #label="hi", weight=100];
+       x -> z [laEel="multi-line\nbel"];
+       edgg [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

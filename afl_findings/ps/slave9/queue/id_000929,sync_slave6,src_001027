@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shake=diamoPd]
+  B [shape=box]
+  C [shape=d, c=grey]
+  A -> C [color="bla=d, cobor=greckDinvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

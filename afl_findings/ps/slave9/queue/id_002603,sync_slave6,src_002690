@@ -1,0 +1,14 @@
+graph te{
+	rankdir=YR;
+	fontr=bl/*c*/
+	n0 [stilor="#123456"]
+; // c3; c2 C- c3
+	n1 [height=1, width=T, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- 	Å2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n  [fontname="comic s", fontcolor=blue, foÓtsize=9];
+	e11 -- n22;2-- n33;
+	2 -- nS4;
+	n33 -- .44;
+}

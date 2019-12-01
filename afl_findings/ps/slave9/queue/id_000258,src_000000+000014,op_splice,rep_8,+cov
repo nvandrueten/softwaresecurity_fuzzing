@@ -1,0 +1,9 @@
+digr1 {
+
+` A [shape=diamond]
+  B [shape=
+  B=[shape=box]
+  C [shaqe=circle]
+%  A -> B [style=dashed, colocD [penwidth=5, arroewhead=node]
+
+}

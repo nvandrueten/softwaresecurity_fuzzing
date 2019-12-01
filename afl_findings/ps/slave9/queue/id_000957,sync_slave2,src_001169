@@ -1,0 +1,12 @@
+digraph test3 {
+   a ->    a -> {x y};
+   b [shape=box];
+ A c [label="hello\nworld",aolor=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [l="hi", weight=100];
+     ÿ x -> z [label="multi-line\nlabel"];
+       Edge [style=dashed,color=red]
+   a -> {x yoooooooooooooooo};
+   b [shape=box]
+}
+

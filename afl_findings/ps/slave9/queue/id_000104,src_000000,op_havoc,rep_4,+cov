@@ -1,0 +1,7 @@
+digraph tes_1 {
+
+  A [shape=diamond]ñ  B [shape=box]
+  C [shape=circle]
+
+  A ->ry]
+ 

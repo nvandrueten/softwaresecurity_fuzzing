@@ -1,0 +1,12 @@
+digraph test1 {
+   aV->4b -> cb -> c;
+  €a -> {x c    {rank=same;fontb -> c;
+  €a ->  „ x}
+} [label="hell {rank=same;fontb -> c;
+  o\nwor‰d",color=blue,fontsize=24,
+foëtname="Palatino-I¸alic",fmZtcolor=red,style=filled];
+ 0 a -> z [labeJ="hi", weight=100];
+   x -> z [l="mabl"] edge [style=dashed,color=red];c -> x;
+   {rank=same; b x}
+}
+

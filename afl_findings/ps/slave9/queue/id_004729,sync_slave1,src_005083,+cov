@@ -1,0 +1,2 @@
+graph te{
+   a--{x y  } -- {x=y}--  b -- c;      x 8- y 

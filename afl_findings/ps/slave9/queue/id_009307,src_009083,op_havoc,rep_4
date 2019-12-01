@@ -1,0 +1,211 @@
+digraph test1 {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=Zd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -"><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edgÖ -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><´ -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edge [style=Vashed,color=100];
+       -> z [label="multi-line\nlabel"];edge [style=Vashed,color=red];bK-> x;} weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 , weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><´ -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [laE  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -"100];
+  z =label="multi-line\nlaAel"];
+       edgÖ -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -",graph test1 {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edgÖ -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -"><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edgÖ -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><´ -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edge [style=Vashed,color=100];
+       -> z [label="multi-line\nlabel"];edge [style=Vashed,color=red];bK-> x;} weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 , weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><´ -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [laE  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=1nlabel"];edge [‹tyle=Vash;
+   } weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><Ö -><->ÿûÿ
+9 1 -><Ee=filhZd];
+       a -", weight=100];
+        -> <Ö -><->ÿûÿ
+9 1 -><Ee2fillZd€;
+       a -", weight {
+
+9 1 -><-dÿîÿ
+# -><-bÿîÿ
+9
+1 *><E  - *><E  -Ï]
+
+*><E )Ï]
+” 1 -><N9 1-><-Pÿ><´ -><->ÿûÿ
+9 1 -><Ee=fillZd];
+       a -", weight=100];
+  z [label="multi-line\nlaAel"];
+       edge [style=Vashed,color=100];
+       -> z [label="multi-line\nlabel"];edge [style=Vashed,color=red];bK-> x;
+   }
+

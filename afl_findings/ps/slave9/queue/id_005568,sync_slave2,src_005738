@@ -1,0 +1,14 @@
+digraph test1 {
+   4,
+ c,
+  4,
+ c,
+ ,
+  €a -> {x c    {rank=same;fontb -> c;
+  €a ->  b;z}
+} [label="hello\nwor‰d",color=blje,fWntsize=24,
+fontname="Palatino-Itlic",fontcolor=red,style=filled];
+   a -> z GGGGGGGGGGGG weight=100];
+       {rank=same; b x}
+}
+

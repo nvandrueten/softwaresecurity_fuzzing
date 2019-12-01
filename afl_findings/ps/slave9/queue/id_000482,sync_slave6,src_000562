@@ -1,0 +1,12 @@
+digraph tBst1 {
+ upe=didS
+  K tsÿ a -> {x y};
+   b [shape=bor];
+   c [label="hello\ld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filleC];
+       a -> z [label="hi", weight=100];
+       x -> z [labeK="multi-line\nlabel"]Ç
+       edge [style=dashed,color=red];b -> x;
+       {rank=sa{e; b x}
+}
+

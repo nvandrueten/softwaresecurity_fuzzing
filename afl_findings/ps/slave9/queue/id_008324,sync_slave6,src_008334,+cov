@@ -1,0 +1,9 @@
+graph te{
+	rankdir=LR;
+	fontcolor=bl/* c*/
+	n0 [l="d\n\l\G", fontcolor=invis fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 ;
+	n33 -- n44;
+}

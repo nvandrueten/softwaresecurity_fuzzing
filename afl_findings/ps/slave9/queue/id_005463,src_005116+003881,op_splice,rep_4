@@ -1,0 +1,11 @@
+digraph test1 {
+   4,
+  €a -> {x c    {rank=s  z [l="mulnlabel"] edgtb -> c;
+  €a ->  b x}
+} [label="hello\nwor‰d",color=dlue,f‡ntsize=24,
+fontname="Palatino-Italic",fontcolor=ÿÿd,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [l="mulnlabeN"] edge [style=dashed,color=red];b -> x;
+   {rank=same; b x}
+}
+

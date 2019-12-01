@@ -1,0 +1,9 @@
+graph te{a-- b -- c;
+
+  a -- {x y -- {x y} -- b -- c;
+  } --	n1 [height=1, width=1, color=rtted, fillcoLor="#123456"]; // c2; c3; c2 -- c3
+	n1 [hen=blue, fontsize=93111111111111111111111];
+	######ight=1, width=1, color=•ed, style=filled];
+	n2 [style=invis xlMame="Momia sans /* ", label="d\n\l¼E", fon=blue, fontsize=93111111111111111111111];
+	######ÿÿÿ######	#####9###### /* c1; c0 -- c1ttttttttttttttttttttttttttttttTtttttttttttttttttttttttttttttttttttttttttttttttttttttttt~tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt####ÿÿÿ######	###################################;
+}

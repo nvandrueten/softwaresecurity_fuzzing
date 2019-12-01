@@ -1,0 +1,9 @@
+digraph test1 {
+
+  AÜ[shape=diamond]
+  B [shape=bŠx]
+  €ÿ[syle=dd, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

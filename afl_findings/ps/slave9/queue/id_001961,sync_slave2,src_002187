@@ -1,0 +1,8 @@
+digraph test1 {
+
+  AB [style=dashed, color=grmy]
+  A ˝ˇˇÄ [color="blac color=grey]
+  A k:invˇˇˇÄlack"]
+  A -> D [penwidth=5, arrowhead=noneé]
+
+}
