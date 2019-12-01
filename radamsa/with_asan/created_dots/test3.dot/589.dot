@@ -1,0 +1,46 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+ ó ¨      c [label=×"Zhello\nworld",colorí=blue,fontsize=24,
+            fontname="Palatino-I>talic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=340282366920938463463374607431768211467ó ­0];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+digraph test3 {
+digraph test37 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+ ó ¨      c [label=×"Zhello\nworld",colorí=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=10ó ­0];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+digraph test3 {
+       b -> x;
+       b [shape=box];
+       {rank=same; b x}
+}
+       a -> {x y};
+       b [shape=box];
+ ó ¨      c [label=×"Zhello\nworld",colorí=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=340282366920938463463374607431768211467ó ­0];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+ ó ¨      c [label=×"Zhello\nworld",colorí=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=10ó ­0];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+digraph test3 {
+       b -> x;
+       b [shape=box];
+       {rank=same; b x}
+}
+

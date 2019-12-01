@@ -1,0 +1,15 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c127; c1; c0 -- c1 */
+	n0 [styแle=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c170141183460469231731󠀯687303715884105732
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [styl󠀹e=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=d‪ashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n18446744073709551616 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- nᅠ44;
+	n33 -- n44;
+}

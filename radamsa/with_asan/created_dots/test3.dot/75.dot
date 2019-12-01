@@ -1,0 +1,19 @@
+digraph test3 {
+,      a -> b -> c;
+       a -> {x y};
+         c [label="hello\nworld",color=blue,fontsize=24,
+ =100];
+       x -> z [label="hello\nworld",color=blue,fontsize=24,
+ =100];
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+ =100];
+       c [label="hello\nworld",color=blue,fontsize=24,
+ =100];
+       x -> z [label="multi-line\nlabelolor=red];
+       b -> x;
+       {rane\nlabelolor=red];
+       b x}
+}
+

@@ -1,0 +1,14 @@
+digaph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+ blac C![color="black:invis:black"]
+ ÿþ A -> D [penwie]
+}

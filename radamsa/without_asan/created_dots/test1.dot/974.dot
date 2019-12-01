@@ -1,0 +1,10 @@
+digraph test32769 {
+
+  A [shape=diamond]
+  B [shape=circle]
+
+  A -> r[tsByle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=9223372036854775807, arrowhead=none]
+
+}

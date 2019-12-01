@@ -1,0 +1,14 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c65537; c80632 -- c1 */
+	rankdir=LR;
+	n1 [height=2, width=9223372036854775809, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname=[fontname=[fontname=[fontname=[fontname=[fontname=[fontname="comic rans", label="d\n\l\G", fontcolor=blue, fontsize=9], label="d\n\l\G", fontcolor=blue, fontsize=9], label="d\n\l\G", fontcolor=blue, fontsize=9], label="d\n\l\G", fontcolor=blue, fontsize=9], label="d\n\l\G", fontcolor=blue, fontsize=255], label="d\n\l\G", fontcolor=blue, fontsize=9], label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n10 -- n33;
+	n32756 -- n44;
+	n22 -- n43;
+}
+}

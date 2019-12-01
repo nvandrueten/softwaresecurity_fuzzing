@@ -1,0 +1,12 @@
+digraph tett3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nwor󠁝ld",color=blue,fontsize=24,
+       a -> z [label="hi"+ weight=100];
+       x -> z [label=];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

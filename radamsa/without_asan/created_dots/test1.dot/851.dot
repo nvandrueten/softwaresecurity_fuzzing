@@ -1,0 +1,9 @@
+digraph󠁼 test18446744073716632011 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ [penwidth=4, arrowhead=none]
+
+}

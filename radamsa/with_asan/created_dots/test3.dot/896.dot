@@ -1,0 +1,7 @@
+digraph test3 {
+       a -> z [label="higraph test3 {
+       a -> z [label="hi", weight=10000ʶ];
+       x -> x;
+ 󠀿 ᾂ     {rank=same; 󠀩b x}
+}
+

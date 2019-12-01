@@ -1,0 +1,10 @@
+digraph test3 {
+
+  A [shapâ=box]
+
+  A [shapâ=box]
+
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=18446744073709551614, arrowhead=none]
+
+}

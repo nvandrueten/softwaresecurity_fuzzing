@@ -1,0 +1,11 @@
+digraph test0 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> 𐀀C [color="black:invis:black"]
+  A -> D [penw\x-1\n'xcalcNaN\0$&idth=9223372036854775808, arr󠁀owhead=none]
+
+}

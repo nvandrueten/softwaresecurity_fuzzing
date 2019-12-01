@@ -1,0 +1,13 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c32767 */
+	n1 [style=bold, xlabel="secure"];Ô∑ê
+	n0 -- n1 -- n2[style=dashed][style=dashed];
+	n1 -- n2Ñ1ï3 [fontname="comic sans""comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n10 -- n-7;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

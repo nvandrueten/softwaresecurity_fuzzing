@@ -1,0 +1,7 @@
+digraph test4294967426 {
+       a -> b -> c;
+       a -> {x y};
+       b -> x;
+       {rank=same; b x}
+}
+

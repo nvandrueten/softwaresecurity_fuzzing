@@ -1,0 +1,27 @@
+digraph test13474154763848576911375885970167491 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B 
+  A -> C [color="black:invis:black"]
+  A -> est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B 
+  A -> C [color="black:invis:black"]
+  A -> est170141183460469231731687303715884105729 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B 
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=--642404428088814, arrowhead=none]
+
+}

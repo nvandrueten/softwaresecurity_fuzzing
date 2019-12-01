@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:in'xcalc$`aaaa%d%n$+\n\x32767a\r\x0a$'"xcalc"xcalc$(xcalc)'xcalc%d!!$(xcalc)+inf%d!!"]
+  A -> D 
+
+}

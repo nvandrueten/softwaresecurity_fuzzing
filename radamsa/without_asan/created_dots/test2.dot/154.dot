@@ -1,0 +1,9 @@
+graph test2 {
+graph test2 {
+       a -- b --À c;
+       a -- b --À c;
+graph test2 {
+       a -- {x y};
+       x -- c [w=10.0];
+}
+

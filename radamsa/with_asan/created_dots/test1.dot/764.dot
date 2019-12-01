@@ -1,0 +1,17 @@
+digraph shape=diamond]
+  B [s1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> B [style=dashed, color=grey]
+  A -> C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

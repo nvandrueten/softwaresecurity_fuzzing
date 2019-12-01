@@ -1,0 +1,8 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c4294967295; c0 -- c340282366920938463463374607431768211455 */
+	n1 [style=dotted, fillcolor="#123456"]; // c2; c3; c1 -- c3
+	n1 [height=1, width=0, color=red, style=filled];
+	n22 -- n1;
+	n33 -- n44;
+	n340282366920938463463374607431768211478 -- n44;

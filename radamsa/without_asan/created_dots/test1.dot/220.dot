@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=ˑcircle]
+
+  A -> B [styl A [shape=diamond]
+  B [shape=box]
+  C [shape=ˑcircle]
+
+  A -> B [style=dashed, col or=grey]
+  A -> D [penwidth=-18446730757136430266, arr66, arr66, arr9223372036854775741, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr65, arr66, arr66, arr66, arr14, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr67, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr170141183460469231731687303715884105728, arr127, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arr66, arrowhead=none]
+
+}

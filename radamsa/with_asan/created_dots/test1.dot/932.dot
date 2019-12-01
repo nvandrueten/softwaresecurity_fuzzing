@@ -1,0 +1,8 @@
+digraph test9223372036854775808 {
+
+  A [shape=diamond]
+  B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=3, arrowhead=none]
+
+}

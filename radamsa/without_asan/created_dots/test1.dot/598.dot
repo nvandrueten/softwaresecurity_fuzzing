@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=di\x-65278a\x9223372041149743103daaaa%d%n$1&#128;\r\n!xcalc+inf$']
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

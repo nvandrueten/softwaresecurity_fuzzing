@@ -1,0 +1,7 @@
+digraph test-256 {
+       a -> b -> c;
+     󠁸  a -> {x y};
+       b -> x;
+       {rank=same; b x}
+}
+

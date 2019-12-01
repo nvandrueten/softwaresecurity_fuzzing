@@ -1,0 +1,9 @@
+graph test4 {
+	rankdir=LR;
+	folor=red, style=filled];
+	n1 -- n2 [fontna&e="comic sans", label="d\n\l\G", fontcolor=blue, fomtsize=9];
+	n11 -- n22;
+	n11 -- n44;
+	n22 -- n44;
+	n33 -- n44;
+}

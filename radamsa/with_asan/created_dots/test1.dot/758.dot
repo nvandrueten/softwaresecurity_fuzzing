@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A -> B [style=dashed, color=grey]
+e]
+
+  A -> B[style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidtyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

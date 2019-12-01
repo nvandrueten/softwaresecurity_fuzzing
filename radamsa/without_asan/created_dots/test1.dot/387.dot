@@ -1,0 +1,20 @@
+ddiamond]
+  B [shape=box]
+  C 
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invishape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  or="black:invishape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> Didth=5, arrowhead=none]
+
+}

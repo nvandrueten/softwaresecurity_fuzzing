@@ -1,0 +1,8 @@
+digraph test0 {
+
+  A [shape=diamond]
+  B [shape=diamond]
+  B [shape=box]
+ 󠀳 C [shape=cidth=0, arrowhead=none]
+
+}

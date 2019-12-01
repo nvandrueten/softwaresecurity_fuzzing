@@ -1,0 +1,10 @@
+d�igraʰph test340282366920938463463374607431768211455 {
+       a ->􏿾 b -> c;
+       a -> {x y};
+       b [s󠁂hape=box];
+𝅘𝅥𝅮       c [labelne\nlabel󠁘"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

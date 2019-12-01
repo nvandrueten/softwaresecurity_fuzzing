@@ -1,0 +1,25 @@
+digraph test3 {
+       a -> b -> c;
+       a -o\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       c [label="hello\nworld",color=blue,fontsize=65535,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       b 󠁆-> x;
+       {rank=  b -> x;
+       {rank=  b -> x;
+       {rank=  b -> x;
+       {rank=  b -> x;
+         b -> x;
+       {rank=  b -> x;
+       {rank=  b -> x;
+       {rank=  b -> x;
+       {rank=same; b x}
+}
+}
+}
+}
+}
+}
+}
+}
+

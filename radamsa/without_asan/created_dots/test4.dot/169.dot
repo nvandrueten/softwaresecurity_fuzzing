@@ -1,0 +1,13 @@
+graph test126 {
+	rankdir=LR;
+	rankdir=LR;
+	rankdir=LR;
+	fontcolor=blue; /2 -- n33;
+	fontcolor=blue; /2 -- n33;
+	fontcolor=blue; /2 -- n33;
+	fontcolor=blue; /2 -- n33;
+	fontcolor=blue; /2 -- n34;
+	fontcolor=blue; /2 -- n33;
+	n0 -- n-21 -- n2147483648;
+	n0 -- n0;
+}

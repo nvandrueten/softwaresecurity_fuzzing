@@ -1,0 +1,7 @@
+digraph test814 {
+
+  A [shape=[style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=2, arrowhead=none]
+
+}

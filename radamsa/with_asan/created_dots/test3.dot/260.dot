@@ -1,0 +1,7 @@
+digraph test-170141183460469231740910675752724278014 {
+       a -> b -> c;
+       c [label="hello\oworld",color=blue,fontsize=--136917274012756571,
+            fontname="Palatino-Jtalic",fontcolor=red,style=filled];
+       {rank=same; b x}
+}
+

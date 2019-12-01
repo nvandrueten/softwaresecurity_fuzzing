@@ -1,0 +1,107 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c Í[label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nwoşÿrld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b "hello\nworld";
+   À    c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+      c [label="hello\nworld",color=blue,fontsize=24,
+          llo\nworld",color=blue,fontsize=24,
+          llo\nworld",color=blue,fontsize=24,
+          llo\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+           ;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Itó œalic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       edge [style=dashed,color=red];
+       b -> x;
+       {ranã€€k=sank=sank=sank=sank=sank=sank=sanknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknknk=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=sank=same; b x}
+}
+

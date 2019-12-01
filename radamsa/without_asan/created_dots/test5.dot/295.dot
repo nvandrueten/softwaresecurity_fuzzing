@@ -1,0 +1,10 @@
+digraph test1 {
+	rankdir=LR;
+	fontcolor=blue; /* c1 -> n33;
+	n11 -> n22;
+	n11 -> n33;
+	n2147483648 -> n44;
+	n21 -> n33;
+	n22 -> n45;
+	n33 -> n44;
+}

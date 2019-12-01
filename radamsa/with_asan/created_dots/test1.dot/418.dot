@@ -1,0 +1,7 @@
+digraph test-127 {
+
+  A -> B [style=dashed,  coʱ󠀦lor=grey]
+  A -> C [colʲor="black:in󠀫vis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

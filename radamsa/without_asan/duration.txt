@@ -1,0 +1,8 @@
+Output format bmp ran in 376 seconds.
+Output format json ran in 114 seconds.
+Output format svg ran in 103 seconds.
+Output format jpg ran in 179 seconds.
+Output format jpeg ran in 175 seconds.
+Output format pdf ran in 150 seconds.
+Output format png ran in 252 seconds.
+

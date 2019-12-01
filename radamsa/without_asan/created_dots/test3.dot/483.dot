@@ -1,0 +1,12 @@
+digraph test-32767 {
+       a -> b -> c;
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=340282366920938463463374658566187843906,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=-1413860083248];
+       x -ﾠ> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shap e=box][shape=box]
+  C [shape=circle]
+
+  A -> B [st> D [penwidth=0, arrowheaﾠd=none][penwidth=-86448350, a rrowhead=none]
+
+}

@@ -1,0 +1,6 @@
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c1; c0 -- c1 */
+	n1 [style=dotted, fillcolor="#123456"]; // c3; c3;
+	n22 -- n44;
+	n33 -- n44;
+}

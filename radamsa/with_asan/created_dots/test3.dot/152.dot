@@ -1,0 +1,8 @@
+digraph test340282366920938463463374607431768211456 {
+       a -> b -> c;
+       o\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       b -> x;
+       {rank=same; b x}
+}
+

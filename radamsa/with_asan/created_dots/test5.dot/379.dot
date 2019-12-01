@@ -1,0 +1,17 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c32770 */
+	n0 [style=dotted, fillcolor="#123456"]; // c1; c3; c2 -- c3
+
+n1 [height=0, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -> n0 -> n2[style=dashﾠed];
+	n1 -> n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -> n22;
+	n11 -> n33;
+	n0 -> n22;
+	n11 -> n33;
+	n12 -> n44;
+	n22 -> n44;
+	n33 -> n44;
+}

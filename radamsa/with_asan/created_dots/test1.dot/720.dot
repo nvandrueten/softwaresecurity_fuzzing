@@ -1,0 +1,9 @@
+digraph test65536 {
+
+  A [shYpe=dhamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, cD [penwidth=5, arrowhhead=none]
+
+}

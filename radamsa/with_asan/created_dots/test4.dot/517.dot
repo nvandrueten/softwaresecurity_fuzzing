@@ -1,0 +1,23 @@
+graph test4 {
+	rankdir=LR;
+	fontcol󠀠or=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 --ﾠ c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabele=filled];
+	n2 [style=bold, xlabel="secue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 --ﾠ c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n1 -- n1 -- n2[styl󠀶e=dashed];
+	n1 -- n2 [fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n11 -- n32769;
+	n22 -- n33;
+	n11 -- n44;
+	n22 -- nː33;
+	n22 -- n44;
+	n33 -- n44;
+}

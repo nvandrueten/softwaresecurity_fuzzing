@@ -1,0 +1,9 @@
+digraph test65532 {
+   ⁠    a -> b -> c;
+       a -> z [labe󠀤l="hi", weight=16827664117065];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red ];
+       b -> x;
+       {rank=same; b x}
+}
+

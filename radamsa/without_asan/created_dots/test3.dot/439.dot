@@ -1,0 +1,8 @@
+digraó       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

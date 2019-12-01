@@ -1,0 +1,4 @@
+graph tes‏t2 { -- b󠁁 -- c;
+       a -- {x y};
+       x --- c [w=5.0,len=3];
+}

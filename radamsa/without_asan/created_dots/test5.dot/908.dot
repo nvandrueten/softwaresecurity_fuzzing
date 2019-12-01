@@ -1,0 +1,9 @@
+digraph test5 {
+	rankdir=LR;
+	font+inf$(xcalc)%n%n n22;
+	n11 -> n33;
+	n11 -> n44;
+	n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

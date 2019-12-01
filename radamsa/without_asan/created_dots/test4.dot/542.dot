@@ -1,0 +1,8 @@
+graph test0 {
+	rankdir=LR;
+	fontcolor=blue; /* c1; c1; c0 -- c1 *À¯
+	n0 [style=dotted, fillcolor="#12À³456"]; // c9223372036854775808; c3; c2 -- c3
+	n1 [height=1, width=1ã€€, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed]
+}

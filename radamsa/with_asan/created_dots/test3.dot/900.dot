@@ -1,0 +1,6 @@
+digraph test4294967425 {
+ [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

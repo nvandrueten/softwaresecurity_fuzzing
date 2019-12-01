@@ -1,0 +1,7 @@
+digraph test2147483648 {
+       a -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

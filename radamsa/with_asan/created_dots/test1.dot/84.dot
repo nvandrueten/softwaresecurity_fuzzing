@@ -1,0 +1,32 @@
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+digraph test1 {
+
+  A [shape=diamond]
+  A [shape=diamond]
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A ->ed, color=grey]
+  A ->ed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=65542, arrowhead=none]
+
+}

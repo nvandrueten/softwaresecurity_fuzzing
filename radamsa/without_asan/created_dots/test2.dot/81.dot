@@ -1,0 +1,12 @@
+graph test32770 {
+       a -- b -- c;
+       x -- c $+;xcalc\x0d\0\0%n&#000;\r"xcalc%#x\x0d\x0a`xcalc`\0\r\nNaN$&%#x[w=10.0];
+       a -- {
+       a -- b -- c;
+       x -- c [w=10.0];
+       a -- {x y};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=-9.1,len=3];
+}
+

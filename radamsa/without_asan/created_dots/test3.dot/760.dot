@@ -1,0 +1,13 @@
+digraph test0 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       x -> z [label="multi-line\nlabel"];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=240718172182529045817843866766928753298];
+       x -> z [label="m!!%n%p\340282366920938463463374607431768211457%n%d!xcalc%d"xcalc"xcalc$&+inf`xcalc`"xcalc"xcalc\x0daaaa%d%n\u0000ulti-line\nlabel"];
+       edge ;
+       b -> x;
+       {rank=same; b x}
+}
+

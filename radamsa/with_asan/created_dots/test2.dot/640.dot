@@ -1,0 +1,5 @@
+graph test9223372036854775807 {
+       a -- b -- c;
+       aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -- {x y} [w=0.-4294967038];
+}
+

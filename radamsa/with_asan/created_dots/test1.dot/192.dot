@@ -1,0 +1,10 @@
+digraph test4294967295 {
+
+  A [shape=diamond]
+  B [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[colo=rrool=c[[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color="black:invis:black"]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+  A -> D [penwidth=65537, arrowhea‮d=none]
+
+}

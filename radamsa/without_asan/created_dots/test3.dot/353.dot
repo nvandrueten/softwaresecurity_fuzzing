@@ -1,0 +1,13 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b ;
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Pala%p&#000;$PATH%s\n%n$&"xcalc+inf%d%n%p\r\n%#x\x0a\x0a'xcalc\u0000tino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

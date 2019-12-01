@@ -1,0 +1,15 @@
+digaph test-482313490422256 {
+	fontcolor=blue; /* c0; c0; c0 -- c1 */
+	rankdir=LR;
+	n1 [height=1, widtt=1, color=red, style=filled];
+	n0 [style=dotted, fillcolor="#340282366920938463463374607431768334911"]; // c2; c3; c-9 -- c1
+	n2 [style=bold- xlabel="secure"];
+	n170141183460469231731687303715884105727 -> n170141183460469231731687303715884105729 -> n2[style=dashed];
+	n1 -> n2 [fontname="\0`xcalc`&#000;én\x0dNaNNaN'xcalc%#x$PAPH$`", label="d\n\l\G", fontcolor<blue, fontsize=9];
+	n11 ->(n22;
+	n11 -> n33;
+	®1 -> n1;
+	n11 -> n44;
+	n11 -> n44;
+	n33 -> n44;
+}

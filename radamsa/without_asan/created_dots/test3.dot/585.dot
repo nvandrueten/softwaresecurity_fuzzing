@@ -1,0 +1,5 @@
+digraph test3 
+}
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> {x y};
+

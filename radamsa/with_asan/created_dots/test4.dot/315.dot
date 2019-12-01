@@ -1,0 +1,24 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n11 -- n22;
+-- n22;
+	n11 -- n3;
+	n11 -- n44;
+	n22 -- n33;
+	n22[sty-- n4󠁈4;
+	n22 -- n33;
+	n22[sty-- n4󠁈4;
+	n22[style=dashe

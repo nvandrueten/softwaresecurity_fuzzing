@@ -1,0 +1,8 @@
+graph test4 {
+	rankd ir=LR;
+	fontcolor=blue; /*󠁅 c0; c1; c0 -- c1 */
+	n340282366920938463463374607431768211457 [style=dotted, fillc sans", label="d\n\l\G", fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n340282366-- n44;
+	n340282366-- n44;
+	n33 -- n44;
+}

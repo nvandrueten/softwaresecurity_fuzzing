@@ -1,0 +1,10 @@
+digraph test3078 {
+       a -> b -> c;
+       a -> {x y};
+          a -> z [label="hi", wejght=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

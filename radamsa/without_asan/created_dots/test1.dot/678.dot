@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shinvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

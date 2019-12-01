@@ -1,0 +1,11 @@
+digraph test2147483649 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=1,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", wei ght=129];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashe       {rank=same; b x}
+}
+

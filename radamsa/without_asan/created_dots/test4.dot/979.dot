@@ -1,0 +1,10 @@
+graph tested, fillcolor="#123456"]; /. c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n18446744073709551616 -- n44;
+	n33 -- n44;
+}

@@ -1,0 +1,10 @@
+dig4186061406306135916569954617 {
+
+  A [shape=diamond]
+   [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=--24607, arrowhead=none]
+
+}

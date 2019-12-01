@@ -1,0 +1,13 @@
+digraph test170141183460469231731687303715884105728 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=box]
+  C [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=1, arrowhead=none]
+
+}

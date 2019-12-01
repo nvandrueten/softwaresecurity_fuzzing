@@ -1,0 +1,10 @@
+digra󠁷ph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+        {rame; b x}
+}
+

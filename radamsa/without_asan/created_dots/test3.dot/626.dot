@@ -1,0 +1,9 @@
+digraph test3 {
+       a -> {x y};
+       b [shape=box];
+       c [label=[label=[label="multi-line\nlabel"], weight=100];bel="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       [shape=box]
+}
+

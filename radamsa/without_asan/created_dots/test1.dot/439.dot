@@ -1,0 +1,7 @@
+d]
+  C [shape=circle]
+  B [shape=box]
+  A -> B [style=dashed, color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

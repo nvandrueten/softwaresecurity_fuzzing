@@ -1,0 +1,6 @@
+digraph tes󠁓t3 {
+       edge [style=dashed,color=red];
+      a -> z [label="multi-line\nlabel"];
+       edge [style=same; b x}
+}
+

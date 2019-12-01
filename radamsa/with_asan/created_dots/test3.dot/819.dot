@@ -1,0 +1,8 @@
+digrrrraph test3 {{
+       b [shape=box];
+       ʶc [label"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

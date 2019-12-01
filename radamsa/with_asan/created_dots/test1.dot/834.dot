@@ -1,0 +1,8 @@
+digraph test260 {
+
+  A [shape=diamond]
+
+  A -? B [style=dashed, color=grey]
+  A -> D [penwidth=-2147418111, arrowhead=none]
+
+}

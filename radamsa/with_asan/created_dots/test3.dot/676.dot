@@ -1,0 +1,5 @@
+digraph test18446744073709551618 {
+       a -> b -> x;
+       {rank=same; b x}
+}
+

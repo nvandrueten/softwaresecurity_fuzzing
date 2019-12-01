@@ -1,0 +1,18 @@
+digraph test1262354242278851132378472458269945 {
+       a -> b -> c;
+       a -> "hi";
+       b [shape=box];
+       c [label=[style=dashed,style=filled],color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label=[style=dashed,style=filled],color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label={x y}, weight=2147483649];
+       x -> z [label="multi-line\nlabel"];
+       edge "hello\nworld";
+       a -> z [label={x y}, weight=105];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

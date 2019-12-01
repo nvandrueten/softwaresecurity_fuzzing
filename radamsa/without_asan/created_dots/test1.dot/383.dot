@@ -1,0 +1,11 @@
+digraph test1 󠁝{
+
+  A [shape=diamond]
+   B 
+  C 
+
+  A -> B "black:invis:black"ß
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

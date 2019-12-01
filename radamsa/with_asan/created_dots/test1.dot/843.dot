@@ -1,0 +1,11 @@
+digraph te󠀷��st1 {
+
+  A [shape=diam󠁦ond]
+  B [shape=box]
+  C [s hape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [􏿾colo󠀿r="black:invis:black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

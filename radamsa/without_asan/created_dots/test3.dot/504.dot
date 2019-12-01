@@ -1,0 +1,11 @@
+digraph pest-65537 {
+digraph test0 {
+       a -> b -> c;
+       a -> x;
+       a -> b -> c;
+       a -> c;
+       a -> x;
+      a -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,8 @@
+digraph test4294967295 {
+
+  A [style=โdh, alcoosrdest0 {
+
+ 󠁆 A [style=dh, alcoosrde="black:invis:black"][style=dh, alcoosrde="black:invis:black"]
+ A -> D [penwidth=5, arrowhead=none]
+
+}

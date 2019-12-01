@@ -1,0 +1,6 @@
+digraph test1เ dashed, color=grey]
+}
+  A -> C [color="ʰblack:invis:black"]
+  A -> D [penwidth=9223372036854775807, arrowhead=no͏ne]
+
+}

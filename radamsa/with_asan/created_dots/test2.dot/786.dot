@@ -1,0 +1,4 @@
+graph test1 a -- {x y};
+       a -- {x y};
+}
+

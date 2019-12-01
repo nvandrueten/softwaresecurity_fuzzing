@@ -1,0 +1,13 @@
+digraph test--964672767876929730793 {
+digraph test---558104568037913791905 {
+digraph test--964672767876870792486 {
+
+  A [shape=ddiamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=-9223372036854775807, arrowhead=none]
+
+}

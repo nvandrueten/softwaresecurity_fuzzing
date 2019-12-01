@@ -1,0 +1,5 @@
+digraph testyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=2147483648, arrowhead=none]
+
+}

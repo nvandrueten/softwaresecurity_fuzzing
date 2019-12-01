@@ -1,0 +1,14 @@
+digrapph test2087492292 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black"]
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black"]
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

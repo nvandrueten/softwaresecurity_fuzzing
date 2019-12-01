@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [sh]
+  B [shape=box]
+  A -> D [penwidth=5, arrowhead=none]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color=[color="black:invis:black"]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]ó]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+digraph test-290587280061012617380440895806281138891 {

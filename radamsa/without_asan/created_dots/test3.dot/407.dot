@@ -1,0 +1,20 @@
+digraph test741697 {
+       a -> b -> c;
+       a -> {x y};
+ ¯      b [shape=box];
+       c [label="hello\n"multi-line\nlabel"];
+       a -> b -> c;
+       a -> {x y};
+ ¯      b [shape=box];
+       c [label="hello\n"multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=sameeeeeeeeeello\n"multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee; b x}
+}
+

@@ -1,0 +1,10 @@
+digraph test1ûî(ÿ {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=box]
+  C íª­[shape=circle]
+
+  A -> B [style=dashed, arrowhead=none]
+
+}

@@ -1,0 +1,16 @@
+digraph test3 {
+       a -> b -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=dashed,color=red];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label=filled];
+       a -> z [label="multi-line\nlabee; b x}
+}
+
+
+

@@ -1,0 +1,9 @@
+digraph test4 {
+       a -> {x y};
+       a -> b -> c;
+       b [shape=box];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

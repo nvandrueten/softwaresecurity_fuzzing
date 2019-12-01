@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shap͏e=diamond]
+  B [shape=box]
+  C [shape=circle]
+  B [󠁱shape=box]
+idth=5, arrowhead=none]
+
+}

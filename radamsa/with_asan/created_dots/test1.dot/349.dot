@@ -1,0 +1,21 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> D [penwi󠀾dth=5, arrowhe󠀡ad=nond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> D [penwi󠀾dth=127957926, arrowhe󠀡ad=nond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> D [penwi󠀾dth=127, arrowhe󠀡ad=nond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> D [penwidth=4, arrowhe󠀡ad=none]
+
+}

@@ -1,0 +1,16 @@
+digraph test0 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c65537 -- c1 */
+	n340282366920938463463374607431768211455 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c4604455590376
+	n1 [height=1, width=2147483649, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n340282366920938463463374607431768211457 -> n1 -> n2[style=dashed];
+	n1 -> n󠁂style=dashed];
+	n1 -> n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=92922518];
+	n10 -> n22;
+	n11 -> n33;
+	n10 -> n44;
+	n22 -> n32767;
+	n22 -> n44;
+	n0 -> n44;
+}

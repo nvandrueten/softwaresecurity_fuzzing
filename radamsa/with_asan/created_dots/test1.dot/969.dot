@@ -1,0 +1,13 @@
+digró €¶aph test-0 {
+
+  A -> B [stylÊ´eó •=dó ¡ash test-0 {
+
+  A [shape=d]
+  B [shaó ªpe=box]
+  C [shape=circle]
+
+  A -> B [stylÊ´eó •=dó ¡ashed, color=grey]
+  A -> C [color="back:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

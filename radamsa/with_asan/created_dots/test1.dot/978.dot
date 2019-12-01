@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A -> B [style=das󠀠hed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=0, arey]
+  A -> C [color="black:invis:black"]
+  A -> D [pe󠁧nwidth=65536, arrowhead=none]
+󠁸
+}

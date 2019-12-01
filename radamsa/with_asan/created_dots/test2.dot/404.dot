@@ -1,0 +1,5 @@
+graph test2 {
+       a -- b -- c [w=10.257];
+graph test2 {
+
+

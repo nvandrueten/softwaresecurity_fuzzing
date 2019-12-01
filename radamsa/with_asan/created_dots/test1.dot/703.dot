@@ -1,0 +1,16 @@
+di󠁾graph 󠁦teไst-2147483392󠀺 {ͅ
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, colo󠁌r=grey]
+  A -> B [style=dashed, colo󠁌r=grey]
+  A -> C [color="black:invis:black"]
+  A -> B [s󠀿tyle=dashed, colo󠁌r=grey]
+  A -> B [󠁘style=dashed, colo󠁌r=grey]
+  A -> C [color="black:invis:blo󠁌r=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

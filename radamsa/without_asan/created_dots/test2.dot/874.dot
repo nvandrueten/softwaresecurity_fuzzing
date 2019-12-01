@@ -1,0 +1,5 @@
+graph test1 {
+         a -- b -- c;
+       a -- len=1];
+}
+

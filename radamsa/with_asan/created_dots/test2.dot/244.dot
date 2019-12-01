@@ -1,0 +1,9 @@
+graph testest2 {
+       a -- b -- c;
+       a -- {x y};
+  󠁛     a -- {x y};
+       a -- {x y};
+       x -- c [w=10.0];
+     ,len=3];
+}
+

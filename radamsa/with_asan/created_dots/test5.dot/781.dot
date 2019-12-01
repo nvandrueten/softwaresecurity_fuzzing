@@ -1,0 +1,15 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c7; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#1"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n1 -> n340282366920938463463374607431768211457 -> n2[style=dashed];
+	n1 -> n2 [fontname="comic$sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -> n22;
+	n11 -> n32;
+	n11 -> n44;
+	n22 -> n-527094739102168;
+	n2147483648 -> n44;
+	n33 -> n44;
+}

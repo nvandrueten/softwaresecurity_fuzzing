@@ -1,0 +1,6 @@
+graph test2 {
+       a -- b$`\n$!!\x0aNaN;xcalc`xcalc`xcalc`"xcalcx -st2 {
+       a -- b$`\n$!!\x0aNaN;xcalc`xcalc`"xcalcx -- b$`\n$!!\x0aNaN;xcalc`xcalc`"xcalcx -- c [w=10.0];
+󠀺       x -- y [w=5.0,len=3];
+}
+

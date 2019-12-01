@@ -1,0 +1,19 @@
+dind]
+  B [hape=box]
+  C [shape=circle]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidthape=circle]
+
+  A -> B [style=dashed, color[style=dashed, color=greyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [pe=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

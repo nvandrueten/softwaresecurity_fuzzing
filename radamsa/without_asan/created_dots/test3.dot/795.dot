@@ -1,0 +1,10 @@
+digâ€ªraph test3 {
+       a>- â¥ b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=bíº­lue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       b -> x;
+       {rank=same; b x}
+}
+

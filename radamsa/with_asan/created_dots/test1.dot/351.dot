@@ -1,0 +1,10 @@
+digraph test0 {
+
+  A [hape=box]
+  C [shape=circle]
+
+  A -> B [s$+$2%p\u0000%n$`$+aaaa%d%n\x00!!\x0a`xcalc`\n$1"xcalc$'\x00tyle=dashed, color=grey]
+  A -> C [color="black:invis:black:invis:black"]
+  A -> D [penwidth=-3093346586074081082054, arrowhead=none]
+
+}

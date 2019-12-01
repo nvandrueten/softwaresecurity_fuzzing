@@ -1,0 +1,8 @@
+
+       a -- b -- c;
+graph test2 {
+       a -- b -- c;
+       a -- b -- c;
+       x -- c [w=9.0];
+graph test3 [wï·=ü.0,len=3]
+

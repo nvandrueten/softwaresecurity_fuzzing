@@ -1,0 +1,16 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [ shape=box]
+  C [shape=cirr="black:invis:black"]
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=cirr="black:invis:black"]
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=cirr="black:invis:black"]
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=cirr="black:invis:black"[penwidth=256, arrowhead=none]
+
+}

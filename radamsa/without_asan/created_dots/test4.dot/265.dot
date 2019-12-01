@@ -1,0 +1,7 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -󠁆- n44;
+	n22 -- n33;
+	n22 -- n216;
+	n33 -- n44;
+}

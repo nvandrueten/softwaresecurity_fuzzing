@@ -1,0 +1,89 @@
+graph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigsaph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigsaph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigsaph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigsaph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph tdigraph test9223372036854775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ 54775807 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,6 @@
+digraph test18546744073709518848 {𐀀
+
+  A [shape=diam=grey·]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=--334, arrowhead=none]
+}

@@ -1,0 +1,11 @@
+digraph test3 {
+       a‭ -> b -> c;
+โ       a -> b -> c;
+       a -> {x y};
+       b [sntcolor=red,style=filled];
+       a -> z [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       b -> x;
+       {rank=same; b x}
+}
+

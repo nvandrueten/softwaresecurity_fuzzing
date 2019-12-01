@@ -1,0 +1,10 @@
+digraph test340282366920938463463374607431768211456 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=3,
+            fontname="Palatino-Italic",fontcolor=red,style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,10 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n0 [styl;
+	n2 [style=bold, xlabel="secure"];
+	n128 -> n1 -> n2[style=dashed];
+	n1 -> n2 [fontname="comic sans", label="d\n\l\G", fontc0 -> n1 -> n2[style=dashed];
+	n1 -> n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n33 -> n4ʴ4;
+}

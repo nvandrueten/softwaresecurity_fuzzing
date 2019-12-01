@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=circle]
+
+  A -> B [style=digraph test1 {
+
+  A [shape=diamond]
+  B [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C153611526699584360613, arrowhead=none]
+
+}ÀŠ

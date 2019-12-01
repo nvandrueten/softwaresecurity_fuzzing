@@ -1,0 +1,7 @@
+
+digraph test-4294967147 {
+  A [shape=dolor=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=-255, arrowhead=none]
+
+}

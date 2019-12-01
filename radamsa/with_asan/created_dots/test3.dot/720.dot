@@ -1,0 +1,9 @@
+digraph test2 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

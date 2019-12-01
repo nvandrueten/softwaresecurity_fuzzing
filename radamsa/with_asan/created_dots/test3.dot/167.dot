@@ -1,0 +1,9 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,fontsize=24,
+            fontn+/v8a鈥痪me="Pala﻽tino-Italic",fontcolor=red,style=  b -> x;
+       {rank=ame; b x}
+}
+

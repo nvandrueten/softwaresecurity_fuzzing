@@ -1,0 +1,7 @@
+digraph test--0 {
+       a -> b -> c;
+       lor=red];
+       b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,11 @@
+digraph test5 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="multi-line\nlabel"];
+       c [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

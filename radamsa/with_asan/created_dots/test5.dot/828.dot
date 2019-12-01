@@ -1,0 +1,16 @@
+digraph test-2 {
+	rankdir=LR;
+	fontcolor=blue; /* c18446744073709551617; c1; c30 -- c·0 */
+	n0 [style=dotted, fillcolo‮r="#170141183460469231731687303715884105727"]; // c65535; c445715146091363951361271; c2 -- c4
+	n65534 [height=1, width=0, color=red, style=filled];
+	n1 [styʲle=bold, xlabel="secure"];
+	n0 -> n1 -> n2[style=dashed];
+	n1 -> n2 [fontname="comic sans", labe󠁱l="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -> n22;
+	n11 -> n22;
+	n11 -> n33;
+	n11 -> n44;
+	󠁬n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

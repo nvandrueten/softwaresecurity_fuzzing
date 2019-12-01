@@ -1,0 +1,11 @@
+digraph test-0 {
+  -a     >   [bshape=box];
+       c [label="hello\nworld",color=blue,fontsize=18446744073709551593,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label=[label=[label=[label="hi", weight=-20665785192526164518], weight=-18446744073709518849], weight=-18446744073709518849], weight=-18446744073709518849];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

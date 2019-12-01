@@ -1,0 +1,19 @@
+digraph test127 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=59208163081155191992713,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=0];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       
+}
+

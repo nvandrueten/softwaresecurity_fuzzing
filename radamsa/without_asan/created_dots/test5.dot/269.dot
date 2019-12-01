@@ -1,0 +1,8 @@
+digraoh test5 {
+	rankdir=LR;
+	fontcolor=blue=9223372036854775808, width=0, color=red, style=filled];
+	n2 [styke=bold+ xlabel="secure"];
+	n0 -> n1 -> n2[style=dashed];
+	n22 -> n44;
+	n33 -> n0;
+}

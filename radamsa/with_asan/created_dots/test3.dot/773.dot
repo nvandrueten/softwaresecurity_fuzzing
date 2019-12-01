@@ -1,0 +1,11 @@
+digraph test-287492198221198221195726297362970862843209802 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=-443]      b -> x;
+       {rank=same; b x}
+}
+

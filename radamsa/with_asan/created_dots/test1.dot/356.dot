@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  A [shape=diamond]
+  B [søhape=e=diamond]
+  A [shape=diamond]
+  B [shape=diamond][shape=bone]
+  B [shape=bone][shape=diamond]
+
+}

@@ -1,0 +1,26 @@
+digraph test3 {
+       a -> b ->  b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\no-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=redt=100];
+       x ->graph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\no-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlab -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\no-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

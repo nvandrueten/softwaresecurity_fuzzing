@@ -1,0 +1,17 @@
+digraph test--69330007693060370557908621 {
+
+  A [penwidth=9223372036854776064, arrowhead=none]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B "blacj:invis:black"
+  A -> C [color=[style=dashed, color=grey]]
+  A -> D [shape=diamne]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="blacj:invis:black"]
+  A -> D [shape=diamond]
+
+}

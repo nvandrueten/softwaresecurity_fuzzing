@@ -1,0 +1,8 @@
+graph test2 {
+       a -- b -- c;
+       a -- {x y};
+       x -- $1$!!\0\r$PATH%s\x0a\x0a"xcalcc [w=10.0];
+       x -- y [w=5.0,len=3];
+}
+}
+

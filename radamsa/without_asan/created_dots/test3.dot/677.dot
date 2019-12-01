@@ -1,0 +1,7 @@
+digraph test3 {
+       {rank=same; b -> x;
+       {rank=same; b -> x;
+       {rank=same; b -> x;
+       {rank=same; b x}
+}
+       a -> b -> x;

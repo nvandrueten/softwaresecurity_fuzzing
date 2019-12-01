@@ -1,0 +1,6 @@
+digraph test-2 {
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color=]
+
+}

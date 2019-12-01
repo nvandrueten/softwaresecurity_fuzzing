@@ -1,0 +1,5 @@
+digraph test32776 {
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=32770, arr}

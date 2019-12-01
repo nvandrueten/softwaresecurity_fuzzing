@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B 
+  C [shape=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=pe=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,12 @@
+digraph tes  C [shape=circle]
+
+  A -> B 
+
+  A -> B [style=dashed, color=grey]
+  A -> B [style=dashed, color=grey]
+d, color=grey]
+  A -> B [style=dashed, color=grey]
+  A -> B [style=dashed, color=grey]
+  A -> D [penwidth=248, arrowhead=none]
+
+}

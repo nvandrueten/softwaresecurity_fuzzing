@@ -1,0 +1,7 @@
+graph test2 {
+       a -- b -- c;
+  \x0a!xcalc$!!$PATH\x65537a\x0a%pNaNaaam%d%n;xcalc%p\r     a -- {x ey};
+       x -- c [w=10.255];
+       x -- y [w=170141183460469231731687303715884105729.0,len=3];
+}
+

@@ -1,0 +1,6 @@
+digraph tes﻿鬆亖t1 {
+
+  A -> B [st鬆亷yle=dashed, color=grey]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

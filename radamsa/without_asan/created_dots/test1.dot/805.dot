@@ -1,0 +1,8 @@
+digrC [shae=circle]
+
+  A -> B [styls᠎tyle=dashe  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> B [s᠎tye=dashed, color=grey]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

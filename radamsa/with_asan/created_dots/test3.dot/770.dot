@@ -1,0 +1,12 @@
+digraph test-27575015891127867 {
+       a -> b -> c;
+       ame="Palatino-Italic",fontcolor=red,style=filled];
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=--3486736179169798042162225264143190];
+       x -> z [label="hi", weight=4294967297];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,11 @@
+digraph test2 {
+
+  A [shap󠀽e=diamond]
+  B [sᾂhape=‬box]
+  C [shapʰe=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color=[color="black:invis:black"]]
++/v+  A -> D [penwidt󠁀h=󠁆4294967295ㅤ, arrowhead=󠁽none]
+
+}

@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	c sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+󠁤	n4294967307 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n82 -- n44;
+	n33 -- n44;
+}

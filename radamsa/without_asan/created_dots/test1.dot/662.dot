@@ -1,0 +1,19 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=circle]
+
+  A -> B [style=dashe
+  A -> D [pe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, coloraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashe  A -> C [color="black:invis:black"]
+d, color=grey]
+  A -> C [color="black:invis:black"]

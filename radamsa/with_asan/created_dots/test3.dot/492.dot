@@ -1,0 +1,16 @@
+digraph test18446744073709551616 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       a -> b -> c;
+       c [label="hello\nworld",color=blue,fontsize=143,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hello\nworld",color=blue,fontsize=170141183460469231731687303715884105727,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="multi-line\nlabel"];
+       {rank=same; b x}
+}
+

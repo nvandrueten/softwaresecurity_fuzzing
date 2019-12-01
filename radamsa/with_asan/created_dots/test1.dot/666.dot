@@ -1,0 +1,7 @@
+digraph test27254915 {
+
+  C [shape=circle]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=-340282366920938463463374607443952487453, arrowhead=none]
+
+}

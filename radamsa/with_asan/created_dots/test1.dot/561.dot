@@ -1,0 +1,9 @@
+digraph te󠁳st32768 {
+
+  A [shape=diamond]
+  B󠀳 [shape=box]
+   -> B [style=dashed, color=grey]
+  A -> C [color="black"]
+  A -> D [p+/v+enwidth=1, arrowhead=none]
+
+}

@@ -1,0 +1,16 @@
+â€ €±digraph812747033507033507788876357658507668250778887635 {
+
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashe  A ->e=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

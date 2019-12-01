@@ -1,0 +1,5 @@
+digraph test23 {
+
+  A [shape=diamonwidth=5, arrowhead=none]
+
+}

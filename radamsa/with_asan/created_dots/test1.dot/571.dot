@@ -1,0 +1,12 @@
+digraph test255 {
+
+
+  A [shape=diamond]
+  B [shape=bo　x]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey󠁒]
+  A -> C [color="black:invis󠁏:black"]
+  A -> D [penwidth=-170141183460469231759357419826448433152, arrowhead=none]
+
+}

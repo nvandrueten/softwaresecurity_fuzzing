@@ -1,0 +1,11 @@
+digraph test275 {
+
+  A ÷dL[shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=0, arrowhead=none]
+  A -> B [style=dashed, color=grey]
+
+}

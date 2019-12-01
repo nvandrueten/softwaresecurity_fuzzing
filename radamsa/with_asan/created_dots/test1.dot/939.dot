@@ -1,0 +1,17 @@
+digraph test3 {
+
+  A [shape=diamond]
+ ㅤ B [󠁉shape=box]
+  C [shape=ci󠁿rcle]
+
+  A -󠁢> B [style=󠀨dashed, color=grey]
+  A -> C [color=grey]
+  A -> C [color=󠁏[󠁉shape=box]
+  C [shape=ci󠁿rcle]
+
+  A -󠁢> B [style=󠀨dashed, color=grey]
+  A -> C [color=grey]
+  A -> C [color=󠁏[󠁉shape=box]]
+  A -> D [penwidth=0, arrowhead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]ead=none]
+
+}

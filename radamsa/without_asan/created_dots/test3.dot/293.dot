@@ -1,0 +1,11 @@
+digraph ใtest4 {
+       a -> b -> c;
+       a ->‭ [shape=box];
+   ‍    b {rank=same; b x};
+       c [labe󠁠l="multi-line\nlabel",color=blue,fontsize=4294975027,
+      abel="hello\nworld"];ΐ
+       edge [style=dashed,color=red];
+        b -> x;
+       {x y}
+}
+

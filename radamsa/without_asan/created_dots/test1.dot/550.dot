@@ -1,0 +1,11 @@
+digraph test7603766121998243191411293 {
+
+  A [sha pe󠀡=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=ไgrey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=1, arrowhead=none]
+
+}

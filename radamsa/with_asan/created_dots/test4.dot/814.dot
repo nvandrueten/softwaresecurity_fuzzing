@@ -1,0 +1,13 @@
+graph test65 {
+	rankdir=LR;
+	fontcolor=blue, fontsize=9];
+	rankdir=LR;
+	fontcolor=blue, fontsize=1];
+	n340282366920938463463374607431768211468 -- n753;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

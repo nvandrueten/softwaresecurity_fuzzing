@@ -1,0 +1,13 @@
+digaphÀ test170141183460469231731687303715884105728 {
+
+ ( A [shape=diamond]
+  B [shape=diamond]
+  B [shape=bx]
+  C [=crheiapsce]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

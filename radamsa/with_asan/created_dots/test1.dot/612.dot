@@ -1,0 +1,7 @@
+digraph test2 {
+
+  A [shape=diamond]
+  B [shape=box]
+  Crrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph test2147483647 {
+
+  A [shape=diʵamond]
+ 󠁌 B [shape=box]
+  A -> C [color="black:invis:black"]
+
+  A -> D [penwidth=9223372036854775808, arrowhead=none]
+  C [shape=circle]
+  A -> B [style=dashed, color=grey]
+
+}

@@ -1,0 +1,7 @@
+graph test2 {
+       a -- b -- c;
+       a -- {x y};
+       x -- c [w=11.0];
+       x -- y [w=5.0,len=3];
+}
+\u0000\x0a&#000;\u0000'xcalc$&\r\n$&%n%n%d$&`xcalc`$+\r\x0d

@@ -1,0 +1,10 @@
+digraph test257 {
+
+  A [shape=diamond]
+  B [shape=diamond]
+  B [shape=diamond]
+  B [shape=box]
+}
+
+  A -> D [penwidth=1, ar
+}

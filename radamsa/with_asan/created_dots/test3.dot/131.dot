@@ -1,0 +1,22 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [labelashed,color=red];
+       edge [s
+tyle=dashed,color=red];
+       edge [s
+tyle=dashed,color=red];
+       edge [s
+tyle=dashed,color=red];
+       edge [s
+tyle=dashed,color=red][s
+tyle=dashed,color=red];
+       edge [s
+tyle=dashed,color=red];
+       edge [s
+tyle=dashe﻾d,color=red];
+

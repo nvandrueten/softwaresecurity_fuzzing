@@ -1,0 +1,13 @@
+digraph test-3 {
+	rankdir=LR;
+	fontcolor=blue; /* c1; c1; c-1 -- c1 */
+	n1 ó Ÿ[height=1, width=1, coloûî(ÿr=red, style=filleó ±d];
+	n2 [style=bold, xlabel="secure"];
+	n65536 -> n1 -> n2[style=dashed];
+	n1 -> n22;
+	n11 -> n33;
+	n11 -> n44;
+	n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

@@ -1,0 +1,11 @@
+digraph test--1 {
+
+  A [shape=dia248861613267 {
+
+  A [shape=diamond]
+  B [shape=box]
+  เC [shape=circle]
+
+  A -> D [penwidth=--128, arrowh󠁃ead=none]
+
+}

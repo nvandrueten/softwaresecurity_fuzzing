@@ -1,0 +1,16 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n0 ; // c2; c3; c2 -- c3
+	n1 ;
+	n32769 ;
+	n0 -> n65536 -> n2tyd[slesa=hed];
+	n1 -> n2 ;
+	n11 -> n22;
+	n2147483649 -> n33;
+	n11 -> n1;
+	n22 -> n33;
+	n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

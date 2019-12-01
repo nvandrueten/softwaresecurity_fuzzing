@@ -1,0 +1,1497 @@
+graph test2 {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -ï¿¿- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+     íº­  x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c {
+       a -- b -- c;
+       a -- {x y};
+       x -- c [w=10.0];
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=4.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.257,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=4];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.1,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=4];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=340282366920938463463374607431768211455];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.1,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=4];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=340282366920938463617144874026631733455];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+};
+       x -- y [w=5.0,len=3];
+}
+

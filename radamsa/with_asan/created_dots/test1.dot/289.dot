@@ -1,0 +1,7 @@
+digraph test2 {
+
+  A -> B [style=dasâ€hed, color=grey]
+  A -> B [style=dasheóó Ÿ €´d, color=gâ€©á Žrey]
+  A -> C [color="ó €ªblack:invisâ„8827499773•3€­:black"]]
+
+}

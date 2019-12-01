@@ -1,0 +1,13 @@
+digraph test4294967295 {
+
+  A [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> B [style=dashed, color=grey]
+  A -> C [color=grey]
+  A -> C [color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=72451608173176, arrowhead=none]
+
+}

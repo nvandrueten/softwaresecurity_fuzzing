@@ -1,0 +1,5 @@
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

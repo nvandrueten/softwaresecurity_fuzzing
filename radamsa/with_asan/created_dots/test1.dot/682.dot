@@ -1,0 +1,21 @@
+digraph test254 {
+
+  B \shape=diamond]
+  B [shape=box]
+  C [shape=box]
+
+  A -> B {
+
+  B \shape=diamond]
+  B [shape=box]
+  C [shape=box]
+
+  A -> B [style=dashfd, color=grey]
+  A -> C 
+  A -> D 
+
+}
+  A -> C [color="black:iovis:black"]
+  A -> D 
+
+}

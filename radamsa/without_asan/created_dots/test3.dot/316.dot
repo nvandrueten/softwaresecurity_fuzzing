@@ -1,0 +1,27 @@
+digraph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shaph test3 {
+       a -> b -> c;
+       a -> {x y};
+       b [shape=box];
+       c [label="helo\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x y};
+       b [shape=box];
+       c [label="hello\nworld",color=blue,fontsize=24,
+            fontname="Palatino-Italic",fontcolor=red,style="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rankdashed,color=red];
+       b -> x;
+       {rank=sam}
+}
+

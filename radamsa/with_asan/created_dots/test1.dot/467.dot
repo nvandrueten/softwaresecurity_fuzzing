@@ -1,0 +1,7 @@
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=ck:invis:black"]
+  A -> D [penwidth=4294967294, arrowhead=none]
+
+}

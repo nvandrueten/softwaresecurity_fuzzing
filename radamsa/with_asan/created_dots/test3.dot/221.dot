@@ -1,0 +1,11 @@
+digraph test-1996141804 {
+     
+       c [label="hello\nworld",color=blue,fontsize=2147483647,
+            fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> {x y};
+       a -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,7 @@
+digraph test4294967296 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+}

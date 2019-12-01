@@ -1,0 +1,9 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue;Ø /* c129; c1; c0 -- c1 */
+	n0 [style=dotted3;
+	n11 -> n1;
+	n22 -> n255;
+	n87371 -> n44;
+	n65504 -> n44;
+}

@@ -1,0 +1,12 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor="#123456"]; // c2; c2069; c2 -- c3
+	n-3 [height=1, width=1, color‎=red, style=filled];
+	n2 [style=bold, xlabel="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -> n22;
+	n11 -> n33;
+	n11 -> n44;
+	n22 -> n32;
+	n3 -> n44;
+	n33 -> n44;
+}

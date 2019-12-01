@@ -1,0 +1,57 @@
+digraph test5 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	fontcolor=blue; /* c0; c1; c0 -- c1  */
+	n0 [style=dotted, fillcolor=blue; /* c0; c1; c0 -‭- c1 */
+	ΐn0 [style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor=[style=dotted, fillcolor="#123456"]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]; // c2; c3; c���4;
+	n33 ->󠁠 n44;
+}
