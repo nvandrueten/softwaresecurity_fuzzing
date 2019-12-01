@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- m1 */
+	n       x -- y [‹=5.0,leb=3];
+}
+

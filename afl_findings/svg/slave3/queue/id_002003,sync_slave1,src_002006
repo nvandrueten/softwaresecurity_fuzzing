@@ -1,0 +1,6 @@
+graph {est2b -- ca -- {x y}; c;
+   a --   S -- b  -- {x y}D
+   x -- c [w=10.0];
+ÿ€ x -- y [w=5.0,len=3];
+}
+

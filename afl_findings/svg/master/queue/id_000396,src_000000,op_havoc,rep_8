@@ -1,0 +1,15 @@
+digraph test1 {
+
+  C [shape=diamond]
+  AAAAAAAAAAAAAB [shape=dox]
+  C [shape=circle]
+
+  A -> B [style=dashed, colircpe=circle]
+
+  Aleey]
+  A -> C , colircpe=circle]
+
+  Alee]
+  A -> D [peQwidth=5, arDowhead=none]
+
+}

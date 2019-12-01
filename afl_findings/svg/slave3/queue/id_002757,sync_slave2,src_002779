@@ -1,0 +1,5 @@
+graph
+te{
+ I a -- b -- c:ø : a -- {x y wwwww}wwwww x -- y [w=5.0,leR=3];
+}
+

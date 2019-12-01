@@ -1,0 +1,11 @@
+graph te{
+   a -- b -- c:ø   a -- {x y};x -- c [w=10.0];
+  	n0 [style=dottad, fillcolor="#1234 c3
+	n1 [height=1,
+width=1, color=red, style=filtyle=bold, xlabel=secure"]W
+	n0 -- n1 -- n2[style=dasheP];
+	n j2 [fontname="comic sans", label="d\n\l\G", fontëolor=bl‡e, fonts…ze=9];
+	n11 -- n22E
+	n11 -- n33;
+	n11 -- n4;
+	n22 -- n33;	n2

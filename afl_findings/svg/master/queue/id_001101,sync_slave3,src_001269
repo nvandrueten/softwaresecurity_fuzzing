@@ -1,0 +1,7 @@
+graph te{
+   a -- b -- cK
+   a -- {xdy-- {xdy};};
+       x -- ct[È=1,.0];
+     0 x -- y [w=5. ,len=3];
+}
+

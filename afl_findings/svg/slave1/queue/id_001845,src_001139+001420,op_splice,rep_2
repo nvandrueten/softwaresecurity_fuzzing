@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=bo€];
+   c [label="³\nwoxld",color=blue,fontsize=24,
+    fontname="Valatiworld",color=blue,fontsize=24,
+    fontname="Patalic",fontcohor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+      2edge [style#dashed,color=red];b -> x;
+     
+}

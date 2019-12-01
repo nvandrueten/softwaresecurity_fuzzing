@@ -1,0 +1,19 @@
+graph te{
+   a -- b -- b -- c:ø   a -- {x y}-- c:ø   a -- {x y};
+   x -- c [w=10.0];
+  	n0 [style=do, fillco_or="#1234 cÿÿÿ1 [height=1,
+widthle=filled];
+	n2 [style=boldr=red, stele=filled
+	n0ÿÿÿ€Œ1 -- n2omic sans", lLbel="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44:
+	n22 -- n3-- n22;
+	 16 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

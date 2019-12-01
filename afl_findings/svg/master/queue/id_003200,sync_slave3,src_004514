@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=e]
+
+  A2-> B [style=dashed, colˆr=grew]
+  Aä-> C [color="¡Yack:iî::::::: :::ack:i::[shapw=dTamond]
+  A -> C [k:i::::::O:::::ack:i::[shapwRdTa::::: ::|k"]
+  < -> D [penwidth=5, aread=none]
+
+}

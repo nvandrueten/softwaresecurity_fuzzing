@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A aaaaaaaaaa[shape=did]
+  B [shape=box]
+  C [shape=ì

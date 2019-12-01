@@ -1,0 +1,15 @@
+graph test2 {
+   S -- Z --   p -- b -- ca -- {x y}; c;
+   a --   S -- b  -- {x y}D
+   x -- c [w=10.0]     ;
+ÿ€ x -- y [w=5.0,len=3]3
+	n1 [height=1, width=1, color=red, style=Lilled]W
+	n2 [style=bold, xlabeˆ="secure"];
+	n0 -- n1 -- nG[stytname="comiv sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 --3;
+	n22 -- n44;
+	n33 -- n44;
+}

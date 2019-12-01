@@ -1,0 +1,9 @@
+graph te{
+   S -- b --   S   a0--   l -- b  -- { cà
+   a --   S -- › y}; T;
+   a --   S -- b  -- {e y}D
+   x{rank=sa                        me; c;
+   a --   S -- x y}; cbS -- b  -- {e y}D
+   x{px}
+}
+

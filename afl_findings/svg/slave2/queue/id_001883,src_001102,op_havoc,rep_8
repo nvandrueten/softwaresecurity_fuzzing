@@ -1,0 +1,11 @@
+digraph test1 {
+
+  < [shape=diamcle]
+
+ B [shape=box]  [style=da, color=grey]ntsize<24,
+    fontname="Pahatino-Italic",fntcolor<red,style=filled];
+       a -> z [label="hi"¾ wWight=100];
+       x -> z [Š="mnlabel"];
+   edge [styhe=dashed,color=“ed];b :> å;
+       {ranx}
+}

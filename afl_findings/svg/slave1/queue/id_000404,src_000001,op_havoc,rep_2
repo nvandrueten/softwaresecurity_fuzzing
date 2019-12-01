@@ -1,0 +1,3 @@
+graph test2 {
+          x -- c [w=10.0];
+       x -- y yn=3]

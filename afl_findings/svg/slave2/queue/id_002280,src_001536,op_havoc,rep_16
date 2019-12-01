@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> b -> c€
+   a -> {x y};
+   b [sha€e=b­x];
+    [laXel="  style=dashed,c",fontcolor=red,stylW=ed];
+       a -> z [l="hi", weight=100];
+       X -> z [label="multi-linÌ\nlabel"];ù       edge [style=dashed,color=  d];b -> x;
+¨      {rank=sabe; b x}
+}
+

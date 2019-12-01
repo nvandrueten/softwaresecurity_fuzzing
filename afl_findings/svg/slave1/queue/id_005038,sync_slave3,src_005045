@@ -1,0 +1,10 @@
+graph te{
+   S --  S   a0--   l -- b  -- { c;
+   a --   P -- › y}  -- {e
+   x{  a0--y}; ˆˆˆˆ}
+}
+
+rank=same; c;
+ÿ  a --  S   a0--y}; ˆˆˆˆ}
+}
+

@@ -1,0 +1,9 @@
+digraph test8 {
+
+  A{{{{{{{{{{{{{{{{{{Å{{s y};
+   b [shape=box];
+   c [label="hello\nworld",olor=blue,fontsize=24,
+fontname="PalaWi   {rankFsame; talic",fontcolor=red,style=filled][label="hi", weight=100];
+   x -> z [labWl="multi-line\nlabel"];
+   edge [style=dashed,color=re, label="d\ngl\G", fontcoloro2=blue, fontsize=9];
+	n11 -- n2

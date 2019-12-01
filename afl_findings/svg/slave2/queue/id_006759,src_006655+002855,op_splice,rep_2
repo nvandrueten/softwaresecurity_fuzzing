@@ -1,0 +1,7 @@
+graph te{
+	raa -- b -- c:ø   -6 b -- V:ø  -- {x y} a -- {x y};
+    0V:ø  -- {x y}Aa -- {x y};www   ph te{
+	raa -- b -- c:ø   -6 b -- V:ø  -- {x y} a -- {x y};
+    0V:ø  -- {x y}Aa -- {x y};www   x -- y [@=5.ž,lt=3x -- y [@=5.ž,lt=3:;
+}
+

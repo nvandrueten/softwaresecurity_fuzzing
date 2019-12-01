@@ -1,0 +1,2 @@
+digraph test3 {
+   a -> b :>

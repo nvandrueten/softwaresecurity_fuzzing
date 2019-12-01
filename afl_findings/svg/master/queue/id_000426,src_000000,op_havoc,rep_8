@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shPpe=diamoLM]
+  B [shape=box]
+  C [snape=circle]
+
+  A -> B [style=daÿhed, color=grey]
+  [penwidth=5, arrowhead=n A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=nne]
+}

@@ -1,0 +1,5 @@
+graph te{
+   a d --   S -- b -- cx y}graph t {
+   a b --   S -- {x y}; c;
+   ab -- cx y}graph test2 {
+   a …  -- bx(

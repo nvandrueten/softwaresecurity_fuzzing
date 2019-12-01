@@ -1,0 +1,4 @@
+graph test2 {
+   a --aph test2 {
+ b -- c;
+   a -- {x y} -€ÿÿ

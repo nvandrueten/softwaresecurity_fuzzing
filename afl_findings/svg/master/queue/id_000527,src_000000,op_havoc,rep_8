@@ -1,0 +1,10 @@
+digraph test1 { 
+  A [shape=diamo_d]
+  B [shaEe=box]
+  C [sha“e=circle]
+
+  Aircle -> B [style=dashed, color=grey]
+  A -> C [color="bla@k:invi—:black"]
+  A ->ÀD [penwidth=5, arrowhead=none]
+
+}

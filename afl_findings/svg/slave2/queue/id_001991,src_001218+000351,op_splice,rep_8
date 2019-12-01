@@ -1,0 +1,9 @@
+graph test2 {
+ 4 x -- c [w=10.0];
+
+   S -- b --   S -- b -- c;
+   y};
+   x -- c [w=1; C [c”lor="black:invis:black"]
+  A -> D [penwdpen|idth=5, aad=no_e]
+
+}

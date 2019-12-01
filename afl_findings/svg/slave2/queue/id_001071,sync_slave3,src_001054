@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  [style=da, coloå=grty]ntsize<@4,
+    fonˇame="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi, weight=100];
+       x -> z [labnlabel"];
+   edge [stdle=dashed,color=red];b -> x;
+    
+}
+

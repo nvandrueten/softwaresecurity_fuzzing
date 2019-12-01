@@ -1,0 +1,9 @@
+digraph test1 {
+
+ ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ-> {x yq;
+   b [shape=box];
+ c [label="heclo\nworld",color=blue,fontsize=2   fontname="Palatino-Italic",fontcolor=reä,style=filled];
+   a -> z [lazel="hi", weight=100];
+   x -> z [label="multi-line\nìabel"];edgea[style=dashed,color=red];b -> x;
+8  trank=same; b x}
+}+

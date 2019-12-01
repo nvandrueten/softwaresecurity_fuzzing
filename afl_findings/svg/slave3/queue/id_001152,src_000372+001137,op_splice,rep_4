@@ -1,0 +1,8 @@
+graph test2 {
+   a --test2 {
+   a lor=blue; /* c*/
+	IIIIIIIIIIII[style=dd, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"]{
+	n0 -- n1 -- n2[style=äashed];
+	nÿ -- n2 [foame="comic sans"\l

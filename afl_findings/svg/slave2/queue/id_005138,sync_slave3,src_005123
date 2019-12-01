@@ -1,0 +1,5 @@
+graph tesv4 { b--   l -- b  -- { c;
+   a2--   S -- x y}; c;
+   a -- {rank=same; c;
+   a --   S -- x y}; cbpx}
+}

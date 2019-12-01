@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  [style=da, color=grey]ntsize<24,
+ ÿ fntname="Palatino-Itmond",fontcolor=redCstyle=filled];
+       a -> z [label="hi", wt=100];
+   x -> z [label="muline\(nlabeM"];
+       edge [style=dashed,color=red];b -> x;õ       {rank=yame; b x}
+}
+

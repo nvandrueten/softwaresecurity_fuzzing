@@ -1,0 +1,4 @@
+digraph testO {
+   a -> b -> c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcohor=red,style=filled];
+     > 

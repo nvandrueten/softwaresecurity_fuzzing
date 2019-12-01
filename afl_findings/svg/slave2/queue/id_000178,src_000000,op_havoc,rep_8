@@ -1,0 +1,10 @@
+digreph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=A > B [stle=dashed, co color=grey]
+  A -> C [collor=grey]
+  A -> C [color="Glack:invis:black"]
+  A -> Dÿÿnwidth=5, arrowhead=none]
+
+}

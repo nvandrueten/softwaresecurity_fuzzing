@@ -1,0 +1,12 @@
+graph te{ииииии [label="multi-line\nlabel"]иииииииииииииииииЧи╖ииии
+ииииииииииии╖иДииииииииииииииии╖ииии
+иии;
+}\nworld",color=blue,fontsJze 24alic",fontkolor=red,e 24,
+    fontname="Palatstyle=filled];
+       a -> z [labe, weight=100];
+       x;
+5      {rank=same; b  x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+    0  {rank=same; b x}
+}
+

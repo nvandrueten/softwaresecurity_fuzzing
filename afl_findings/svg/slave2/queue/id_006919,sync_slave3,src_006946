@@ -1,0 +1,22 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [s‚ape=circle]
+
+  A -> B [style=dashed, color=çrey]
+  A -> C igraph test1 {
+1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [s‚ape=circle]
+
+  
+  A [shape=diamond]
+  B [shape=box]
+  C [s‚ape=circle]
+
+  A -> B [style=dashone]
+
+}

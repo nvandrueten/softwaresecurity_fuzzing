@@ -1,0 +1,5 @@
+graph  est4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n þ     x -- y [w=5.0,leb=3];
+}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  5 [shape=ƒiamond]
+  B [shape=bsx]
+  C [sh¡pe=circly]
+
+  A -9 F Ws=dash{d  B [shape=bsx]
+  C [shape=circ,   A -> C

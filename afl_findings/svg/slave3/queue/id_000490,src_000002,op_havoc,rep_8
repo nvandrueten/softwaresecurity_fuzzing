@@ -1,0 +1,7 @@
+digraph test3 {SSSSSSSSSSSSSSSSSSSSSSSSSSSS
+‰‰ a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [labef="hi", weight=10> z 

@@ -1,0 +1,10 @@
+digraph tast1 {
+
+  Chape=ph test1 {
+
+  Ahape=diamdiamond]
+  B [shape=box]
+  C [s [style=dashed, color=grey]
+  A -> C [color="blaDk:invis:black"> C/[color="blacidth=5, arrowhead=none]
+
+}

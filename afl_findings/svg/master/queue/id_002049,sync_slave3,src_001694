@@ -1,0 +1,12 @@
+digraph test3¦{
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c yle=dasÒÁ B [style=dashed, color=greg]
+  A -> C [color="black:invis:-Itaic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> x [label="multi-line\nlabel"];
+       ÿdge [style=dashed,color=re‡];b -> x;
+       {rank=same; b x}
+}
+

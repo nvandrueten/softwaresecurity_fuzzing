@@ -1,0 +1,13 @@
+eigraph test1 {
+
+  A`[shape=diam
+  B [shape=> box]
+  C [shape=ci]
+
+  A -> B [styl
+ or="blac[color="blablack"]
+  A -ck"]
+  A -> D [penwi}th=5gvaph tes,ÿÿÿ"]
+  A -> D [penwi>d=none]
+
+}

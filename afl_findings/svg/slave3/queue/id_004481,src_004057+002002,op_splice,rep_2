@@ -1,0 +1,7 @@
+graph test€ {
+   a d --   S -- r -- cS -- {x y}; c;
+   ab -- x y}graph tdsß2 {
+   a b --   S -- {x y}; c;
+   ab -- c [w=5.0,len=3];
+}
+

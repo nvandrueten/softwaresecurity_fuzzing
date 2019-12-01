@@ -1,0 +1,18 @@
+egraph tist1 {
+
+[Phap]
+` B [sha=c<rcle]
+
+ <S ->€ÿ [s` cc1 */
+	n0 [tyle=dotted, fillcolor="#123456"]J // c2; c3; c2 -- c3
+	n1 [height=1, eidth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- e2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, foQtsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

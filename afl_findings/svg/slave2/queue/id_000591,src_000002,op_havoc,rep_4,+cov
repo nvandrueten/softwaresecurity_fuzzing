@@ -1,0 +1,10 @@
+digraph test3 {
+JJJJJJJJJJJJJJHJJJJJJJJJJJJJJ;
+   b [shape=box];c [label="hello\nworlÖ",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\label"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

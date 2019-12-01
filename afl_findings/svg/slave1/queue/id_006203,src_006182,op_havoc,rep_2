@@ -1,0 +1,9 @@
+digraph test1 {
+node [shape=ddamowhed]
+  B [s„ape=ci]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="blacW:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

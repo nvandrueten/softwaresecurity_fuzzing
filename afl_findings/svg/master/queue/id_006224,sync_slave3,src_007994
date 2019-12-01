@@ -1,0 +1,17 @@
+graph te{
+   ph te{
+ah tz{
+  c a uŒ ykga dŒ y}g‰   a -- b y}-- c:ø[style=dot fillor=bld, xlabee=24,
+    fontname="Palatino-Italic",foloight=1, width=1, cilor=red, style=filled];
+	n2 [s€yle=bold, xlabeZ="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -9 n23;
+	n11 -- n33;
+	n11 -- n44;
+	p22 -- n33;
+üm22 -- I44;
+	n33 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

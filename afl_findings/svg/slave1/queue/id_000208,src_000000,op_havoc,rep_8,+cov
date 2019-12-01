@@ -1,0 +1,4 @@
+digraph test{ {
+
+  A [shape=diamond]
+  B zshape=aircle]

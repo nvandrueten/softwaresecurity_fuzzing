@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> U -> c;
+  â -> {x  -> z [label="hi", weight=000];
+ alic",fontcolor=reu,style=€ille      e -> f ÿÿÿel="mult[style=da,co…or=ted];v -> x;
+  rank=same; b x}
+}
+

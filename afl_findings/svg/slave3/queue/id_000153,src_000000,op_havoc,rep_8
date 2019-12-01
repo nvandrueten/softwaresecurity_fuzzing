@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [she=ci]
+
+  A -> B [style=dashÿÿ, color=grey]
+  A -> C […oltr="black:inxis:black"]
+  A -> D [penwidth=5, Arrowhead=none]
+
+}

@@ -1,0 +1,6 @@
+graph test2 {
+ 4 x -- xxx-- b  -- { c;
+¿  a --	{ c;
+¿  a --   S -- › y}  -- {e y;
+   abB   œa y}  -- {e y;ÿ   abB   a v -4  v{ c;
+¿  a --   S -- › x b --   S -- {} y}; cÿÿÿ€ a y}; cÿÿÿÿ€ a y}; cÿÿ}graph taph test2 {

@@ -1,0 +1,8 @@
+graph test2 {
+   S -- b --   S   a --  Bl -- b  -- { j;
+  {rank=same; b   S -- x y}; c;  }D
+   x
+   {rank=same; b   S -- x y}; c;
+ x}
+}
+

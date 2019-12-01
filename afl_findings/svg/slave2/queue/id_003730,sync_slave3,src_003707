@@ -1,0 +1,12 @@
+graph te{
+   S -- """""""&"""Z --   p --  a --   S --0 [style=dotted, fillcolor="#23456"]; // c2; c3; c2 -- c3
+	n1 , wid n44;
+}
+th=1, c=red, il;
+	n2 [s=bold, xl="se"];
+2 --	n	n0100];
+       x -> z [label="multi-line\glabel"];
+       edve [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

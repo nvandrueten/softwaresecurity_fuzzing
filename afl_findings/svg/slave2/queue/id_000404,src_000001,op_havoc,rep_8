@@ -1,0 +1,8 @@
+graph zesg2 {
+   a -- b  a -- {x y};
+ e     x -- c };
+   
+ e     x -- c };
+       x -- c<
+}
+

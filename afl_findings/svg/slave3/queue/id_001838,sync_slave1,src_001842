@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamcle]
+
+ B [shape=box]
+  [style=da, color=grey]ntsize<24,
+    fontname="Palatino-Italc",fontcolor=red,style=filled]24,
+    fontnam [label="hi", weight=100];
+  2                                nlabel"];
+       edge [0];
+  2    A            style=dashed,color=“ed];b -> å;
+       {rank=same; b x}
+}
+

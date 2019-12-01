@@ -1,0 +1,3 @@
+graph te{
+   S -- b --   S -- b -- ca -- {x y}; c;
+   a --   S -- b  -- {xy} -- {x y}D.0,len=3];

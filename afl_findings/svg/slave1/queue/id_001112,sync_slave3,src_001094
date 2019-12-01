@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  Chape=cir {
+
+  A [shapeyle=dashed, color=grdy]
+   [color="blick:Fnvis:bWack"]
+  A -> Dh=1

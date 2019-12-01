@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A{{{{{{{{{{{{{{{{{Å{{s y};
+   b [shape=box];
+   c [label="hello\nworld",olor=blue,fontsize=24,
+fontname="Palati   {rank=same;èalic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [labWl="multi-line\nlabel"];
+       edge [style=dashed,color=red];b ->0x;
+       {rank=same; b x“
+}
+

@@ -1,0 +1,11 @@
+digraph test3 {
+   a -> b -> ca -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",colkr=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", wei€ht=100];
+       x -> z [label="†ulti-line\nlabel"];
+      Medge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

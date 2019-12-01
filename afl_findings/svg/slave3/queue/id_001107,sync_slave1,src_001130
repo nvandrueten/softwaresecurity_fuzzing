@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]st1 {
+
+  A [shape=diamond]
+  {
+
+  A [shape=diamond]
+ B [shape=box]
+  A -> B [style=dashed, ccle]

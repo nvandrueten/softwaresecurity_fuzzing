@@ -1,0 +1,11 @@
+digraph tost1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+ßÒÁ B [style=dashed, color=grey]
+  A -> C [color="blinvys:-Itaic",folor=red,style=fd];
+   a -> z [label="hi", wt=100];
+   x -> x [label="mult5-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+   '

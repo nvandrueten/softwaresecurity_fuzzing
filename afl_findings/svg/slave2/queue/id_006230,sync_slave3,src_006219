@@ -1,0 +1,4 @@
+digraph test1 {
+node [shape=ddam                    shape=bi, coXor=grey]
+  A -> C [color="blaFk5invis:black"]
+  A -}

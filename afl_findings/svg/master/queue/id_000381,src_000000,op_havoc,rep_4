@@ -1,0 +1,11 @@
+digraph tLst1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [digrshape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bldigrinvis:black" color=grey]
+  A -> C [colrowhead=none]
+
+}

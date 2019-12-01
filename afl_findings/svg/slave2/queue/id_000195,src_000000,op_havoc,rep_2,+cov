@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  Bƒƒƒƒƒƒƒƒƒƒ [shape=box]
+  C [shape=ci]
+
+  A -> B [style=dd, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D Opeth=5]
+
+}

@@ -1,0 +1,6 @@
+graph test2 {
+   S -- b --   S   a --   l -- e  -- { c;
+   a --   S -- x y}; c;
+   a --   S -- b  -- {dý a --   S -- x y}; c;	ÿ me; b x}
+}
+

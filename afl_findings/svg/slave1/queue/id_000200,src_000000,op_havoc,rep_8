@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=hox]
+  C [shape=circIe]
+
+  A -> B -> D [venw=5, NŒrowhe[

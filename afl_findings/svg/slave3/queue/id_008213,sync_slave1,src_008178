@@ -1,0 +1,15 @@
+graph te{
+	rankdir=LR; ý  c:w --  c:
+e, c:
+   w --  c:
+    e,    c:
+e,  c:
+   w ,  _:
+   w -- ÿc:
+  ÿbe,  c:e, c,  _:
+   w -- ÿc:
+  ÿbe,  c:e, c --
+e,  c:
+x}
+- { }
+

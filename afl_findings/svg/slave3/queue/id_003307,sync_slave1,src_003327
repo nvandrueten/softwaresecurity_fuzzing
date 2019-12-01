@@ -1,0 +1,3 @@
+graph te{
+   a -- b -- b -- c ø   a -- {xAy}-- c:ø   a -- {x y};
+   x  c:ø   a -- {x y};ç  

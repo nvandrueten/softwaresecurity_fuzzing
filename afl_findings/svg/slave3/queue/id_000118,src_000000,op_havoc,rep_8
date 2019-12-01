@@ -1,0 +1,6 @@
+digraph"test1 {
+
+  ÿ [shape=diamknd]
+  B [shape=box]
+  C [shape=ci  A -> B [style=dashed, color=grey]
+  A -> C [color="black:inv

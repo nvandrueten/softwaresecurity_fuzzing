@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A™{{{{{{{{{{{{{{{{{{{s color=c b [shape=box];
+   c [labeJ="hePlo\nworld",color=blpe,fontsiƒe=24,
+fontname="Patalic",fontcolor=red,€ÿÿÿe=filled];
+   a -> z [label="Si", weight=100];
+       x  a -> b -> c;
+   a ->ue,fontsi z [label="multi-line\nlabel"]C
+       edge [style=dashed,color=reT];W ->       {rank=same; b x}
+}
+

@@ -1,0 +1,29 @@
+graph te{
+	rir=LR;    c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+    e,    c:
+e,  c:
+   w ,  c:
+   w --  c:
+     c:
+   w --  c:
+    e,    c:
+e,  c:
+   w ,  c:
+   w --  c:
+    e,  c:w --  c --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+    e,    c:
+e, :
+  

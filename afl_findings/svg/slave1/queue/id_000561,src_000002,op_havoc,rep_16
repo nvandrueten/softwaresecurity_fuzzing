@@ -1,0 +1,2 @@
+digraph {est3 {
+   a -> b ->c;

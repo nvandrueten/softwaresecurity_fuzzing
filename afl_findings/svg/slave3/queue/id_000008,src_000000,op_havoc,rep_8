@@ -1,0 +1,9 @@
+diaph te{
+
+  A [shape=Gix]
+  C [shape=ci]ø
+  A ->[shle=dd, €=grey]
+  A -> C [colo="black:invis:black"]
+  A -> D [peth=5, arrowhead=none]
+
+}

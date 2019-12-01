@@ -1,0 +1,12 @@
+digtaph test1 {
+
+  A [shapeRdiamond]
+ ;Bwhehape=box]
+  C [shape=circle]
+
+  A -> B [se=circle]
+
+ tyle=dashed, col"blacr:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

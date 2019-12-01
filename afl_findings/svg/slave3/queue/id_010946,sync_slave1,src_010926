@@ -1,0 +1,10 @@
+graph te{
+	rankdir=LR;    c:w --  c:
+e,  c:
+   w ,  c:
+   s --  c:
+e,  c:
+   w ,  c:w --  c: e,    c:
+e, ссссссссссссссссссссссссссссссссссссссссссссс„ссссссссссссссссссссссссссD [penwidth=5, arrowhead=qone]
+
+}

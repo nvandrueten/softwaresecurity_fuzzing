@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diambox]
+  C [shape=circle]
+
+  A -> B [style=das color=grey]
+  A -> C [color="bls:bTTTTTTTTTTTTTTTFFFFnmidth=5, arrowhead=none]
+
+}

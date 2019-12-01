@@ -1,0 +1,11 @@
+digraph t×sS1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A ->2C [color="black:invis:black"]
+  ÿÿÿÿ D [penw=5, arrod=none]
+
+}

@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shape=diamond][shape=ce]
+
+  A -> B [style=da^h

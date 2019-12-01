@@ -1,0 +1,115 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=bl c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:w --  c: e,    c:
+e,  c: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  cc: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,    c:
+e,  c:
+   w ,     c:
+   w --  c:
+    e,    c:
+e,  c:
+   w , c:
+e,  c:
+   w ,  c:w --  c: e,    c:
+e,  c: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  cc: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,    c:
+e,  c:
+   w ,  c:
+   w --  c:
+     c:
+   w --  c:
+    e,         c:
+   w --  c:
+    e,  c:
+   w --  c:
+    w --A c:
+e,  c:
+   w ,  c:w --  c: e,    c:
+e,  c: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  cc: c:
+   w --  c:
+e,  c:
+   w ,  c:
+     c:
+   w --  c:
+    e,         c:
+   w --  c:
+    e,  c:
+   w --  c:
+    w --  c:
+e,  c:
+   w ,  c:w --  c: e,    c:
+e,  c: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+k,  cc: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,    cw --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,    c:
+e,  c:
+   w ,     c:
+   w --  c:
+    e,    c:
+e,  c:
+   w , c:
+e,  c:
+   w ,  c:w --  c: u,    c:
+e,  c: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  cc: c:
+   w --  c:
+e,  c:
+   w ,  c:
+   w --  c:
+e,  ce,  c:w --  c:
+   e, c --c}e[w=+0 g`7w
+	n11 22 -- n33;
+	n22A-- n44;3;
+	n1-- n44;
+}

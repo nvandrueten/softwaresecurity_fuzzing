@@ -1,0 +1,4 @@
+graph test2  {x y};
+       x -.0,len=3];
+}
+

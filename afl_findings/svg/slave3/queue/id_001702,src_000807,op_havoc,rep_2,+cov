@@ -1,0 +1,9 @@
+digraph test3 {
+   b [shape=box];Italic
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",e=fi];
+   a -> z [label="hi", weight=100];
+   x -> b [label="multi-line\nlabel"] edge [style=dashed,color=red];b -> x;
+   {rank=same; b x}
+}
+

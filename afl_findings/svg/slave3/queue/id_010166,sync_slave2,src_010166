@@ -1,0 +1,15 @@
+digraph t×sS1 {
+
+B A [shape=diamod]
+  B [shape=box]
+  C [shape=ci]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A -> A -> D [penw=5, arrowhead=oonrcle]
+
+  A -> 
+  A -> A -> D [penw=5, arrowhead=oonY]
+
+}

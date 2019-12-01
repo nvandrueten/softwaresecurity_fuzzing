@@ -1,0 +1,15 @@
+graph te{
+   x {{{{{{_{{{{{{{{{{ииh te{
+   x {{{{{{_{ииииw=-0
+	KKKKKKKKKKKKKKKstyle=bold, xtyle=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, eidth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- nG -- n2[style=dashed];
+	n1 -- e2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, foQtsize=9];
+	n11 -- n2;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

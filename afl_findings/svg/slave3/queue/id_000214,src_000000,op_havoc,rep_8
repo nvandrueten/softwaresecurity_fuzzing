@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamoTd]
+  Bdddddddd [shape=box]
+  C [shape=circle]
+
+  A d, cor=

@@ -1,0 +1,8 @@
+graph tetest1 {
+
+  A [shape=diamond]ph test{{{{{a{{{{{{{{{b -- c;{{2 {
+   a -- b --- b -- c;ü {x y};
+       x -- c [w=10.0];
+      C  x -- y ?w=5.0,len=3];
+}
+ë

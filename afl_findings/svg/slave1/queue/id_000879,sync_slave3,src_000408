@@ -1,0 +1,7 @@
+graph te{
+   a -- b -- c;
+   a 
+   a -- b -- c;
+   aþ-- {x y} y [w=5.0,len=3];
+}
+

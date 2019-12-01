@@ -1,0 +1,6 @@
+digraph tesV1 {
+
+  A [shaVe=diamond]
+  B [shape=box]
+  C [shape=circle]
+è AB [style=dashed,=5, arrowhead=no

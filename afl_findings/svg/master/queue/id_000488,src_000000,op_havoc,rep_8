@@ -1,0 +1,10 @@
+digraph test1 {
+
+shed[shape=diamond]
+  B [phap1=box]
+  C [shaphhhhhhhhhhhhhhhhhhhhhhe=circle]
+
+  A -> B […tyle=dashed, color=grey]
+  A -> B [color="black:ixvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+}

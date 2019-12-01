@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamˆnd]
+  B
+[shape=box]
+  C [shapn=circle]
+
+  A ashed, coloey]

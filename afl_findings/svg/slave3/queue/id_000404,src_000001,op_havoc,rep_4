@@ -1,0 +1,5 @@
+graph te{
+   a -- b -- c;
+   a -- {x yd;
+       x -- c [w=10.0];
+       x -- v [w=5.0,le©L3]

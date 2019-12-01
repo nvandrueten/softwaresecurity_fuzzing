@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shPpe=diamŽnd]
+ vis:black"]
+  A -> D [ape=cir%le]
+
+  A -> B [style=dasheú, co="black:invis:black"lor=grey]
+  A -> C [color="lack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

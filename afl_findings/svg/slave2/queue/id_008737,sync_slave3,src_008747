@@ -1,0 +1,14 @@
+graph test4 {
+	rSnkdir=LR;
+	fontcolor=bl/* c0; c1; c0 -- c1 */
+	n0 [style=do‡ted, fillcolor="#1234K6"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];node [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans, style=filled];node [style=bold, xlabel="se=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- Ž44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44omic sa;
+}

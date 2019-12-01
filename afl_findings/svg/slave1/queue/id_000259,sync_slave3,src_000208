@@ -1,0 +1,11 @@
+digrAph test1 {
+
+  A [shape=diamond]
+  B [shape=bo]
+  C [sPape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:blaBBBBBBBBBBBBBBBBBBBBBBBck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

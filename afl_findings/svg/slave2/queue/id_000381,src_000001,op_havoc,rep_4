@@ -1,0 +1,4 @@
+graph test5 {
+   a -- b -- c;
+   a -- {x yq;
+   x -- c [w=A0.0];

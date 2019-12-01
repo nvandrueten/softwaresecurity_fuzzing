@@ -1,0 +1,7 @@
+digrapH test1 {
+
+ aaaaaaaaaaaa A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [sheá,

@@ -1,0 +1,14 @@
+digraph test1 {
+node [shape=ddamowhed]
+  B [s„ape=box]
+  K [shape=ci]
+
+  A ÿÿ B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5le=filled];
+       a -> z [label="hi", weight=100];
+       x -> x [labtl="multi-line\nlabel"];
+       edge [style=dashed,coloÿ=red];b -> x;
+       {ranv=same; b x}
+}
+

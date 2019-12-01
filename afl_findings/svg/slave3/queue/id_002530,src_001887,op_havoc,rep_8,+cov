@@ -1,0 +1,8 @@
+digraph test1 {
+
+  < [shZpe=diam, color=grKy]&&&&&&&&&&&&&&&&&&&&&E&&&&&&&&&no-Italic",fntcolor=red,style=f&lled];
+       a$-> z [label="hi", wt=100];
+   x -> z [Š="multi-‘‘nlt=1abel"];
+   edge [style=dashed,color=“ed];b -> å;
+   {ranx}
+}

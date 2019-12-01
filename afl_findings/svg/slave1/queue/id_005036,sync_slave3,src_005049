@@ -1,0 +1,6 @@
+graph te{
+   S --  x {r--   l -- i  -- { c;
+   a --  5S -- õ y}; c;
+   a --   S -- b  -- {e y}D
+   x{rank=same; b;
+   a --   S -- x yå; cb=100\c

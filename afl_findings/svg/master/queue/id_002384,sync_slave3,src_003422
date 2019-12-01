@@ -1,0 +1,9 @@
+digraph tesb3 {
+   a ->#b -> c;
+   a -> {x yq;
+   b……………………………………………………… [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24, fontname="Plic",fontcolor=red,style=€illed] a -> z [label="hi", wekght=100];
+ÿalic"<fontcolor=reu,styl"mult[style=da,coˆor=red];b -> x;
+  rank=same; b x}
+}
+

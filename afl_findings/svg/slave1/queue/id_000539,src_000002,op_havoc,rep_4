@@ -1,0 +1,8 @@
+digraph test3 {
+   F -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\ld",color=blue,fontsiqe=24,
+    fontname="Palatino-Italic",fontcolor=red,el="multi-line\nlstyle=filled];
+       a -> z [label="hi",tsiqe=24,
+    fontna x -> z [label="m

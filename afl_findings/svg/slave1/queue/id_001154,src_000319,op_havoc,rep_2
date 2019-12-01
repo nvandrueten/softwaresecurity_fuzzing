@@ -1,0 +1,8 @@
+<<<<<<<<<<<<<<<<ond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=bashed, color<<<<<<<<<<<<<<<<<<ack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

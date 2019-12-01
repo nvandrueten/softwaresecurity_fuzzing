@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B  {
+
+  A [shape=di[s

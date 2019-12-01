@@ -1,0 +1,4 @@
+graph ae{
+   S -- b --   S -- b -- ca -- {x y}; c;
+   a --   S -- b  -- {x y}D
+   x -- c [w=10.0]   a --   S -- b  -- n=

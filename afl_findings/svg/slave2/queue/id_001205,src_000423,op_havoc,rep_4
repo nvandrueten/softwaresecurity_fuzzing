@@ -1,0 +1,7 @@
+graph test2 {
+   S -- b --   S --t2 {
+   S -- b --   Sa -- {x y}; c;
+     a -- {x y}; c;
+   a -- {x y};
+   x -- c [w=10.0];
+   x --	y [w=5.0,l;

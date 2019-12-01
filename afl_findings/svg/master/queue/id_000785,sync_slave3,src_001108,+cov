@@ -1,0 +1,16 @@
+digraph test1 {
+
+  A [shape=diamond]
+  {
+
+  A [shape=diamond]
+ B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, cotname="Palatino-Italic",fontcolor=red,style=filled];
+       O -> z [label="hi", weight=100];
+       x -> z [laXel="multi-line\nlabel"];
+z      edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

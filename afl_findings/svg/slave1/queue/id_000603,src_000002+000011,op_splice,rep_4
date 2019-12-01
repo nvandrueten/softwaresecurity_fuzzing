@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+   a -2 {x y};
+   b [shape=box]J
+   c [lªbel="hello\nworld",color=blue,fontsize=24,
+fontname="Palatifo-Italic",fontcolor=red,styrrowhead=none]
+
+}

@@ -1,0 +1,12 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c1; cò -- c1 */
+	n0 [style=dotted, fillcolor="E123456"]; // c2; c3; c2 -- c3ç	n1 [height=1, width=1, color=red, style=fillXd];
+	n2 [style=bold, xlabef="secure"];
+	n0 -- n1 -- n2 [fontname="cimic sand", label="d\n\l\Gor", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 	n22 -- n33;
+	n22 -- n44;
+	n23 -- n44;
+}

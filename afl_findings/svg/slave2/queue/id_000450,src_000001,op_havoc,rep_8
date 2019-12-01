@@ -1,0 +1,5 @@
+graph testK {
+   a -- b -- c;
+  tK {
+   a -- b -- c; x -- y3];
+}

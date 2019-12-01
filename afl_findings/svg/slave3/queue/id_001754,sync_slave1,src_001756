@@ -1,0 +1,13 @@
+digraph t×sS1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A -> C [color="ssblack:in¥is:black"]
+  A alic",fontcolor=red,style=filled];       a -> z [label="hi [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

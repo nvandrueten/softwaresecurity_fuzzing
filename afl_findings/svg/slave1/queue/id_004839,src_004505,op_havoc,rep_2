@@ -1,0 +1,7 @@
+digraph test1 {
+
+    A -> B [style=dashed, colˆr=grey]
+  Aä-> C [color="¡lack:i:::::.:: :::ack:i::[shapw=dTamond::::::::7:: ::ck"]
+  < -> D [penwidth=5,ad=none]
+
+}

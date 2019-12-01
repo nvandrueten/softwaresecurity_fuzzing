@@ -1,0 +1,12 @@
+digraph test1 {
+
+  {
+
+  A[shape=di]
+  B [shapehape=circle]
+
+  A -> B [stylJ=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

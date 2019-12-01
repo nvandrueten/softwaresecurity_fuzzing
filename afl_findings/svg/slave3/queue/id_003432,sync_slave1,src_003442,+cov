@@ -1,0 +1,11 @@
+digraph gesa  {
+   a -> b ->   ÿ -> {x y};
+   b [shape=box];c [label="hellg\nworld",color=blue,féz_=24,
+gontname="Palatino-Italic",fontcolor=red,tyle=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=reD];b -> x;
+       {rank=same; b x}-> b ->   ÿ
+       {rank=sameÙ b x}
+}
+

@@ -1,0 +1,4 @@
+graph te{
+   a -- b --  x -- c [w=10.0];
+   x -- y {
+   ÿ -- b -- c;xlen=3];

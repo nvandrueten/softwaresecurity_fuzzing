@@ -1,0 +1,8 @@
+digraph test1 {
+node [shape=ddamowhed]
+  B [s„ape=box]
+  C [shape=ci]
+
+  A -> B [style=dashee, color=grey]test1 {
+node [shape=ddamowhed]
+( AC [color="black:€5, arrowhead=no

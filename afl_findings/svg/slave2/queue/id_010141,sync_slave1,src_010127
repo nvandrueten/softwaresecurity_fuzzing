@@ -1,0 +1,10 @@
+digraph t×sS1 {
+
+B A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A -> A -> D [penw=5, arrowhead=boxY]
+
+}

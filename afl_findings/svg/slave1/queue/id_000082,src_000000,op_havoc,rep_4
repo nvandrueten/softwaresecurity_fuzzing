@@ -1,0 +1,10 @@
+digraph pest1 {
+
+  A [shape=diamond]
+  B [óhape=box]
+  C [shape=circle]
+
+  A -> B [style=das color=g]
+  C [shape=cy]
+  A -> C [color="black:invis:black"]
+  A )>

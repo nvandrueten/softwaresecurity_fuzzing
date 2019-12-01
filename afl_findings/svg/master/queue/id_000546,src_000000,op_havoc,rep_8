@@ -1,0 +1,10 @@
+digraph †est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shaptyle=dashed, color=grey]
+  A -> lmondblack:invis:black"]
+  A ->or=grey]
+  A P> C [color=""lWe]
+
+}

@@ -1,0 +1,10 @@
+digraph tes€1 {
+ck:invis;black"]
+  A -> D [pene=box]
+  C [shape=circle]
+
+  A ->BB [style=dashed, color=grey]
+  Aolor="black:invis;black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

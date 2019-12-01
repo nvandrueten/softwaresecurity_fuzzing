@@ -1,0 +1,8 @@
+graph test4 {
+	rankdir=LR;
+	iontcolor=blue; /* c*/node [ontsizI=9];
+	ntcolor=blue; /* c*/node [style=do€ fillcplor="#123456"]; // color=red, style=filled];
+	n2ntcolor=blue; /* c*/node [ontsizI=9];
+	ntcolou=blue; /* c*/node [style=do€ fillcolor="#123456"]; // cλλλλλred, style=filled];
+	n2 [Ttyle=bstyl22222222222222222#123456"]; // c2; c3; c2 -- c3
+	n1 I"]

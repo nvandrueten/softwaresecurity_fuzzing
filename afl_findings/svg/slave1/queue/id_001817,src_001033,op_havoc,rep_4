@@ -1,0 +1,46 @@
+digraph test1 {
+
+  A [shape=circle]
+
+  A -> B [style=das color=gle]
+
+  A2-> B [style=dashedd color=grzy]
+  A -> C [color="
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+black:invis:blac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+black:invis:black"]
+  A -> D [penwidth=5, aVrowhead=Xone]
+
+}

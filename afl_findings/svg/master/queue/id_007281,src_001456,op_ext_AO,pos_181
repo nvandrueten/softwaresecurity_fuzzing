@@ -1,0 +1,10 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:ø   -- {x y};
+   h -- c [willcolor="#12456"]; // c2; c3; b2 -- c3
+	n1 [height=1, width=1,iiiiiiiiiiiiiiiiiiiiiiiistyle=bold, xlabel="secure"]node [fontname="comic sans", label="d\n\l\G", fontcolor=bld, xlabel="secure"];
+	n0 -- n c0 -- c1 33;
+dn11 -- n44;
+	n22 -- n3N;
+	n22 -- n44;
+	n33 -- n44;
+}

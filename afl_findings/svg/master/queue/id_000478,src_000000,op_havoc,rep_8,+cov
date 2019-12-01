@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shaÿe=bPx]
+ test1 {
+
+   C [shape=circle]
+
+  A -> B [styrrowhele=d€shed, color=grey][shape=circle]
+
+  A ack:invis:black"]
+  A -> D Wpenw)dth=5, arrowhead=none]
+
+}

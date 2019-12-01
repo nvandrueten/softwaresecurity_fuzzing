@@ -1,0 +1,4 @@
+graph test2 {
+   a -- b -- c;
+   ast2 -- {x y};
+       x -- c[w

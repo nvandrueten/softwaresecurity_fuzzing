@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamoNd]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A ->4C [color="black: nviso-Ic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   ddge [style=dashed,color=red]; -> x;
+   trank=sEme; b 7}
+}
+

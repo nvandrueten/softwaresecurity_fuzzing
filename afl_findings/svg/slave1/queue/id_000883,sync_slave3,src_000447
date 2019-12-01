@@ -1,0 +1,5 @@
+graph test2 {
+   a --eeeeeeeeeeeeeee b -- c;
+   a -- {x y};
+       x -- c [w=10.0];
+       xÿÿÿ

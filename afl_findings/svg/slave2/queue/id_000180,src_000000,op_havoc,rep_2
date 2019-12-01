@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=bol]
+  C [shape=circle]
+
+  A -> B [style=das color=grey]
+  A ->A -> D [pdth=5, arr C [co

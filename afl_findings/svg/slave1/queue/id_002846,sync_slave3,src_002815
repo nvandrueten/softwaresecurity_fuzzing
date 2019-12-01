@@ -1,0 +1,3 @@
+graph te{
+   a -- b -- c:ø   -6 b -- V:ø  -- {x y} a -- {x y};
+    0V:ø  -- {x y}Aa -- {x y};www   x -- y [w=5.ž,lt

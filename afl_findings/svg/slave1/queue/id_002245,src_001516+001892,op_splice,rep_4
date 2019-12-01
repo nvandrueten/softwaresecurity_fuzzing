@@ -1,0 +1,8 @@
+graph test4 {
+an=LR;	ran=LR;
+	polor=blue; /*1 */
+	n0 [style=dotted, fillcolor="#123456"ght=1, width=1, color=red, s‹ys¨yle=bold, xlabel="securi"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcdlor=blue, fl="d\n\l\G", fontcoxor=blue, fontsize=9];
+	n11 -- n22;
+	n11 - n33

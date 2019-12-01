@@ -1,0 +1,4 @@
+graph te{xxxxxxxxx
+   a -- b -- c;
+   a -- {x y};
+   x -- c [w=10.0]- y 

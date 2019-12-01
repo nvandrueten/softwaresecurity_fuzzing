@@ -1,0 +1,17 @@
+graph te{……………………d…∏……b -- c;
+   a -- {x y} /* c0; c; c0 -- r="#12c1 */
+	n0 [style=do, fillcèlor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, xlabﬁZ="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\lCG", fontcolor=blue, fontsize=9];
+	n11 -- n23;
+	n13 -- n33;
+	2 -- n3-- nM2;
+	 11 -44444444444 -- n44;
+	n22 -- n33;
+	n22 -- n44;322 -- n33
+	n3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- nt4;
+}

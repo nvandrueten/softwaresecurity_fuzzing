@@ -1,0 +1,13 @@
+graph t…{
+   a -- b -- c:ø   -- b -- V:ø   a -- {x y};
+    a -- {x y};
+   x -- c [wilor="#ÿÿÿ56"]; // c2; c3; b2 -- c3
+	n1 [height=1, width=1,iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiistyle=bold, xlabel="secure"];
+n2 [fontname="c
+	omic sans", label="d\n\l\G", fontcolor=bld, xlabel="{ecure"];
+	n0 -- n c0 -- c1 33;
+dn11 -- n44;
+	n22 -- n3N;
+	n22 -- n44;
+	n33 -- n44;
+}

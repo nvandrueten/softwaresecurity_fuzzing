@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+ digrsc}pe=box]
+  C [shape=circle]
+
+  A -> B [style=dash-> C [color="black:invis:black"]
+z A -> =diamondD [penwidthM5, arrowhead=none]
+
+}

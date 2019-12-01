@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A{{{{{{{{{{{{{{{{{{Å{{s y};
+   b [shape=box];
+   c [label="hello\nworld",olor=blue,fontsize=24,
+fontname="Parank=same; talic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z ->0x;
+       {line\

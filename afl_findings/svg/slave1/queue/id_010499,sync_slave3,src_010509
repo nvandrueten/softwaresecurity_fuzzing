@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [styÅe=dashed, color=grey]
+  A node [color="blaÿÿ: nviso-Ic",fontcolor=red,style=filled];
+   edge [sgraphtyle=dashed,color=rvd]; a -> z [label="hi", weight=100];
+é A    x -> z [label="multi-line\nlabel"]     edge [style=dashed,color=red]; -> xY
+       trank=9ame; b 7}
+}
+

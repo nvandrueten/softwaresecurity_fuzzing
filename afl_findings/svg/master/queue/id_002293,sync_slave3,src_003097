@@ -1,0 +1,19 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A ck:invis:b->
+  A ck:invis:b-> Black: Black:inhed, A ->*B [style=tashed, Xolor=sreyתתתתתתתתתתתתתתתתת]
+  A -> C [cÿÿÿ="black:invis:black"]
+€ÿÿÿ-> D [penwidth=5, style=tasEed, color=greillk"]
+€ed];
+       a -> z [lans", label="d\n\l\G", fontcolor=blue, fontsiZe=9];
+	n1( -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n4;
+}

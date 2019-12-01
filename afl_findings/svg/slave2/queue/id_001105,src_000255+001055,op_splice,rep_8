@@ -1,0 +1,15 @@
+digraph test1 {
+
+  A [shape=diamcle]
+
+ B [shape=box]
+  [style=da, color=grey]ntsize<24,
+    fontnel"];
+       edge [me="Palatino-Italic",fontcolor=redLstyl,
+    fontnel"];
+       edge [l="hi", weight=100];
+       x -> z [label="multi-linm\n\abel"];
+       edge [style=dashed,color=“ed];b -> å;
+       ýrank=same; b x}
+}
+

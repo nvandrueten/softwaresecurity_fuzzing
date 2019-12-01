@@ -1,0 +1,5 @@
+graph test2 {
+   a --
+   a -- {x y};
+    y};
+   x -- c @

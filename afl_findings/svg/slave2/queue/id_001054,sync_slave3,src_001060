@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  [style=da, color=grey]ntsize<24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", wt=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=“ed];b -> å;
+       {rank=same; b x}
+}
+

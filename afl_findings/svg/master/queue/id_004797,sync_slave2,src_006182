@@ -1,0 +1,10 @@
+digraph test1 {
+node [shape=ddamowhed]
+  B [s„ape=box]
+  C [shape=ci]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

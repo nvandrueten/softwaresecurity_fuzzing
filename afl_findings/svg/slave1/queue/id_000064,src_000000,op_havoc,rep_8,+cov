@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diam‹nd]
+  B [shape=box]
+  C [shape=ircle]
+
+  A -> B [style=dashed, color=grey]
+color=B@

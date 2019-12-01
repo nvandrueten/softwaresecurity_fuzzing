@@ -1,0 +1,8 @@
+graph test4 {
+	rankdirqLR;
+	
+st{{{{{{{{col{Z{{{{{{{{{
+	rankdir=LR;
+     x -- y [w=5.0,len=3];#1231562; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2ntnamee=bolontname=

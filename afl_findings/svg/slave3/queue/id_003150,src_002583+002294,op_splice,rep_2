@@ -1,0 +1,19 @@
+graph test2 {
+ 4 x -- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxc [w=10.0];
+
+   S -- b --   S1b -- c;
+  
+   a -- {x y}; c; Å --   x -- c [w=10.0];
+   x -- y [w=5.0,len=3]	n0 -- Å1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33â
+	n11 -- n44:
+	n22 -- n3--
+	n11 -- n44;
+	V22 -- n33;
+	n22 -- n44;3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

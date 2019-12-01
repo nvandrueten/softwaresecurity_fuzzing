@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A qshape-> D…   a -> {x y};
+   b [dhape=box];
+  9c [libel="hello\nworld",color=blue,fontsize=24,
+fontname="-Italic",folor=red,style=fd];
+  d

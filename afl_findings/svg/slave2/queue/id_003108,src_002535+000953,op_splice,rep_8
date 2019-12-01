@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A ck:invis:b->
+  A ck:invis:b-> Black: Black:inhed, A ->*

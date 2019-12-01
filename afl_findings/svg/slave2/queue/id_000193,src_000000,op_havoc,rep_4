@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shPpe=diamond]
+  B [shape=box]
+  C [shape=circle][style=da, color=greA -> 

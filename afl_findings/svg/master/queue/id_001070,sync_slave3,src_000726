@@ -1,0 +1,5 @@
+graph test4 {
+	rankdir=LR;
+	fontcoln --6y [w=5.0,leb=3];
+}
+

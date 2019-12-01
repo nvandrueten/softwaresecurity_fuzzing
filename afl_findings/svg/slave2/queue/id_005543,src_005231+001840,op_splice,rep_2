@@ -1,0 +1,14 @@
+graph te{
+  n2 a -- b -- c:
+   e, fo-- c:
+   e,  a -- {a -- {š y}; c;
+   a -- {š y};x --y};
+   x -- c [w=10];n2[style=bold, xlabel="securI"lame="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n,1-- n22;hhhhhhn22;hhhhh [fontname="cimic sand", label="d\n\l\Gor", fontcolov=blue, fontsize=9];
+	n11 ;
+	n11 -- n33;
+	n11 -- n44;
+	n22 --ÿn33;
+	n22 -- n44;
+	n23 -- n44;
+}

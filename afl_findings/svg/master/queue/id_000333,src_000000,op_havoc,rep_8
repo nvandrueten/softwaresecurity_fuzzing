@@ -1,0 +1,10 @@
+d++++++++++++ {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=ciròle]
+
+  A -> B [st”le=dashed, color=grey]
+  A -> C [color="ack"]
+  A -> D [th=5, arrowhead=none8
+}

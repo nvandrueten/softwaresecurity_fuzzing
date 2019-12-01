@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+  c [label="hedigraph test3 {
+ll€\nwgrld",c›lor=blue,fontsize=24,
+ style=dashe fontname="Palatiîo-Italic",fontcolor=red,style=filled];
+  /labe

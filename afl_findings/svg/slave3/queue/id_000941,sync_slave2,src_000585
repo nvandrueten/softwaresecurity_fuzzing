@@ -1,0 +1,4 @@
+digraph test3 {
+   ac [label="hello\nworld",color=blze,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+     ) _

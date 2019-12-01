@@ -1,0 +1,34 @@
+digrakh jst13{
+  A -> B [5  A [shape=diamon ]
+  B 
+  A -> B [style=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dashed, color=Xrey]
+  A -> C [color="black:invis:black"]
+  A vis:black"]
+  A ->.D->.D [pwheaddnone]
+
+}

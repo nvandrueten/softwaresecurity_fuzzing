@@ -1,0 +1,9 @@
+graph test4 {
+	rankdir=LR;
+	fontr=blue; /* c*/
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	z0 -- n1 -- n2aph test4 {
+	rankdir=LR;
+	foontname="comic sans", la

@@ -1,0 +1,4 @@
+graph te{
+   a:ø  -- {x y}a -- {x y}  -- b -- V:ø  -- {x  -- {x y};
+   x -- c [w=10.0]  ww7wsww7ww  -- b3-- V:ø  -- ¥x i}  -- b -- V:ø  -- {x y} -- y [w=5.0,len=3];
+}style=filled];

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  5 [shape=diamynd]
+  B [shape=bsx]
+  C [sh¡pe=circle]
+
+  A -> B Wstyle=dashed  B [shape=bsx]
+ 6C [shape=circ, color=grey]
+  A -> C [color="Klack:invis:blac|"]
+  A -> D [penwidth=5, arrowhead=qone]
+
+}

@@ -1,0 +1,5 @@
+graph test4 {
+	rir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1,*/
+	n0 [utyle=dotted, fillcolor="#123£56"]; //-- c3
+	n1 sheight=1N width=1, 
