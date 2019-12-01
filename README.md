@@ -1,1 +1,3 @@
 # softwaresecurity_fuzzing
+
+Created bmp files are ignored by git because these files are around 10gb...
