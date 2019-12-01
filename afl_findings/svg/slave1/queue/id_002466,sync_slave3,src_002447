@@ -1,0 +1,12 @@
+digraph test1 {§
+  5 [shapT=ond]
+  B [shape=bsx]
+  C [sh¡pe=le]
+
+  A -> B Ws=dashed  B [shafize=24,
+    fontname="Palatÿo-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+  e,fongsi z [label="multi-line\nlabel"];
+     0 edge [style=dashed,color=red];b ->       {rank=same; b x}
+}
+

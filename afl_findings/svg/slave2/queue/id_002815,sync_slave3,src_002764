@@ -1,0 +1,35 @@
+digraph test3 {
+   a -> b -> c;
+   aˆ-> {x 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [label="hello\nworld",color=blue,fontsize=224];
+  a -> z [label="hialic",fontcolor=red,style=fl];
+   a -> z […="hi", weight=100];
+       x -> z [label="multi-line\nrabel"];
+       edge [style=dashed,color=red];b -> x;
+     b x}
+}

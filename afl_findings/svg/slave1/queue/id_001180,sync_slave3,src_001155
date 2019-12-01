@@ -1,0 +1,12 @@
+graph test2 {
+   a --test2 {
+   a lor=blue; /* c0; c1; c0 -- c1 */
+	IIIIIIIIIIIIIIIIIIIIIIIIIn0 [lcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"]{
+	n -- n2[style=äashed];
+	nÿ -- n2 [foame="comic sans", label="d\n\l\G", fontSolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n3

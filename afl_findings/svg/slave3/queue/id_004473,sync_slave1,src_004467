@@ -1,0 +1,7 @@
+graph te{
+ {
+   a d -- x y}; c;
+   abB--a b --   S -- {x y}; c;
+   ab -- cx y}graph test2 {
+   a b  -- bx y};
+  

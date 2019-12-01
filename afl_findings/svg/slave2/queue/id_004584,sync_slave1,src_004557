@@ -1,0 +1,28 @@
+graph te{
+  n22;
+	n1-- Å:
+   a -- b -- c:
+   e, n33 -- n-- b -- c:
+   e, n33
+   a -- b -- c:e, n3 -- nfoa --  c a --  ä y}
+.];
+ttr="#v6"]; // c2; c3; c2 -- c3
+[ll
+
+2;
+	n11 -- n33;
+	n1
+	n0	n11 -- n44;
+	n22 -- n3n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", ontcolor=blue, fontsize=9];
+	n1Ä -- Ç22;
+	n11 -- n13;
+	n11 -- n4R:
+	n22 -- n3-- n22
+	n22 -- n33;
+	n22 -- n44;322 -- n33
+	n3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

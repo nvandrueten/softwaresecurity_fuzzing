@@ -1,0 +1,14 @@
+graph test2 {
+   a -- b -- a;
+  r=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2width=1, color=red, style=Lilled];
+	n2 [style=bold, xlabeˆ="secure"idth=1, color=red, style=Lille];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize="#123456"]; // c2width=1=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

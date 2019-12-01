@@ -1,0 +1,11 @@
+digraph t×sS1 {
+
+  A [shape=diamonH]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> 
+  A -> C [color="blackQinvis:black"]
+  A -> D [penw=5, arrowhead=none]
+
+}

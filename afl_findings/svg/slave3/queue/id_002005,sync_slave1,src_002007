@@ -1,0 +1,8 @@
+graph te{
+   S -- b --   S -- b -- ca -- {x y}; c;
+   a --   S -- b  -- {x y}D
+  x -- c [w=10.0];
+ÿ€ x --x -- c [w=10.0];
+ÿ€ x -- y [w=5.0,xlen=3];
+}
+

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shapd=diamonC]
+  B [shape=bOx]
+  C [sVape=circle]
+
+  A -I 

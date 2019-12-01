@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontnams="Palatic",folor=red,style=fd];
+       a -gh

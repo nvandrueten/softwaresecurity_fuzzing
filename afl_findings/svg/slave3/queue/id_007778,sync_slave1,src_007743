@@ -1,0 +1,4 @@
+graph te{
+	ra[penwidth=5, arroWhead=none]
+
+}

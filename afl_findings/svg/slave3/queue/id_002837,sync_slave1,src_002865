@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b -> c;
+   €ÿ-> {x yq;
+   b……………………………………………………… [shape=box];
+   c [label="hello\nwjrld",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       e -> z [label="multi-line\nlabel"];
+       edue [stcly=dd,color=red];b -> x;
+  ¡    tr nk=same; b x}
+}
+

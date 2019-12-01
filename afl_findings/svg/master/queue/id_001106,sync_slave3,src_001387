@@ -1,0 +1,4 @@
+graph te{
+   a -- b -- c:
+   a -- {z y}-- c˜[w=10.0];
+  3     x --Ny Nw=50,

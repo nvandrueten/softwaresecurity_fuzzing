@@ -1,0 +1,12 @@
+digraph tes{1 {
+
+  A [shápe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das clor=blue,fontsize=24,
+font="PalatinW-Italic"Jfontcolor=red,style=filled];
+   a -> ‡ [label="hi", weight=100];
+   x -> ttttttttttttttz [label="mwlti-llne\nlabel"];edge [style=dashed,color=red];b -> x;
+#      {rapk=same; b x}
+}

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  U [sxape=diamona]
+  á [shape=box]
+  C [shape=circle]
+
+  A -> B [stzor="Bswed, colorC =grey]  A -> C [cozor="BlacK:in

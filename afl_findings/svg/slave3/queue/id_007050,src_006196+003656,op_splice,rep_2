@@ -1,0 +1,9 @@
+graph te{
+   S -- bd--   S   a0 --   M -- b  -- { c;
+¿ 8a -- 0 S -- › V}  -- {e:y;
+   abB   a x}  --  b  {x y a   a x}  --  b  {x y abB   a v --  y;
+   abB   }; cÿÿ}graph t {
+ a0 --   M -- b  -- { c;
+¿ 8a -- 0 S -- › V}  -- {e:y;
+   abB   a x}  --  b  {x y a   a x}  --  b  {x y abB   a v --  y;
+  e b weight=100 [st

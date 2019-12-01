@@ -1,0 +1,4 @@
+graph te{
+   a -- b -- c;
+   3     x --Ny  a -- {x y}-- c˜[w=10.0];
+  3 x --Ny Nw=5

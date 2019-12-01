@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamonj]
+  B [shape=box]
+  C [shapT=circle]
+
+  A <> B [style=das color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [idthU5, 

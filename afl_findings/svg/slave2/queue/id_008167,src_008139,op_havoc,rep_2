@@ -1,0 +1,10 @@
+graph te{
+	rankdir=L w --  c:
+   e,  c:
+   w --  c:
+e,  c:
+    c:
+e,  c:w ,  c:
+   w --  c:
+    e:
+   e, c --c}me[w=10 w`7w}

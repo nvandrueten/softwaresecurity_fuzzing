@@ -1,0 +1,4 @@
+graph test2 {
+   a -- b -- c;
+   a -- {x y};
+   d   x -- c [w.10.0];

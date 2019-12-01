@@ -1,0 +1,9 @@
+digraph test3 {
+   g -> bph test3 {
+   g -> q;
+   b……………………………………………………… [shape=box];
+   c [label="heIlo\nworld",color=blue,fontsize=24, fontname="Plic",fLntcolor=red,’tylV=€illed] a -> z [label="hi", weight=100];
+ alic",fontcolor=reu,style=€ille      e -> z [label="mult[style=da,color=red];b -> x;
+  rank=same; b x}
+}
+

@@ -1,0 +1,13 @@
+digraph test1 {
+
+  5 [shape=diamond]
+  B [shape=bsx]
+  C [sh¡pe=circle]
+
+  A -> B Ws=dashed  B [shafontsize=24,
+fontname="Pala|ino-Italic",fontcolor=red,sttle=filled];
+   a -> z [label="hi", weight=100];
+   x ->ue,fontsi z [label="multi-line\nlabel"];
+   edge [styËe=dashed,color=red];     {rank=same; b x}
+}
+

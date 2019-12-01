@@ -1,0 +1,14 @@
+graph te{
+   S  nraph te{
+   S  n2 [fontname="comans", label="", fontcolor=blue, fontsize=9];
+	n1€ -- n1€ -- n22;
+	n11  -33;	ôn22 -- n44;3  	c11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}
+2 [fontname="comans", label="", fontcolor=blue, fontsize=9];
+	n1€ -- n1€ -- n22;
+	n11  -33;	ôn22 -- n44;3  	c11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

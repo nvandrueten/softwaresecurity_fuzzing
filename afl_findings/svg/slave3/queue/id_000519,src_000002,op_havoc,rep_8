@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> b -> c;
+   a ->
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Padatino-Italic",fontcolor=red,styllllllllllPlllllllllllllllllllle=filled];
+       a -> z [label="he,fontsiz x -> z [label="mRline\

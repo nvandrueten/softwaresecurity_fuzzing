@@ -1,0 +1,7 @@
+graph test2 {
+   S -- b --   S   a --   l -- b  -- { c;
+   a -- W S €ÿÿÿ‘‘‘‘‘‘‘‘‘‘‘‘‘--   S -- b  -- {e y}D
+   x
+   {rank=same; b x}
+}
+

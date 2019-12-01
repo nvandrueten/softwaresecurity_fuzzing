@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];c [l="hello\ld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style="h)", weight=100];
+   x -> z [laael="multne\nl"];
+   edge [style=dashed,color=red];b -> x {rank=same; b x}
+}
+

@@ -1,0 +1,4 @@
+graph test2 {
+4  a -- b -- ca;
+   a -- {x y};
+   x -- c [w=)

@@ -1,0 +1,4 @@
+digraph te{t1 {
+
+  A  [shape=box]
+  C [scle]

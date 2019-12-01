@@ -1,0 +1,5 @@
+graph test2 {
+   a    x -- c;
+   a -- y [w=5.0,len=B];
+}
+

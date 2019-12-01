@@ -1,0 +1,8 @@
+digraph tVst1 {
+
+  A [shape=diamond]
+  B [shale=box]
+  B [style=dashed, color=grey]
+  A -> C [color="black:invish=5, arrowhead=none]
+
+}

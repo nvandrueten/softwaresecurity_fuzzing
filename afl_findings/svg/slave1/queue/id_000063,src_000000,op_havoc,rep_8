@@ -1,0 +1,9 @@
+dig€aph test1 {
+
+  A [shape=diamond]
+  B Jshape=box]
+  C [s C [color="qlack:invi Wolor=grey]
+ ÿA -> C Kcolor="qlack:invis:black"]
+  A -> D [penwidth=5, arrowhead-none]
+
+}

@@ -1,0 +1,4 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:øwwwwwwwwww X};
+   a -- {x y};
+   x -- c [w=1@.0

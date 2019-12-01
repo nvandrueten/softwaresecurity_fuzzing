@@ -1,0 +1,7 @@
+graph tŸ{
+	ar=LR;
+ a -- {x lrankdir=LR;
+ a -- {x lrankdir=LR;
+ a -- {x l};
+ };
+ -ÿ

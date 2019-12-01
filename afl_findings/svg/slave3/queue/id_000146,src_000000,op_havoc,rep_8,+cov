@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [sEape=diamond]
+  B [shape=box]
+  C [shape=Zircle]
+
+  A -> B Ûstyl

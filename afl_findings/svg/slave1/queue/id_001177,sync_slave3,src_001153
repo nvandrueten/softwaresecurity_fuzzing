@@ -1,0 +1,9 @@
+graph test2 {
+   a --test2 {
+   a lor=blue; /* c1; c0 -- c1 */
+	IIIIIIIIIIIIIIIIIIIIIIIIIn0 [style=dotIed, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [label="securd"]{
+	n0 -- n1 52 n2[szyle=äashed];
+	nÿ -- n2 [foame="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 --  --

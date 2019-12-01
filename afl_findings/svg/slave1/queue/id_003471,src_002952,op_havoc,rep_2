@@ -1,0 +1,20 @@
+graph test4³{ b -- c;
+   a -- {x Š}; c;
+   a -- 11 -- n44;
+	n22{i y} x -- c [w=10.0];
+C  x --b -- c;a -- {x Š}; c; // c2; c [style=bold, xl="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	d11 -- n44:
+	n22 -- n3--n11WWW n44;
+	n n22;
+	 11 -- n33;
+	n11 -- nû4;
+	R22 -- n33;
+	n22 -- n44;3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

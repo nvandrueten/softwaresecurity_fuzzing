@@ -1,0 +1,12 @@
+graph te{
+   ph te{
+ah tz{
+  c a uŒ ykga dŒ y}g‰   a -- b y}-- c:ø[style=dotted, fillor=bld, xlabee=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled]Q
+      Øa -> z [label="hi", weight=el="multi-line\nlabel"];
+ 100];
+       x -> z [label=³multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

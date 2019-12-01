@@ -1,0 +1,11 @@
+digraÿÿÿest3 {
+ Z a -> b -  c;
+   a -> {x y};
+  $b [shape=bo"""""  c [label="hello\nworld",   {rcolor=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcoe [style=dashed,color=red];b -> lor=red,style=filled];
+       a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+   ,col    {rank=same; b x}
+}
+

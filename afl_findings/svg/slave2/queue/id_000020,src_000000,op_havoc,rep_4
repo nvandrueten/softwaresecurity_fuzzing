@@ -1,0 +1,10 @@
+digrcirc
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A B [shapeyle=dashed, color=grey]
+  A -> C [color="ulack:inv]s:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph gest3 {
+   a -> b ->   a -> {x y};
+   b [shape=box];
+  9c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,tyle=fd];
+       a -> z [label="hi", weight=100];
+       x ÿÿ z [label="mulank=sti-line\nlabel"];
+       edge [style=dasHed,color=reD]ÿ€ -> x;
+       {rank=same;3b x}
+}
+

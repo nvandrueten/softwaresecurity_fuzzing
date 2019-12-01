@@ -1,0 +1,9 @@
+graph te{
+   † -- b id=5j;
+	fontcolor {x1y};
+       x -- c [w=10.0];
+       x --  † -- b id=5j;
+	fontcolo y [w=5.0,len=3];
+}
+ [w=10.0];
+ -- y 

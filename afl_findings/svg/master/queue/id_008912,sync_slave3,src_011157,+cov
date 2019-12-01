@@ -1,0 +1,5 @@
+digraph test1 {
+µß A [shape=diamond]
+  B [shape=note]
+
+}

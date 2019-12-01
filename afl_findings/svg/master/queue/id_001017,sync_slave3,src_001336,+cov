@@ -1,0 +1,5 @@
+graph te{
+   a a -- {x y}-- c˜[w=10.0];
+  3   -- b -- cG
+   a -- {x y}-- c˜[w=10.0];
+  3   x L-Ny Nw=50,

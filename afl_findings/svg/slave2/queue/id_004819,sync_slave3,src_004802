@@ -1,0 +1,6 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:ø  -- {x y}a -- {x y}  -- b -- V:ø  -- {x  -- {x y};ww  -- b3-- V:ø  -- ¥x i}  -- b -- V:ø  -- {x y} -- y [w=5.0,len=3];
+}sty100];
+   x ->ue5fontsi z [label="mul     edge [style=dashed,color=red];b ->       {rank=same; b x}
+}
+

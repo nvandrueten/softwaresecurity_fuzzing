@@ -1,0 +1,4 @@
+graph test2 {
+   ppppppppppppppppa -- b -- c;
+   a -- {x yí;
+è  x -- c [w=10.0]?

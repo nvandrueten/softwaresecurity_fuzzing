@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamon]
+  ÿ [shape=box]
+  C [shape=cird]
+  ÿ [shape=box]
+  C [shape=circle]
+
+  A -> B o\

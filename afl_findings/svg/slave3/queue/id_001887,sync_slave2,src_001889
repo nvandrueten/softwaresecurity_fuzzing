@@ -1,0 +1,11 @@
+digraph test1 {
+
+  < [shZpe=diamcle]
+
+ B [shame=box]
+  [style=da, color=grey]&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&no-Italic",fntcolor=red,style=filled];
+       a -> z [label="hi", weight=100];
+   x -> z [Š="multi-line\nlt=1abel"];
+   edge [style=dashed,color=“ed];b -> å;
+   {ranx}
+}

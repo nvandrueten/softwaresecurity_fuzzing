@@ -1,0 +1,9 @@
+digraph tes{1 {
+
+  A [shápe=diamond]
+  B [shape=box]
+  C [s†ape=circle]
+
+  A -> B [style=das clor=blue,fontsize=24,
+    fontname="PalatinW-Italic"Jfontcolor=red,style=filled];
+       a -> ‡ [label="hi", weight=10è;

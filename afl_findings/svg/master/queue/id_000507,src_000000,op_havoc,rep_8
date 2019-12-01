@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [ÿhape=diamond]
+  B [shape=box]
+  C tylepe=craph test1 {ircle]  A - B [style=dashed, color=grey]
+  black(invis:black"]
+  A -] D [penwidth=5, arrowhead=none]
+
+}

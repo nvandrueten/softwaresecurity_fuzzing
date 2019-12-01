@@ -1,0 +1,6 @@
+graph te{
+   a -- b -- c:øB  a -- {x y};
+       x 
+    wwwwwwwwwwwwwwww×wwwwwwwwwwwwwwwwwwwwww   x -- y [w=5.0,cen=3];
+}
+

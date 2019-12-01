@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamcle]
+
+  A [style=dashed, color=grey]
+  A -> C [koor

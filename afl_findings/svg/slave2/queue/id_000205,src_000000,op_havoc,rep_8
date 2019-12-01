@@ -1,0 +1,7 @@
+digraph t1 {
+
+  A [€=diamond]
+  B [ˆhape=box]
+  C [shape=circle]
+
+  A -> B [ -> 

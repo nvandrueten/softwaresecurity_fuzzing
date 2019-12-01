@@ -1,0 +1,41 @@
+digraph {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+ßÒÁ B [style=dashed, color=grey]
+  A -> C [color="blinvys:-Ita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ý
+€
+
+
+
+
+
+
+
+
+
+lack"]
+  A -> D [phead=none]
+
+}˜

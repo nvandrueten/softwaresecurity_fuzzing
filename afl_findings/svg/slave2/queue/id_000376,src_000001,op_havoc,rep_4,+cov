@@ -1,0 +1,3 @@
+graph test2 {
+   a -- b -- c;
+   a -- {xc [w=10.0.;

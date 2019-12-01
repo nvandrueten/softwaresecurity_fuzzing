@@ -1,0 +1,6 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:øh tei
+   a -- b -- c:ø   -- b --   a -- {x y};
+  b -- c:ø   -- b -    x -- c [w=10.0]  w color=grdy]
+  A-> C [color="black:invis:black"A -> D [penwidth=5, ar=grdy]
+  A ->

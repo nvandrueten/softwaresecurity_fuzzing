@@ -1,0 +1,15 @@
+graph te{
+   S -- b --6  Ù € a --   S -1 b [color="#123456b] c9;ecure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="", fontcolor=blue, fontsize=9];
+	n1€ -- n1€ -- n22;
+	n11 -- n33;
+	n11 -- n44:
+	n22 -- n3-- n22;
+	 11 -- n33;
+	n11 -- n44;
+	P23 -- n33;
+	n22 -- n44;3  	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

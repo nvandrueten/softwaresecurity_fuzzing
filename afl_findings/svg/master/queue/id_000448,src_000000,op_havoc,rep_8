@@ -1,0 +1,10 @@
+dig‹<<<<<<<<<<<<<<<<<<<<<<<=diamond]
+  B [shape=box]
+- C [shape=circle]
+
+ color=grey]
+  A -> C [coSor="black:invis:bl„ck"]
+  A -> D [penwidth=5, arhape=box]
+- C [shrowhead=none]
+
+}k

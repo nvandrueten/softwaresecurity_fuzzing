@@ -1,0 +1,5 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=bl/* c0/* c1; c0 --þc1 */Node [styme=dotted, fillcolor="#1234@6"eight=1, width=1, cklor=red, style=filled];
+	n2  -- 	n33 -- n44;
+}

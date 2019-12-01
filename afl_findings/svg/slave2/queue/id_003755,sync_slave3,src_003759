@@ -1,0 +1,5 @@
+graph te{
+  nN a -- b -- c:
+   e, fo-- c:
+   e, foa -- e, fo-- c:
+   e, foa --  c a --tted, fillr= #

@@ -1,0 +1,7 @@
+digraph {est3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c yle=da;
+   a -> {x y};
+   or=grey]

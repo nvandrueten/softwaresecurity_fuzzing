@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	f c0; c1; c0c [w=60.0];
+       x -- y [w=5.0,l‡n=3];
+}
+

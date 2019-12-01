@@ -1,0 +1,9 @@
+digraph test1ÍÍÍÍÍÍ {
+
+ ÍÍÍÍÍÍÍÍÍ-> {x yq;
+   b [shape=box];
+ c [label="heclo\nwƒrld",€olor=blue,fontsize=24,
+    fontfontcolor=red,style=filled];
+   a d       x -> z [label="muel"];edge [style=dashed,color=red];b -> x;
+       trank=same; b x}
+}

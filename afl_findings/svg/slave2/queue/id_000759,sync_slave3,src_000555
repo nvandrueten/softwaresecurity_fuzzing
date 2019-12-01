@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b -> c;
+   a -> €ÿÿÿ};
+   b [shape=box];c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palatind-It5lic",fontcolor=red,style=filled];
+  edge [style=dashed,color c [label="hello\nworld",ceig€tQ100];
+    ph test3 {
+   a -> b -> dddc;
+     x ->z [label="mŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ  edge [style=dashed,color=red];b -> x;
+       {rÆnk=same; b z}
+}
+

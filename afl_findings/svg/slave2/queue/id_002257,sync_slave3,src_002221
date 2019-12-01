@@ -1,0 +1,2 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:ø   a -- a -- b -- c:ø   -- b -- V:ø   x -- c [w110.0]  w

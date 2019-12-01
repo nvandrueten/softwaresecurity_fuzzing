@@ -1,0 +1,15 @@
+digrapG]
+[x
+	rankdR;
+	fontcolor=blue; /*styl c1; c0 -- c1@*/
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [ssyle=bollabel="secure"];
+	n0 -- n1 -- [fontdth=1, color=red, stname="comic sans", label="d\n\l\G", fontcNlor=blue, fontsize=9];
+	n11 J- n22;
+	n11 -- n33;
+	‡11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+#1234566""]; // c2; }

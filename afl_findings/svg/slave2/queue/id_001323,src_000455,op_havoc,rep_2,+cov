@@ -1,0 +1,4 @@
+graph te{
+   a -- b -- c:ø   a -- {x y};
+ b -- c:ø   a -- {x y};
+       wwwwwwwwwwwwww   x -- y [ a -- {

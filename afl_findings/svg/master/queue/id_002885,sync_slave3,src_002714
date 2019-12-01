@@ -1,0 +1,17 @@
+graph te{
+   a 
+
+  A [shape=diamond]ph test{{{{{{{{{{{{ph test{{{{{‰{{{{{{{{{{{{{{{{{{g{{{{{{{{2 {
+ {{{{{{{ph test{{{{{‰{{{{ yle=bold, xlabOl="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 /- n2 [fontname="comic sans", label="d\n\l\G", fontcolorÿÿe, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 A- n44:
+	n22 -- n3-- n22;
+	 11 -- n33;
+	n11 -- n;3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

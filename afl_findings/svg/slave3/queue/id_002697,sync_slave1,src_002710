@@ -1,0 +1,11 @@
+graph tee{ÁIªa ÿ€ b -- c:ø   -- b -- V:ø   v -- {x y};
+    a -- {x y};
+   x -- c [wilor="#12456"]; // c2; c3; b2 -- c3
+	n1 [height=1, width=1,iiiiiiiiiiiistyle=bold, xlabel="secure"];
+n2 [fontname="comic sans", label="d\n\l\G", fontcolo€=bld, xlabel="secure"];
+	n0 -- n c0 -- c1 33;
+mn11 -- n44;
+	n22 -- n3N;
+	n22 -- n44;
+	n33 -- n44;
+}

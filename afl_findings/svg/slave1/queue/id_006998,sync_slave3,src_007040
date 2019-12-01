@@ -1,0 +1,6 @@
+graph te{
+   S -- bd--   S   a0 --   l -- b  -- { c;
+¿  a --   S-- bd--   S   a0 --   l -- b  -- › y}  -- {e y;
+   abB   a x}  -- {e y;
+   abB   a v --  v --   x b --   SS -- {S   a0 --   l -- b  -- › y}  -- {e y abB   a x}  -- {e y;
+   abB   a v --  v --   x b --   SS -- {- 

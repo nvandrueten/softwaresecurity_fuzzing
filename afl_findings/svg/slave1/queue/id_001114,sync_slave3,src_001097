@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamcle]
+
+ B [shape=box]
+  [style=Ra, color=grey]ntsize<24,
+    fontname=ûûûûûûûno-Italic",]ontcolor=red,s•yle=filled];
+       a -> z [label="hi", wt=100];
+   x -> z [label="multi-line\nlabel"];
+       }‚ge [styl,color=“ed]1b -> å;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,4 @@
+graph te{
+   a -- b -- c;
+  {y}-- c˜ c;
+  {y}-- c˜[w  a 

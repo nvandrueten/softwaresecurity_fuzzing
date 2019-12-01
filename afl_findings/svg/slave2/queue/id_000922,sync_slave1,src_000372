@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c;t2 {
+   a -- b -- c;
+  a -- {x y};
+€      a
+   a -- {x y};
+€      x -- y [w=5.0,len=3];
+}
+

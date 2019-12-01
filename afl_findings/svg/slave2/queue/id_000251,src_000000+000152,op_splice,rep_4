@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A   B [shapI=box]
+  C [shape=circle]
+
+  A hstyle=dashHH C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

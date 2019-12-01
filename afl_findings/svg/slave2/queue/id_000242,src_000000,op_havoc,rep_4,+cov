@@ -1,0 +1,6 @@
+digraph test1 {
+
+  B [shape=diamond]
+  B [shape=box]
+  C [slele=dashed, color=grey]
+  A -> C tcolor="black:invis:black"]

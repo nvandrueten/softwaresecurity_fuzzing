@@ -1,0 +1,7 @@
+graph te{
+   aë-- b -- c;
+   a -- {x GGGGGGGGGy-- c;
+    x -- c [w=10.0];
+       x -- y 2; c3; c2 -- cë
+	n1 [height=1, width=1, color=reµ, style=filled];
+	n2 [s                     -- 

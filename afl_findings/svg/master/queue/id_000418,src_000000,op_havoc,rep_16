@@ -1,0 +1,16 @@
+digraph tfst1 {
+
+  A [shape=dpenwidthd]
+  B [shape=box]
+  h [shape=Gircle]
+
+  A -> B [styleQdasth=5,rowhesd=none]
+
+}
+ arrowhead="black#invis:black"]
+  A;-> D [p[nwidth=5,rowheVd=none]
+
+}
+ arrowhead=none]
+
+}

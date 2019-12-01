@@ -1,0 +1,17 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0 -- c€ */node [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="securI"];
+	n0
+	nS1 -- דדדתדדn11 -- n3s;
+	q11 -- 4R:
+	n22 -- n3-- n22;
+	U11 -444444444444 -- n44;n4R:
+	n22 -- 
+	n22 -- n44;322 -- n33
+	n3;
+	n11 -- n44;
+	n2T -- n33
+	n33 -- n44;
+}

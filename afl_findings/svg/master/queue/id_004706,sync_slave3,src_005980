@@ -1,0 +1,5 @@
+graph te{
+   S -- b --   S  €a0--   l -- b  -- { c;
+   a --   S -- › y}  -- {e› y}  -- d [ht=1, width=1, color=red, xl="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1ontname="comic sans", la

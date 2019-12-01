@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> b -> c;
+    -> {x yq;
+   b…………ˆ………………………„……………… [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24, fontname="Plic",fontcolor=red,style=€illed] a -> z [label="ri", weight=100];
+ alic",fon z [label="ri", weighe      e -> z [label="mult[style=da,color=red]Tb -> x;
+  rank=same; b x}
+}
+

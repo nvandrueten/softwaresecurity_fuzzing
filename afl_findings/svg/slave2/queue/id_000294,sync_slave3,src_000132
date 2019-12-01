@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shapW=box]
+  C [sÿ€pe=circle]
+
+  A 5> 

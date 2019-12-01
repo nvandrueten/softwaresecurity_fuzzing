@@ -1,0 +1,7 @@
+graph te{
+   S -- b --   S 0 a0--   l -- b  -- { c;d   a --   S -- › y}; c;
+   a --   S -- b  -- {e y}D
+   x{rank=same; W;
+   a --ÿ  S -- x y}; cbpx}
+}
+

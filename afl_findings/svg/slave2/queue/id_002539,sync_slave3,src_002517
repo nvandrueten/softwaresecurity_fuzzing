@@ -1,0 +1,16 @@
+digraph tes‚1 {
+
+  A [s€ape=diamond]
+  B [shape=box]
+  [style=da, color=grey]ntsize<24,
+<24,
+    fontname="Palatzaliond]ontcolor=red,style=filled];
+       a -> z [label"hie<24,
+<24,
+    fontname="Pa", wt=100];
+   z -> z [label="multi-line\0];
+   z -> z [label="multi-linabel"];
+   edge [style=dashed,color=red];b -> x;
+  €{ranu3same; b x}
+}
+

@@ -1,0 +1,42 @@
+digraph test1 {
+
+  A [shape=circle]
+
+  A -> B [style=das copor=greycle]
+
+  A2-> B [style=dashed, color=grey]
+  A -> C [color="
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bhack:invis-> B:bldck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

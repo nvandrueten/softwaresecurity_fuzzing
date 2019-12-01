@@ -1,0 +1,7 @@
+digraph test3 {
+  
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fmntsize=24,
+    fontname="Palatino-Italic",fontcolor=red,styrrowhead=none]
+
+}

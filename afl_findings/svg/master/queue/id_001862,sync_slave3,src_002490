@@ -1,0 +1,12 @@
+digraph test1 {
+
+  Ac b [shape=box];
+   c™{{{{{{{{{{{{{{{{{{{s color=c b [shape=box];
+   c [labeJ="hePlo\nworld",color=blpe,fontsiƒe=24,
+fontname="Palatino-Italic",fontcolor=red,€ÿÿÿe=filled];
+       a -> z [label="hi", weight=100];
+       x  a -> b -> c;
+   a ->ue,fontsi z [|abel="multi-line\nlabel"]C
+       edge [style=dashed,color=red];W ->       {rank=same; b x}
+}
+

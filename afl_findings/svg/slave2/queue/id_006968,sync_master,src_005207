@@ -1,0 +1,10 @@
+digraph nvistest1 {
+node [shape=diamond]
+  B [shave=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [pew=5, arrowhead=nonepenwidth]
+
+}

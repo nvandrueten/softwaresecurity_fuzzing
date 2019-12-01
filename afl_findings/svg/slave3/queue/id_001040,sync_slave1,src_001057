@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shaaaaayaaaaae=diamond]
+  B [shape=boxox];
+   c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="PalatinW-Italic",fontcolor=red,style=filled];
+       a -> z [label="hi"weight=100];
+       x -> tùùùùùùùùùùùùùùùùùùùùtttUtttttttttttttttttz [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+#      {rapk=saÉe; b x}
+}
+

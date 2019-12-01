@@ -1,0 +1,6 @@
+graph test2 {
+   a --ph test2 {
+   a -- b -- c; b -- c;
+   a -- {x y};
+       x -- c [w=10.0];
+  [w=

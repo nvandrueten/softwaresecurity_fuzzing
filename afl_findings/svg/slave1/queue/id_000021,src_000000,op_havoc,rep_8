@@ -1,0 +1,6 @@
+digrap  B [shape=box]
+  C [shape=cid-> B [style=dashed, colur=grey]
+  A -> C [color="black:invis:back"]
+  A -> D²[penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=âox]
+  C {
+
+  A [shape=diamond]
+  B style=danvis:bla

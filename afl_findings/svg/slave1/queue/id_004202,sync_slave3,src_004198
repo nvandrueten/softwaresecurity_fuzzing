@@ -1,0 +1,42 @@
+graph te{
+  n22;
+	n1-- c:
+   a -- b -- c:
+   e, n33 -- n-- Y -- c:
+   e, n33 -- nfoa --  n11 -- n2 y}
+.];
+ttr="#v6"]; // c2; c3; c2 -- c3
+[mt=1, w=1, d,le=fil
+
+
+
+
+
+
+
+
+
+
+
+%”
+
+
+
+
+"];
+	n0dashed];
+	n1 -- e9];
+	.2;
+	n-- style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\lCG", fontcolor=blue, fontsize=9];
+	n11 -- n23;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- 1 -- n44;
+	n22 -- n33;
+	n22n33;
+	n22 -- n44;
+	n33 -- n44;
+}

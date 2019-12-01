@@ -1,0 +1,9 @@
+graph te{
+	r_nkdir=LR;
+	f
+   a --  
+  x{rank=same; c;
+ÿ  a --   S --B 1 -- n -- › y}  -- {e    x{rank=same; c;
+ÿ  a --   S --Bx y}; ˆˆˆˆ}
+}
+

@@ -1,0 +1,5 @@
+digraph test1 {
+ıﬂ A [shape=diamond]
+  B [shape=none]
+
+}

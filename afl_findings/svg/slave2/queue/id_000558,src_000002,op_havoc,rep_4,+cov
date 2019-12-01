@@ -1,0 +1,5 @@
+digraph test3 {
+   a -> b -> c;
+   a ->c [label="hello\nworld",color=blue,fontsize=24,
+    fontname="Palalic",fontcolor=red,style=filled];
+   a -> zight=100

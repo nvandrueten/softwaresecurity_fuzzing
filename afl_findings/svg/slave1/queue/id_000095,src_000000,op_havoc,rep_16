@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=di]
+  C [shape=a]
+  Bk[shape=box]
+  C [shape=ciXcle]
+
+= A -> B [style=da

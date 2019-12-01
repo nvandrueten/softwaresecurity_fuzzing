@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {xeeeeeeeeeeeeeeeeeeeeeeeeeee [labeJ="hello\nworld",color=blpe,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [l="multi-line\nlabel"];
+       edge [stlabel="d\nJl\G", fontcolor=blue, fontsize=9];
+	n11;ÿ	n11 -- n4

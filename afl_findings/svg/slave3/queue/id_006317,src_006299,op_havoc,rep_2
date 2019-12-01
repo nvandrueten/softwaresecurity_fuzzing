@@ -1,0 +1,6 @@
+graph te{ 	rankdir=LR;
+	f
+  1 -- n2n {rank=same; c2; c3; c2 -- cn33
+	n3	 11 -- n33;
+	n11 nx}
+}

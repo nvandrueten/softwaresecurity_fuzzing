@@ -1,0 +1,4 @@
+graph tetest1 {
+
+  A [shape=diamond]ph test{{{{{a{{{{{{{{{b -- c;{{2 {
+   a -- b --- b -

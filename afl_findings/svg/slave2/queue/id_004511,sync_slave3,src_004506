@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=e]
+
+  A -> Aý[style=dashed, colˆr=grey]
+  Aä-> C [color="¡lavõ:…:::::::: :::ack:i:[shapw=dTamond:C [k:i:::::::X ::ck"]
+  < -> D [penwidth=5, aread=none]
+
+}

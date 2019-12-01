@@ -1,0 +1,7 @@
+digraph test3 {
+   a ->b [shape=box];
+   c [label="h\nworld",color=blue,fontsize=24,
+    fontname="PItalic",fontcolor=red,style=filled];
+       a -> z [lapel="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       ecolor=red];b

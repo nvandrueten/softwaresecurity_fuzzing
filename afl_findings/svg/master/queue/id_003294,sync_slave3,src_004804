@@ -1,0 +1,17 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:ø  -- {x yma -- {x y}  -- b -- V:ø  -- {x  -- {x	y};
+   x -- c [w=10.0]  ww7wwww7ww  -- b3-- V:ø  -- ¥x i}  -- b -- V:ø  -- {x y} -- y [w=5.0,len=3];
+}style=fn0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\^\G", fontcolor=blue, fontsize=9];
+	n1€ -- ‚22;
+	n11 -- n33;
+	n11 -- n4R:
+	n22 -- n3-- n22;
+	 11 -44444444444 -- n44;
+	n22 -- n33;
+	n22 -- n44;322 -- n33
+	n3;
+	n11 -- n44;
+	n22 -- n33
+	n33 -- n44;
+}

@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A{{{{{{{{{{{{{{{{{{{{{s y};
+   b [shape=box];c [label="hello\nworld",olor=blue,fontsize=24,
+fontname="Palatic",folor=red,style=fd];
+       a-> 

@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [sha‘e=box]
+  [style=da, color=grey]ntsize<24,
+    fontname="Palatino-Izaliond]ontcolor=red,style=fille@];
+       Q -> z [label="hne\'ulti-line\'nlabel"];
+       edge [style=dashed,color=red];b -> x;
+      €{ranu3same; b x}
+}
+

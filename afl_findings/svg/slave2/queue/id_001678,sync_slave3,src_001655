@@ -1,0 +1,8 @@
+graph te{
+	rankdir=LR;
+	fontcolor=bl/* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcoloa="#123456"]; // c2; c3; c2 -- c3
+	j1 [height=1, wixth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0-- n2[style=dashed];
+	y}Ún=3];ö

@@ -1,0 +1,6 @@
+graph test4 {
+	
+   a -- {x  b --   a -- test4 {
+	
+   a -- {x  b --   {x a -- {x  b --   y}; c;
+   a -- {x y}; [w

@@ -1,0 +1,9 @@
+digraph {est3 {
+   ccccccccccccccccccccc{x y};
+   b [shape=box];
+   c ›le=da;
+   a -> {x y};
+   c ›le=da;
+   a -> {x y};
+   
+   or=Trey]

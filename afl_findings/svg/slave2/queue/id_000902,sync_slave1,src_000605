@@ -1,0 +1,8 @@
+digraph ‚est3 {
+   a -> b -> c;
+   a -> {x y};
+   bì[shape=box];
+   c [label="hello\nwo  a -rlc",color=blue,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,styrrowhead=none]
+
+}

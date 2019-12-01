@@ -1,0 +1,6 @@
+graph tms4 {
+	rankdir=LR;
+	f=blue; /* c0c1 */
+	n -- y [w=5.0,leb=3];
+}
+

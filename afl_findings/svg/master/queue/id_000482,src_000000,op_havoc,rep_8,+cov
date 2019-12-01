@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A <shape=~~~~~~~~~
+  Bÿÿond]
+  B [shape=box]
+  C [s
+
+  A -> Bbox [stywe=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [peowidth=5, arrowhead=none]
+
+}

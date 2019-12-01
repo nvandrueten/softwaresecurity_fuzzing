@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> Black:inhed,  B [style=tashed, color=sre€ÿúúúúúúúúúúúúúúúú]
+  A -> C [color="black:invis:black"]
+€ÿÿÿ-> D [penwidth=5, style=tashed, color=greilled];
+   a -> z [label="hi", weight=100];
+   x ->7z [label="mxlti-line\nlébel"]; {rank=same; b x}
+}
+

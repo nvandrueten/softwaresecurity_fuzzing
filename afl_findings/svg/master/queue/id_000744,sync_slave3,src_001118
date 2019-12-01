@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]ph test{{{q{{{‡‡‡‡‡‡‡‡‡‡‡‡{{{{{2 {
+   a -- b --- b -- c;l {x y};
+       x -- c [w=10*0];
+       x -- y [w=5.0,len=3];
+}
+

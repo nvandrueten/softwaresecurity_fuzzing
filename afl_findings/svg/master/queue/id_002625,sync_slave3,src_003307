@@ -1,0 +1,7 @@
+graph te{
+   a -- b -- b -- c ø   a -- {xAy}-- c:ø   a -- {x y};
+   x  c:ø   a -- {x y};ç  x -- c [-- c [w=10.0];
+  	n0 [style=do, fillco_or="#1234 cÿÿÿ1 [height=JR
+width=1, color=red, style=filWçd];
+	n2 [stn2èstyle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[stl="d\n

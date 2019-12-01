@@ -1,0 +1,8 @@
+graph test4 {
+	rankdir=LR;n -- y [w=5.0,l€b=3];
+}
+
+	color=lue;0 -- c1 *P
+	n -- y [w=5.0,l€b=3];
+}
+

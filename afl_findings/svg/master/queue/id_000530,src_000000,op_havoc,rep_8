@@ -1,0 +1,10 @@
+digraph tdst1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=pircle]ñ
+  A -> B [stylv=dashed, color=grey]
+  A -> C [coÿÿrrrowhe="black:invis:black"]
+ã A -> D [penwidth=5, arrowhack=none]
+
+}

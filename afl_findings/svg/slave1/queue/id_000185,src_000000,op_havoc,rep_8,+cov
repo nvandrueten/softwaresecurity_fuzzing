@@ -1,0 +1,7 @@
+digraph test1 {
+
+ อออออออออออออออออออออออออออ A [shape=dIamond]
+  B [shape=box]
+  C [shape=circle][style=dashed, cplo€=grey]
+  A -> C [color="black:invis:bla k"]
+  A -> D @

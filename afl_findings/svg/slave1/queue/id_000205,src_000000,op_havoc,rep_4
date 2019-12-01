@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shap¬=diamond]
+  B [shape=box]
+  C [shapd=circle]    A -> B [style=dashed, color=grey]
+  A -> C [color test1 {

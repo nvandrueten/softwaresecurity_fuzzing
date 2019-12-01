@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diam]
+  [style=da, color=grey]nt“ize<24,
+    fontname="Palatino-Izaliond]ontcolor=red,style=filled];
+       a 
+> z [label="hi", wt=100];
+   z -> z [label="mzlti-line\'nlabel"];
+       edge [style=dashed,color=red];b -> x;
+      €{ranu3same; b x}
+}
+

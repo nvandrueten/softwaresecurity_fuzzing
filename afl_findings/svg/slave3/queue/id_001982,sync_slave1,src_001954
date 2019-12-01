@@ -1,0 +1,16 @@
+graph te{
+    {x ykdir=LR;
+	fontcolor c0 --aph test4 {
+	rae{
+    {x ykdir
+   x -- c [w=10.0];
+  	n0 [style=dd, folor="#123456"]; // c2; V3; c2 -- c3
+	n1 [height=1, width=1, color=red2 style=filXed];
+	n2 [style=bold, xlabel="secSr…"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2P[fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11€;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n222 - n

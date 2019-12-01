@@ -1,0 +1,33 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  [style=da, color=grey]ntsize<24,
+    fontname="Palatino-Izalion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d]ontcolor=red,style=filledO;
+       a -> z [label="hi", wt=100];
+   z -> z [label="multi-line\'nlabel"];
+       ebge [style=dashed,color=red];b -> x;
+      €{ranu3sace; b x}
+}
+

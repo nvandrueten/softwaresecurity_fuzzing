@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	f’ntcolor=bkue; /* c*/
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2=-- c3
+	nh test4 {
+	ranidth=1, 

@@ -1,0 +1,8 @@
+digraph t×sS1 {
+
+  A [shape=diamond]
+  B [shape=box]
+ 1 {
+
+  A [shape=diamond]
+  B [sh A -> 

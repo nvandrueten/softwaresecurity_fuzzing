@@ -1,0 +1,8 @@
+graph te{
+   a -- b -- c:ø   -- b -- V:ø   a -- {x y};
+    aC-- {x y};
+   d   x y};
+   d   x -- c![w=10wtwwwwwwwwww y};
+   d   x -- c![w=10wtwwwwwww   x -- y [w"5.0,lIn=3];
+}
+

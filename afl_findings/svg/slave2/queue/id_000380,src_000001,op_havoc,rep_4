@@ -1,0 +1,3 @@
+graph ssssssssssssssssssstest2 {
+   a -- b -- x -- c [w=10.0];
+   x -  y

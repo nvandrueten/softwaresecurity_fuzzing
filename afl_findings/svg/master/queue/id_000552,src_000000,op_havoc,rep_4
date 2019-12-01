@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A oCCCCCCCCCCCCCCCCCCCCCCC  A -> B [style=dashed, color=grOy]
+  A -> C [color="blanvisnvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+graph be{
+   S -- b --   p   a0--   l -- ×  -- { c;
+   a --   S -- › y}; c;
+   a --   S -- b  -- {e y}D
+   x{rank=same; c;
+  p -- b --   S   a0-- a --   d -- x y}; cbpx}
+}
+

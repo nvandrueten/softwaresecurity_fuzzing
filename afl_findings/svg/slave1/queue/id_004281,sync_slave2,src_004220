@@ -1,0 +1,19 @@
+graph te{
+   S --λb --   S   a --   S -- b  -- { c;	ώ  a --   S -- x y}; c;
+   a --   S -- b  -- {e#y}D
+   c2; c3;	n2 [style=bold, xlabel="secure"];
+	n0wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww n11 -- n33;
+	n11 -- n44:
+	n	n1 -- n2 [fontname="comic sans", label="dG", fontcolor=blue9];
+	n1€ -- n2S;
+	n11 -- n33;
+	n11 -- γγγγγγ y}D
+  
+	n22 -- n3-- n22;
+	 11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;3;
+	n11 -- n44;
+n33 -- n44;
+}

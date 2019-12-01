@@ -1,0 +1,7 @@
+graph te{t2 {
+raph test2 {
+   S -- b --   J  a -- {x y}; c;
+   a -- {x y};
+   x -- c [w=10.0];
+   x -- 
+

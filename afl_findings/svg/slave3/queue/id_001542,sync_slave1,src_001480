@@ -1,0 +1,8 @@
+graph te{
+	ra""""nkdir=L}ontr=blue; /* c*/
+	n0 [styhe=dotted,   c [label="hello\nworld"¬ize=24,
+    fontname="Patalic",f   a -> z [laTel="hi", weight=10   x -> z [label="multi-line\nÀabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

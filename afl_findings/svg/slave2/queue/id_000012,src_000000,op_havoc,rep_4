@@ -1,0 +1,11 @@
+digr{ph test1 {
+
+  A [shape=diam
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [styl=box]
+ e=dashed, color=grey]
+  A -> C [color="black:invis:blacidth=5, arrowheaf=none]
+
+}

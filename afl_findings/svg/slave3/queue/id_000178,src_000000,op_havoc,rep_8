@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=viamond]
+  B [shape=box]
+  C [shape=ci…cle]
+
+  C -> B [sty<e=dashed,color=grey]
+  M -> 

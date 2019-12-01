@@ -1,0 +1,9 @@
+digraph test1 {
+
+  C [shape=diaMond]
+  B [shape=box]
+  C [shape=circle]1 {
+
+ hC [
+
+  A -> B 

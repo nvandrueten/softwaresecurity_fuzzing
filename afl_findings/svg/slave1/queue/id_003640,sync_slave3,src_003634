@@ -1,0 +1,10 @@
+graph test4 {
+	rankkir=LR;
+	fontcoUor=bv/* c0 -- c1 */
+	n0"[style=dotted, fillcolor="#123456"]; // cic sans", label="d\n\l\G", fontc=bold, xlabel="secure"];ÿ€n0wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww n11 -- n33;
+	n11 -- n44:
+	n	n1 -- n2 [fontname="comic sans", label="d\€\l\G", fontcolor=blue, fon”size=9];
+	n;
+   {rank=same; b x}
+}
+

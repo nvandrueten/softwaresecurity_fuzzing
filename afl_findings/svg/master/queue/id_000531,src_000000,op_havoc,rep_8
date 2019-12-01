@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  c [swape=box]
+  C [„hape=ed, color=grey]
+  Astyle=  A -> C [color="blackÿinvis:black"]
+  A -> D [penwidth=5, arrowhead=ntne]
+
+}

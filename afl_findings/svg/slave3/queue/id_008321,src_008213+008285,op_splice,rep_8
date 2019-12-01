@@ -1,0 +1,67 @@
+graph Re{
+	rir=LR; ý  c:w --  c:
+e, c:
+   w --_:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,   e,y:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,  c:e, c --
+e,  c:
+ ÿÿ€ c:
+e, U:
+   w --  c:
+    e,    y: c:
+e, c:
+   w --  c:
+    e,    c:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,   e,y:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,  c:e, c --
+e,  c:
+ ÿÿ€ c:
+e, U:
+   w --  c:
+    e,    y:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc  c:
+    e,    c:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,   e,y:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w ,  _:w -- ÿc:
+  ÿbe,  c:e, c --
+e,  c:
+ ÿÿ€ c:
+e, U:
+   w --  c:
+    e,    y:
+e,  c:
+   w ,  _:
+   w -- e,c:
+e,  c:
+   w -  

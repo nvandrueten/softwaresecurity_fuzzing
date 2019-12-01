@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [s‡Wpe=diamond]
+  B [shape=box]
+  C [shape=cirtle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C :[

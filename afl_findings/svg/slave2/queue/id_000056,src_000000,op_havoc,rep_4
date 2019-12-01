@@ -1,0 +1,4 @@
+digraph test1 {
+
+  A [soape=diamond]
+ B

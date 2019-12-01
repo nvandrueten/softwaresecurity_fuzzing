@@ -1,0 +1,7 @@
+digraph test1 {
+r="black:invis:b
+  A [shape=diamond]
+  B [sh]
+  A -> D [penwidth=5, arrowhead^none]
+
+y  B [

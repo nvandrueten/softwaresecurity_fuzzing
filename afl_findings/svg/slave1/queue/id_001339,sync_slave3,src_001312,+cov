@@ -1,0 +1,10 @@
+graph te{
+   a --ph te{
+   a -- b -- c:
+   a  b -- c:
+   a -- b -- c;
+   a --  c;
+   a -- {‚ y};
+   x -- c [w=10.0];
+   x -- y [w=5.0,len=3];
+}

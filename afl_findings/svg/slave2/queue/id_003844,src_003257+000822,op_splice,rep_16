@@ -1,0 +1,5 @@
+graph te{
+  n2 a -- b --  e, fo-- c:
+   e, b:
+   e, fo-- c:
+   e, foa -- c 
