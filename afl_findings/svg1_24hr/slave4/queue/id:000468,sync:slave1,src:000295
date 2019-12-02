@@ -1,0 +1,9 @@
+digraPh test1 {
+
+  A [shapJ=diamond]
+  B [shape=box]
+  C [shape=circleshed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [peowidth=5, arrowhead=none]
+
+}

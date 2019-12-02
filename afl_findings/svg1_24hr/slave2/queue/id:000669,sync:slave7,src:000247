@@ -1,0 +1,9 @@
+digraph test1{{{ {
+
+  A [shapeXdiamond]
+  B [shape=box]ÿ $C [shipe=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [col‚r="black:enwidth=5, arrowhead=nNne]
+
+}

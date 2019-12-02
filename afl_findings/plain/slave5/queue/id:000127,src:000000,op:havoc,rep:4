@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boxle]
+
+  A -> B [style=dashed,œœœœ color=gr

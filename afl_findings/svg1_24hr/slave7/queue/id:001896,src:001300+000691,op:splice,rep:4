@@ -1,0 +1,8 @@
+digraph t{st1{{r{{r=³{{{{{{{v{{{r †
+{{{{{{r{{r=c e³·³³³ [shape=cir]
+
+  A -> B-> B [style=ed, color=grey]
+  A -> C [color="black:invis:black"]
+  D -> D [penwidth=5, arrowhead=none]
+
+}

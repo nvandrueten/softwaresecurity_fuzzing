@@ -1,0 +1,8 @@
+digraph test1 {apha
+
+  A:-> B [style=dashed, pe=bgx]
+  C [shapshed, pe=box]
+:-> B [style=dashed, color=grey]
+  Aÿ-> C [color="black:invis:blackC]
+ :P -> D [penwidth=., arrowhead=none]
+}

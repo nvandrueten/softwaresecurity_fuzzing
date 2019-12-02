@@ -1,0 +1,9 @@
+digraph dest1 {
+
+  A [shape=diamond]
+ ÿB [shape=jox]
+  C [shape=circle]
+	ÿ A -> B [style=dashed, c…lor=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwrroth=5, arrowhead=none+
+}

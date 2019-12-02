@@ -1,0 +1,10 @@
+digraph ÿ {
+
+ {
+
+  A [shape=siamond]
+  B [shape=box]
+  C [shape=le]
+
+  A7-> B [style=das color=grey]
+  A -> C [color="xlack:invid:black"A ->

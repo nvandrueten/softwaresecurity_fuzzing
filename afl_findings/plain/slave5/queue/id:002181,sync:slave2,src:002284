@@ -1,0 +1,10 @@
+graph te{
+	rir=LR;
+	fontaph te{
+	rir=LR;
+	fontc {c {x q};
+ kdir=LR;
+	fontc {x y};
+ ir=LR;
+	fyntc {x q};
+  x -- c nw=10.0]

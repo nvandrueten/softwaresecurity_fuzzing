@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [nwidth=5, arrowhead=none]
+
+shape=diamond]
+ "Brcle]
+
+  A -> B [style=dashed, color=krey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

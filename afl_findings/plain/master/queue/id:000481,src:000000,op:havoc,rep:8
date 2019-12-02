@@ -1,0 +1,12 @@
+digraph       {
+
+d= color=grey]
+  A ->none]
+ÿÿ=diamond]
+  B [sLape=box]
+  C [oneshape=circle]
+
+  A -> B [stZhe=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+ÿÿ

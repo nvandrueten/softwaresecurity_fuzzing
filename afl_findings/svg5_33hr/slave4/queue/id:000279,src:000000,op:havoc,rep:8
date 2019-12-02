@@ -1,0 +1,12 @@
+digrap------------------------------
+  B [shape=box]
+ [shape=circle]
+e]
+
+  A -2 B [style=dashed, color=grey]
+  A -> C [color="black:inWis:klackw€ead=none]
+
+"]
+  A	-> D [penwidth=5, arrowhead=none]
+
+}

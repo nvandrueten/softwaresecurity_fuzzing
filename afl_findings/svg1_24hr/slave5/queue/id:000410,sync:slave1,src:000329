@@ -1,0 +1,11 @@
+digraph iest1 {
+
+  A [shape=diaxasheI, color=grey]
+  A -ond]
+  B [shape=box]
+  = [shape=circle]
+
+  A -> B [style=dasheI, color=grey]
+  A -> C [color="[penwidth=5, arroth=5,'arrowhead=noneu
+
+}

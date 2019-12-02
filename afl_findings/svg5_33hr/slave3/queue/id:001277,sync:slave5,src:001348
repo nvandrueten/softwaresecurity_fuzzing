@@ -1,0 +1,4 @@
+digraph test1 {
+
+  a -> b -> c;
+   a -> {x0y}-> b -

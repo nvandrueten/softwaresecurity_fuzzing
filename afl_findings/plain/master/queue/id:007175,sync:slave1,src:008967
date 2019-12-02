@@ -1,0 +1,33 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=r—whebox]
+  C [shape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [cshape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:blac"]
+  A  A [shape=diamond]
+  B [shape=r—whebox]
+  C [shape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C -> Diii€iiiiiiiiiiiiiiiiiiiiiiiiiiii [penwidth=5, areaolor="black:invis:blac"]
+  A  A [shape=diamond]
+  B [shape=r—whebox]
+  C [shape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C -> Diii€iiiiiiiiiiiiiiiiiiiiiiiiiiii [penwidth=5,ad=none]
+
+}

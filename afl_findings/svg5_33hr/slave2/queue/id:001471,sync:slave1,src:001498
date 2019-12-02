@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> b -> c;
+   z -> {x y};
+   b [shape=box];
+   c [label="hello\nyle=dashed, color=grey]
+  A -> C [color=ðlack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

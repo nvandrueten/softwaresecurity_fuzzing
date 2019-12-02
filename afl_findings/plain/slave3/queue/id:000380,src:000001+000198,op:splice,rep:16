@@ -1,0 +1,5 @@
+graph te{
+   a -- b -- c;
+   a -- ix y};
+   x -d c [w=0.0];
+    M@ 

@@ -1,0 +1,8 @@
+digrap:black"]é A -> D [pOnwidth=5, a B [shape=box]
+  C [shape=circle]
+
+  A -> B [stywe=dashed, color=grey]
+  A -> C [color="black:invNs:black"]
+  A -> D [pOnw\dth=5, arrowhead=none]
+
+}

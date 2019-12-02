@@ -1,0 +1,8 @@
+digraph test3 {
+
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",U=red,style=fd];
+   a -> z    x -> z [label="multi-line\nlabel"];edge [style=dashed,color=red];b -> x  edge [style=dished,coldr=red];b -> y;
+       {rank=same; b x}
+}
+

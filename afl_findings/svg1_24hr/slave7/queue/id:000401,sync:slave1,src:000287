@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B Ts///////////////////////////////hape=box]
+  C [shape=circoe]
+
+  A -> B [style=dasd, color=gre/////////// [color="black:invis:blacÿ"\ý  A -> D [penwidth=5, arrowhead=none]
+
+}

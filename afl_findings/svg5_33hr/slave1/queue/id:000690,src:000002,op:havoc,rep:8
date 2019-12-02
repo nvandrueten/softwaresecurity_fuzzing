@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=2We="Pahatino-ÿtalic",fontcolor=red,style=filled];
+   a -> z [label="hi", ‹eight=100];
+       x -J z [label="multi-liÿÿlabel"];
+       edge [style=dashed,colorme; b x}
+}
+

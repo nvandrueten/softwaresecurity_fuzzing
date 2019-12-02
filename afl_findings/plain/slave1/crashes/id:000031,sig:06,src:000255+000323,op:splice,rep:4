@@ -1,0 +1,14 @@
+digraph test3 {
+ o a -> b -> c;
+   a -> ÿÿ y};
+   b [sworld",color=bluefontsize=24,
+fontname="5alatino-ight=1, width=1, solor=red, style=filled];
+	n2 [style=bold, xlabeÑ="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [font	n11 -- n22;
+	n11 -- n3;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

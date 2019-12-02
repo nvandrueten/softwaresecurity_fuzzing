@@ -1,0 +1,8 @@
+digraph test3 {
+   a ->   a -> {x y} b [shape=box];c [labul="hello\nd",ame="Pll",fontcolor=red,style=fillEd];
+1  a -> z [יabel="hi", weight=100];
+   x -> שששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששb [labelabel="hi", weight= 00];
+  ¸x -> z [laÿel="multi-dine\nlabel"]y};
+ geÿ[e=dÿÿlor=red];b -> x {rank=same; b x™
+}
+

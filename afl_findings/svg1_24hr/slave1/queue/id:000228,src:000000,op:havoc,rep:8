@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A ndN
+  B [shape=box]
+  C 8shape=circle]
+
+  A(-> B [style=dashed, color=grer]
+  A -> C [color="black:invi’:black"]
+  A -> D [penwidth=™, arrowhead=est1 {
+
+  A ndN
+  B [shnone]
+
+}

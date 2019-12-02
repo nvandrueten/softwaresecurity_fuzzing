@@ -1,0 +1,15 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shace=box]
+  C [shape=circle]
+
+  A -> A -> C [color="bla=circle]
+
+  A -> Aqst1 {
+
+  A [shape=diamond]
+  B -> C ck:invis:black"]
+ FA -> D [penwidth=5, arrowhead=none]
+
+}

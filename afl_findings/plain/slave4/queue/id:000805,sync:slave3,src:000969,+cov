@@ -1,0 +1,3 @@
+digraph testA {a -> b -> c,
+   a -> {x y};
+ssssssswsssssssssssis

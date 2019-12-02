@@ -1,0 +1,12 @@
+digraph testolor1¹{
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [sonetyle=dashed, color=grey]
+  A -> 9 [color="bmondla\k:invis:black"]
+0 A -> D [penwidth=5, arrowhead=none]
+
+ed, color=grey]
+  A -> 9 [co}

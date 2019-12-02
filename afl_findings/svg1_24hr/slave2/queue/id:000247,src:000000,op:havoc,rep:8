@@ -1,0 +1,8 @@
+digraphA [shape=diamond]
+  B [shape=box]
+  C [shape=cir|le]
+
+  < -> B [\\\\\=dasheä, color=grey]nvis:black"]
+  A -> D [penwidth=5, arrowheid=none]
+
+}

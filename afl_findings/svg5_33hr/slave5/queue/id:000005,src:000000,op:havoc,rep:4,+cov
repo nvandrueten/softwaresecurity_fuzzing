@@ -1,0 +1,10 @@
+dig2aph test1 {
+
+  A [shape=diamond]d  B [shapeÝbox]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:iØvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

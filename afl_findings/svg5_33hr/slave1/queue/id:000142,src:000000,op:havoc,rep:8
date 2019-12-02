@@ -1,0 +1,9 @@
+digraph testO {
+
+  A [shape=diamond]
+  Bההההההההההההה
+
+  A -> + [style=dashed,ck:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

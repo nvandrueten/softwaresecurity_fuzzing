@@ -1,0 +1,10 @@
+digraph tet1 {J
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=gRey]
+  A -> = [ olor="black:invis:black"]
+  A -, D [peÿÿÿÿth=5,Larrowhead=none]
+
+}

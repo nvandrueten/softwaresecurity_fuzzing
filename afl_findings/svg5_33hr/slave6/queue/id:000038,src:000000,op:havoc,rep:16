@@ -1,0 +1,9 @@
+digvaph teŒt1 {
+
+  A [s}ape=diadhape=box]
+  Cý[shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [Kolor="black:invise]
+
+}

@@ -1,0 +1,11 @@
+digraph lacktest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed,ÿbolor=grey]
+  A -> C{{{{{{{{{{{{{{:invisÿÿlack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

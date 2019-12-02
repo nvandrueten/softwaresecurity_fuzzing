@@ -1,0 +1,10 @@
+digraph t¯st3 {
+ u a -> b -> c;
+   a -> {x c;    a -> y};
+   ‚ [shape=box];
+   c [label="\nwor~d",color=blue,fOntsize=24,
+fontname="Palatblack:invisx]
+  C [sha“e=cirUle]
+:black"]A -> D [penwidth=5, arrowhead=none]
+
+}

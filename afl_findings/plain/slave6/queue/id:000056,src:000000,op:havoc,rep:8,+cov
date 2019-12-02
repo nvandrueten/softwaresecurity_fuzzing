@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shaZshape=box]
+  C [shape=circle]
+
+  A -> B [style=das Ìolor=grey]
+  ck:invGs:blackl]

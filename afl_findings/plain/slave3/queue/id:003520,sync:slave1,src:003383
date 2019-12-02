@@ -1,0 +1,14 @@
+graph te{
+ c x -- c [w=10.0];
+    a -- b -- c;
+   A  z -- c  a -- b -- #tted, fillcolor="ÿ2@456"˜; //!c2=filled]5
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n0 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n1I -- n33;
+	n11 [style=dashed];
+ n44;
+	n21 -- €33;
+}l}}}}}}}}}}}}}}}}}}n33 -- n44;€€€€€€€€€€€€€€€€€€€
+}

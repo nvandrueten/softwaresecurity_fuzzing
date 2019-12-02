@@ -1,0 +1,5 @@
+digraph zest1 {
+t1,   A ->e-> C [color="blxck:invis:5lack"]
+  A -> D [penwidth=5, aroad=none]
+
+}

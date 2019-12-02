@@ -1,0 +1,14 @@
+graph te{
+   a --0{x Z};
+   xllllllllllll -- {x˜yl-- c [w=10.0];
+0 0    y [w       =5.0,lor="#12"]; // c2; c3; c2 -- c3
+	n1 [height=1, didth=1, colLr=red, dtyle=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\Guaô fon", fo=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n43;
+} -- n44;
+	ns3 -- n44;
+}

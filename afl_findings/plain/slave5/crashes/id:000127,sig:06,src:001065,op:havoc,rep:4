@@ -1,0 +1,9 @@
+graph te{
+ ct
+   a ct
+   a  x -- c [w=10.0];
+     x -- c [w=10.0];
+    a -- b  -- c-- c;
+x -- c  a -- b -- c;
+   a  x -- c[w=5.0,lbn=3];é}
+

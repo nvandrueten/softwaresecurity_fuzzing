@@ -1,0 +1,8 @@
+digraph text1 {
+
+  a [shape=diamo‰d]
+  B [shape=box]
+pppppppppppppppppppppA -> C [color="back"]
+  A -> D  A ->5, arrowhea   ->2D [penwidth=H, arrowhead=nne]
+
+}

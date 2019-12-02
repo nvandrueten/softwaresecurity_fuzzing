@@ -1,0 +1,10 @@
+graph te{
+ c;
+   a      x --ðc [w=10.0];
+    a -- b -- c;
+   a      x -- c [w=10.0];
+     y};raph te{
+ c;
+w=5.-- y 
+}
+

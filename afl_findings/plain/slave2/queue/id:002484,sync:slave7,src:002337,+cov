@@ -1,0 +1,7 @@
+graph test4 {
+	ankdir=LR;
+cdlor=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dltted, fillcolor="#123456"]; // c3; c2ht=1, wi             ÿÿ                 dth=1,color=red, stySk
+  C [shape=none]
+
+}

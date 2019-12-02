@@ -1,0 +1,5 @@
+digraph test3 {
+î  a -> b -> c;
+  Aa -> {{
+î  a -> bx0y}-> {Å y};
+   bz="hello\nworld",c

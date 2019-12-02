@@ -1,0 +1,34 @@
+digraph teVt1 {
+
+  A<[> b -> c;
+   a -> {x  c [labcl="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   
+
+
+
+
+
+
+
+
+
+
+
+
+¦
+
+
+
+
+
+
+
+
+
+
+
+a -> z [label="hi", weight=100];
+   x ->pppppppppppppppppppppppppppppppp   edge [style=dashed,color=red];b ->7x;}
+}
+$

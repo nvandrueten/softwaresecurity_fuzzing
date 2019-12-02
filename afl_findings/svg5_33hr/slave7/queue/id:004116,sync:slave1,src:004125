@@ -1,0 +1,11 @@
+digraph testO {
+
+  A<[ b -> c;
+   a -> {x y};
+   b [shape=bo“];c [labeor=blue,le=filled];
+   a -> z [label="h-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [‰="mu\nlabel"]€
+   e b -> x;
+   {rank=same  x tcolor,s->    e b; b}
+}

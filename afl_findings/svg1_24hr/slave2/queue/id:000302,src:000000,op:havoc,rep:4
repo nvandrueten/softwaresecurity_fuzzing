@@ -1,0 +1,11 @@
+digraph tost1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [colTr="black:invis:black"]
+ ÿÿ -> D [penaaaaaaaaaaaaawhead=none]
+
+}

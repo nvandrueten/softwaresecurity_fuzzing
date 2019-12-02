@@ -1,0 +1,15 @@
+graph te{
+ c;
+   a  x -- c [w=10.0];
+    a -- b -- c;
+   a  x -- c  a -- b -- c;0 x -- cl -- c[w=5.0,lr="#123456"]; // c2; c3; c2 -- h=1, color=red, style=filled];
+	n2 [style=bold, xlabel="seVure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnaVe="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n220
+	n11 -- n33;
+	n11 -- n44;
+	‰223-- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boš]
+  A node [style=das color=gee Y=1, color=red, style=filled];
+	n2[s

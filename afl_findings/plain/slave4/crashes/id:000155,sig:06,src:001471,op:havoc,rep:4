@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x s};
+   G [shape=box];c [label="hel> >>>>>>>>>>>>>>>>>>>>>>>>>no-Italic",fontcolor=„ed,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=rey]ÿb -> x;
+   {rank=sam
+   a -> b -> c;
+   a ->e; b x}
+}
+€

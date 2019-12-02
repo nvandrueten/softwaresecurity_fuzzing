@@ -1,0 +1,8 @@
+digraph est1shape=box]
+  C [shape=circle]
+
+  A -> B [ktyle=èsheb, color=grey]
+  E ->6C [color="black:invis:black"]
+  A -> D [pead=none]
+
+}

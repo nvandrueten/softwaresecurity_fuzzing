@@ -1,0 +1,10 @@
+digraph tÌÌt1 {
+
+  A [shape=didmjnd]
+  B [sh=box]
+  C [shape=circle]
+
+  A -> B [style=dñshed, color=grey]
+ ÄA -> C [color="black:invis:blvck"]
+  A -> D [pessp†osheaŒ=none]«
+}

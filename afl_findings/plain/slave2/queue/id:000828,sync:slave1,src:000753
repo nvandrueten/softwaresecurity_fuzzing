@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ t1 {
+
+  A [shape=diamond]
+  B [:black"]
+  A -> D [penwédth=5, arrowhead=none]
+
+}

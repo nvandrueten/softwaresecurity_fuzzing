@@ -1,0 +1,8 @@
+graph te{
+   a -- b -- c;
+   a -- {x yph te{
+   a -- b -- c;
+   };
+   x -- c [w=10.0];
+   {
+   a -- b -- c0  A -> D 

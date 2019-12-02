@@ -1,0 +1,31 @@
+did
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+graph test1 { 
+  A'[shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, co-> C [colvr="black:invis:black"]
+  A -> D Hpenwidth=5, arrowhead=none]
+
+}

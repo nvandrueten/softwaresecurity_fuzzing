@@ -1,0 +1,13 @@
+dtest1 {
+
+  A [sB [styd, d]
+  ` [shape=box]
+  C [shape=circle]
+
+  A ->ÿB [styd, color=grey]
+  A -> C [cole=dashed, color=grey]
+  A A ->B [stye, color=grey]
+-> C[color="blac‰Sinvis:black"5
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\Tworld",color=blue,fontsize=244
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weig‡t=100];
+       x -> z [label="mult)-linaph test3 {
+   a -> be\flabel"];
+   edge [style=dashed,ctlor=red];b -> x;
+       {rank=same; b -> c;
+x}
+}

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape8dia=aox]
+  Cmond]
+  B [s B [shape=aox]
+  C [shap]
+
+  A -> B istyle=dashed, color€grey]
+  A -> C [cmlor="bNack:invis:black"]
+ yje=dashei, co-> D=none]
+
+}

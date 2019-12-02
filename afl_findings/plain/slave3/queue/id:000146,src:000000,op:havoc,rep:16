@@ -1,0 +1,8 @@
+digrap e=‡test1 {
+shape=circleA ->4B [style=‡ash
+   C [shape=circleA ->4B [style=‡ashed, co:black"]
+  A -> D [@enwidthD [@enwidthbl`nd]
+  B [snvis:black"]
+ A -> D [penwidone]
+
+}

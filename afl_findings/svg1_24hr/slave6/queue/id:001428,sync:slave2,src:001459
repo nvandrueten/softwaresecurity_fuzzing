@@ -1,0 +1,9 @@
+digraph ÿ {
+
+ {
+
+p A [shape=diamond][style=dashed, color=grey]
+  A -> C [color="black:invis:bnakk"]
+  A <> D [penwidth=5, arrowhead=none]
+
+}

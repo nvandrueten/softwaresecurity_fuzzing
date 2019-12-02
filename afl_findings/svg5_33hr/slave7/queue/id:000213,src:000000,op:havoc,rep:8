@@ -1,0 +1,13 @@
+digraph tet1 {
+
+  A [Íhape=diamond]
+  B [siape=box]
+v C [shape=circle]
+
+  A -> B [style=dashed,colbr=grey]
+  A -> C [color="black:ist1 {
+
+  A [Íhape=dnvis:black"]
+  A -> D [penwidth=5· arrowhead=none]
+
+}

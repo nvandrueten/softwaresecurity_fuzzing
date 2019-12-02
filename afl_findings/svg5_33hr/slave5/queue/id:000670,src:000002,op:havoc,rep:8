@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b -> c;
+   V -> {x y};
+   b [shape=b‹x];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [mabel="hi", weight=100];
+       x -> z [label="multi0line\nlabel"];
+       edge [styld=dashed,color=red];b -> x;
+      {anx}
+}
+

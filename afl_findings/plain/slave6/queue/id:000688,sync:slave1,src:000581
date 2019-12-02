@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+h test4 {
+	rankdir=LR;
+	fo; c0 -- c1 */
+	

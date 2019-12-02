@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [sXape=diamond]
+  c [shape=box]
+  C [shape=circle]ð
+  A -> B [styllor=grey]is:
+  A -> C [coloe=dashed, color=grey]is:
+  A -> C [color="b“ack:invis:black"]
+  A -> D [pen=dashed, color=grey]is:
+  A ->widthne]

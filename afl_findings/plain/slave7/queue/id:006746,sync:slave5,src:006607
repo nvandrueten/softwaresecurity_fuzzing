@@ -1,0 +1,34 @@
+digraph test1 {
+
+  G [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A node [style=das color=grey] [ˆhape=le]
+
+  A node [style=daóhed, color=grey]
+ ah test1 {
+
+  st1 {
+
+  G [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A node [style=dashed, color=grey] [ˆhape=circle]
+
+  A node [style=daóhed, color=grey]
+ ah test1 {
+
+  A [shape=diamond]
+  H [shape=box]
+  C [sha=circle]
+
+  A node [style=dashed, color=grey]
+  A -> C [ze=2]A [shape=diamond]
+  H [shape=box]
+  C [sha=le]
+
+  A node [style=dashed, color=grey]
+  A -> C [ze=2];
+	n11 -- n

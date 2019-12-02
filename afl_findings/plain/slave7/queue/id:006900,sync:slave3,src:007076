@@ -1,0 +1,10 @@
+graph te{
+
+ n:
+	nw1 12:
+	sw1 -- 1-- 14--22:
+	n:1--23:
+	n,1 -- nC [color="black:invis:black"]
+  A , aD [penwidth=5, x=none]
+
+}

@@ -1,0 +1,6 @@
+digPaph test  A [shape=diamond]
+  B [shape=box]ÿ  C [shape=circl
+  A --> C [color="black:iSvi]=grey]B  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

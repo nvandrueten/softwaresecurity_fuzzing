@@ -1,0 +1,4 @@
+graph te{lue; /* c0; b1; c0 -- cR */
+	R0 [style=dotted, fillcolor="#123456"]; // c2; A > C [color="black:invis:black"]
+  A , aD [penwidth=5, arrowhead=none]ì
+}

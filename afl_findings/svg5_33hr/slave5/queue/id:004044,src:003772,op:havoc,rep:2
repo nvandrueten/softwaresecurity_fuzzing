@@ -1,0 +1,5 @@
+graph test2 {
+   a -- {x y}-- 0,l -- c [w=do, fillcolor="   a -- {x y}-- 0,l -- Ô [wtyle=dashed, color=grey]
+  A -> C [colÿÿÿblack:s:black"][penwidth=5, arrÃwhead=none]
+
+}

@@ -1,0 +1,5 @@
+graph te{
+  1 {
+
+  A [shape=diamond]  B [shape=box]
+  C [shhape=circle\

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  dthB [shape=box]{{{C [s]
+
+ A -> B [style=dashed, color=grey]
+  A -Q C [color=black:greys:black"]
+  A -> D [penwIdth=5, arrowhead=none]
+
+}

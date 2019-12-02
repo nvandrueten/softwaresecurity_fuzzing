@@ -1,0 +1,7 @@
+digraph rest1 {
+
+ 
+ {ead=no co:lnv,ÿda, co:lnv,ÿÿÿÿÿÿÿÿÿ, co:lnv,ÿda, co:lnv,ÿÿÿÿÿÿÿÿÿÿÿ -> B A -> C [co`›r="black:invis:bck"]
+  A -> D [penwidth=5, arrad=none]
+
+}

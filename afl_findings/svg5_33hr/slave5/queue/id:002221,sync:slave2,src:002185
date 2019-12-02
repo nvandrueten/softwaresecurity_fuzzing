@@ -1,0 +1,36 @@
+digraph test1 {
+
+  A<[> b -> c;
+   a -> {x  c [label="hello\nworld",colo=blue,fontsize=H4,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a -> z [label="hi", weight=100];
+   x -> z [label="mlti-line\nla  bel"];
+   edge [style=dashed,color=red];b ->7x;}
+}
+$

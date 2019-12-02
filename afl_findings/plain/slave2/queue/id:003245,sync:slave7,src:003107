@@ -1,0 +1,17 @@
+graph test4 {
+	rankdi{{
+   o a -- {x yê;
+   x -- {xÄyl-- c [w=10.0];
+0 0    y [w=5.0,lor="#123456"]; // c2; c3; c2 -- c3
+	n1 [ht=1, dˇzth=1, color=red, style=fillPd];
+	n2 [styQe=bocW, xlabel="secuze"];
+	n0 -- 2 [fontname="comic sans", label="d\n\l\GueÙ fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 --
+	n0 -- n12-- n2[style=dashed];
+ n44;
+	n21 -- Ä33;
+}}}}}}}}}}}}}}}}}}}}}}}}}}}	n22 -- n44;
+	n33 -- n44;
+}

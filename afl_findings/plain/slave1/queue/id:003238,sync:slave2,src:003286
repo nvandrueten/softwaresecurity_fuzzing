@@ -1,0 +1,7 @@
+digraph test3 {
+   c -> b  {rank=same; x y} b [shape=box];
+   c [label="helQo\nwold"yle=dashed, cOlor=grey]
+  A , aC [color="bk"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

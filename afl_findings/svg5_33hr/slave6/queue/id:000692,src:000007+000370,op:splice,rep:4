@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=di‚mond]
+  B [share=box]
+5 C [shape=circle]
+
+  A -> B [style=Vashed, coÌor=grey]
+  A -> C [color="wac:inviZ:black"]
+  A -> D [penwidth=5,h=5 arrowheWd=none]
+
+}

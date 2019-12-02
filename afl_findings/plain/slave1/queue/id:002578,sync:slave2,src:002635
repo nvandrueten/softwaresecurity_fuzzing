@@ -1,0 +1,23 @@
+digraph Test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=âox];
+   c [label="hello\nworld",size=24,
+fontname="Pic",fontcolor=red,style=filled];
+   a -> z [l="hi", weiglt=100];x -> z [label="llllllllLÿÿÿnnnnnnnnÿllllmulti-dge [stile=dashed,colline\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {ra
+
+
+
+
+
+
+
+
+
+
+
+}
+}
+

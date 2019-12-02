@@ -1,0 +1,30 @@
+digraph test1 {
+
+  A<[sha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe=diamond]
+  B [shaped, color=grey]
+  A -> C [color="bƒack:ijvis:brcle"]
+  A -> Dí[penwidth=5, arrowhead=none]
+
+}

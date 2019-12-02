@@ -1,0 +1,23 @@
+graph te{
+ j 22:
+	n:1111 --22:
+	n:1 -- n€a--1 --22:
+	n:1111 --22:
+	n:1 -- n€n22:
+	n:1 -- 1 --22:
+	w:11 --22:
+	n:1 -- n22:
+	n:1 -- n22:
+	n1 -- n2 [name="cs", label="r\n\l\Gumô fon", f=blue, fontsize=9];
+	n111 --22:
+	n:1 --An€n--1 --22:
+	n:1111 --22:
+	n:1 --dn€n22:
+	n:1 -- 11 [foùt="comic sans", label="d\n\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- €33;
+}}}}}}}}}}}}}}}}}}}}}}}}n22 -- n44;
+	n33 -- n44;
+}

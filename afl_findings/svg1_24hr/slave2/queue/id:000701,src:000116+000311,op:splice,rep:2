@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=ond]
+  {
+
+  A [shape=diamosha e=circle]
+
+  A -> J [style=dashed, color=grey]
+  3 -> C [cxlor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

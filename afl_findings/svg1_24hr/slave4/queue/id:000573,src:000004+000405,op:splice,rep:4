@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shipe=kiamond]
+  B [shape=box]
+  C [shape=circe]
+
+  A, col [style=dashed, color=greyd, color=grey]
+  A -> C [covisvblacU"]
+  A ->D [pxnwidth=5, arrowhead=none]·è}

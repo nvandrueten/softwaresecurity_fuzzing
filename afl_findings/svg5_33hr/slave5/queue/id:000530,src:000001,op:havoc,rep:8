@@ -1,0 +1,6 @@
+graph test2 {
+   a -- b N- c;
+   a --ÿÿÿyx --t [w=10.Q];
+      x -- y [w=5.0,lQn=3];
+}
+

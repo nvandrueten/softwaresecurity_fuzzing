@@ -1,0 +1,5 @@
+graph test4 {
+	rankdir=CR;
+	fontcolor
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 --ght=1, width=1, corrowhead=none]
+Ö}

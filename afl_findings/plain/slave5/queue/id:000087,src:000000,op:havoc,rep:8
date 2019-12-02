@@ -1,0 +1,8 @@
+de=diamond]
+  B [shae=b7x]
+  C [shape=oooooooooooooo ocircle]
+
+  A -> B [style=dashed, color=grey]
+1 A ->  [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+

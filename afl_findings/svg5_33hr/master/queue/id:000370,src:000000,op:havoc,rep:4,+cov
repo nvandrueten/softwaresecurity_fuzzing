@@ -1,0 +1,10 @@
+digraph test1 {
+igraph test1 {
+
+  Ad]
+  B [shapee=circle]
+
+  A -> B [style=dashed, col="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

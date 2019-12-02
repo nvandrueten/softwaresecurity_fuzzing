@@ -1,0 +1,11 @@
+digraph t7st1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=Ãashed, colKr=grey]
+  A -> C [color="bla&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&ck:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

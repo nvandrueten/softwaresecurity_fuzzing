@@ -1,0 +1,10 @@
+digraph tes„1 {
+
+node[shape=diamQnd]
+  B [shape=bon]
+  C [shape=©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©,fontsize=24,
+fontnahe="Palatino-Italic",fontcoloEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEl="multi-line\nlaNLl"];
+   edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

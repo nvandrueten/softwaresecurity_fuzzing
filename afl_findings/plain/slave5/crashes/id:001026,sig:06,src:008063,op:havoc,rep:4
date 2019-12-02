@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  <"[shape=box]
+  C [shape=circle]
+
+  A="hello\nwhrld",color=blue,fontsIzˇ=24,
+fo;
+      #edge [style=dashed,color=red];b ->«x;
+       {raék=same; b x}
+}
+

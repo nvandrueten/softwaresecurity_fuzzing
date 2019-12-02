@@ -1,0 +1,11 @@
+graph te{
+	rankdir=LR;
+	fontcolor=blue{x y};h test2 {
+   a -- â -- c;
+ ÿ     xx -- y [‘=W90,lNn=3];
+}
+ -- c [w=10.0]d
+     test2 {
+   a -- b   x -- y [‘=590,lNn=3];
+}
+

@@ -1,0 +1,27 @@
+digraph test1 {
+
+  a [phape=diamond]
+  B [shapape=circle]
+
+  A -> B
+
+
+
+
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+hed, col  A -> C [color="black;ivis:black"]
+  A -> C [pen•idth=5, ]
+  A -> C -> A [stle=dashed,arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+digraph Test3 {
+   a -> b    b [shape=box];
+   c [label="hello\nworld",color=blue,fe="Palatino-Italic",fontcolor=red,style=filled];
+ Ò a -> z [label="hi", weight=100];
+       x -> z [label="multi-dge [stylI=dashed,colline\nlabel"];
+       edge [style=dashed,colov=red];b -> x;
+       {rank=same;Bb x}
+}
+

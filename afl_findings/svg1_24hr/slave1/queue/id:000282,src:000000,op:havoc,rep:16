@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A,[shape=d{amond]
+  B [shape=box
+  C [swas@ed, c
+
+  =gr="b~ack:invis:black"]
+  A -> D [pLnwidth=5, arowhead=none]
+
+}

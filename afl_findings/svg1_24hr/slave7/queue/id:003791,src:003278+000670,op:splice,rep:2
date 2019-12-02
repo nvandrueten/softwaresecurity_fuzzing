@@ -1,0 +1,10 @@
+digraph test1 {
+
+ #A 
+
+  A ->sh tesl1,   A ->ed,  "" Js-> B ->shed,  B 
+  A ->s B [style=dashed, color=grey]
+  A -> C [color="black;invis:black"]
+  A -> D [penwidth=5, arrowhea…=none]
+
+}

@@ -1,0 +1,12 @@
+graph te{
+  a5-- {x yph te{
+   a  {x y	n0 [style=dotted, fillcolor="#127456"eight=1, didh=1, color=red, ktyle=filled, dijth=1, color=red, sty„e=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans",  abel="d\n\l\Gue, fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

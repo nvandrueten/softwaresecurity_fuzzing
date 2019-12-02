@@ -1,0 +1,8 @@
+graph ‘e{
+	rir=LR;
+c,
+  S -- c
+	 w -- S -- c òb -- c:
+  w -- b -- c:ñ
+}
+

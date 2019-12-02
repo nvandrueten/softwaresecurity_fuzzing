@@ -1,0 +1,18 @@
+graph ‘e{
+	rankdir=LR;
+c-- c:
+  w -- b -- c:с,
+   a c:
+  w -- ЃЂЂЂЂЂsЂЂЂЂЂзЂsЂЂЂЂзЂЂЂЂЂЂЂЂЂЂЂзЂsЂЂЂЂзЂЂЂЂЂЂЂЂЂЂЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЂЂЂTcoloЂЂЂЂЂЂЂЂЂЂЂзЂsЂЂЂЂзЂяЂЂЂЂЂЂЂЂrЂЂЂЂЂЂЂTcЂЂЂЂЂЂзЂЂЂЂЂЂЂTc lor}g
+ =5tt< erilled];
+	n2 [styge=bold, xldbel="secure"];
+	n02 --ta33;
+	n22 -- n44;
+	n33 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontbame="comic sans", label="d\n\l\G", fontyge=bold, xldbel="secure"color=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n4V;
+}

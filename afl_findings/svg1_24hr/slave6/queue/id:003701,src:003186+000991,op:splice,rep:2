@@ -1,0 +1,11 @@
+digraph test1 {
+
+ #A 
+
+  A ->sh test1,   A ->edEd,   A ->OB ->shzd,  B ->shez,   A -> t€shA ->shÿ A -> D  A -> B [style=dashed, color=grey]
+  A -> C [olor="`ack"]
+  A -> D [penwiddth=5, arrowhead=nongrey]
+  A -> C [glor="back"]
+  Ae]
+
+}

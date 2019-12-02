@@ -1,0 +1,10 @@
+digraph tesˆ1 {
+
+  ñ [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+d  A5-> B [k=dash]
+  As-> D  4 -> B [st‡le=dashed, color=grey]
+  A -> C [color="back"]
+  A -> D [penwidth=5, arrowhead=none]ú
+}

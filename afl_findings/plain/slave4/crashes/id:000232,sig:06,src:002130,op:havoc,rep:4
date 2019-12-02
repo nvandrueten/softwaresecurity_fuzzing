@@ -1,0 +1,12 @@
+graph test4 {
+	ÿÿÿÿdir=LR;
+	foneolor=bl/* c0 -- c1 */€ÿn0 [style=dktted, fillcolor="ÿ23456"]; // c2; c3; =1, color=red, style=filled];
+	n2 [styre=bold, xlabel="\ecur- n2 [fontname=ÿcn\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

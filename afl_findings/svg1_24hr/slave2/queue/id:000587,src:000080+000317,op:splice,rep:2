@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C5ack:inv, area[se=da, coolor="black:inv, arrock"]
+  A -> D [penwidth=5. arrowhead=none]
+
+}

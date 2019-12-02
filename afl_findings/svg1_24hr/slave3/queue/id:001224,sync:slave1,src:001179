@@ -1,0 +1,8 @@
+digraph test1 {
+
+  AB[shape=diamond]
+  B [shape=box]
+  C{{{{{  A -> B [style=das color=grey]
+  A -> Acohed -> C [coPoTrenwid_h=5, arrowhead=none]
+
+}

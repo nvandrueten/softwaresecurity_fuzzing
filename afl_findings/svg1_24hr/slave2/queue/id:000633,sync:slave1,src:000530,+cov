@@ -1,0 +1,10 @@
+digraph teTt1 {
+
+  a -> D [penwidth=5, arrowhee=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bÿÿ:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digrah test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [sha:::::::::::::::::pe=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:bZack"]
+  A -> D [penwidth=5, arro‘head=none]
+
+}

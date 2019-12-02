@@ -1,0 +1,7 @@
+graph test2 {
+5.0,lened, colo
+   a -- {x y};
+       x -- c [w=10.x -- y [Ö=5.0,lened, color=grey]
+  A -> C [color="blaﬁk:invis:bl5.0,lened, coloP A -arrowhead=none]
+
+}

@@ -1,0 +1,5 @@
+digraph teaa1 {
+
+  A [shaph=5e=diamond]
+  B [shape#box]
+  C 

@@ -1,0 +1,13 @@
+digr€ph test1 {
+
+  A [shape=diamond]
+ rcle]
+
+  A -> B [style=dashed, colo]
+ rcle]
+
+  A -> [color="blacA -> B [black"]
+  Aÿy]
+  A -> C [color="black:invise]
+
+}

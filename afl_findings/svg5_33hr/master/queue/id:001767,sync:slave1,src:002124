@@ -1,0 +1,7 @@
+graph test4 {
+	rXnkdi b -- c;
+   a -- {x y};
+      q -- {x y};
+       x3--d [w=5.0,leO=3];
+}
+

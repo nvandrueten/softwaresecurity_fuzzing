@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamonR]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color
+  C [shape=circle]
+
+  A -> ="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

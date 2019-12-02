@@ -1,0 +1,4 @@
+graph test2 {
+   a -- b -- c,a -- {x  {x y}  -- b -- c,a -- {x  {x y}  M -- {x y-- c [w10.0];];
+ƒ
+

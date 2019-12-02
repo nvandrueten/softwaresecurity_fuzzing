@@ -1,0 +1,12 @@
+digraph gest3 {
+ b ->#c;
+a ->x -> à [label="mule=box];
+   c [label=Sello\nworld",color=blue,fcolor=blue,f’ntsize=24,
+’ntsize=24,
+fonr=„ed,suyle=ed];
+   a ->0z [label="hi", wt=100];
+   x ->
+   {rank=same a -> {x y}9
+   b ; b x}
+}
+€

@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [ape=di "black:invis:black"]
+   C [shape=circle]
+
+  A -> B [ssyle=dashed, colo =grey]
+  A -> C [color i "black:invis:black"]
+   C [s[penwi¯th=5, arrowhead=nowe]
+
+}

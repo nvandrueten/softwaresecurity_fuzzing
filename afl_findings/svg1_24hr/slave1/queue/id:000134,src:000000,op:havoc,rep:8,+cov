@@ -1,0 +1,6 @@
+d[graph test1 {
+
+ =diamond]
+  [colha  A -> B[style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A-> D [penwidth=|, arrowhead=}

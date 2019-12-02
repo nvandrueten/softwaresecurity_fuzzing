@@ -1,0 +1,12 @@
+digraphiamond]
+  B  tes„1 {
+
+  A [shape=diamo-> D [penwdth=5nd]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwdth=5, arrowhead=none]
+
+}

@@ -1,0 +1,4 @@
+digraph test1 {
+
+  A [sh=box]
+` C [“hape=circle]

@@ -1,0 +1,8 @@
+digraph Øest1 {
+
+  A [shQpe=diamond]
+  B [shape=boY]
+  C -> B [shape=circle]A -> Biiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii-> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

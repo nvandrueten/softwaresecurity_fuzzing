@@ -1,0 +1,10 @@
+graph test2w{
+   a -- {x y}-- 0,l -- c5[w=do, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [heighr=1, width=d, costyle=bold, xlabel=ed];
+	ecuren0 -- n1 -- n2n2 [style=bold, xlabel="securen0 -- n1 -- n2[style=dashed];
+	n1  [fontnam„="ctrlor=blue, fÿncuize=9];
+	n11 ;
+	n22 -- n {x y};
+x}
+}
+

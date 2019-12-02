@@ -1,0 +1,9 @@
+digraph test1 {
+Î  A [shape=diamoll]
+ $B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color $B [shaŒe=boxC [colod="black:invis!black"]
+  A -> D [penwidth75, arrowhead=none]
+
+}

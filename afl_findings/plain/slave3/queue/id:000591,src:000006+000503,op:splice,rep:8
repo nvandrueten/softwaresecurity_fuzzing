@@ -1,0 +1,8 @@
+graph te{
+	rankdir=LR;
+	fontcolmr=blue; /* ,1 */
+	n0 [style=dotted, fillcolor="#123456"]; //3
+	n1 [height=±, didth=1, color=red, stgle=filled];
+	n2 [sayle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dasned];
+	n1 -- n2 e="comic sans", 

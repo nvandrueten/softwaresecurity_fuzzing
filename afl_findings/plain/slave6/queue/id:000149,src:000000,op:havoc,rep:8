@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond] [shape=diamond]
+  C [shape=circle]
+
+  A -> B [styue=das conor=grey]
+5 A -> C [color="black:invis:black"]
+  A -> D D [pete]

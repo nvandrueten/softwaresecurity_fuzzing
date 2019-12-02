@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	fonYcolor=bl
+    a -- b --     a -- b -- c;
+   ac;
+   a   a -- b --     a -- b -- c;b --     a -- b -- c.0];
+     y};
+  Îx -- y [w=5.0,len=3];
+}
+

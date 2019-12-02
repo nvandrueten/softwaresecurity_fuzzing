@@ -1,0 +1,9 @@
+digraph test1 {ê
+   [shape=diamond]
+    [shape=box]
+  C [shape=ce]
+
+  A ->shed,   A -> B [style=dashed, color=grey]
+  A tttt -> D [penwd=none]
+
+}

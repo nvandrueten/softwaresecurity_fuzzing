@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [she=ci]
+
+  A -> B [style=dd, color=grey]
+  A -> C [color="blacvis:"""""ê[a

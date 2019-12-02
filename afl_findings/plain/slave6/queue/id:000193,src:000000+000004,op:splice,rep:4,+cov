@@ -1,0 +1,18 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [ˆ=dashed, color=grey]
+  A -> C [color="bls:ght=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabe„="secure"];
+	n0 -> n1 -> n2[style=dashed];
+	ne=9];
+	n11 -> n22;
+	n11 -> n33;
+	n41 -> n44;
+	n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

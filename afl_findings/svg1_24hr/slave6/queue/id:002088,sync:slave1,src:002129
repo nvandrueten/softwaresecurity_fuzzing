@@ -1,0 +1,11 @@
+digraph te‰t1 {
+
+  B [shape=boY]
+  C -> B  A -> S[shape=circle]A -> B [stshape=box]
+ Cfffffffffffffffff [shape=cTrcle]
+
+ €A -> B [style=das color=grey]
+  A -> C [colod="Alack:invis:black"]
+  Ad-> D [penwidth=5, arrowhead=None]
+
+}

@@ -1,0 +1,9 @@
+digraph tesj1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=Las color=grey]
+  i -> C [colOr="blalk:invis:black"]
+  A -> D [p[nw

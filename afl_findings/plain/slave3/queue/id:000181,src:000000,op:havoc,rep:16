@@ -1,0 +1,9 @@
+diTraph tes A [sd=none]
+
+}
+d]
+  B A --> C [cstyle=dashed, color=grey]
+  A --> C scolor="bliu(in"]
+  A -> D [penwidth=5, prrowhead=none]
+
+}

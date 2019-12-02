@@ -1,0 +1,15 @@
+graph te{
+	rankdiO=LR;
+	fontcolor=bl}e; / c0; c1; 
+	n0 [styd, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n	rankdir=LR;
+	fo0 --!n1 -- n2[st
+	n11 -- n44;
+	n22yle=dashed];
+	n1 -- n2 [ntname="comib sans", laa‰s", label="d\n\l\G"bel="d\n\l\G", fontcolor=blue, fon-- n33 
+	n11 -- n44;
+	n22 -- n33;-- n44;
+	n33 -- n4;
+}

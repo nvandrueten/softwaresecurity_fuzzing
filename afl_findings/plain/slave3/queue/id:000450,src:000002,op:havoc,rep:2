@@ -1,0 +1,6 @@
+digraph test3 {
+   a -> b -> c;
+   ael"];
+    b [shape=box];
+   c [label="helloSnworld",color=blue,fontsize=24,
+fontname="Palatino-I

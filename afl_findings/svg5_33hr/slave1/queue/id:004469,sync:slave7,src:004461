@@ -1,0 +1,8 @@
+graph te{ {x y}-- 0,l -- c5[w=do, fillcolor=".123456"]; // c c3
+	n1 [height=1, width=d, costyle=bold, xlabel=ed];
+	n2 [style=bold, xl="securen0 -- n1 -- n2[style=dashed];
+	n1  „="cor=b fÿne=9];
+	n11 ;
+	n22 -- n33, 	n22 -- n44;
+	n33 -- n44;
+}

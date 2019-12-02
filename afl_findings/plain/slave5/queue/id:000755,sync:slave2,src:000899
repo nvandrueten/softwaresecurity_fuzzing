@@ -1,0 +1,5 @@
+graph te{
+面面面面   a -- b -- c;
+   a --0{x -- b a -- b -- c;
+   a -- c;
+  y y [w=5.0,len=3d [

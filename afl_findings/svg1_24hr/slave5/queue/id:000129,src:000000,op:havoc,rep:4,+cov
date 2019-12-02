@@ -1,0 +1,11 @@
+digraph test1 {
+
+ est1 {
+
+  A [shape=dia<[shape=bshape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [colè="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

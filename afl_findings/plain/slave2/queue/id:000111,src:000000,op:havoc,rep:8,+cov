@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [ack"]
+  A ->shape=box]
+  Ae=dashed, coloS=greB [style> C [color="b

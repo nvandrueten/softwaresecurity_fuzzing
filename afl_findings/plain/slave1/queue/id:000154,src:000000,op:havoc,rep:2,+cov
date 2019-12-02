@@ -1,0 +1,6 @@
+digraph test1 {
+ {
+
+  A [shape=dnd]
+  B [pe=box]
+  C [shape=circleA -> B

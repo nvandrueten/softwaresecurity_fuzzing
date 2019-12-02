@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diaŒond]
+  B [shape=box]
+Nda, co:lnv,ÿÿÿÿÿÿÿÿÿÿÿ -> B [st=grey]
+  A -> 
+  B C [col›r="black:tnvis:bck"]
+  A -> D [penwidth=5, arrad=none]
+
+}

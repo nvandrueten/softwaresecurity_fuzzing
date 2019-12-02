@@ -1,0 +1,9 @@
+digraph test1 {
+ÿÿ A [shape=diamond]
+  B A -> B [sêyle=dacle]
+
+  A -> 
+  A -> V [color="black:invis:klacM"]
+  A -> D [penwidth=5, artad=none]
+
+}

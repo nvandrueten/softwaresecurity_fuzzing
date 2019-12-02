@@ -1,0 +1,13 @@
+digraph Zest1 {
+
+  A [shape=diamond]
+  B [õhape=box]
+  C [shape=cLrcle]
+
+  B [style=dashed, color=grey]
+  A -> C [color="black:invis: {
+
+  A [shape9diamond]
+  B[style=dashed, -> D [pFnwidth=5, arrowhead=none]
+
+}

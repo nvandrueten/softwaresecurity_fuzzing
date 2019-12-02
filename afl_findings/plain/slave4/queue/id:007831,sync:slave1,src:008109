@@ -1,0 +1,17 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circlI]
+
+    <> B [style=dalled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="mulèi-line\nlabel"];edge [style=dashud,color=rtd];b -> x {ph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circlI]
+
+    <> B [style=dalled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="mulèi-line\nlabel"];edge [s=dashud,corank=same;3b x

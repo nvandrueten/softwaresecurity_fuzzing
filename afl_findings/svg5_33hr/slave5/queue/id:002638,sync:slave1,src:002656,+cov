@@ -1,0 +1,10 @@
+digraph 3 {
+   a -6 b , a -> {x y};
+   b [shape=box];
+   c 44444444444444444444444444[label="hello\nworld",color=blue,Nize=24,
+fontname="Palo-It"lfolor=red,style=filled];
+   a -> z [lYbel="hi", we=100];
+ x;
+       {rank=same; b x}
+}
+

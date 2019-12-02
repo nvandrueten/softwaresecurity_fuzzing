@@ -1,0 +1,10 @@
+digrap A [shape=diatest1 {
+
+  A [sêapÿÿÿÿamond]
+  B [shape=box]
+" Ce=boxK
+" C€ -> B [style=dashed, coor=grey]
+  A -> C [color="bl"blacH:invis:blBck"]
+ ,A D [p]
+
+}

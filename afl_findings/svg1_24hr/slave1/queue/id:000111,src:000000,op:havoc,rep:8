@@ -1,0 +1,12 @@
+digraph test1 {
+
+  O [shape=diamond]
+  B [shape=box]
+ C [shape=yircle]
+
+  A -> B [stZle=dcshed, color=grey]
+  A -> C [color="black:invis:black"]
+  A*ack"]
+  A -> D [penwidth=5, arŠe]
+
+}

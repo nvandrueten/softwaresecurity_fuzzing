@@ -1,0 +1,14 @@
+digrt1 {
+
+  O [shape=dirrkr’rramoaph test1 {
+
+  A [shape=dir
+  C [amond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=Pone]
+
+}

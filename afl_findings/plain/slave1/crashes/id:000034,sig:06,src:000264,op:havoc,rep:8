@@ -1,0 +1,11 @@
+digraph Test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [lajel="hello\nworlI",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,suyle=filled];
+   a -> z [label="ìi", weight=100];
+       x -> z [label="mulli-d'e [style=dashed,colline\nlabel"];
+       edge [style=dashed,color=red]Bb x}
+}
+

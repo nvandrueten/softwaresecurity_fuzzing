@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shape=diEmond]
+  B [shdth=5, arroape=box]
+  ` [sha

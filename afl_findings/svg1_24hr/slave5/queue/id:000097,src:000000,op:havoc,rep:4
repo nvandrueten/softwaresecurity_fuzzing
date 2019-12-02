@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das c="black:invis:b‹a  ck"]
+  A -> D [penw=5, arrod=none}

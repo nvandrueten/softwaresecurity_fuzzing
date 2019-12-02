@@ -1,0 +1,6 @@
+digraph test1H{
+
+  A [shape=diamond]
+  B [shape=box]
+  C-> B [sty"]
+  A dainvis:blaÿ"]

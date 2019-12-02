@@ -1,0 +1,4 @@
+digraph teSt3 {
+   a -> b ->#c;
+  Aa ->x ->  a -> b ->#c;
+  Aa ->x -> z [laz [la

@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamircle]
+
+  A -> B [style=daãããã, color=grey]
+  b -> C [czlor="b]]]]]lack:invis:black"]
+  A -> D [penWidih=5, arrowhead=none]
+
+}

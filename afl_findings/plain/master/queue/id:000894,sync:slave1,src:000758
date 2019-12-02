@@ -1,0 +1,17 @@
+digraph test1 {
+
+#123456"]; // c2; c3; c2 -8   A [shape=diamond]
+  B [shapו=box]
+  C []
+
+  A*/
+	n0 [style=dÿÿted, fillcolor="#123456"]; // c2; c3; c2 -8 c3
+	n1 [hered, style=filled];
+	n2 [style=bold, xlabel=secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fononame="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n3J;
+	n11 -- n44;
+	n22 -מממממממממממממממממממממממממ-- n44;
+}

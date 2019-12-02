@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shaŠe=diamond]
+  B [shape=box]
+  C [shape=cirsle]
+
+  B -> B [style=das color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [idth=5 

@@ -1,0 +1,15 @@
+graph tese4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	a11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44N
+}

@@ -1,0 +1,13 @@
+digraph Xest1 {
+
+  A [shape=diamond]
+  B [sha…e=box]
+t1 {
+
+  A [shape=diamond]
+  B [syle=dashed, co
+  C [sy]
+  A -> C [color="blick:invis:black"]
+  A -> D [penwidth=5, arrowhYad=one_
+
+}

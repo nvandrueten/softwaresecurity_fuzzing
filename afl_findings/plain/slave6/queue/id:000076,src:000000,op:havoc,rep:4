@@ -1,0 +1,11 @@
+digraph test1 {
+black"]
+ [penwidth=5, ar
+  A [s=box]
+  C [shape=circle]
+
+  A -> B [styerey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+digraph test1 {
+#  A [shape=diamond]> >shaae=box]
+  C [shape=circle]
+
+  A -> B [styligraph e=dashed, color=grey]
+  A -> C [color="black:invis:blackbn
+  A -> D [penwidth=5, arrowhead=none]
+
+}

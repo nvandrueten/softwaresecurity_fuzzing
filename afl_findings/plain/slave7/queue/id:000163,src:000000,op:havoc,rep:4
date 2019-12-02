@@ -1,0 +1,11 @@
+whead=none]
+
+ {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [bhape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  AM-> D [penwidth=5, arrowhead=non!]

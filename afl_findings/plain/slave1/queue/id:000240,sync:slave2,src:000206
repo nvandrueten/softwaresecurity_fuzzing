@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  L [hape=box]
+  CC[shBpe=circle]
+
+  A 3>]

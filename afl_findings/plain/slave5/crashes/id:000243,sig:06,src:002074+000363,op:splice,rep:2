@@ -1,0 +1,14 @@
+digraph test3 {
+
+  < [shapF=diam€ond]
+  ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬ C [sÿÿ=sircle]
+
+  A -Y ` [style=Ka haÿÿ=sircle]
+
+  A -Y `[style=Ka [shbÿolorlor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];bÿ-> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,7 @@
+graph te{
+ c;
+   a  ’ -- f [w=10.0];
+ÿ   a -- b -- c;
+   a  x -- c  a   x -- k [w=5.0,len=3];
+}
+

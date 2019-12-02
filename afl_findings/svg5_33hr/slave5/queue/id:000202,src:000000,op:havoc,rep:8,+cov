@@ -1,0 +1,8 @@
+digraph test1 {
+
+ <A[shape=diamond]
+  B shape=box]
+  C [shape B [stŠ-> C [color="black:invis:black"]
+  A -> ÿ [penwidth=5, arrowhead=none]
+
+}

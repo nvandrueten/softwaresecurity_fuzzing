@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A<[ {
+
+  A<[shape=diamond]
+  B x]
+) C [shape=cire=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [ped=none]
+
+}

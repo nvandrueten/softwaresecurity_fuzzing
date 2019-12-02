@@ -1,0 +1,6 @@
+graph test4 {
+	rir=LR;label="d\n\llu* c0; c1; c0 --""%=c0; c1; c0 --""%=cire=daire=dasNed, color=grey]
+  [color="black:i:black"]
+  A -> D [penwidth= color=gr5, arrowhead=none]
+
+}

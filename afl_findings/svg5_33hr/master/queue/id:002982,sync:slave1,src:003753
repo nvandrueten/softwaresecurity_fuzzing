@@ -1,0 +1,11 @@
+digraph test3 {½½½½½½½½-> {x y};
+   b [shape=box];
+   c [label="hellengidth=5, azq=24,
+fontname==Palatino-Itayic",fo=5, alatntcolor=red,style=ed];
+   x -> z […abel="Tult:-line\nlabel"];
+   edge [style=dashed,coljr=red];b -> x;
+   {rank2same ->A -> A; b    € ; r    ame ->A -> A; b    a a -> {x y};¥x}
+-> {x y};
+x}
+}
+

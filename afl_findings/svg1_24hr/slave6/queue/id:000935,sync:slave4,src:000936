@@ -1,0 +1,11 @@
+digraph test1¿{
+
+  A [shape=damond]
+  B [shape=box]
+  C [shLpe=circle]
+
+ hed, co [style=dashed, color=grey]
+  A -8 C [color="black:invis:black"]
+  A -> D ÿÿÿwidth=5, arrowhead=none]
+
+}

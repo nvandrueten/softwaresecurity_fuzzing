@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shaˆe=diaaond]
+  B [shape=bod]
+  C [“hape=circle]
+
+  A -> < [style=dashee=box]
+  C [O, coloÿÿÿey]
+  A -> C [color="black:invis:black"ad=none]
+
+}

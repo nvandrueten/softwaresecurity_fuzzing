@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [•hapZ=diamo€d]
+  B [„hape=box]
+  C [s‰ape=cŒr]
+  B [shape=box]
+  C [shap€=circle]
+
+  B [style=dashed, color=grey]
+  A -> C Ûcolor="b=cŒr]
+ [pdth=5, a=none]
+
+  A -> B ttyle=dashed, color=}

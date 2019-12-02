@@ -1,0 +1,17 @@
+digraph test3 {
+k=sae; b,  0Z -> {x y} rank=same; b,    [s=box];3 {
+k=sae; b,  0a -> {f y} ->a -> tx y   [shape=box];
+   c [lab=blue,fontsiŠe=24, foÊe="PalatItalic",fontcolor=red,style=filled];
+   a -> z}-> z [label="multi-line\nlabel"] edge [ótyle=dasheØ,cocjr=red]Qb ->{rank=same; b,   a -> {x y};
+÷}
+}
+
+
+   c [labxl="hello\nworld",color=blue,fontsie=24,
+foÊtname="Palatino-btalic",fontcolor=red,style=fill
+   a -> z}[label="hi"
+ weight=100];
+ 6 xÿ-> z [label="multTasheØ,cocjr=red];l ->{rank=same; b,0  a -2 {x y};
+x}
+}
+

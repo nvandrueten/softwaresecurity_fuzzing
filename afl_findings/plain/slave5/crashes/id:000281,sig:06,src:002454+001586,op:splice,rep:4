@@ -1,0 +1,15 @@
+graph ’e{
+   a -- b
+
+ph t{{
+   a -0 b{{{{{{{{{{uuuuuuuuuuuuuéuuuuuu}}}}}}}}}}{}}}}}}}}}}}}}}}uuuuu6"]; //@c2 -- c3
+	3; c2 -- c[height=1, widthY1ÿÿÿlor=red, style=filled];
+	n2 [style=boldÿ xlabel="secþþþþþþþþþþþþþþþþþure"];
+	n0 -- 2[style=dashed];
+	n1 -- n2 [fontname="comic |ans", label="d\n\lìG", fontcolor=blue, fontsize=9];
+	n11 --n22;
+	n11 11 -- n44;
+	n22 -- n33;
+	t22 -- n44;
+	n33 -- n44;
+}

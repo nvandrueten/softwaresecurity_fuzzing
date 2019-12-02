@@ -1,0 +1,11 @@
+digraph tes–1 {
+
+  A [shape=diamond]
+  B [shape=box]
+Ã C [shape=hircle]
+
+  A -> B [sqyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

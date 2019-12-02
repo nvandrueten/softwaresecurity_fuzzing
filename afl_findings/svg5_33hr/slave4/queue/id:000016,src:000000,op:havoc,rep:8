@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shpe=diamond]
+  B [shape=bopenwidth=5,€  A -> B [s
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhèd=\one]
+
+}

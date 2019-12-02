@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ÿ A -0 B [style=dashed, color=grey]
+  A -> C test1 {
+
+  A [shape=iamon]
+ A -> D [penvidth=5, arrowhead=MoMe]
+
+}

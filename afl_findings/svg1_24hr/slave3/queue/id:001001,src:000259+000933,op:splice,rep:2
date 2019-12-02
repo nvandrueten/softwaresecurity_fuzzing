@@ -1,0 +1,9 @@
+digraph test1 {	ï  A [shapu=diamond]
+  ý [shape=box]
+ 8C [shape=circle]
+
+  A ->×××××××××××××××××××××× B [s4yle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arpowhead=none]
+
+}

@@ -1,0 +1,12 @@
+digrah test1 {
+
+  A [shape=diamond]
+    A [shape=diamond]
+  B [shB#[shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> ? [penwidth=5, arrowhead=none]
+
+}

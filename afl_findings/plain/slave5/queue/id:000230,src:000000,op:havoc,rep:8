@@ -1,0 +1,7 @@
+digraph te1 {
+
+  A [shape=did]st1 {
+
+  A [shape=diamond]
+  B [shape=box]
+ le=dashed,

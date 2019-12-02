@@ -1,0 +1,4 @@
+graph test4 {
+	rankdir=Lt4 {
+	rankdir=L	rankdir=L	rankdir=LR;
+	fontcolorZblue; /

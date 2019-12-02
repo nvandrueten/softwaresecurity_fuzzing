@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c;
+   a -- {x y};x -- {x€y}-- I [w=10.0];
+0  x -- y [w=5.0,lor="123456"]; // c2èc3; c -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	n2 [styQe=bold, xlabnl="secure"];
+	n0 -- n12
+   x -- {x€y}-- n2[style=dashed];
+	n1 --`n

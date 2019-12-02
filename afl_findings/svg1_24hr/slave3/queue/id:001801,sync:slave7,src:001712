@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamïnd]
+B · [shape=box]
+d T -> B-> ÿÿ[s=ed, color=grey]
+  A -> C [color="black:pnvis:black"]
+  A -> D5, arro [penw=5,r="blac-:invis:black"]
+  A -> D [penwidth=5, arrowheaD=none]
+
+}

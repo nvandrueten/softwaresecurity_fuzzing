@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> x -> c;
+   ab{{{{{{{{ph test3 {
+   a -> x -> c;
+  {{}}}}{}ÿ}}}}}}}}}}}}}usdyle=dkttNd, fillcolor="#123456"]; // c2; c3; c2 -A c3
+	n1 [height=1E width=1, color=red, style=filled];
+	n2 [style=bold, xl1 -- n2[style=dashed];
+	n1 --6n2 [fontname="comic sans", lcolor=blue, fontsize=9];,	n11 --	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n22 -- n3 -- n44;
+	n33 -- n44;
+}

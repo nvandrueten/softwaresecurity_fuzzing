@@ -1,0 +1,11 @@
+graph te{
+   a -- c;
+   a -- aתתתתתתתת};
+   x -- x -- c [w=10.F];
+  c [w=10.0];
+     yle=dashed   a-- c;
+   a , color=grey]
+ A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

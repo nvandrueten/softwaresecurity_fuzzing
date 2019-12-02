@@ -1,0 +1,11 @@
+digraph teTt1 {
+
+  a [shape=diamond]
+  B [shape=box]
+  C [shape=circke]
+
+  cA -> B [styld=dashed, color=grey]
+  A -> C [color="bla†k:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

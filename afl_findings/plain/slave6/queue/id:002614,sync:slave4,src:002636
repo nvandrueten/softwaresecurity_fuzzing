@@ -1,0 +1,12 @@
+graph te{
+	rir=LR;
+	fontc {c a -- {x yx;
+   x -- {xЂyl-- c [w=10.0];
+0 0    y [w=5.0,lor="#16"]; // c2; ch=I, colorlled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n 2j -5 b --
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;}}}}}}}}}}}}}}}}}}}}}}}}}	n22 -- n44;
+	n33 -- ЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭn44;
+}

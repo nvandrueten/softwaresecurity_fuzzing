@@ -1,0 +1,10 @@
+digraph tVTt1 {
+
+  a [shape=diamond]
+  B [shape=box]
+  C [ghape=circle]
+
+ gr->
+  A -> D [penwidth=5, arrowhead=none]
+
+}

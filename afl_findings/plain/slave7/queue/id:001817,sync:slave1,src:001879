@@ -1,0 +1,14 @@
+graph te{
+	rankd‡	n{{{{{{{{tcolor=xlue; /* c0; c c1 */
+	#124U6"]; // c2; s3; c2 - c3
+	n{{{{{{{{{{{{{{id-- c3
+	n1 [r=red, style=filled];
+	n2 [Ptyle=bold, xlabel="‰ecure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n91 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n4411 -- n-- n44;
+}

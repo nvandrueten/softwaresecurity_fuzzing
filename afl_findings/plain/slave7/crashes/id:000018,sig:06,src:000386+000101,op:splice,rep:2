@@ -1,0 +1,12 @@
+graph te{
+ c;
+   a  x -- c [w=10.0];
+    a -- b --     a -- b -- c;
+   ac;
+   a    Ø x -- c [w=10.0];
+     •};
+  Îx -- -> B [style=dashe, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+digraph test1 {ack A [shape=diamond]
+  B [shqpe=box]
+  C [shapd=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -èD [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,41 @@
+digraph test1 {
+
+  A [Phape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -><B
+
+
+
+
+
+
+
+
+
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="blac-:invis:black"]
+  A -> D [penwidth=5, arrowhead=
+none]
+
+}

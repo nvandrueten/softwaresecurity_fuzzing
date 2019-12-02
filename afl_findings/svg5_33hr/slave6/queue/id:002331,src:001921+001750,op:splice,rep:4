@@ -1,0 +1,2 @@
+graph test2 {Ü   a -- b -- c;
+   a -- {y y}--   x -- c [w=10.0]]

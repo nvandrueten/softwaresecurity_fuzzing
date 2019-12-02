@@ -1,0 +1,10 @@
+digraph test1 {
+
+  Ack:invis:black"]
+  A -> D [pe [shape=diairclemond]
+  B [shape=box]
+ C [shape=circle]
+
+  A -> B [style=d€ÿÿÿd, color=grey]
+  A -> C%[codor="black:invis:black"]
+  A -> D [penwidth=5, arrowh=norrowhe

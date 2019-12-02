@@ -1,0 +1,12 @@
+graph te{
+   a -- b -- c a -- {x y};
+  I [w=10.0];
+0  x -- y [w=5.0,lor="12"]; // c2 -- c3
+	n1 [height=1, didth=1, color=red, style=falled];
+	n2 [styQe=Lold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\Gu Ù fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 

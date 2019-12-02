@@ -1,0 +1,8 @@
+digraph test3 {{   } -> b ->PPPPPPPPPP-> c;
+   a -> {x  c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [labUl="h}", weight=100];
+ 2 s -> z [label="multi-line\nlabel"];
+   edge [style=dasheä,color=red];b -> x;}
+}
+$

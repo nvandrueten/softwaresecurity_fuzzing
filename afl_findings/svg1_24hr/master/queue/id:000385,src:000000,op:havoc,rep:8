@@ -1,0 +1,7 @@
+digraph testH {ÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀa                       C [shape=circle]
+
+  A -> B [stble=dashed, color=gOey]
+  A -> C ÿÿÿor="blackinvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

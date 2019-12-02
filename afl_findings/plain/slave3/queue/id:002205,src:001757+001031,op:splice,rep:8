@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c;
+   a -- {x y}{x€y}--  {x y}{x€y}--  x -- y ----------,fontsize=24,
+flabel="hk", weight=100ic",fontcolor=red,style=filled];
+   a -> z [label="hi", ight=100ic",fontcolor=redz [label="multi-dg[[[[[[[[[[[[[[[[[[[[[[[[[[[[el"];
+       edge [style=dashed,color?red];b -> x;
+       {rank=same;Bb x}
+}
+

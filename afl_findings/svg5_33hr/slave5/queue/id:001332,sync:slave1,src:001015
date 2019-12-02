@@ -1,0 +1,10 @@
+digraph t{st1 {
+
+  A -> b -> c;
+   a -> {x y};
+   b [shape=box];c [label="h|ld",color=blue,fontsize=24,
+font="Pano-Italic",f=red,stylht=100];
+ b -> c   x -> z [label="multi-line\nlabel"];
+   ÿ[style=dashed,color=red]test3 {
+   a -> b -> c;
+   a -;b

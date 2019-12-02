@@ -1,0 +1,8 @@
+digraph tewe1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ÿÿÿ€-> B [s=dashed,or=grey]
+  A -> C

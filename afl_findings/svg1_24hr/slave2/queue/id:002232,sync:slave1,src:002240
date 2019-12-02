@@ -1,0 +1,10 @@
+digraph test1 {€
+  Ae=diam C a=g a
+ F=diam C r=g a
+  A -> C -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrow=dashed, color=grey]
+  A -> C [color="black:inÿi@:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

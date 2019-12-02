@@ -1,0 +1,8 @@
+digraph test1 {
+
+  Adashed, col_onis:black"]
+ [p]
+  B [shape=boxq
+  C =circle]
+ ÿstyle=dashed, col_r=grey]
+  A -> C [color="black:invis:black]

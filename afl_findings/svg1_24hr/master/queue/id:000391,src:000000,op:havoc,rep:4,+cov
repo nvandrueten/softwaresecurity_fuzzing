@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diauond]
+  B [shape=box]
+  C [shape=circle]
+mond ->   A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhemd=none]
+
+}

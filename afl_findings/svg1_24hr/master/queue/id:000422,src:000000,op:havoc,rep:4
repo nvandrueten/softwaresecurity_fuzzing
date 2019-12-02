@@ -1,0 +1,11 @@
+digraph fest1 {
+
+  A [shape=diamond]rrowhe
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> Cone [color="black:invis:black"]
+  A -> D`[penwidth=5, arrowhead=none]
+
+}

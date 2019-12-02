@@ -1,0 +1,23 @@
+digraph {est1 {
+
+  A [shape=diamond]
+  B [shàpe=box]
+  C [shape=circle]hed,A -> 6 , 
+
+
+
+
+
+
+
+
+
+
+ack:inhed,A -> 6 , 
+
+
+
+
+c[penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+digraph test1 {
+Υ  A [shape=diamond]
+  B <shape=box]
+  A [shape=diamond]
+  B <shB [style=dashed, color=grey]
+  A τττττττττττττττττττττ-> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

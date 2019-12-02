@@ -1,0 +1,11 @@
+graph te{
+   d -- n [w=10.0];
+    a --Nb --   ž -- b -- #x -0];
+a -- b --  2 [style=bolm, xlabel="\e#ur- n2 [fontname=ÿcn\l\O", fontr=blue, fon=9];
+	n11  -- 22;
+	n11 -- n3D;
+	n22 -- n44;
+	n33 n-1 -- n44;
+	n22 -- n33;
+	n2 n44;
+}

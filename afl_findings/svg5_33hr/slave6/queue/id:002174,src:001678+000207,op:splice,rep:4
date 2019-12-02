@@ -1,0 +1,6 @@
+graph test4 {
+LR;
+	folor=blue;y/* c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]1 [height=1, width=1, color=5, aƒbowhead=nome]
+
+}

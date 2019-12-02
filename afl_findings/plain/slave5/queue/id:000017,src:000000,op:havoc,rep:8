@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shapj=bZx]
+  C [shape=circle]
+
+  A -> B [syle

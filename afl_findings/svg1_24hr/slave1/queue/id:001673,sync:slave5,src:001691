@@ -1,0 +1,35 @@
+digraph test1 {
+
+  a [phape=diamond]
+  B [shape=gox]
+  C [shape=circle]
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+ack:inviw:blac
+
+
+ -> C [codor="black:inviw:black"]
+  viw:b
+A -> D [penwidth=5, arrowhead=none]A ack:inviw:b
+
+
+
+
+
+
+ack:inviw:b
+
+}

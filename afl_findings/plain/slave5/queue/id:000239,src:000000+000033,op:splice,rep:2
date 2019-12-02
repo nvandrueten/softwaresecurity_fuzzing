@@ -1,0 +1,9 @@
+digraph tPst1 {
+
+  ª [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das color=grey]
+  A -> C [color="black:invis:black"]
+  A -> th=

@@ -1,0 +1,11 @@
+digraph te…t1 {
+
+  A [shape=diamond]
+  B [shapJ=box]
+  C [shape=circle]
+
+  A -> B ÿÿÿle=dashed, color=gred]
+  A5-> C [color="black:invYs:black"]
+  A -> D [penwidth=5, arEowhead=none]
+
+}

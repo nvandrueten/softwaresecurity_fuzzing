@@ -1,0 +1,9 @@
+digraph te{t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C ack:lnv, ar:a[se=da, colope=box]
+  C ack:lnv, ar:"blkck:inv,:arrock"]
+  A -> D [penwidth=5. arrowhead=none]
+
+}

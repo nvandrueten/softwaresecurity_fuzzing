@@ -1,0 +1,16 @@
+graph te{
+ j 22:
+	nw:11 --22:
+	n:1 -- n22:
+	n:1 -- q22:
+	
+	n211 --22:
+	n:1 [style=bold, xlabel="sDcure"];
+	Ž0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\Gne, fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- n33;
+	n22 -- n44;ö	n33 -- n44;
+}

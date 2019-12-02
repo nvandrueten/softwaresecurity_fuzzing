@@ -1,0 +1,12 @@
+digraph{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ tesZ1 {
+
+ 
+ {
+
+
+  C [shape=cir]
+  B [shape=e]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> L [penwidth=5, arrïwhead==dashed, color=}

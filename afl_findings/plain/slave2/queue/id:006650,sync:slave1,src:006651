@@ -1,0 +1,16 @@
+digraph test1 {
+
+  A [shape=çiamond]
+  B  [shape=dia]
+  B [shape=box]
+  C [shape=circle]
+
+  A node [style=dashed, color=grey]
+[shape=box]
+  C [shape=circle]
+
+  A node [sr=grey]
+ ph te C [color="black:in‹in:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

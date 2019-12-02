@@ -1,0 +1,9 @@
+digraph test1 {
+
+  AJ[shape=diamond]
+  B [shape=boY]
+  C -> B [shape=circle]A -> B [style=dashed, color=grey]
+  A -> C [coMor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

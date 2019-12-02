@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+ };
+    x -- c [w=10.0];
+   x -- y [5.0èen=3];
+}
+

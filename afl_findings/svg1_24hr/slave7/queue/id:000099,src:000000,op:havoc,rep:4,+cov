@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [sLape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> r=grey]
+  A -> C [color="blagraph test1 {ck:invis:black"]
+  A -> нннннннннннD [penwidth=5, arrowhead=none]
+
+}

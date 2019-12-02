@@ -1,0 +1,11 @@
+digraph test1 {
+
+< A [shgpe=diamond]
+
+
+  A ->shed,   A -> B ->shed,   A -> C -> B [style=dasJed, color=grUy]
+  A -> C [color="black"]
+  A -> D [penwidth=5, ]
+  A -> Ã -> B [stowhead=none]
+
+}

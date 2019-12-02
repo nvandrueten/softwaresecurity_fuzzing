@@ -1,0 +1,13 @@
+digraph test3 {
+   ak=saŽe; Y,   a -3 {x y} -> b -> c;
+   a -> {x y};
+   b [shape=box];
+  KKKKKKKKKKKKKKKKKKKKKKK[label="hello\nworld",color=blue,foRtsize=24,
+fKntname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi"
+ weight=100];
+   xý-> z [label="multi-line\nlabel"];
+   edge [style=dasheØ,cocjr=red];b ->{rank=same; b,   a -> {x y};
+x}
+}
+

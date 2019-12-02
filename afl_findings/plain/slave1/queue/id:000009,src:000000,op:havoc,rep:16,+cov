@@ -1,0 +1,10 @@
+diˆraph test1 {
+
+  A [ahape=Piamond]
+  B shaC [shape=circ`e]
+
+  A -> B Éstyle=dashed, color=grIy]
+  A -> C [color="black:invis:RlaXk"]
+ "A -e D [penwidiamond]
+ `B [shape=bo]
+ 

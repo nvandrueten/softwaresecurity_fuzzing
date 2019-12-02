@@ -1,0 +1,8 @@
+digraph test3 {
+ o a ->1b -> c;
+   a -> {x y};
+þ  b  c [wle=dashed, colot=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

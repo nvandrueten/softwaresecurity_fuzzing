@@ -1,0 +1,10 @@
+digraph test1 {
+
+  AÙ[shape=diamond]
+  B [shape=box]ÿ  C [shape=circle]
+
+  A -> B [style=dashXd, color=grey]
+  A -> C [style="lack:in  Aÿ-> B [style=dashXd, colXXXXXXXXXXXXXXX€XXXXXXXXXXXXXXXdXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlack"]
+  A -> D [penwiJth=5, arrowhead=none]
+
+}

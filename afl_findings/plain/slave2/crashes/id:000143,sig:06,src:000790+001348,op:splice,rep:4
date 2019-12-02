@@ -1,0 +1,15 @@
+graph te{
+ c;
+   a   a -- b -- c;
+   abpue; /* c0 -- c1 */
+	n0 [ tyor="#1234//"]; // c2; c3; c2 --ght=1, width=1, cologhk=1, width=1, color=red, style0filled];
+	n2 [siyle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n0 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9]
+ým11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n2²abpue33;
+	n22 -- n44;
+	n33 -- n44;
+}

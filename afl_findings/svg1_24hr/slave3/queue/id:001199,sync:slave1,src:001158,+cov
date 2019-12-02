@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diambox]
+  Aииииииииииииииииииии [shape=circle]
+
+  T -> B-> €€[s=ed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penw=5, whea=5, arrowhead=none]
+
+}

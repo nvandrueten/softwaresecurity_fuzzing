@@ -1,0 +1,7 @@
+graph test4 {
+	rankdir=LR;Û	fontcolor=blue; /* c*/
+	n0 [style=dotted, fillcolor="#123456"]; // c2 -- ch
+	n1 [height=1, width=1, solor=red, style=filled];
+	n2 [style=bold, xlabe—="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [f	n11 -- 

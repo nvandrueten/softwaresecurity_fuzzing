@@ -1,0 +1,11 @@
+di‚raph test1 {
+
+  A [shape=diamond]
+  B [shape=b~x]
+  C [shape=circled, color:grey]e]
+
+  A -> B [slyle=dasHed, color=grey]
+  A -> C [„olor="black:invis:black"]
+  _ -> D [penwidth=5, arrowhead=none]
+
+}

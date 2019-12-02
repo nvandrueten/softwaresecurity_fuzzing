@@ -1,0 +1,14 @@
+graph ‘e{
+	rankdir=LR;
+c-- c:
+  w -- b -- c:ñ,
+   a c:
+  w -- S -- c9òb -- c:
+  w -- b -- c:ñ  
+ w -- b -- c:ñ,
+   a c:
+  w -- S -- c9òb -- cV
+  w -- b -- c:ñ  
+    a 
+}
+

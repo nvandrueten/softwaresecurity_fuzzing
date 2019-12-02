@@ -1,0 +1,8 @@
+graph te{
+ c;ÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔ a -- b --     a -- b -- c;
+   ac;
+   a   ÔÔÔÔÔ-- c [w=10.0];
+     y};ck:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

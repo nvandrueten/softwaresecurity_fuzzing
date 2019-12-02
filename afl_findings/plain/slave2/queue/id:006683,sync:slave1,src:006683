@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boš]
+  A node [style=dashed, color=geeeeeeeeeeeeeeey]
+0ph te C [color="black:invin:blTck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

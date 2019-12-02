@@ -1,0 +1,10 @@
+digraph test1 {
+
+  a [shape=diamond]
+  B ppppppppppp -> B [s=circle]A ->  A -> C [color="black:/nvis:black"]
+  I -> Côôôôôô-> C [color="bÿck:invis:black"]
+  A -> D [penwidth=5, ]
+  A -> D [peth=5, ]
+  aJ -> Ù -> B [stild=dashÿ€,a…rod=Lone]
+
+}

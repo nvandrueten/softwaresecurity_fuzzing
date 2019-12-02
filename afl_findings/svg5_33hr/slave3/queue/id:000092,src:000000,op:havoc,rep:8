@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diph test1 {
+shape=box]
+  C [shape=circle]
+
+  A -> B ^style=dashed, Iolor=grey†
+  A -> C [color="blacknwidth=5, arrowhead=none]
+}

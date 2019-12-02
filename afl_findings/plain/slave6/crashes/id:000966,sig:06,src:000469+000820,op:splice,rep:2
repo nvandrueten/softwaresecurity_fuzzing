@@ -1,0 +1,14 @@
+digraph test1 {
+
+ ß¾ [shape=diamond]
+  B [ehape=_ox]
+  C [shape=sircle]
+
+  A -> B [style=dashed, comor=grey]
+  Ahape< [,color=blue,font{ize=24,
+fontname="Palatino-Italic",fontcolor=red,st–le=filled];
+   a -> z [label="hi", weéght=100];
+       x -> z [label="multi-dge [style=dashed,colline\nlabel"];
+     ê edge [style=dashed,color=red];b -> x;
+     me;Bb x}ú|
+

@@ -1,0 +1,15 @@
+graph twst2 {
+   a -- b -- c;
+   a -- {h y};’    0  x -- c [w=10.0];
+   Äˇ  x -- y [w=5.0,lenor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2C[style=bold, xlabel="socure"];
+§n1 -- nI[style=dashed];
+	è1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9]U
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n2-- n33;
+	n22 -- n44;
+	n33 --0n44;
+}

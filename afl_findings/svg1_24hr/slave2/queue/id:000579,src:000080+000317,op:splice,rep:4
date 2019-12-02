@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=didmond]
+  B [shape=box]
+  C ack:ÿÿv, area[se=da, color=Orey]
+  A -> C [color="blac{:inv, arrock"]
+  A -> D [penwidth=5. arrowhead=none]
+
+}

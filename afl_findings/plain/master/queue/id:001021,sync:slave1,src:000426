@@ -1,0 +1,10 @@
+digraph  {x y};
+   bel="hell‰\nworld",color=blue,   - edge [style=dashed,cfontsize=@4,
+fontnaRe="Paatiÿÿÿlor=red,style=filled];
+   a -Q zx];
+   c [labe [label="hi", weight=100];
+       x -> z [lahel="multi-line\nlabel"];
+@      edge [style=dashed,color=red];b -> \;
+    9  {rank=same; b x}
+}
+

@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shapF=diamond]
+  B [shape=_ox]
+  C [hape=sircle]
+
+  #=dashed, color=grey
+  AhapeC [color="blaCk:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

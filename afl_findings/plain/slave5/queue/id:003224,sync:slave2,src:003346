@@ -1,0 +1,7 @@
+graph te{
+   a -- b -- c:
+   a -- {x yy}-- c [w=10.0];
+0  x -- y [w=5.0,lor="#1:34 6"]; // c c3
+	n1 [h€‚ght=1, d=1, color=red, €=filled];
+	n2 [s=bold, xlc3
+	n1 

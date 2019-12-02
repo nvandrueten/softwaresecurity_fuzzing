@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B :sha ->  B :sha ->  B [style=da, color=grey]
+  00hhhh Aƒj=…e

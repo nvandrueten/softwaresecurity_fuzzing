@@ -1,0 +1,15 @@
+graph {{{te{
+   a -- Å -- c; a -- {x yph te{
+   a -- b -- c;
+   };
+	n0 [style=µotted, fillcolor="#123456"]; // c2; c3; m∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆coˇr=- c; a -- {x yph te{
+   a -- e=bold, xlabel="sewure"];
+	n0 -- n1 -- n2astyle=dashed];
+	n1 -- n2 e="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

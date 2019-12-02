@@ -1,0 +1,8 @@
+digraph test1 {
+
+node[shape=dnas color=grey]
+  Q -> C [color="black:invis:black"]
+  A eeeeeeeeeeeeeeeeeeeeeeeeeeeåe-> Dds coedgd [style=dashed,color=red];b -> x;
+   {üank=s b x}
+}
+

@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+   c -> {à y};
+   b [shape=b„x];c [label="hel>>>>>>>>>>>>>>>>>>>>>>>>>Y>no-Italic",fontcolor=„ed,style=fill÷d];
+   a -> z [label=0];x ->
+   {rank=same; b x}
+}
+€

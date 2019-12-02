@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+
+
+  A ->Uhe,   P -> B ->shed,   A ->shD [penwidth=5, arrowhead=none]
+
+}

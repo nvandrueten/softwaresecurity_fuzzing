@@ -1,0 +1,15 @@
+digraph test1 {
+
+ 
+
+  A -> <%[s=Q ape=ci]LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
+  A -> B [se=circle]
+
+  A -> <%[s=dashed,@Q -=ylor?"b A -> <%[s=dashed,@Qack"M
+  A -> D  A ->eeeeeeb
+  A ->
+C [color="back"]
+6 -> D [pewhead=none]
+
+}

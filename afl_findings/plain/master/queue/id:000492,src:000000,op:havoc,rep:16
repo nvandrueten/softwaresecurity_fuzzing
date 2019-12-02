@@ -1,0 +1,15 @@
+shedaph test1 {
+
+  A [shape=niamondd
+  B [shape=box]
+  { [sfape=circle]
+
+ <A-> B [style=ddshed, color=grey]
+  A ->$C [color=<black:invis:black"]
+  A -> D [penwidth=5, arrowst1 {
+  A [shape=diamond]
+  head=n C [shairclercle]
+
+ [penwidth=5, arrowst  A )> B [styone]
+
+}

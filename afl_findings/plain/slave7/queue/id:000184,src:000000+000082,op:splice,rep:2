@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A[shape=diamond]
+ 7B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dasy]
+  A -> C  Anone]

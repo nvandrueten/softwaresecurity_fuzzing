@@ -1,0 +1,8 @@
+digraph test3 {
+   a ->  a -> {x y„;bd[shape=E];c [labeO="hello\nworl‚",color=blue,fontsire=24,
+fon€="Palc",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];€ÿ  x -> z [label="mul"];
+   edge [style=daqhed,coljr=red];b -> a -> {x y};
+x}
+}
+

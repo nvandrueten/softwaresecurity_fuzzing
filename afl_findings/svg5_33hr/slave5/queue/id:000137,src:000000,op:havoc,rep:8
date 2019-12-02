@@ -1,0 +1,11 @@
+digraph ‚est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+   [style=dashed, gracolor=grey]
+  A -> C [color="blaÿ€:invis:black"]
+  A -> D![penwidth=5, art1 {
+
+  A [shape=diamond]
+  Browhead=noneM
+ð|

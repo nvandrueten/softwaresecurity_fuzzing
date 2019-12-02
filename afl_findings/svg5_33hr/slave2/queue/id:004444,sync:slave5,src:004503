@@ -1,0 +1,16 @@
+digraph test1 {
+
+  A [sor="bnlabel"];
+ B [shape=box]
+  C [shape=circle]
+
+  A -> B 
+  A [shape=diamond]
+  B[style=dashed, color=grey]
+  A -> C [color="bnlabel"];
+   edge [stylæ=GasJ   coljr=red];b -> x;
+   {rank=same; bÆ   a   {rank2s ->A -> A; b    a––––––– ; b    Eme ->A -> A;ge [style=dashed,coljr=red];b -> b    a a -> Æx y};¥Ž}
+-> {x y};
+x}
+}
+

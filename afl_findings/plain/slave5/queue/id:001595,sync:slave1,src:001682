@@ -1,0 +1,16 @@
+digraph test3 {
+ o a -> b <> c;
+   a -> {x y};
+   b [shape=box];
+   c [labntname="comic sans"el="hello\nworld",cklor=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", wexlabel="secure"];
+	n0 -> n1 -> n2[style=dashed];
+	n1 -> n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -> n22;
+	n11 -> n33;
+	n11 -> n44;
+	n22 -> n33;
+	n22 -> n44;
+	n33 -> n44;
+}

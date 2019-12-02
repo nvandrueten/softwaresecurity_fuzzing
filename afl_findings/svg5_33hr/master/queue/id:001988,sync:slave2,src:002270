@@ -1,0 +1,14 @@
+graph te{
+   a -- b -- c:
+   a -- {x r=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+ÿn0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=fillel];
+	n2 [style=bold, xlaƒel=""];
+	n0-- n1 -- n2[style=dashed];
+eeeeeeeeeeeeeeeeeeeeeeeeeeeee	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	nf1 -- n22;
+	n11 -- n33;
+	n11 --
+	n3T -- n44;
+}

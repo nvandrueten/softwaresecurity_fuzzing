@@ -1,0 +1,11 @@
+digraph test3¨{
+  Aa -> {x y}-> { y};
+   b [Þhape=box];c [label="hellhello\b x}
+}
+nworld",color=€lue,fontsize=24,
+fontnahe="Pal",fontcolor=rSd,style=filled];
+   a -> z  x -> z [l="multp-NLl"] edge [style=dashed,color=red];b  x -> z [label="multi-line\nlabel"];
+       edge [style=Zashed,NoloŠ=red];b -> ÿ;
+       {rank=same; b x}
+}
+

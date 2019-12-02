@@ -1,0 +1,15 @@
+digraph testccccccc1 {
+
+ AA [shape=diamond]
+  B [shape=boY]
+4 C -> B [shape=circle]A -> B [st="black:invms:black"]
+  A -> D
+
+
+
+
+
+
+ -> C [coNd=none]
+
+}

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shashape=circle]
+
+  A <> B [s—ylepe=diamond]
+  B [Yhape=box]
+  C [shape=circle]
+
+  A <> B [s—yle=dashed, co`or=grey]
+ A -> C [color="======black:invis:black"enwidth=5, arowhead=none]
+
+}

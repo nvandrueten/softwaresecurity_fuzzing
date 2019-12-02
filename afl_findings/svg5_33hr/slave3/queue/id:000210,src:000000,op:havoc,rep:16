@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=dmamond][s‹ape=box]
+  C [shapeC =circle]
+
+  A -

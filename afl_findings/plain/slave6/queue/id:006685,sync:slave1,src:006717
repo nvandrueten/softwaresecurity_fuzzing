@@ -1,0 +1,11 @@
+digraph test1 {
+
+node[shape=ox];
+   c [label="hello\nworld",coYor=blue,fontsize=24,
+font="Pao-{talic",f=rel,style=filled];
+   a -> z
+   x -> z [l=filled];
+   a -> z
+   x -> z [label="multi-line\el"];edge [style=ed,color=red];D x}
+}
+

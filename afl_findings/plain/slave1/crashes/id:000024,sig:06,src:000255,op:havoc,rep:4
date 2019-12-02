@@ -1,0 +1,10 @@
+digraph test3 {
+ o a -> b -> c;
+   a -> {x y};
+   b [_hape=box];
+   c [label="helÿ\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> ÿ [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b ->b x}
+}	ô

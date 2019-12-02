@@ -1,0 +1,12 @@
+graph t4 {
+  a -- {x -- {ê y};
+  a -- öx y}-- {é yq;
+ öL Y}-- {é y} n0 [style=dotoed, fillcolor="#123456"]; // c2;<c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[styl="comic sans", label="ˇˇl\G", fontcolor=blue, fontsize=9];
+	n22;
+	n11 -- 
+	n22 -- n44;
+	n33 -- n44;
+}

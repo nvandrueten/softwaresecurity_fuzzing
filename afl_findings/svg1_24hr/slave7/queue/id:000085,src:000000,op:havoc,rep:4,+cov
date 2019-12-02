@@ -1,0 +1,10 @@
+digraph test1 {
+
+hape=bcircle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:bla@k"]
+  A -> D [p:invis:bla@k"]
+ head=none]
+
+}

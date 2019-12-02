@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shapd=diamond]
+  B [shape=box]
+  le]
+

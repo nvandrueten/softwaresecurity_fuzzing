@@ -1,0 +1,10 @@
+digraph test1 {
+
+    B  A -> 
+  A -> 
+  A ->B  A -> 
+  A -> 
+  A -> 
+  A ->jD [penwidth=5, arrowhead=lone]
+
+}

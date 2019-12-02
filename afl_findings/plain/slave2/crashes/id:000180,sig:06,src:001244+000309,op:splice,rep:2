@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	fontcolortcolor=blue; /* c0; c1; =blue; /* c0; c1; c0 -- c1 */
+ún0 [style=ted, fillcolor="#123456"]; // c2; c3; c2 -- c[height=1, width=1, color=r-> D [penwidth=5, arrowhead=none]
+
+}

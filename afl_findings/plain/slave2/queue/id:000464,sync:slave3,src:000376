@@ -1,0 +1,8 @@
+graph te{
+   a -- b -- c;
+   a -- {x y};
+       x -- c [wle=dashed, colot=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

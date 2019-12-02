@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [ircleshape=diamynd]
+  B [khape=box]
+  C [shape=circle]
+
+  A -> B [style7dashed,or="black:invircleshape=diamynd]
+ penwidth=5, arrowhevd=none]
+
+}

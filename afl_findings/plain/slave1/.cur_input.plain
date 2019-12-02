@@ -1,0 +1,49 @@
+graph 1 74.22 12.082
+node fontc 0.42887 6.1288 0.85774 0.5 fontc solid ellipse black lightgrey
+node x€yl 5.5718 10.893 0.75 0.5 x€yl solid ellipse black lightgrey
+node c 40.076 11.309 0.75 0.5 c solid ellipse black lightgrey
+node n1 5.5718 8.1982 0.75 1 n1 filled ellipse black lightgrey
+node n2 40.076 7.726 0.75 0.5 n2 solid ellipse black lightgrey
+node uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu 40.076 5.3927 65.759 0.5 uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu solid ellipse black lightgrey
+node n0 0.42887 6.8788 0.75 0.5 n0 solid ellipse black lightgrey
+node n12j 1.7634 7.9066 0.78349 0.5 n12j solid ellipse black lightgrey
+node b 3.044 7.9066 0.75 0.5 b solid ellipse black lightgrey
+node a 4.3079 8.9205 0.75 0.5 a solid ellipse black lightgrey
+node x 5.5718 7.1982 0.75 0.5 x solid ellipse black lightgrey
+node y 6.5718 9.0732 0.75 0.5 y solid ellipse black lightgrey
+node n11 5.5718 3.2399 0.75 0.5 n11 solid ellipse black lightgrey
+node n22 40.076 4.6427 0.75 0.5 n22 solid ellipse black lightgrey
+node n33 40.076 3.8927 0.75 0.5 n33 solid ellipse black lightgrey
+node n44 73.845 6.5594 0.75 0.5 n44 solid ellipse black lightgrey
+node n21 5.5718 2.3649 0.75 0.5 n21 solid ellipse black lightgrey
+node €33 40.076 1.8371 0.75 0.5 €33 solid ellipse black lightgrey
+edge x€yl c 4 5.9475 10.897 9.4404 10.939 36.186 11.262 39.697 11.305 solid black
+edge x€yl n44 10 5.9485 10.874 6.0303 10.87 6.1164 10.867 6.1968 10.865 7.1274 10.841 72.512 10.942 73.22 10.337 73.49 10.106 73.745 7.6214 73.822 6.8124 solid black
+edge c n44 7 40.45 11.333 43.933 11.55 70.632 13.135 73.22 10.865 73.528 10.595 73.763 7.689 73.827 6.8099 solid black
+edge n1 n2 7 5.9196 8.0077 6.0076 7.9684 6.1036 7.9327 6.1968 7.9121 9.6303 7.1537 36.21 7.6498 39.699 7.7185 "d\n\lteumÃ´ fon" 6.5718 8.126 solid black
+edge n1 n44 13 5.9392 8.3036 6.0232 8.3233 6.1125 8.3409 6.1968 8.351 6.5277 8.3909 6.6135 8.3517 6.9468 8.351 8.7804 8.3475 71.37 9.0213 72.956 8.101 73.44 7.8204 73.684 7.1659 73.785 6.8065 solid black
+edge n2 n44 7 40.454 7.7396 43.918 7.8616 70.102 8.7319 73.22 7.2816 73.436 7.1809 73.607 6.9649 73.715 6.7953 solid black
+edge uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu n44 7 69.467 5.5048 71.512 5.5822 72.903 5.6897 73.22 5.8371 73.436 5.9378 73.607 6.1538 73.715 6.3234 solid black
+edge n0 n12j 4 0.67988 7.0721 0.91696 7.2547 1.2708 7.5272 1.509 7.7106 solid black
+edge n0 n44 13 0.66763 6.6823 0.98167 6.432 1.5219 6.0316 1.7634 6.0316 1.7634 6.0316 1.7634 6.0316 40.076 6.0316 47.383 6.0316 65.695 5.5428 72.956 6.3649 73.135 6.3852 73.331 6.4259 73.493 6.4649 solid black
+edge n12j b 4 2.1581 7.9066 2.3197 7.9066 2.506 7.9066 2.666 7.9066 solid black
+edge n12j n44 13 1.7891 8.1587 1.8641 8.7435 2.1381 10.143 3.044 10.143 3.044 10.143 3.044 10.143 40.076 10.143 41.903 10.143 71.393 10.602 72.956 9.6566 73.454 9.3554 73.729 7.499 73.815 6.8134 solid black
+edge b a 4 3.2877 8.1021 3.5115 8.2816 3.8414 8.5462 4.065 8.7256 solid black
+edge b n44 10 3.142 7.6595 3.3145 7.2705 3.7114 6.5594 4.3079 6.5594 4.3079 6.5594 4.3079 6.5594 40.076 6.5594 53.831 6.5594 70.738 6.5594 73.466 6.5594 solid black
+edge a x 7 4.4424 8.6866 4.6059 8.4098 4.8974 7.9402 5.1968 7.5732 5.2433 7.5162 5.2974 7.4581 5.3498 7.4053 solid black
+edge a y 4 4.6817 8.9457 5.1012 8.974 5.7777 9.0197 6.1974 9.048 solid black
+edge a n44 16 4.629 9.0527 4.7257 9.0895 4.8327 9.1274 4.9329 9.1566 5.4838 9.3171 5.626 9.3615 6.1968 9.4205 6.5284 9.4547 6.6135 9.4209 6.9468 9.4205 8.7804 9.4183 71.306 10.068 72.956 9.2677 73.412 9.0463 73.708 7.4427 73.807 6.8126 solid black
+edge x n2 10 5.9485 7.2249 6.0303 7.2302 6.1164 7.2356 6.1968 7.2399 6.641 7.264 6.7521 7.2693 7.1968 7.2816 20.572 7.6505 37.016 7.7164 39.698 7.7249 dasheuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu‰uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuud black
+edge x n44 7 5.9476 7.199 11.194 7.2087 69.673 7.3047 73.22 6.7538 73.316 6.7388 73.419 6.7119 73.512 6.6829 solid black
+edge y n44 7 6.9506 9.0777 12.268 9.1396 71.81 9.8079 73.22 8.7399 73.53 8.5051 73.734 7.3347 73.81 6.8121 solid black
+edge n11 n22 7 5.7982 3.4445 6.0943 3.6967 6.641 4.1109 7.1968 4.2677 10.478 5.1931 36.264 4.718 39.699 4.6503 solid black
+edge n11 n33 7 5.8978 3.3696 5.9927 3.4016 6.0975 3.4315 6.1968 3.4482 13.099 4.6148 36.45 3.9964 39.7 3.9037 solid black
+edge n11 n44 7 5.9465 3.2193 11.269 3.0438 71.527 2.3167 72.956 3.3927 73.424 3.7451 73.729 5.6167 73.818 6.3076 solid black
+edge n11 n44 7 5.9465 3.251 11.269 3.2938 71.527 2.5667 72.956 3.6427 73.398 3.9752 73.694 5.6607 73.801 6.309 solid black
+edge n22 n44 7 40.456 4.6363 44.017 4.5777 71.482 4.1548 72.956 5.0177 73.436 5.2986 73.68 5.9467 73.783 6.3067 solid black
+edge n33 n44 7 40.457 3.8849 44.026 3.8134 71.552 3.2946 72.956 4.2677 73.306 4.5102 73.65 5.7665 73.785 6.3092 solid black
+edge n44 n44 7 73.736 6.8012 73.715 6.9356 73.752 7.0594 73.845 7.0594 73.938 7.0594 73.974 6.9356 73.954 6.8012 solid black
+edge n21 n44 7 5.9507 2.3646 11.333 2.36 72.246 2.3202 72.956 2.8649 73.511 3.2907 73.756 5.5449 73.824 6.3072 solid black
+edge n21 €33 7 5.9412 2.3082 6.025 2.2974 6.1138 2.2876 6.1968 2.2816 19.969 1.2767 36.972 1.741 39.699 1.825 solid black
+edge €33 n44 7 40.442 1.7805 43.722 1.2812 68.056 -2.2435 73.22 2.2816 73.525 2.5493 73.761 5.4237 73.827 6.3044 solid black
+stop

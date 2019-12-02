@@ -1,0 +1,13 @@
+digraph test1 {
+
+  Aape=diamond]
+  B [shape=box]
+  C [shape=cir}le]
+
+  A -: 6[style=dasned, color=grey]
+  A ->C [color="black:invis:black"]
+  A -> D [penh test1 {
+
+  Aape=diwidth=5, arrowhead=none]
+
+}

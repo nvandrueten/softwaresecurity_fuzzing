@@ -1,0 +1,14 @@
+graph te{
+   a -- b -- c:e{
+   a -- b -- c:
+    y};
+       x -- b -- c:
+    y};
+   -- c [w=10.0];Å       x -- y [w=5.o-\talic",fo=5, alatntcolor=red,style=filla0];
+   x -> z […abel="Tulti-line\nlabel"];
+   edge [style=dashed,coljr=red];b -> x;
+   frank2same ->A ->   {rank2s;
+   frank2same ->A ->   {rank};
+x}
+}
+

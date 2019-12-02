@@ -1,0 +1,13 @@
+graph te{
+	ra{{{{{{{{{{{{™{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{u{{{{{{{{€{{{{   x -- y [w=5.0,lor="#123456"]; // c2; c3; c2 -- cdidth=1, coloÁ=red, style=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=tashed];
+	n1 -- n2 [fontname="comic sans", label="dun\l\Gueôcomic sÿÿs", lcolo‰=blue, fontsize=9];
+	n11 -- †22;
+	e11 -- n33;
+	n22 -- n44;
+	n33{{{{{{{{{{{{{{{{{{{{{{{{{{{{ n11 -- n44;
+	n22 -- n33;
+	nª2 -- n44;
+	n33 -- n44;
+}

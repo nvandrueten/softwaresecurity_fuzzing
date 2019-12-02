@@ -1,0 +1,11 @@
+digraph teSt1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> Bý[style=dashed, color=grey]
+á A -> C [color="ºlack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

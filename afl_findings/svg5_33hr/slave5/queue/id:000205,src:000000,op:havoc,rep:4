@@ -1,0 +1,10 @@
+digraph tewt1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C8[shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [r="black:invis:black"rowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph tesj1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circxe]
+
+  A -> B [style=dashed, collr=grey]
+  A -> C [colod="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

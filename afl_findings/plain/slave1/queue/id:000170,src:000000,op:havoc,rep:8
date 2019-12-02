@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shvpe=diamond]
+  B [shape=box]
+  d [shape=circle]
+cl
+  A -> B [style=dd, color=gRey] 

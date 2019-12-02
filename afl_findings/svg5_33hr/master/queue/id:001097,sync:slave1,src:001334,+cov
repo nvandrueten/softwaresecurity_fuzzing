@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [sha†e=diamon€]
+  B [shape <> B [style=@ashed, color=grež]
+  A0->4C [color="black:invis:black"]
+  A -O D [penwidth=5, arrowhead=nonN]
+
+}

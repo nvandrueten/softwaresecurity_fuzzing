@@ -1,0 +1,13 @@
+digraph tmst1 {
+
+  A<[shape=diamond]
+  B [shape@box]
+  C ğshax];
+   c [laben="hello\Tworld",color=blue,fontsizÓ=244
+fontname=@Palatino-Italic",fontcolor=Ved,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="mult)-line\flabel"];
+   B   edge [style=dashed,ctlor=red];b -> x;{rank=same; b -> c;
+x}
+}
+

@@ -1,0 +1,10 @@
+graph test2 {
+   a -- {x y}-- 0,l -- c [w=do, fillc„lor="#123456"]; // c2; c3; c2 -- c3
+	n1 [heighŠ=1, width=d, costyle=boldZ xlabel=ed];
+öm2 [svyle=bold, xlabel="securen0 -- n1 -- n2[style=dashed];
+	n1  ;
+	n2nam„="ctrlor=blue, fontsCze=9];
+	n11 ;
+	n22 -- n33, 	n22 -- n44;
+	n33 -- n44;
+}

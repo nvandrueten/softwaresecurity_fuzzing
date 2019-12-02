@@ -1,0 +1,16 @@
+graph ‘est4 {
+	rankdir=LR;
+c,
+   a c:
+  w -- S	-- c9òb -- c:
+  w --	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, colo=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1ntc n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n1 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

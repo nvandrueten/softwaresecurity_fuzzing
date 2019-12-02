@@ -1,0 +1,11 @@
+digraph tesirclet1 {
+
+  A [†hape=diamond]
+ [style=dasgreyted, color=grChape=box]
+ C [shape=circle]
+
+  A -> B [style=dasgreyhed, co.or=grey]
+  A -> tyleolor=nvis:digrk"]
+( A -> D [penwidth=5@ arrowheadshede]
+
+}

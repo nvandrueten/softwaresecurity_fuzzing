@@ -1,0 +1,17 @@
+graph test2 {
+   D -3 {x y}-- 0,l -- c [w=do, milor="#1234ei;
+	n2 Astyle=bold, xlabel=", arrowhead=none]
+
+; // c2; c3; c2 G- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2C[style=bold, xlabel="socure"];
+	n
+	n22 -- n30 -- n1 --y [w=5.0,lenor="#123456"]; // c nI[style=dashed];
+	è1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fonQsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

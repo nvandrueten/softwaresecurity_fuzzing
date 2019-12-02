@@ -1,0 +1,11 @@
+di]]]]]]]]]]]]]]]]]]]]]]]graph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invisth=5, arr:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

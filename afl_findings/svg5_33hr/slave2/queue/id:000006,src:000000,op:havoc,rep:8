@@ -1,0 +1,10 @@
+digred, color=grey]
+  A ->e=diamond]
+  B [shape=Uox]
+  ^ [shape=rcle]
+
+  A -> B [}tyle½dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A K> D [penwRdth=5, arrowhead=none]
+
+}

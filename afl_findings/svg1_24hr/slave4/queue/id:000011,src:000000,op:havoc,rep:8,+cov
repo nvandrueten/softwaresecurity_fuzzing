@@ -1,0 +1,11 @@
+digraph ‰est1 {
+
+rey [shhpe=diamond]
+  B [shape=box]
+  C            le]
+
+  A > B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrTwhead=none{
+
+}

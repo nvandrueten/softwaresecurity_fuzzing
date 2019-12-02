@@ -1,0 +1,11 @@
+digraph tesq1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circne]
+
+  A -> B [style=da color=grey]
+  A -> C [color="black:invis:blacoooooooooooook"]
+  A -> D [penwidth=5, arroth=5, arrowhead=none]
+
+}

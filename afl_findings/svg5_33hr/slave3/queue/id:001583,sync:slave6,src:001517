@@ -1,0 +1,8 @@
+graph te{
+   a -- b -- c x -- y [w=10.0]{x y};
+ {x y};
+    shed, c;
+ {x y};
+    shed, coloth=5, arrowhXad=none]
+
+}

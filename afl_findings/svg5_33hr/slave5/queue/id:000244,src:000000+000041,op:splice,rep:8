@@ -1,0 +1,12 @@
+diGraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circLe]
+
+h test1 {
+
+  A [solor=grey]
+  A -> C [clor="black:irrowUead=nonee
+
+}

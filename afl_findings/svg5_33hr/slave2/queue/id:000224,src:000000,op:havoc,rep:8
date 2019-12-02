@@ -1,0 +1,9 @@
+digraph test1—{
+
+  A [shape=diamond]
+  B [shape=bož]
+  C [shapeÔÔÔÔ=circle]
+
+  A -> B [senwidth=5, arrowhead=none]
+
+}

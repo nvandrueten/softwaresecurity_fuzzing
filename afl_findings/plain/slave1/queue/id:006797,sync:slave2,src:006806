@@ -1,0 +1,25 @@
+digraph test1 {
+
+  A -> "%-> ÿ€
+{x y};
+ 
+   lo\nworld",c
+fone   a -> "%-Italred,style=fil=5.0,lor="#123456"]; // c2;תתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתתת c3; c2 --h test3 {
+
+  A -> "%-> ÿ€
+{x y};
+ 
+   lo\nworld",c
+fone   a -> "%-Italred,style=fil=5.0,lor="#123456"]; // c2; c3; c2 --h test3 {
+   a -> "%-> h=1, color=red, scyle=filled];
+	n2 [styQe=bold{
+   a -> "%-> h=1, color=red, scyle=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0$-- n12-- n2[style=dashed];
+	n1 -- n2 [fontna e="comic sans", label="d\n\l\Gue, fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21)-- €33;
+	n22 -- n44;
+	n33 -- n44;€ÿ

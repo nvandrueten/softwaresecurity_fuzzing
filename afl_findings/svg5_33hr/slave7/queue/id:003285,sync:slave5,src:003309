@@ -1,0 +1,11 @@
+graph te{
+   a -- b -- c;
+  b -- c;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x --Ø{x y}-- {x y};
+   
+  y};
+   
+  aaaaaaaaa{x y}-- {x y};
+  a -- {x y}-- {xaaaaaaaaaaa x -- y [w=5.0len=3];
+}

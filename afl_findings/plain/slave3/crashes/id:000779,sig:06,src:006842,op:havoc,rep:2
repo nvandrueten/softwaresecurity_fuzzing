@@ -1,0 +1,11 @@
+digraph test1 {
+
+ÿ A [shape=diamond]
+ ³B [shape=box]
+  C [shape=circle]
+
+  A -> a [style=dashXd, color=grey]
+  A -> C [style=" lack:inYis:bXXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXXXXXXXXXXXXXXXXXX(XrXgXXXXXXXXXXXXXXXXXXXXXqXXXXXXXXXXXXXXXUXXXXXXXXXXlack"]
+  A -> D [penwidth=5, arrowhead=non ]
+
+}

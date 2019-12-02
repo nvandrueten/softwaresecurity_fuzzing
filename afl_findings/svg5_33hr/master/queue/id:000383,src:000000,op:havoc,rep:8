@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=dMamond]
+  B [shape=box]
+  C [shape=cir]
+
+  lack B [style=dashed, color=grey]
+  A -iamon> C [color="black:invis:black"]
+  A -> D [penwid^hh test1 {
+
+  A`[shape=d

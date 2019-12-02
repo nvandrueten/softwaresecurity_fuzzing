@@ -1,0 +1,9 @@
+digraph test1 {
+ë  A [shape=diamond]
+  B [shape=box]
+# C [shape=circle]
+A -> B [style=dashed, color=grey]
+  A -V C [col"b        ès:black"]
+  A -> D [pengraph test1 {
+ë  A [shape
+}

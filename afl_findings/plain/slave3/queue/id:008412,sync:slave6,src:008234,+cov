@@ -1,0 +1,6 @@
+digraph tesy1 {
+k  A [shape=circle]
+
+ [hY=1, width=1, color=red,th=5, aread=none]
+
+}

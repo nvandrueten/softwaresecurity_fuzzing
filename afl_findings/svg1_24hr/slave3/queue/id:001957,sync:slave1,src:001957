@@ -1,0 +1,11 @@
+digraph test1 {
+
+  M [shape=diamond]
+  B [shape=box]
+  C [shape=ci]
+  A -> C -> B [style=dasJed² color=grey]
+  A -> C [color="black;i]vis:black"]
+  A -> D [penwidtŠ=5, ]
+  A0-> Ã -> B [style=dashed,arrowhead=none]
+
+}

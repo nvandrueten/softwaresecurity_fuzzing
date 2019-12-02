@@ -1,0 +1,10 @@
+dygraph test1 {
+
+  A [shape=diamond]
+  B [shape=bãx]
+  C [shape=circlstyle=dashed, color=grey]
+ =none]
+ [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

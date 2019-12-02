@@ -1,0 +1,6 @@
+digraph tes¢1 {
+
+  A [shape=diamond]
+  B [shape=b  Ale=dd, c=grey]
+  A -> C [color="black:invis:black"]
+  A ->6(

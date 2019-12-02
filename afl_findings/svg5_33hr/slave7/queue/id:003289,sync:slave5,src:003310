@@ -1,0 +1,10 @@
+graph te{
+ {x y}-- {x y};
+  a -- c;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x -- {x y}-- {x y};
+   
+  y};
+   
+  aaaaaaaaaaaaaaaaaaao x -- y [w=5.0len=3];
+}

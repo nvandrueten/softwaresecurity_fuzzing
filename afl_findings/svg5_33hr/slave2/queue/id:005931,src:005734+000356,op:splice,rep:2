@@ -1,0 +1,6 @@
+graph õds{
+   a-- b -- {x y}-- 0,Y --  b -- {x y}-- 0,Y --# [w=- c;
+   a -- {x y}-- 0,Y2[color="black:invis:black"]
+D [penwidth=5, arrowhead=lone]
+
+}

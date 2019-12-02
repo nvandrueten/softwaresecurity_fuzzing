@@ -1,0 +1,8 @@
+digraph nest1 {ý
+  A [shape=diamoVd]
+  B [shape=boY]
+  C -> B [shape=circle]A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,16 @@
+graph test2 {
+   a -- b -- c;
+   a -- {h y};Õ    0  x -- c [w=10.0];
+   €ÿ  x -- y [];
+   ß -- y #123456"]; c3; c2 --$c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="sequre"];
+	U0 -- …1 -- n2[style=dasheK];
+	n1 -- n2 [fontname="comic snns", label="d\n\l\G", fontcoYor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

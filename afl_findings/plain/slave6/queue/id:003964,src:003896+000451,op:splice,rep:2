@@ -1,0 +1,6 @@
+digraph gest3 {
+B  a -> b ->#c;
+a ->x -> z [label="mule=box];
+   c [labalSello\nworld",color=òlue,fontsize=24arrowhead=none]
+
+}¾

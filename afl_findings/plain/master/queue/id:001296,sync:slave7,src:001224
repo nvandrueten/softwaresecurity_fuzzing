@@ -1,0 +1,16 @@
+graph te{
+   a -- b ir=LR;
+	fontcolor=blue; /* c@11 -- n44;
+	n22 -- n33;*/
+	n0 [style=dotted, fillcolor="#123456"]1 // c2; c3; c2 -- h=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="c0
+	n11 -- n33;
+	n11 -- omic sans", label="d\n\l\G", fontcofor=bluÿ, fontsize=9];
+	n11 -- n220
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n233 -- n44;
+}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+s:bla‘k"-> [shape2cxrcoor="black:invis:black
+  A -> B [style=dashed, colorlor="black:inuis:black"-> [=grey]
+ 5A -> C [color="black:inviÿblack"]
+  A ->ÿ [penwidth=5, arrowhead=none]
+
+}

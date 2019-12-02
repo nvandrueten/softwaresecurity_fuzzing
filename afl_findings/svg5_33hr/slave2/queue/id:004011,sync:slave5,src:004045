@@ -1,0 +1,5 @@
+graph test2 {
+   D -3 {x y}-- 0,l -- c [w=do, milor="#1234ei;
+	n2 Astyle=bold, xlabel=", arrowhead=none]
+
+}

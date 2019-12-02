@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [sÑape=deamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A„-> B ash{Y, colory]

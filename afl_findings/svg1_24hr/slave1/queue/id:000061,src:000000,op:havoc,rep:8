@@ -1,0 +1,12 @@
+}igraph test1 {
+
+  A;[shape=diamond]
+  B :shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  ' -> C [> D [peinvis:black"]
+whecolor="blacklaceeeeeeeeeeeeeeeeeeeeeeeeeeD [peinvis:black"]
+whead=none]
+
+}

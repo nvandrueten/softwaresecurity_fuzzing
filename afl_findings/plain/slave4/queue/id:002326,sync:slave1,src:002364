@@ -1,0 +1,15 @@
+graph te{
+	rir=LR;
+	color=bl/* c c1 * c1 */
+	{{{{{c c1{}{{{{{{{{à{{{{{{{{{{{ontname="co[style?doÿed, f‚lkcolor="#13K56"]; // c2; =1, width=1, tyle=filled];
+	n22 -- n44; c0 -- c [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic saîs", lcolor=blue, fontsize=9];
+	n1M -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	ns3 -- n44;
+}

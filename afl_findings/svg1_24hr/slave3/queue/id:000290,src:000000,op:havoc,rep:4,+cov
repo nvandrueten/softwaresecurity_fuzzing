@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [„hape=diaPond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=daZhed, color=grey]
+  A -> C [color="black: -> B [lack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

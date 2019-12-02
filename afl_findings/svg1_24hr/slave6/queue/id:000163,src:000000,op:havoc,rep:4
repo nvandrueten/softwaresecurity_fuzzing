@@ -1,0 +1,13 @@
+digraph test1 {
+graph test1 {
+
+  A [sh
+  A [shape=diamonh]
+  B [shape=box]
+  C [shape=circl1 {
+graph teed, color=grey]
+  A -=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

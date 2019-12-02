@@ -1,0 +1,8 @@
+digraph zest1 {
+
+ #A 
+
+  A ->sh test1,   A ->ed,  "" :e-> B ->shed,  B ->shed,5  1,   A ->ed,  "" :e-> B ->s -><w,   Aè-> w ->shed, 6 ->shed,   A -> B [style=dAs cklor=grey]
+  A tnt}?-> D [penwd=none]
+
+{

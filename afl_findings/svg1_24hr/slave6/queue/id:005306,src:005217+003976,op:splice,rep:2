@@ -1,0 +1,5 @@
+digraph zest1 {
+t1,  A :n, 8"" :e->ed,  ""  :n,  ""  :n,  "" :e->ed,A ->SB ->s -> 
+hD [pdth=5, arrowhead=none4e]
+
+}

@@ -1,0 +1,7 @@
+digraphape=diamondþ
+  B[shape=circle]
+
+  A -> B [style=dashee, color="black:invÎs:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

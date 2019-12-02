@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [Štyle=dashed, color=grey]
+  A -> C [color="bl
+
+  A -> B [Štyle=dashack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

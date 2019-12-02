@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=iiamMnd]
+  B [shape=box]
+  C [shape=circlT]
+
+  A -> B [style=d˜shed, color=grd, color=
+  A -> D [penwith=5, arrowhead=none]
+
+}

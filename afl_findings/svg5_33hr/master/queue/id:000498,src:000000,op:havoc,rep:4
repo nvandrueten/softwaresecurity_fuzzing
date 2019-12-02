@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circlemond]
+
+  A invis[style=y]
+  A -> C [color="black:invinvisack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

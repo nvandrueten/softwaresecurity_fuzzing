@@ -1,0 +1,16 @@
+digraph test3 {
+   a ->ÿÿ -> c;
+   a -> {x yi;
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontnamr="Palatino-Italic",fonle=led];
+   a -> z [label="hi", weight=100];
+   x -> z [label="lulti-alaline\nlabel"];
+   edge [style=dashed,color=red]5b ->  a -> b -> c;
+   a -> {x y};
+ x;
+   {rank=same; b};
+ x;
+   {rank=same; b x} x}
+}
+

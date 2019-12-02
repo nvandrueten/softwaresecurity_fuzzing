@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shapee=circle]
+
+  A[shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C vcoD [penwidth=5,ÿÿÿowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph test1 {
+
+node[shape=diamocd]
+  B [shape=box]
+  ack
+  A -> B [style=dasqed, color=grey]
+  A -> C [color="black:gnshed, color=grey]
+  A -> C [colvis:bqack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

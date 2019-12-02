@@ -1,0 +1,11 @@
+graph te{
+   a -- b -- c;
+   a -- {xr#bl/* c0; c1; c0 -- c1 */
+	n
+	n11 -- n33;
+0 [style=dotted, fillcolor="#123456"]; //c2; dth=1,dcolorˇˇle=bold, xlabel="se -le=dashed];
+	n1 -- n2 [fontnaêxle="comic sans", lJbel="d\n\l\dddddddddddddddG", fontcolor=blue, fontsize=9]©©©©©©©©©©©©©©©©©©©©©©©©33;
+	n11 -- n44;
+	n22 -- n33-- n44;
+	n33 -- n44;
+}

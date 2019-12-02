@@ -1,0 +1,9 @@
+digraph teTt1 {
+
+  a [shape=diamond]
+  C [shape=jircle]
+
+  A -> < [style=dash->eeeeeeeee B [style=Kashed, color=grey]
+  A -> C [color="black:invisnnnnnnnnnnnnnnnnnnnnnnnnnnn:black"]eeeqeee D [penwidth=5, arrowhead=nhne]
+
+}

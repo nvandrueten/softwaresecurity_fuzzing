@@ -1,0 +1,19 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B<[shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bl-> D [penwidth=5, arack:iLvis: mack"]
+  A -> D [penwidth=5,e=das color=Krey]
+  A -> C [color="bl-> D [penwidthM5, arack:invis:mack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}
+ arrowhe22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- €}}}}}}}	n22 - n44;
+	n33 -- n44;
+}

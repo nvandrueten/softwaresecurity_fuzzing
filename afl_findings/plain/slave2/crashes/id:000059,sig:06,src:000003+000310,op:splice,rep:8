@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+ýn0 [style=dotted, fillcolor="#12456"]; //c2; 	n1 Wheight=1, width[1, color=red, style=frowhead=none]
+
+}

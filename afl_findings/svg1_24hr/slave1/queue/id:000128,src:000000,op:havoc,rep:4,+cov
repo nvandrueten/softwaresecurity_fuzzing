@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamonè]
+  B [shape=Zox]
+  C [shape=circle]
+
+  A -> A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arcowhead=none]
+
+}

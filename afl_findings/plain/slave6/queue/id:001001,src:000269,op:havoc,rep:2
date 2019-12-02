@@ -1,0 +1,8 @@
+graph te{
+ c;
+1  a  x -- Q [w=10.0];
+    a -- b -- c;
+   a  x -- c  a -- b -- c;
+   a      x -- c[w=5.0,len=3];
+}
+

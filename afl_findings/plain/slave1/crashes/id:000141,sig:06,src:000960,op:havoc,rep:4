@@ -1,0 +1,13 @@
+graph test4 {
+Îrir=LR;
+	fontcolor=blue; /* c1; c0 -- =1 */
+	n0 [style=dotted, fillcolor="#12346"]; // c2; c33 c2ht=1,width=1, color=red, stySe=filleded, stySe=fle=bold, xlabelA"sacure"];
+	n0 -- n1 -- V2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n n22;
+	n1144;
+	\l`G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n1144;
+	n22 --”””””””””””””””””””””” n33;
+	n2±±±±±±±±±±±±±±±±±±±±±;
+}

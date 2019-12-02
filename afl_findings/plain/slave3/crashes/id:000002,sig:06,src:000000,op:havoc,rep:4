@@ -1,0 +1,9 @@
+digraph te…t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, colok=grey]
+  A -> C [color="black:invis(black"]
+  A -> D [penwidth=5, arrowhead=none]	ö}

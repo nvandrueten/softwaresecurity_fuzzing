@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shpe=cirshacle]
+
+  A -> B [stzle=dasheolor=grey]
+  A -> 1 [color="blac{:invis:black"]
+  A -> D [}enwidth=5, arrowhe=none]
+
+}

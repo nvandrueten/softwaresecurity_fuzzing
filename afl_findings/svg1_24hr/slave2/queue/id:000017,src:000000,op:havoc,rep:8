@@ -1,0 +1,9 @@
+digraph tesu1 {
+
+ [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> Cack:invis:bla, a÷rowhead=none]
+}

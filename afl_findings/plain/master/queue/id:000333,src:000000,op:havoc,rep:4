@@ -1,0 +1,33 @@
+digape=diamond]
+  B [shappe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A ->1C [color="b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lmondack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

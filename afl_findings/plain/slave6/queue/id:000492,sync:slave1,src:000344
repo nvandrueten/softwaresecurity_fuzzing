@@ -1,0 +1,8 @@
+graph te{
+	rankdir=LR;
+	fontcolor=bl/* c*/
+	n0 [style=do2 fillcolor="#12"]; // c2 -- c3
+	n1 [height=1   idth=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -7 n2[style=dashed];
+	n1 -- n2 [fontnLme="comic sans"%%%%

@@ -1,0 +1,10 @@
+digraph test5 {
+
+  A [seape=diamond]
+  B [shape=box]
+ ÿC [shape=circle]
+
+  A -> B [sty„e=das color=grey]
+  A -> C [colRr="blpenwidth=5, arrowhïïïïïïïïïead=none]
+
+}

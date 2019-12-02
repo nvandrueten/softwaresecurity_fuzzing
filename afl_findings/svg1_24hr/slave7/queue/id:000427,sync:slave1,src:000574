@@ -1,0 +1,74 @@
+digr
+
+
+
+
+
+
+
+
+
+ -> C [color="blacÿÿÿ€h test1 {
+
+  a [shape=diamojd]  A ->6B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  B [shape=box]
+  C [sh?peÿÿÿ€cle]
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none
+
+}

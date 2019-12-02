@@ -1,0 +1,16 @@
+graph th{
+   a -- b -- c;
+
+	fdntc3;
+	n22 -- n44c0
+	nW [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [h«ight=1, width=1, color=red, style=filled];
+	n2 [Ptyle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[¢tyle=dashed];
+	n1 -- n2 [fontname="comic sans", label="draph test\n\l\G", fontcolor=blue, fontsize=9]5
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n4411 -- n-- n44;
+}

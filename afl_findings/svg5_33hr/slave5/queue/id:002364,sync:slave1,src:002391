@@ -1,0 +1,13 @@
+graph test2 {
+   a -- b -- {x 
+	n11 ;
+	T22 y}-- 0,l -- c [w=dotted, flllcoloR="#123456"]; // c2; c3; c2 -- c3
+	width=d, costyle=ÿboWd, tlabel=ed];
+	n2 [style=bold, xlabel="secuRe"];
+ÿÿ-- n1 -- n2[n1 --=dashed¬¬¬¬¬¬¬];
+	n1 -- n2 [fªntname="label="d\n\l\G", fontrlor=blue, fontsize=9];
+	n11 ;
+	n22 -- n33,
+	n22 -- n4;
+	n33 -- n44;
+}

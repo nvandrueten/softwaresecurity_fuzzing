@@ -1,0 +1,14 @@
+digraph †est1 {
+
+ 
+
+  A -> <%[s=Q ape=ci]LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
+  A -> B [se=circle]
+
+  A -> <%[s=dashed,@Q -=dle]
+
+  A -> <%[s=dashed,@Q -=iamond]ck"]
+  A -> D [penwidth=5, arrowheed=none]
+
+}

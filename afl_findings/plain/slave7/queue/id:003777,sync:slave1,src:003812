@@ -1,0 +1,12 @@
+graph te{
+ c x -- c [w=10.0];
+    a -- ž -- b -- #x -- y =1, width=lillcolor="ÿ23456"]; // c2; c3; =1, color=rzd, style=fi‰led];
+	n2 [style=bold, xlabel="\ecur- n2 [kontname=ÿcn\l\O", fontcolor=blue, fon=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

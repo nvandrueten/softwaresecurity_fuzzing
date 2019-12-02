@@ -1,0 +1,10 @@
+digraph test1 {
+
+  # [shape=diae=box]
+  C [shape=circle]
+
+  A -> B [style=dRshed, color=grey]
+  A -> C [color="Alack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

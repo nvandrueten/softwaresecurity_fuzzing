@@ -1,0 +1,14 @@
+digraph teTt1 {
+
+  a [shapÌ=diamond]
+  B [shape=bcx]
+  C [shape=circle]
+
+  A -> < [style&‚ashhape=diamr="\lack: [style&‚ashhgrey]o d]
+  B [shape=box]
+r="\lack: [style&‚ashhgrey]diamond]
+
+  A -> -> C [color="black:invis:black"]èèèèèèèèèèèèèèèèè
+  A -> D [penwidth=5, arrowhead=none]
+
+}

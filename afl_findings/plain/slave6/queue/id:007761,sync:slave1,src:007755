@@ -1,0 +1,8 @@
+digraph test3 {ue,zeI24,
+  a4,
+  a -> {x y};
+   b [på=box]
+  C []
+
+  A -> B [style=das color=gley]
+  A -> C [col\r=¢

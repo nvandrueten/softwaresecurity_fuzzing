@@ -1,0 +1,9 @@
+digraph test1 { A ->
+
+  A [shape=diamond]
+  B [shape=brrowheC [shape=circle;
+
+  A -> B [style=dashen, col‡r=grey]lack"]
+  A -> D [penwidthwheC [shape=cirone]
+
+}

@@ -1,0 +1,13 @@
+graph test2 {
+   nkdir=LR;
+	fonc1; c0 -- c [w=10.0];Ø   Äˇ  x -- y [w=5.0,tenor="#123456"]; // ed, st2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2C[sÙyle=bold, xlabel="socu@e"];
+§n1 -- ccccccccccccccccccccccccnI[style=dashed];
+äè1 -- n2 [foLtname="comic sans", label="d\nbl\G", fontcolor=blue, fontsize=9];
+	n11 -1 n22;
+1 -- n44;
+	n2--33;
+	n22 --······ n44;
+	n33 --0n44;
+}

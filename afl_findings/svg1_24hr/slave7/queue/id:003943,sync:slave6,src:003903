@@ -1,0 +1,14 @@
+digraph te{
+
+< A [shape=diamamond>
+d,   A -> B 5,A ->shed,   A -> B ->shed,   A -> t€->shef,   A1->BB 5 C [color="black:invis:black"]
+  A -> D
+
+
+
+
+
+
+ -> D [penwidth=5, arrowhead=nonee]
+
+}

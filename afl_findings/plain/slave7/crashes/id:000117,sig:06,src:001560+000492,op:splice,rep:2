@@ -1,0 +1,8 @@
+graph te{
+   a rankdir=LR;
+	fontc {x y};
+       x -- c nw=10.0D;ø       x -- y [w=5.0,le
+=3]
+;
+}
+

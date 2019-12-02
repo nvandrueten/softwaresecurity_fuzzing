@@ -1,0 +1,11 @@
+digraph  est3 {
+ o a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatsno-Itali
+ C a -> z [[abel=hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+  þ    edge [style=dashed,color=red];b -> x;
+       {rank=same;Bb x}
+}	ô

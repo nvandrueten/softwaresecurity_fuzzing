@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x0y};
+   b [shape=box];c [label="hel>C>>>>>>>>>>>`>>>>>>>>>>>>>no-ItaÓic",fontcolor="black:ack"]
+  A -> D [penwidth=5, arrowhead=nonepenw]
+
+}

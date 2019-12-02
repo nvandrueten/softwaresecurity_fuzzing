@@ -1,0 +1,25 @@
+graph 1 4.1667 3.5
+node 1 0.76389 3.25 0.75 0.5 1 solid ellipse black lightgrey
+node 12 0.76389 2.25 0.75 0.5 12 solid ellipse black lightgrey
+node 14 1.9722 1.25 0.75 0.5 14 solid ellipse black lightgrey
+node ‘3 2.375 0.25 0.75 0.5 ‘3 solid ellipse black lightgrey
+node nw1 2.7778 3.25 0.76847 0.5 nw1 solid ellipse black lightgrey
+node B 3.7917 3.25 0.75 0.5 B solid ellipse black lightgrey
+node ‘3n 3.375 0.25 0.75 0.5 ‘3n solid ellipse black lightgrey
+node sw1 1.7639 3.25 0.75 0.5 sw1 solid ellipse black lightgrey
+node 11 1.7639 2.25 0.75 0.5 11 solid ellipse black lightgrey
+node -4 2.7639 2.25 0.75 0.5 -4 solid ellipse black lightgrey
+node 13 0.375 0.25 0.75 0.5 13 solid ellipse black lightgrey
+node n2J 1.375 0.25 0.75 0.5 n2J solid ellipse black lightgrey
+edge 12 14 4 0.84571 2.006 1.0087 1.5547 1.3903 0.66813 1.7639 1.0417 solid black
+edge 14 14 7 1.7639 1.0417 1.5556 0.91667 1.3472 0.91667 1.3472 1.1458 1.3472 1.2694 1.4683 1.3263 1.6126 1.333 solid black
+edge 14 14 7 1.7639 1.0417 1.4722 0.79167 1.0972 0.79167 1.0972 1.1458 1.0972 1.399 1.3953 1.4712 1.6718 1.4005 solid black
+edge 14 14 7 1.7639 1.0417 1.5556 1.2917 1.3472 1.2917 1.3472 1.0417 1.3472 0.79167 1.5556 0.79167 1.7639 1.0417 solid black
+edge 14 ‘3 4 2.0697 1.0079 2.1326 0.85186 2.214 0.64962 2.277 0.49331 solid black
+edge 14 ‘3n 4 2.2711 1.0966 2.5283 0.95468 2.8993 0.72572 3.1667 0.45833 solid black
+edge 14 13 4 1.7639 1.0417 1.6775 0.95531 1.0535 0.61351 0.67183 0.40832 solid black
+edge 14 n2J 4 1.7639 1.0417 1.6123 0.89008 1.5102 0.66752 1.4488 0.49696 solid black
+edge sw1 11 4 1.7639 2.9977 1.7639 2.8472 1.7639 2.6568 1.7639 2.5057 solid black
+edge 11 14 7 1.6315 2.0139 1.4979 1.7403 1.3442 1.2947 1.5972 1.0417 1.6496 0.98929 1.7115 0.98929 1.7639 1.0417 solid black
+edge -4 14 7 2.5556 2.0417 2.2096 1.6957 1.8438 1.9226 1.5972 1.5 1.5972 1.5 1.7639 1.0417 1.7639 1.0417 solid black
+stop

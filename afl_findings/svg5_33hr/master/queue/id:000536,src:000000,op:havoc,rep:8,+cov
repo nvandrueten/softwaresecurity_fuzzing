@@ -1,0 +1,8 @@
+digraph ƒest1 {
+pe=diamon  B [shape=box]
+  C Mshape=circle]
+
+  A -> B [style=dashed, color=grey]color="blacq:invis:black"]
+  A ->rrowhe D [penwidth=5, arrowhead=none]
+
+}

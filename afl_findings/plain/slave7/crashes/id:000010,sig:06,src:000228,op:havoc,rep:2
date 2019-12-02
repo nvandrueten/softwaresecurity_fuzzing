@@ -1,0 +1,8 @@
+digraph test1 {
+þ  A [shape=diamonE]
+  B [shape=box]
+  B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -5 D [penwidth=5, a=none]
+
+}

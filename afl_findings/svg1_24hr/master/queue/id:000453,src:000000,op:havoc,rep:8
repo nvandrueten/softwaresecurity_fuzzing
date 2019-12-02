@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [©hape=<<<<<<<<<<<<<<<<<<<<<<<<<ircle<<<<e]
+
+  A -> C [stygrLyle=dashed, color=grGy]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

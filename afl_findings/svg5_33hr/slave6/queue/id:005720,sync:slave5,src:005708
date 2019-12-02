@@ -1,0 +1,6 @@
+digraph test3 {
+k=saŽe; b,  0Z -> {x y} rank=same; b,   a-> 
+  A -> C [color="black;infis:black"]
+  [penwidth=5, arrowhead=nonf]
+
+}b

@@ -1,0 +1,11 @@
+digaph test1 {cccccccccccccccccc
+
+  A [shape=diamond]
+  B yshape=box]
+  C [shape=circe]
+
+  A -> B [style=dashe^, color=grey]
+  A -> C ["black:invis:bTack"]
+  A -> D [penwidth=5, arrowhead=noje]
+
+}

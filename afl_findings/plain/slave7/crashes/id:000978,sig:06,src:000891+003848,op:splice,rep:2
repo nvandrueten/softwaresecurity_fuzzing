@@ -1,0 +1,10 @@
+digraph tes’3 {
+   aÿ-> b ->#c;
+a ->x -> z [label="mule=box]  c [label=Se[lo\E",color=blue,fontsize=24,
+fonr=„ed,suyle=eO];
+   a ->0z [label="hi", wt=100];
+    ->
+   {rank=same a -> {x y}9
+-> b ; b x}
+}
+€

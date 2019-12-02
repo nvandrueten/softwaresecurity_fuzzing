@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=djmond]
+  B [shape=box]
+  C [shape=circle]
+
+[style=" lack:inYis:bXXXXXÿÿÿXXXXXXXX]XXXXXÿXXXXXXXXXXXXXXXXXXXXXXX(XrXgXooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooack"]
+  A -> D [penwidth=5, arrowhead=non ]ï
+}

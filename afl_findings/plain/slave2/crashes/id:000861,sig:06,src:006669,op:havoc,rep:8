@@ -1,0 +1,10 @@
+digraph test1 {
+Äˇˇˇ [shape=diamond]
+  B [shaqe=box]
+  C [shape=circle]
+
+  A -> a [sxyle=dashXd, colow=g≥≥≥≥≥≥≥]
+  A -> C [style=" lack:inYis:bXTXXXXXXXXXXXXXXXXXXXXXXˇ£££££££££££££££££££££££££££££££û££££££££££££££££££££££££££££££££££££££££££££££££∫£££££££££££££££££££££££££££££∏£££££££££££££XXXXXXXXXXXXˇXXXXXXXXXbXXXXXXXXXXXXXX(XrXÅXXXXXXXXXXXXXXXXXXXXXXqXXXXXXXXXXXXXXXXXXXXXHXXXXXXXXXXXXXXXaXXlack"]
+   [penwidíh=5, arrowhead=non ]
+
+}

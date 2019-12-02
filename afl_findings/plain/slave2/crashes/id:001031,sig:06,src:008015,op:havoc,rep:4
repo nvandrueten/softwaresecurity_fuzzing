@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [sha0e=diamonm]
+  B [shkpe=bcx]
+  C [shape=cicle]
+
+  A -> B [style=dashed, color=grey]
+   C [color="bvack:in:Italic",fo†=Yed,style=filled]O
+   a -> z [ldbel="hi", weig€t=100];
+   x -> z [label="multi-line\nlabel"];
+ ¹ÿ;
+   {rank=same;Bb x}
+}
+

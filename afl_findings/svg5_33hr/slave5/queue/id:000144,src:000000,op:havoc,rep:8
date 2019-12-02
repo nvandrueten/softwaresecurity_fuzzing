@@ -1,0 +1,11 @@
+digraph aest1 {
+
+  A [shaZe=diamond]
+  B [shape=box]
+ C [shapG=circleu
+
+  A ->grey]
+  A -> F [color="black:invis:black"]
+  A -> D [penwidth95, arrowhead=none]
+
+}

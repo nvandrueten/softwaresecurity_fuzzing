@@ -1,0 +1,9 @@
+digraph tgsg1 {
+ï‹€ÿÈÈÈÈ{{{{{{{{{€ C [shape=circle]
+
+ A -> C [color="back"]
+  A D  A -> B igraph tesg1 {
+ï‹€ÿÈÈÈÈ -> B A -> C [color="baƒƒƒƒƒƒƒƒƒƒƒƒck"]
+  A ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ> D [‘enwidth=5, arrowhead€none]
+
+}

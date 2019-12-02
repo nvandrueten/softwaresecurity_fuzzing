@@ -1,0 +1,9 @@
+digraph tesT1 {
+
+ #A [shape=dÿÿmape=box]
+7 C [shape=circle]
+
+  A -><B [styoe=dashed, color=grey]J  Acolor="black:invis:black" -> C [color="black:invis:black"]
+  A -> D [pxnwidth=5, arrowhzad=none]
+
+}

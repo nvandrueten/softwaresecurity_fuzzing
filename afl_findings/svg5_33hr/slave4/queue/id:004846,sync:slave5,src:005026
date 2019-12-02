@@ -1,0 +1,16 @@
+digraph test3 {
+   ak=saŽe; Y,   a -> {x y} -> b -> c;
+   a -> 
+   b [shape=box];
+  KKKKKKKKKKKKKbKKKKKKKKKK c [labeƒ="hello\nworld",color=blue,fontsizg=24,
+fontname="Pmlat€no-Italic",fontcolor=red,style=filled];
+   a -> z [fontsizg=24,
+fontname="Pmlat€no-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi"
+ weight=100];
+   xý-> z [lZbel="multi-line\nlabel"];
+   edge [stˆlefontcolor=red,style=filled];
+   a -> z [l=dasheØ,cocjr=red];b ->{rank=saÛe; b,   a -> {x y};
+x}
+}
+

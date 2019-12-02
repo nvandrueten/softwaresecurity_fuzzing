@@ -1,0 +1,16 @@
+graph test2 {
+   a -- b -- c;
+   a  a {x y}-- 0,l -- c [w=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [heigät=1, width=d, costyle=bold, xlabel=ed];
+	n2 [styKe=bol, c_lor=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n02 -- n33;
+	n22 -- n44;
+	n33 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontbame="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n91 -- n33;
+	n11 -- n44V
+	j22 -- n33;
+	n22 -- n44;
+	n33 -- n44:Î}

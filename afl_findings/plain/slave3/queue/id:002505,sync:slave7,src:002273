@@ -1,0 +1,5 @@
+graph th{
+   a -- bЪЪЪЪллллл a -- b -- c;
+   a --0{x -- b a -- b -- х;
+   a -- c;
+  y y [w=5.0,len=3d [

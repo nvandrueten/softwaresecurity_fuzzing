@@ -1,0 +1,7 @@
+graph test2 {
+   a  a -- b -- cR
+   F -- {x y}-- {x y};
+ á     x -- c [w=10.0];
+     x -- y [w=5.0,len=3];
+w
+

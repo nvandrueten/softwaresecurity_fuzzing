@@ -1,0 +1,17 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A node [style=dashed, color=grey]
+ ph test1 {
+
+  A [shape=diamond]
+  H [shape=box]
+  C [shape=circle]
+
+  A node [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=node]

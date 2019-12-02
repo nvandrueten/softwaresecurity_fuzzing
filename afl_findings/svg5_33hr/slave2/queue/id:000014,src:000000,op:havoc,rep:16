@@ -1,0 +1,9 @@
+digraph test1 {
+
+   [shape=wiamond]
+  B C [shÈpe=circlH]
+
+  A -> B [style=dashed< colo‘=grey]
+  A -ck:ievis:bla5, arrowhead= penwk:ievisidWh=5, arrowhead=none]
+
+ˆ

@@ -1,0 +1,14 @@
+digraph test1 {
+an{{{‚{{’{•j{{c{{{{{{Pdir=LR;
+’=LR;
+	fonor=b	/* c1 */
+	n0 ir=LR;
+T=LR;
+ A -> D [penwidth=5e="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       weigkt=1edge [style=dash}ed,coljr=red];b -> xU
+       {raLk=same; b    c -> {x y};
+x}
+^
+

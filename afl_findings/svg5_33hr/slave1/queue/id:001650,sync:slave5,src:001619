@@ -1,0 +1,12 @@
+digraph tegt3 {
+   a -6 b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,Nize=24,
+fontname="Palitino-Italic",fontcolor=red,style=filled];
+   a ->€z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [st_le=dashed,color=red];b -> x;
+       {ran; b x}
+}
+

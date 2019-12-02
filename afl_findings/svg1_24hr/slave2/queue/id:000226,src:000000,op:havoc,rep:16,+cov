@@ -1,0 +1,7 @@
+digraph test1 {
+"blacashape=d  B [shape=box]
+  C [syle=dashed,ÿ€olor=erey]
+  A -> Cg[color>"black:invÇs:black"]
+  A -> D [penwidth=5,arrowhcax"nonv]
+
+}

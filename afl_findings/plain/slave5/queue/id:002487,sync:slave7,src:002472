@@ -1,0 +1,16 @@
+graph te{
+	rankdir=ÑR;
+	fontr=zl
+    a -- b -2     a -- b -- c;   a -- b -- 
+   ac;
+   a   a -- b -- n0 [style=dotted, fillcolor="%123456"]; // c2; c3; c2 -- h=1, color=red, style=rilled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sanw", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	ˆ11 -- n220
+	n11 -- n33;
+	n11 -- n44;
+	n	fontr=zl;
+	n22 -- tted, fillcon4o;
+	n33 -- n44;
+}

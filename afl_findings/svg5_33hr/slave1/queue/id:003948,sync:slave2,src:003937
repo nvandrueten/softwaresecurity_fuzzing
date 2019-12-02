@@ -1,0 +1,9 @@
+graph te{   a -2 {x -- c;
+ }-- {y y} [shape=box];
+  l
+
+
+
+
+
+-style=dc

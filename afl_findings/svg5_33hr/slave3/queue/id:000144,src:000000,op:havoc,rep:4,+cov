@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamknd]
+  B [shape=Tox]
+  C [shape=circle]
+
+  A ->d, coNor=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

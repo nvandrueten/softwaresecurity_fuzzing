@@ -1,0 +1,10 @@
+digraph tehhhhhhhhhhhst1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=íircle]
+
+  A -> B  -> C [color="black:invis:black"]
+  A -> D [penwiZth=5, arrowhead=none]
+
+}

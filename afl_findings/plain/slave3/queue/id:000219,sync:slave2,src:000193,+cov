@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shave=box]
+  C [shcpe=cirele, d=grey]
+  A ÿ> C

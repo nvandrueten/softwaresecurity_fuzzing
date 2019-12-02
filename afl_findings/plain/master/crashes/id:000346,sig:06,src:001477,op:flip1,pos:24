@@ -1,0 +1,9 @@
+digraph test3 {
+   a <> â ->   a -> {x y};
+   b [shape=box];c [label="hel>>>>>>>>>>>>>>>>>>>>@>>>>>>no-Italic",fontcolor=„ed,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="munlabel"];
+   edge [style=dashed,color=red];b -> x;
+   {rank=same; b x}
+}
+€

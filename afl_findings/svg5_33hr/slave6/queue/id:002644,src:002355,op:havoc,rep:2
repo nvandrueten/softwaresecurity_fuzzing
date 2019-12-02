@@ -1,0 +1,9 @@
+digraph teŒt1 {
+
+€  Bed, coŽock:invi -> {Œ yÿÿÿ€  b [shape=box];c [label="hello\nwor€d",color=blue,fontsize=24,
+font=filled];
+   a -> z [la„el="hi", weigr=red,stylht=100];
+   x -> z [label="multi-linti-line\nlabel"];
+   edge [style=dashed,color=red];b ->7x;}
+}
+$

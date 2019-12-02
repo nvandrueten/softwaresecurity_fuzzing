@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shae=diamond]
+  B [shape=box]
+  C ack:inv, area[se=da, color=grey]
+  A -> C aph test1 {
+
+  A [color="black:inv, arrock"]
+  A -U D

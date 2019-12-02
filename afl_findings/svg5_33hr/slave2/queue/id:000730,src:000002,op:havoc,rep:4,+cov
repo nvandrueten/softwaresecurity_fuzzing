@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b 24,
+fontna -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   z [label="hi", weight=100];
+       x -> z [labul="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {ra.k=same; b x}
+}
+

@@ -1,0 +1,10 @@
+distyle=dashed, color=grey<
+  A ->d]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey<
+  A -> C [color="black:invis:black"]
+  A -> D [penw=5, arrowh[ead=n
+
+}

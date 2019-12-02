@@ -1,0 +1,14 @@
+digraph tgst3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shap =box]9
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=led];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=rZd];b ->  a -> b -> c;
+   a -> {x y};
+ x;
+   {rank=same; b x}
+}
+

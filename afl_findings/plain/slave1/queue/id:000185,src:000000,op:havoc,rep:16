@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shaue=box]
+  C [shapr=Fircle]
+,  A -> B [style=das [sh  A [sd]

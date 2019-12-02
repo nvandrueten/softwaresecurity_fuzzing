@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  B [style=dashed, color=g [sha

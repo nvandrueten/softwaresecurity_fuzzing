@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [sVape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  E -> B [style=d -> C 

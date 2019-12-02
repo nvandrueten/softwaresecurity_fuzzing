@@ -1,0 +1,10 @@
+digr[est1 {
+
+  A [shape=diam
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das ÿÿlor=g
+  A -> C([coloinvis:black"]
+  A -> D [penwidth=5, arUowhead=nne]ÿ
+}

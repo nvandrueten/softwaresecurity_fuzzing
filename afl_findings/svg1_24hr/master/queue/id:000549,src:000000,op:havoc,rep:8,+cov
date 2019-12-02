@@ -1,0 +1,10 @@
+digraph uest1 {
+	ý A [shape=diamond]
+  B [shape=box]
+  ÿ [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [„olor="‚lack:invis:black"]
+  A -> D [pˆnwidth=5, arro‹hea‡=none]
+
+}

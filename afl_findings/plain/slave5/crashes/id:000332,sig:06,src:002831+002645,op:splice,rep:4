@@ -1,0 +1,17 @@
+graph te{
+ c;
+   a  x -- f [w=10.0];
+    a -- b -- c;
+ 8 aù x -- c  a -- b -- c;
+   a      c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed]9
+	n1 x-- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", labWl="d\n\l\Gumô fon", fontcolor=blue, fontsize=9];
+	n19 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n}}}}}}}}}	n22 -- n44;
+	n33 -- n44;
+}

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diaaond]
+  B [shape=bod]
+  C [shape=cirÿle]
+
+  A ->d, c]

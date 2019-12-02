@@ -1,0 +1,12 @@
+graph —eD{{{{{{{h —eP{{
+   ox}}} -- {x€yl-- c [w=10.0];
+0 0    y [w=5.0,lor="#123456"];€33;
+}}}}}}}}}}}- c3
+	n1 [le=1, didth=1,ed, style=filled];
+	n@ [styQeObd,style=filled];
+   a -> z [label="hi", wegght=100];
+       x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

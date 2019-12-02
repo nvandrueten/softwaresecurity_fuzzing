@@ -1,0 +1,6 @@
+gryph test2 `
+   a - b -F c;
+         x -- cd[w=10. a -- {y y};
+       x -- c [w=10.;
+}
+

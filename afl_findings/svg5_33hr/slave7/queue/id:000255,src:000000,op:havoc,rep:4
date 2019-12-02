@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shapu=diamond]
+  B [shape=ox]
+  C [shape=circle]
+
+  A -> B {
+
+  A [shapu=diamon=grey]
+  A -> C [="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

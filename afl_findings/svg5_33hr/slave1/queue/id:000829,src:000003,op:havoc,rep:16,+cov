@@ -1,0 +1,17 @@
+graph test4 {
+	rlor=blue; /* c0; c1; c0 -- c1 */ {
+	rankd@r=LR;
+	fontcolc
+	n2 [style=bold, xolor="#123456"]; // c2; c31, color=red, style=fille-- n2[style=dashed];
+	n1 -- nd];
+	n2 =bold, xlabel="secure"];
+	n0 -- [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [f nFFFFFFFontname=Ccomic sans", label="d\n\l\G",þfontcolor=[lue, fontsize=9];
+	n11 - nFFFFFFFFFFFFFFFFF22;
+	n11 -- n33;
+	n1% -- n44;
+	n22-- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

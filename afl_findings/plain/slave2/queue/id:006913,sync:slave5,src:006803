@@ -1,0 +1,14 @@
+graph te{lue; /* c0; b1; c0 -- c1 */
+	nN [style=dotted, fillcolor="#123456"]; // c2; A -> C [color="black:invis:black"]
+  A , aD [penwidth=51, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 --6n2 [fontname="omic sans", lcolor=blue, fontsize=9];
+	n11 -- S22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 --7n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

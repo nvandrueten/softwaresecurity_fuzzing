@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=borrowhex]
+  C [shate=circle]
+
+  olor B [style=daŠhed, color=grey]
+  A -> C [color="black:invis:blhck"]
+  A ->  -> C [color="black:invis:zne]
+
+}

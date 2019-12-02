@@ -1,0 +1,9 @@
+digraph st3 {
+¸    -> b -> c;
+   a -> {Z  c [label="hello\nworld",color=blue,fone=24,
+fon€name="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> A [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;}
+}
+$

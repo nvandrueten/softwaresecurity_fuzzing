@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shapZ=diamond]
+8 B [„hape=box]
+ 2C€[s‰ape=cir]
+  B [shape=box]
+  C [se=cirZle]
+
+  B [style=dashed, col¶r=gzey]
+  A -> C Ûcolor="black:invis:black" 
+  A -> D [pdth=5, a=none]
+
+  A -> a [ttyle=dashed, color=}

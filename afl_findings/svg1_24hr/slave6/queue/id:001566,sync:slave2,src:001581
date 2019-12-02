@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  [penwidth=5, th=5, arrnb=circle]
+
+  A -> B [style=d arrowhead=noneey]
+  A -> C [color="black:black"]
+  A -> D [penwidth=5, th=5, arrnh=5, owhead=none]
+
+}

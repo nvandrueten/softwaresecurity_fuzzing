@@ -1,0 +1,6 @@
+digraph Jest3 {
+   a -> b -> c;
+   a -> {x yc;
+   a -> {x y};
+   b Pshap};
+   b Pshape=box];

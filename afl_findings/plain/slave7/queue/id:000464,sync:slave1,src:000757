@@ -1,0 +1,13 @@
+digraph te†t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  A -> C [shape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arr—whead=none]
+
+}

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shŠpe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> < [st‹le=dae=box]
+  C [shape=circle]
+]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,10 @@
+digraph t€ÿt1 {
+
+  A [shape=diamond]
+  B [shbpe=box]
+  C [shape=circle]
+
+  A -> B [style=das color=greù]
+ [s=box]
+  C   A      -> C [color="black:invis:black"]
+  A 1> D

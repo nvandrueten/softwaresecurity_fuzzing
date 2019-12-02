@@ -1,0 +1,12 @@
+digraph test3 {
+   a -5ıb -> a;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,Nize=24,
+fontname="@alitfno-Italic",fontcolor=red,style=Äilled];
+   a -> z [label="hi", weWght=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

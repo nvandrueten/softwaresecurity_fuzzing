@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shdig=diamond]
+  B [shape=boY]
+  C [shape=circlF]
+
+  A ->Ý	  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

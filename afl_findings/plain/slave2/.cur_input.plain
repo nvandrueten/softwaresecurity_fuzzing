@@ -1,0 +1,9 @@
+graph 1 4.9747 1.5
+node a 0.375 1.25 0.75 0.5 a solid ellipse black lightgrey
+node b 0.375 0.25 0.75 0.5 b solid ellipse black lightgrey
+node ph 1.375 1.25 0.75 0.5 ph solid ellipse black lightgrey
+node te 2.375 1.25 0.75 0.5 te solid ellipse black lightgrey
+node -0 3.375 1.25 0.75 0.5 -0 solid ellipse black lightgrey
+node uuuuu 4.4861 1.25 0.97719 0.5 uuuuu solid ellipse black lightgrey
+edge a b 4 0.375 0.99766 0.375 0.84722 0.375 0.65677 0.375 0.50574 solid black
+stop

@@ -1,0 +1,6 @@
+graph te{
+	ra
+	rir=LR;
+	fontcolor=blue; /* c*/
+ðm0 [style=dotued, fillcolor="#123456"]; // ct=1, width=1, color=red, styl~=filled];
+	n2 bstyle=bold  xlabul="secure"le=dashed];

@@ -1,0 +1,48 @@
+digraph test1 {
+
+  a [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="black:invis:black"]
+  A -> D
+
+
+
+
+
+
+ -> C [color="b [penwidt Bh=5, arrowhead=none]
+
+}

@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> b "hi", wei24,
+fontna-> c;
+   a -> {x y};ƒ   b [shape=box];
+   c [label="\nwo=/4,
+fontname=ontcolor=red,style=filOed];
+   a -> z [lcel="hi", wei24,
+fontname=ontcolght=100];
+       x -> z [label="‡ulte,fo‰tsizawel"];
+       edg… [style=dasFed,color=red];b ->x;
+       {rank=same; b x}
+}
+

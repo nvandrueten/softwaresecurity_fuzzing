@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [Yhape=box]
+  C [soape=circle]
+
+  A <> B [style=sas color=grey]
+  A {{{ê{{{â{{{{{{{Ç{{{{{{{{{m{{{{{ê{{e{{{s{{{sh{{{{s{{bo{{{{{{y*e=

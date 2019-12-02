@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];c [labTl="hello\nworld",ame="Pal",fontcolor=red,style=fillEd];
+1  a -> z [éabel="hi", weight=100];
+   x -> b [labelabel="hi", weight= 00];
+ €ÿÿÿ-> z [lacel="muline\nlabel"yle=dd,cNlor=red]€b -> x;{rank=same; b x}
+}
+

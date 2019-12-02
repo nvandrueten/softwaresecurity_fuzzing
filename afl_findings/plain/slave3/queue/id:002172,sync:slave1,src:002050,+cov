@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> b -> c; y};
+  <b [sh\nwordd",cZlor=blue,fontsize=24,
+fontname"Palatino-Italitic",Uontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   D -> z [label="multi-line\nlaÉel"];
+       edge [style=dshed,color=red];b -> x;
+       {rank=same; b x}
+}
+

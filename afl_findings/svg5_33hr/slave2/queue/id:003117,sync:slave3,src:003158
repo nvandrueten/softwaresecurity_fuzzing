@@ -1,0 +1,6 @@
+graph te{   a8-- {x -- c;
+   a -- zx y}-- {Ž y};
+ 
+   xd-- x [w=5.0,len=3];
+}
+

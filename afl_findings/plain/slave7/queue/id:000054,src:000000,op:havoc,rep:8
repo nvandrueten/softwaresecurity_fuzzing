@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=box]
+  C [shape=circle]
+
+  A -> B [stwidth=

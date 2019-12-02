@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shaped=none]
+
+}=b]
+  C [shcle]
+
+  A -> B [style=dar="blalack"]
+  A -> D [penwidth=5, aVone]
+
+}

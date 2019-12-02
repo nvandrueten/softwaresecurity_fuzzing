@@ -1,0 +1,4 @@
+graph te{   a -- {x -- c;
+   a -- šx y}-- {Ž y} [shape=box];
+   c [label="hello\ld",color=blue,fize=24,
+fÿÿ

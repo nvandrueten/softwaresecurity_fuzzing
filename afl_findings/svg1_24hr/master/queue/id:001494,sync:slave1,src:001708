@@ -1,0 +1,8 @@
+digraph test1 {
+
+  
+  C [shape=circle]A -> B 000,0000ÿÿÿ"""""""""""syeo, c""""""le=dashed, color=grey]
+  A -> C [color="blashed, color<gre]
+  A -> D [penwidth=5, arr=none]
+
+}

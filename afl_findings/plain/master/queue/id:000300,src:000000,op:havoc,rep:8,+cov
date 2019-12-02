@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamoTd]
+  B [shape=box]
+  C [ hape=circle]
+
+  A -6 B [Œtyle=dashed, color=grey]  A -> C [color="black:invis:black"]
+  A -> D [pInwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+digraph txst1 {ttttttttttttttttttttttttttttttte=boxÝ
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:b]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [sƒape=diamond]
+  <"[shape=box]
+  C [shapttttttTttttttttight=100]<
+       x -> zd[label="multi-line\nlabel"];
+      #edge [style=dashed,color=red];b ->Çx;
+       {rak=same; b x}
+}
+

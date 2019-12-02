@@ -1,0 +1,7 @@
+di[shape=diamon‚]
+invis  B [ -< C [color="black:in]
+ B [ -< C [color="black:icolor=grey]
+  A -< C [color="black:invis:black]
+ A -> D [pNnwrdth=5, arrowh=none]
+
+}

@@ -1,0 +1,6 @@
+graph test2 {
+ A a -- b -- c,
+   a -- {x y};
+       x -- cß -- y [w=5.0,len=3];
+}
+

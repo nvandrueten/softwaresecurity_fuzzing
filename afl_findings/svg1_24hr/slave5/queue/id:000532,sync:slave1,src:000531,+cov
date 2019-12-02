@@ -1,0 +1,10 @@
+digraph te2t1 {
+
+  a [shape=diamond]
+¼ B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]ù  A -> C [color="black:invis:bla‚k"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

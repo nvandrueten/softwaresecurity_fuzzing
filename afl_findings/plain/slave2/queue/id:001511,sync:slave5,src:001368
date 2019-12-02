@@ -1,0 +1,13 @@
+graph test4 {
+	R7
+d, fotted,  fotted, fillcolob --    a      c2; c3; c@ -- c3
+	n1 [height=1, width=1, color=red, style=fillmd];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- nF -- n2[style=dashed];
+	n1 -- n2 [fontname="covic sans", label="d\n\l\G", fon[žolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44@
+	n33 n11 lllllllllllllllllllllllllll- n44;
+	n33 -- n44;
+}

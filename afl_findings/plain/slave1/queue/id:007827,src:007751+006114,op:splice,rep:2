@@ -1,0 +1,29 @@
+graph te{
+	rankdir=LR;
+
+1 -- n-8 q n9999999999999999999999999999 raph--n1 --22:
+	n:1111 --22:
+	n:1 --n0 [style=dotted, fillcolor="%123456"]; // yle=rilled];
+	n2 [style=bold, xlabel="secure"];
+ n9999999999999999999999999999 raph--n1 --22:
+	n:1111 --22:
+	n:1 --n0 [style=dotted, fillcolor="%123456"]; // olor=red, style=rilled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sanw", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	ˆ11 -- n220
+	n11 --9999 raph--n1 --22:
+	n:1111 --22:
+	n:1 --n0 [style=dotted, fillcolor="%123456"]; // s2; n33;
+	n11 -- n44;
+	n	f	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sanw", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	ˆ11 -- n220
+	n11 --9999 raph--n1 --22:
+	n:1111 --22:
+	n:1 --n0 [style=dotted, fillcolor="%123456"]; // s2; n33;
+	n11 -- n44;
+	n	fontr=zl;
+	n22 -- tted, fillcon4o;
+	n33 -- n44;
+}

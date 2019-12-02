@@ -1,0 +1,10 @@
+digraph test1 {
+
+ 
+
+  A -> <%[s=5=ci]LLLLLLLLLL-> B [se=circle]
+
+  A -> <%[s=dashe  A -> <%[s=dashed,@d,@Q -=diamond]ck"]
+  A -> D [penwidth=5, arrowheed=none]
+
+}

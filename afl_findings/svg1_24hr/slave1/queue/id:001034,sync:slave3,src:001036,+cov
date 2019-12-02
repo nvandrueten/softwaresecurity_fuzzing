@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [siape=diamond]
+  B [shape=box]
+  C A -> D [penwidth=5, arrowheaor="back"]
+  A -> D  A -> B [style=dashed, color=grey]
+  A -> C [color="back"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

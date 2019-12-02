@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=bgx]
+  C [shape=circle]
+
+e=circlsk
+
+  A ->A -> C ck:invis:black%]
+  A -> D [pe‡width=5,  -> D [pe‡width=5, aarrowhead=none]
+
+}

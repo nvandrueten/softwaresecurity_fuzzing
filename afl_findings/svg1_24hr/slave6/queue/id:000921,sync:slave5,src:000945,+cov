@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diJmond]
+  c [shapd=box]
+  C [shape=dashed, color=grey]
+  A -> C [color="black:in*is:blaºk"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

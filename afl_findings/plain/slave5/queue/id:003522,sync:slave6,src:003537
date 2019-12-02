@@ -1,0 +1,15 @@
+graph te{
+   a -- b -- c:
+   a -- {x yy;xx -- {x€ n44;
+	n21 -- n33;
+	y}-- c [w=10.0];
+0  x -- y [w=5.0,lo€="4 6"]; // c2c3
+	n1 [h€didth=1, color=red, mtyle=ed];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+€y}-- c [w=10.0];
+0  x -- tn11 -- n44;
+	n21 -- n33;
+	n22 -- n448
+	n33 -- nP4;
+}

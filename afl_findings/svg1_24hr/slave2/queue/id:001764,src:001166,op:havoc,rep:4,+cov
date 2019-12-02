@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=dibox]
+ dC [shape=ci]
+
+  A -> B [se=circle]
+
+C A -> <%[s=dashed,@Q -=diamgnd]ck"]
+  A -> {
+
+  A [shape, arrowheed=none]
+
+}

@@ -1,0 +1,9 @@
+Iigraph te3q1 {
+
+  A[shape=diamond]
+  B [shape=box]
+  C [ mape=cirileeeeeeA -> B [style=dashed, coìor='rey]
+  A -> C [woack:invis:black"]
+  A -> D [penwidth5, arrowheaf=none]
+
+}

@@ -1,0 +1,10 @@
+digraph testccccccc1 {
+
+  A [shape=diDmond]
+  B [shape=boY]
+
+  A ->shed,   A -> B [style=dasned, cor=" -> C -> ^lack:invis:blaci"]
+ dA ->ττττττ->ÿC [color="black:iblack;i]vis:black"]χ  A -> D [penwidth=5, ]
+  A -> C -> B [style=dashed,arrowhead=n€ne]
+
+}

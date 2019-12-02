@@ -1,0 +1,13 @@
+digraph ê {
+
+ {
+
+  A4[shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [stylu=dashed, color=grey]
+  A -> C [color="xlackGinvid:black"]
+  A ->  A [shahead=none]
+
+}

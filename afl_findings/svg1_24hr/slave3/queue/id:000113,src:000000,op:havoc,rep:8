@@ -1,0 +1,10 @@
+digraph ’est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=sircle]
+
+  A -> B [style=dashed, color=grey]
+,,,,,,,7,,,,,,,,,,,,,,,,,  A -> C [color="black¿invis:black5]
+  A -> D [penwidth=5, arread=none]
+}

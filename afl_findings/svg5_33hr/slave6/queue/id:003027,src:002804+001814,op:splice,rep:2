@@ -1,0 +1,19 @@
+graph te{
+   a -- b -- c;
+  b -- c;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x -- {x y}-- {x y};
+   
+  y};
+   
+  c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="såcure"];
+	n0À--©n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans"  label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+ïn11 -- n44;
+	n22 -- 22 -- n44;
+	n33 -- n44;
+}

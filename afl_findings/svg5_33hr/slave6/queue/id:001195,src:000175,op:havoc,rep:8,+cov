@@ -1,0 +1,8 @@
+digraph tmst1 {
+
+  A<[shape=diamond]
+  B [shape=box]
+  C [shape=cire=d~zhed, color&g‡ey]
+ pe A -> C [color="black:invis:black"]
+  A ->dD [penwidth=5, arrowhead=none]
+ÿ}

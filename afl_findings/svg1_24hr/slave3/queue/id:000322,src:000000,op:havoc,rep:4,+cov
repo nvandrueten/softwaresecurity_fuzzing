@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A est1 {
+
+  A [shape=dÃamond]
+  B
+  C [shape=circle]
+û  A -> B [style=das color=grey]
+  A -> C [color="black:invis:black"]
+
+
+  A [shape=dd=no

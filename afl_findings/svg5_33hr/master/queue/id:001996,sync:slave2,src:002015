@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0šš; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n -- c12 [style=bold, xlabel="secure"];
+	n0 -- n"multi-line\nlabelE];yyyy=dotted, fillcolor="#123456"]; /[stle=dashed,color=red];v -> x;
+       {rank=same; b x}
+}
+

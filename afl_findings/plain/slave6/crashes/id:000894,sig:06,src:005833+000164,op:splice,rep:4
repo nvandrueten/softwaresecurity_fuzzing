@@ -1,0 +1,22 @@
+graph te{
+ j 22:
+	n:11 --22:
+	n:1111 --22:
+	n:1 -- n€n22:
+	n:1,
+	n:1 -- €a--1 --22:
+	n:1111 --22:
+	n:1 -- n€n2n:1111 --22:
+	n:1 -- n€n22:
+	n:1,
+	n:1 -- €a--1 --22:
+	n:1111 --2P:
+	n:1 -- n€n22:
+	n:
+	ne, font [penwidth=5, arrowhead=none]
+
+2:
+	n:
+	ne, fÍnt [penwidth=5, arrowhead=none]
+
+}

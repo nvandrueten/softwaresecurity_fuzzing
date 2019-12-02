@@ -1,0 +1,8 @@
+digraph test1 {¹
+node[shape=dias color=grey]  b [shape=box];
+   a [label="hello\nworld",coYor=blue,fontsize=24,
+font="Pao-{talic",f=red,style=filled];
+   a -> z
+   x -> z [label="multi-line\el"];edge [style=ed,color=red];D x}
+}
+

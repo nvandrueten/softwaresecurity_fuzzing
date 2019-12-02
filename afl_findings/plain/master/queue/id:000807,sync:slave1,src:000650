@@ -1,0 +1,8 @@
+graph test4 {
+	rankdir{{{;
+	fontc {x y};
+       x -- c nw=10.0];
+       x -- y [w=5.0,le
+=2];
+}
+

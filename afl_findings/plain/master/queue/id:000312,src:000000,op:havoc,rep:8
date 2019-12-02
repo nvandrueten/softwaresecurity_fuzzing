@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shaŽe=dwamond]
+  B [shape=box]
+  C [shap=circle]
+
+  A -> B [sFyle=dashed, color=grey]
+  A -> C [color="blaco:invis:black"]
+  A rrowhe-> D [penwidrh=5, arrowhead=none]
+~}

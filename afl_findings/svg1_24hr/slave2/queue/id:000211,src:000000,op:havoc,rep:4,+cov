@@ -1,0 +1,8 @@
+digraph test1 {t
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=shed,  olor=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

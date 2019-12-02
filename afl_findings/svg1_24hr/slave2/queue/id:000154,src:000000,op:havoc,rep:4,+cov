@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diagond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dasheG, color=grey]
+  A -> C [color="black:invi{
+
+  A [shape€diagos:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

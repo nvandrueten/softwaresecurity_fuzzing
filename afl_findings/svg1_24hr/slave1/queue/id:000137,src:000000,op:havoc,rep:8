@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B 1shack:idth=5, arshape=circle]
+
+  A%-> B ¯style=da[sshed, colorey]
+  A -> C [color="black:inv]
+  A -> C [color="blackIidth=5, arrowhead=none]
+
+}

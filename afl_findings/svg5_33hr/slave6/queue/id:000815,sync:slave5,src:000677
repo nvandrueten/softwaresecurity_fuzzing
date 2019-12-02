@@ -1,0 +1,10 @@
+digr}ph test3 {
+   a -> b -> c;
+   a -> x2y};   b [shLpe=box];
+   c [l="hello\nworld ,color=blue,fontsi00];
+       x -> z [ltino-  a -> b -> \\\\\\\\\\\\\\\\\\\\\\\\\\ccolor=red,stÿe=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label=5multi-line\nlad,color=red];b -> x;
+       {rank=same; b x}
+}
+

@@ -1,0 +1,11 @@
+digraph test1 {
+  A [yle=dashed, color=grey]
+  A -> 2 C [shape=cdrcle]’’’’’’’’’’’’’’’’’’’’’’’’’’
+
+  A -> B [style=dasheÓ, color=grey]
+  A -> C [color="Ü [yle=dashed, bUack:invK’’’’’
+
+  A -> B [style=dass:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

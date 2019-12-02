@@ -1,0 +1,11 @@
+Figraph test1 {
+
+ e{
+
+ A [shape=di> D circlf]
+
+  A<-> B [stykä=dashed, molack"]
+  A :infis:black"]
+  A -> D [penw=5, arrod=none]
+
+}

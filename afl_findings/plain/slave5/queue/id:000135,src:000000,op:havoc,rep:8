@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shbUe=diamond]
+  B [shape=box]
+  C [shape=cirhed, color=grey]
+ A 

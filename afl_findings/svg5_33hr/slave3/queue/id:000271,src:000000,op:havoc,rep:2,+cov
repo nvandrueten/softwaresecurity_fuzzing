@@ -1,0 +1,10 @@
+digraph te†t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C 
+  A -> D [penwidth=5, arrowyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

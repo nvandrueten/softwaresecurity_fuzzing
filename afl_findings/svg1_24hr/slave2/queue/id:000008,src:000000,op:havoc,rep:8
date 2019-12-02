@@ -1,0 +1,10 @@
+digraphVtest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [s
+  A -> B [style=daSheo, colTr=grdy]
+  A -> C [color="blacz:invis:black"]
+  A => D [penwidth=5, arrowhead=none]
+
+}

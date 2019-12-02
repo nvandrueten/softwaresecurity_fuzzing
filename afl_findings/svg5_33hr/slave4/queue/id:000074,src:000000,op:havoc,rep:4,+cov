@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [s‹ape=diatond]
+  B [shape=box]
+  C [shepe=circle]
+
+  A -> B [style=dashed, cois:bl

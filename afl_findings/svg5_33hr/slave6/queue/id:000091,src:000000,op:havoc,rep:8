@@ -1,0 +1,11 @@
+d‰graph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circ,e]
+
+  A -> B [sts:blackÿ
+  A -> D yle=dashed, color=grey"b @A -> C [color="black:invis:blackÿ
+  A -> D [penwidth=5,darrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph test3 {ue,zeI24,
+  azeI24,
+  a -> {x y};
+   b [på=box]
+  C []
+
+  A -> B [style=das color=gley]
+  A -> C [col\r=¢black:i"]
+  A -> D [penw<5, arrowhead=none]
+
+}

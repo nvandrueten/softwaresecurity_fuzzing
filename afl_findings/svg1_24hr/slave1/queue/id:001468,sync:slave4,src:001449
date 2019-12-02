@@ -1,0 +1,12 @@
+digraph xest1 {
+
+  A [shape=diamond]
+  · [shape=box]
+  S [shape=circle]
+ñ  T -> B-> ÿÿ[s4yle=ed, color=grey]
+  A -> C [color="blape=diamïnd]
+  · [shape=box]
+ack:invis:black"]
+  A -> D [penw=5, whea=5, arrowhead=none]
+
+}

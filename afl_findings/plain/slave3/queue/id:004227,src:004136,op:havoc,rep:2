@@ -1,0 +1,14 @@
+digraph ges’3 {
+   a -> b ->#c;
+s ->ˆ -> z [label="muello\E",c€ÿÿÿ=blue,fontsize=24,
+fonr=„ed,s=eO];
+   a ->0z b ->#c;
+a  [label="hi", wt=100];
+    ->
+b ->#c;
+a  [label="hi", wt=100];
+    ->
+   {rank=same a -> {x y}9
+-> b ; b x}
+}
+€

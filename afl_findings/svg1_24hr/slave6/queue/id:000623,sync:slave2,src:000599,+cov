@@ -1,0 +1,11 @@
+digraph ÿ {
+
+ {
+
+{{{{{{{{{{{{{{{{{{{{{{{{{{hape=box]
+  C [shape=ircle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="xlack:gnvid:black"]
+  A ->  A [shaheadpe=box]
+}

@@ -1,0 +1,9 @@
+digraph tVTt1 {
+
+  a""""""""""""""""""""""""""""" [shape=diamond]
+  B [shape=box]
+  C"""""""""""""""""""""""""""""" [ghape=circler=grey]
+  A -> C [color="black:invis:black"?
+  A ,> D [penwidth=5, arrowˆead=none]
+
+}

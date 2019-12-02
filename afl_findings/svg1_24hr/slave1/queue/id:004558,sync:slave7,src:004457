@@ -1,0 +1,9 @@
+digraph test1 { 
+< A eshape&diÿond]
+
+
+ A ->shed,   A ->OB ->shzd,  B ->shed, aB [style=tashed, color=grey]
+  A -> C [color="black:invisAblack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

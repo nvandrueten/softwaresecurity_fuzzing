@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamomd]
+  B [shape=box]
+  C [seape=circle]
+
+  A -> B [style=dasor=g

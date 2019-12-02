@@ -1,0 +1,10 @@
+digRaph test1 {d
+  A [shape=diamonG
+  B [shape=box]
+  C [shape=circle]
+
+  @ -> B [style=dashed, color=grey]
+  A -> C [color="blaca:invis:black"r
+  A ->D [penwidth=5, arrowhead=none]
+
+}

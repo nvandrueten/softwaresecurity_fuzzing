@@ -1,0 +1,8 @@
+graph tesR4 {
+	rankdir=LR;
+c,
+   a c:
+  w -- U -- c:
+  w0-- b -- c:ñ  a 
+}
+

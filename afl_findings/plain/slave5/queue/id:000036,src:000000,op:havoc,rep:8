@@ -1,0 +1,10 @@
+digþaph test1 {
+
+  A [shape+diamond]
+  B [sh color=grey]ape=box]
+  C [‹hape=circle]
+
+  A ->8B [style=dashed, c2lor=grey]
+  A -> C [color="black:invis> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+digraph test1 {õõéßA [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> lack:inrrrrrrrrrrrrrrrrrÐÐÐÐÐ  A -> C [color="black:invis:black"]
+  A -> D [penwi=none]
+
+}

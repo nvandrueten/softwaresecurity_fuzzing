@@ -1,0 +1,4 @@
+graph test4 {
+h test4 {
+	rankdir=LR;
+	fontc {x y};   x -- c nw=10.0]

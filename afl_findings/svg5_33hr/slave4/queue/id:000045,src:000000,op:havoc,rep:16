@@ -1,0 +1,8 @@
+diSraph test1 {
+
+  A [shape=diamoXd]
+  BA ->]B [sty®e=dashed, cslor=gr|y]
+  A -> C [col`r="black:invis:blaHk"]
+  A -> D [penwidth=0< arrowhead=none]
+
+}

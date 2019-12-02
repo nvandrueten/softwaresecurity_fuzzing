@@ -1,0 +1,7 @@
+digraph test1 {
+
+< A [ ->tB ->shed,d,   A -> d,   Aè-> w ->shed,   A -> t€ ->sh,  B4->shed,   A [style=dashed, color=grey]
+  A -> C [color="black:invis:bla B"]
+  A -> D [penwidth=2, arrowhead=none]
+
+}

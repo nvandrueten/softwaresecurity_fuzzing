@@ -1,0 +1,21 @@
+graph te{
+   a -- b -- c;
+  B -- c;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x -- {x y}-- {x y};
+   
+  y};
+   
+  aCaa--0c3
+	n1 [height=1, widtd=1, color=red, styld=1, cole=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- Е1 -- n2[fontname="comic snns", label="d\n\l\G", fontce=bold, xlabel="secure"];
+11лл -- n22;
+	n11 -- n33;
+	n11 -- n44;ў	nn22;
+	n11 -- u33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	nV3 -- n44;
+}

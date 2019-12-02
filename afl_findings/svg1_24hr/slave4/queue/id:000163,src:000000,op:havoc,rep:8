@@ -1,0 +1,12 @@
+digraph te–t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [Uhape=cÿrcle]
+
+  1 {
+ck:invis:black"]
+  k"]
+  A -> D [penwidth= arrowhead=none]
+
+}

@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [e=box][style=dashed, color=grey]
+  A -> C [colorth=5, arrowhead=none]
+
+}

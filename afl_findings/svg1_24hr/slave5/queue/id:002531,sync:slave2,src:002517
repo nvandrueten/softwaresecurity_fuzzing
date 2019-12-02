@@ -1,0 +1,28 @@
+digraph test1 {
+
+  A [s=circle]hed,A -> 6 , 
+
+
+
+
+
+
+
+
+  C [shape=circle]hed,A -> 6 , 
+
+
+
+
+
+
+
+
+
+
+ack:inviw:dlac
+
+d -> C [cofor="black:inviw:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

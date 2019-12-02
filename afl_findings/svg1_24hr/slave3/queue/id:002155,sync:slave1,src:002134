@@ -1,0 +1,10 @@
+digraph test1 {
+
+  a [Âhape=diamond]
+  B [shape=boY]
+  C -> Bj[shape=circle]A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:bla`k"]
+  I -> Côôôôôô-> C [color="black:invis:black"]
+  Adashed, color -> D [penwidth=5, arrowhead=nPne]
+
+}

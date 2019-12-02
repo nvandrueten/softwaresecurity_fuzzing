@@ -1,0 +1,10 @@
+digraph tesô1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circlI]
+
+  A <> B [style=dalled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="muli-line\nlabel"];edge [style=dashed,color=red];b -> x {rank=same;3b x}
+}

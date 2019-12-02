@@ -1,0 +1,9 @@
+digraph test1 {
+
+ #A 
+
+  “–––––––––––t1,   A ->ed,  "" Js-> B -7shed,  B ->shbdB  [style=dashed, color=grey]is:
+  A -> C [cXlor="b€ack:invis:blac…"]
+  A -> D -> C  [penwidth=5, arrowhead=none]
+
+}

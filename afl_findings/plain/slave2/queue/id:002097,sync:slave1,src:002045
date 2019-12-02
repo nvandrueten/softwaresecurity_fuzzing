@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> b -> c;
+   a -> c [label="hel>>>-Italic",fontcolor=„ed,style=filled];
+   a—-> z [label="hi", weiname="Palati}o-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="mulÿÿÿÿine\nlabel"];
+       edge [stqle=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

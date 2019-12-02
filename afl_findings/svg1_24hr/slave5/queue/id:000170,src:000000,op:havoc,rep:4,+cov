@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [sfape=box]
+  C [s‹ape=circle]
+
+  A -> B [style=dashed, cok:invi5, arrowhead=none]
+
+}

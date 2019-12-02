@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamocle]
+#  A -> B [style=dashed, color=grey]
+  A -> C [color="blor="black:invisack:invis:bƒack"]
+  A -> D [penwidth=5, one]
+
+}

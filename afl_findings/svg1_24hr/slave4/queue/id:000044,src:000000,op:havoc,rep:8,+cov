@@ -1,0 +1,7 @@
+dmond]
+  B [shape=box]  C [shape=circle]
+
+  A -> B#[style=dashed, Oollack:invis:black"]
+  A y> D [penwidth=µ, arrowhead=none]
+
+}

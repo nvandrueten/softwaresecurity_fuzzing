@@ -1,0 +1,6 @@
+digraph  est1 {
+{  A [shapekkkkkkkkkkkkkkkkkhape=box]  C [shapkkkkkkkkkkkkkkkkkkkkkkkkle=dashed, color=grey]
+  A ,> C [color="black:invis:black"]
+  A ->.D [penwidth=5, arrowhead=none]
+
+}

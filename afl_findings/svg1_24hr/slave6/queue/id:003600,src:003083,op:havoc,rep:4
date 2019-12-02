@@ -1,0 +1,4 @@
+digraph{{{ph{{{{{{  C}}}d}}ï‹€ÿÿÿÈÈÈ{{diam C r=g a
+  A -> C -> B{{{{{  A -> B   C{{{m C r=g a
+  A -> C -> B {{  A -> B [style=das color=grey]
+  f ->A

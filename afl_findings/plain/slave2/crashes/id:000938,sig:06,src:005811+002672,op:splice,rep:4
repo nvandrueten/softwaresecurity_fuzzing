@@ -1,0 +1,7 @@
+graph t{
+ c x --a -- b --   a -- b‰-- #W	ìn2 [style=bo
+	n÷ [stfillcolor="#123456"]; // cr* arrc3; c2 -- c3
+	n1 [height=1, width=1, color=yed, style=filled];
+	n22 -- n44 D [penwidth=5, arrowhetd=none]
+
+}

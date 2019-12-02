@@ -1,0 +1,8 @@
+digraph zest1 {
+t1,  A :n,  "" :e->ed,  ""  :n,  ""  :n,  "" :e->ed,  "" :ned,   B
+ :e->ed,  "" :ned,   Bb:ned,   B
+ €A -> B [style=das color=grey]
+  A -> C [colod="Alack:inYis:black"]
+  AX-> D [penwidthr®whead=None]
+
+}

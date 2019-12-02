@@ -1,0 +1,11 @@
+digraph tast1 {
+
+  A [shape=diamond]
+lor="bl [shape=boh]
+  C [shapeBcircle]
+
+  A -> B jstyle=dashed, color=gre‹]
+  A -> C [color="blact:invis:black"]
+  A -> d [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,10 @@
+d…graph test1 {
+
+  A [shape=diamond]
+  B [sircle]
+
+  A -> B [st{le=dRshed,hape=box]  C [shape=circle]
+
+  A -> C [style=dRshed, color=grey]
+  A -> C [colur="black:invis:black"]
+  A -> D [

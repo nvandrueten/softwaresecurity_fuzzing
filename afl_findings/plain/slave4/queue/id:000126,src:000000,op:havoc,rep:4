@@ -1,0 +1,10 @@
+  A -> C [:invis:iam
+  B [shape=bcolor="blacvis:iamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [str=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwcolor5d arrowhead=none]
+
+}

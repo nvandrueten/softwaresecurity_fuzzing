@@ -1,0 +1,15 @@
+digraph testccccccc1 {
+
+  A7[shape=diamond]
+  B [shape=boY]
+4 C -> B [shape=circle]A -> B [st="lack:invis:black"]
+  A -> D
+
+
+
+
+
+
+ -> C [coNd=none]
+
+}

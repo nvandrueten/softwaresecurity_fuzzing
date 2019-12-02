@@ -1,0 +1,9 @@
+digraph test1 {
+
+ }}}}}}}}}}}}}}ond]
+   [shape=circle]
+
+  A -> B [style=dashHd, c<<<<<<<<<<<<<A9-> C [cqlor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

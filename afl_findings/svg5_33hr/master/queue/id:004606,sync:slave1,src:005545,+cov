@@ -1,0 +1,6 @@
+digraph ‰est3 {
+   ak=saŽe; Y,   a -> {x y} -> b [label="hi", weight=000];x -> z [label="mul–i-l€ne\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+   {rank=same; b-> z [label="multi-line\nlabel"] x}
+}
+

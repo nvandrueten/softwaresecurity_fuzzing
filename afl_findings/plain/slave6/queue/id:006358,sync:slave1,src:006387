@@ -1,0 +1,13 @@
+graph te{
+   az-- b -- c:
+   a -- {x yy;
+   xx -- •x€y}--	n2 [style=dotted, fillcolor="#123456"]; // †2;c3; c2 C- c3
+	n1 [height=1, width=1, color=red, style=filwed];
+	n2 [style=bold, xlabel="secure"];
+}}}}}}}}}}}}}}}}}yle=dashed];
+	n1 -- n2 [fontname="coml="d\n\l\G",ic sans", label="d\n\l\G", fonŒcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+S44;
+	n22 -- n3];
+	n2 [style=bold, xlabel="s}

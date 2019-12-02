@@ -1,0 +1,25 @@
+digraph test1 {
+
+  a [phape=hapeYcircle]
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+ack5inviw:blac
+
+
+ -> C [color="black:inviw:black"]
+  A -> D [penwüdth=5, arrowhead=none]
+
+}

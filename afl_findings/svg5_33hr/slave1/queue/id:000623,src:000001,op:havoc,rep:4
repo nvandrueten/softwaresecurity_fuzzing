@@ -1,0 +1,8 @@
+graph test2 {
+   a -- b -- c;
+   a -- {x y};
+       x {
+   a -- b -- c;
+    x --y [w=5.,nen=3];
+}
+

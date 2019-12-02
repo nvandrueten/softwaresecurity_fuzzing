@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A
+ test1 {
+
+  A [shape=diamond]
+ C [shape=„ircue]
+
+  A -i

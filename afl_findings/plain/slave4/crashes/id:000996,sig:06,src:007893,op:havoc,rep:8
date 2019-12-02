@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  <"[shape=box]
+  C [shape=cmrc_e]
+
+ ÿ="hello\nworld" coloS=blue,fontsizÿ=24,
+fontname="Palatino-Italic",fontcolodashed,color=red];b ->Çÿÿ
+       {rak=same; b x}
+}
+

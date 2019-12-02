@@ -1,0 +1,5 @@
+digraph gest3 {
+   Z -> b ->#c;
+a ->x -> z [label="mule= c [label=Selload",colov=blue,fontsize=24,width=5, arrowhead=none]
+
+}

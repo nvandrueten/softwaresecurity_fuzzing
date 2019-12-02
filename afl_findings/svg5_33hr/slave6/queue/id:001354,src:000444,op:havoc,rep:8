@@ -1,0 +1,6 @@
+digraph test1 {õõßßA [shape=diamond]
+  B [shape=box]J  C [shape=circ€e]
+"  A    B [s…yle=dashed, color=grey]
+  A "b  A -> D [penwidth=5, arrowhead=ÿone]
+
+}

@@ -1,0 +1,8 @@
+digraph test1 {õõßßA [color="blawidth=5, arrowh [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="blawidth=5, arrowhead=none]
+
+}

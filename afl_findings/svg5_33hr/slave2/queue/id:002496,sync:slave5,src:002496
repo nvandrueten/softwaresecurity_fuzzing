@@ -1,0 +1,11 @@
+graph te{
+ 
+   a{{{{{{ХН{{{{{{{{{kdij=LR;
+r=LR;
+	fonor=bl     edge [stylabel="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> { [label="hi", weight=100оооооооооооооооооооооооооооооо];
+       x -> z [label="multi-line\nlabel"];╟       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

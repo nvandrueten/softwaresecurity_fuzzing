@@ -1,0 +1,10 @@
+digraph teTt1 {
+
+  a [shapÌ=‹nd]
+  B [shape=bcx]
+  C [YhapV=le]
+
+  A -> < [style&‚K&&&&&&&&;&&5&ashK&&&&&&&&;&&5&&&&&&ack:invis:black&&&&&&&&"]
+  A -> D [penwidth=5, arrod=none]
+
+}

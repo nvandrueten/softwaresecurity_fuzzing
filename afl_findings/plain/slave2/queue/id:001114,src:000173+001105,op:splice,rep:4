@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+ eB [style=dash_d, color=grey]
+  O -> C [color="bVack:invis:black"]
+  A -> ý-> D [penh=5, aŠrawhead=nod,st˜le=filled];
+   a -> z [‡abel="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];bcolor=rey]
+  A ->Þ-> x;

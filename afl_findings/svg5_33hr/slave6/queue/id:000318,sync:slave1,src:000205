@@ -1,0 +1,11 @@
+digraph tesS1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circWe]
+
+  A -> B [style=dashed, color=grey]
+  A -> 
+  A -> D [penwidth=5, arrowhead=none]
+
+}

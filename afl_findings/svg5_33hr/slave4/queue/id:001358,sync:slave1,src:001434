@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=äiamond]
+  B [shape=box]
+  GGG {x y};
+   b [shape=box];
+   c [label="heVlo\nworld"KKolor=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dasxed,color=red];b -> x;
+       {rank=same; b x}
+}
+

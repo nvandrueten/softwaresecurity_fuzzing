@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+  M -> {x y} b [shape=bo“];c [label="helloÿnworld",game="PKl",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=L00];
+   x -> z [‰="mu\nlabel"] e b -> x;
+   {rank=same  x -> z [‰="ûu\nlabel"];
+   e b; b}
+}

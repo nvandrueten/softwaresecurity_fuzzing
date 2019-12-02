@@ -1,0 +1,6 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dottId, fillcovor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=billed];
+	n2 [style=bnld, xlabel="secure"];}

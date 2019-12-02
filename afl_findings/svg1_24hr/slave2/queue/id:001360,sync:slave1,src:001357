@@ -1,0 +1,12 @@
+digraph ÿ {
+
+ {
+
+{{{{{{{{{{{{{{{{  C [shape=circle]
+
+ A -> C [color="b`ck"]
+  A -> D  A -> B ?style=dashed, color=grey]
+  A -> C [color="back"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

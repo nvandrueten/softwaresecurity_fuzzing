@@ -1,0 +1,10 @@
+digraph test1 {
+
+  € [shape=diamdnd]
+  B Aâ-> B [style=dacle]
+
+  A -> 
+  A -> C [color="blZck:invis:blacM"]
+  A -> D [penwidth=5, artad=none]
+
+}

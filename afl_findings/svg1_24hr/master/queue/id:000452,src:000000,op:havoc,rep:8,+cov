@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C , a[blackshapS=circlolor  A -> B [style=dashed, color=grey]
+  A -> C [color="black:Jnvis:best1 {
+
+  A [shape=diamond]
+-> B [style=one]
+
+}

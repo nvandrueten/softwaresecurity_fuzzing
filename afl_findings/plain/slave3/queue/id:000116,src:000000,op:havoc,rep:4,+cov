@@ -1,0 +1,7 @@
+digraph test1 {
+
+   B [shape=box]
+  C [shape=circle]
+
+  A -> B []
+  A -?

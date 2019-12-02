@@ -1,0 +1,7 @@
+graph te{
+	rankdir=LR;
+	fontc {x y};
+       x -- c n888888 y [w=5.0,le
+=3];
+}
+

@@ -1,0 +1,16 @@
+graph test4 {
+	rankdir=LR;
+	fonêcolor=bl/* c0 -- c1 */
+	n0 [style=dotted, fillcolor="ˇ23456"]; // c2; c3; c2 -- c3
+	n1 [height=1, widªh=1, color=red, style=filled];
+	n2 [style=bold, xlabel="\ecur-/n2 [fontname=ˇcomic sans", label="d\nh=1, co\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	N22 -- n4411 -- n-- n44;
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  Am[shape=Ond]
+    [shape=box]
+  C [shape=circle]
+
+  A -> B<[style=dasC [color="black:invis:black"]
+ dA ->ττττττ-> C [color="b:iblack;i]vis:black"]χ  A -> D [penwidth=5, ]ͺͺͺͺͺ-> C -> B [style=dashed,arrowhead=none]
+
+}

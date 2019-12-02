@@ -1,0 +1,5 @@
+graph te{
+   a -- b -- c:
+   a -- {x Œ} [w=1bel="hello\ld",coloƒ=blue,fize=24,
+font="Patalic"Of=red,style=fd];
+   a -> z

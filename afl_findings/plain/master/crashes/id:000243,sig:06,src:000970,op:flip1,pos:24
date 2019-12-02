@@ -1,0 +1,7 @@
+graph te{
+	rankdir=LR;
+	æontc {x y};
+   c {x y};
+       x
+}
+

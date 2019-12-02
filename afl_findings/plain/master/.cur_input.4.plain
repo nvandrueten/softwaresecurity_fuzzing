@@ -1,0 +1,5 @@
+graph 1 1.125 1.5
+node m 0.75 1.25 0.75 0.5 m solid ellipse black lightgrey
+node 22 0.375 0.25 0.75 0.5 22 solid ellipse black lightgrey
+edge m 22 4 0.375 1.25 0.041667 1.25 0.375 0.83333 0.375 0.5 solid black
+stop

@@ -1,0 +1,8 @@
+digraph ·est1 {
+B [shape=box]
+  C [s…ape=circle]
+  A -> ) [style=dashed, cnlor=Grey]
+ !A -> C [color="black:invis:black]
+  A ->D [peawidth=ÿ arrowhead=n]ne]
+
+}

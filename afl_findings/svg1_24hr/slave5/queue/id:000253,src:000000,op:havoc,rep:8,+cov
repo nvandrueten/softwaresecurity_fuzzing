@@ -1,0 +1,8 @@
+digraph test1 {€ÿ; A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+1 {€ÿ; A [shape=diamoA -> C [coloe=diamond]
+  B [shape]
+  A -> D 
+}

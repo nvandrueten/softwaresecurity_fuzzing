@@ -1,0 +1,6 @@
+grapH test4 {
+	rankdir=   a0.0 -- {x y};
+       x --þNOOOOOOOOOOOOOOOOOOOOOOOOc [w=10.0];
+       x -- i [w=5.0,len=3];
+}
+

@@ -1,0 +1,8 @@
+digraph te{t1 {
+
+  A [shape=diamond]
+ÿÿB [shape=box]
+  C [sh‚pe=circle]
+
+  A -> B [style=dashed, color=grey]
+ `A

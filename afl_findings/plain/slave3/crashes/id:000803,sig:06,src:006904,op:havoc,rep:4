@@ -1,0 +1,8 @@
+digraph test1 {
+ö  A [sPape=diamond]
+  B [shaqe=âox]
+  C [shape=circle]
+
+  A -> a [style=das colow=g³³³³³³³]
+  A -> C [style=" lack:XXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXXXbXXXXXXXXXXXXXX(XXk:inYis:bXXXXXXXXXXXXXXXXqXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXqXXXXXXXXXXXXXXXXXXXXXHXXXXXXXXXXXXXXXaXXlack"][penwidth=5, arrowhead=non ]ú
+}

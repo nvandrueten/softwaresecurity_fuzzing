@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+ <Bape=box]
+  C [shape=circlercle]
+
+  AVVVVrclercle]
+
+  AVVVVVVVVVhed, color=Prey]
+  A -> C [color="black:invis:blac|"]
+  A -> D [penwidgh=5, afrowhead=none]
+
+}

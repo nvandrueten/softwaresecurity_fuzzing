@@ -1,0 +1,15 @@
+digraph test1 {
+
+node[shape=dias color=grey]
+  A -> G [color="black:invis:black"]
+  A eeeeeeeee-> { test1 {
+
+node[shape=dias color=grey]
+  A -> G [color="black:invis:black"]
+  A eeeeeeeee-> { Y}test}}}hed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [p Y}test}}}hed, color=grey]
+  A -> C [color="black:invis:blacu"]
+  A -> D [penwidth=5, abrowhead=none]
+
+Ž

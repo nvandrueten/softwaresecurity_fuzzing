@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A {shape=circl5
+   c {x y};
+   b [shape=box];
+   c [lMbel="hello\nwŠrld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,styl‚=filled];
+   a -> z [laPel="hi", weight=100];
+       x -> z [lank=sGme;Bbel="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=sGme;Bb x}
+}	ô

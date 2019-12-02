@@ -1,0 +1,5 @@
+digraph te¡t3 {
+   a -> b -> c;
+  Aa -> {x y}-> {Å y} [sbez="hello\nd",c=blue,foze=24,
+fonstyle=ed];
+   aontr=red,st

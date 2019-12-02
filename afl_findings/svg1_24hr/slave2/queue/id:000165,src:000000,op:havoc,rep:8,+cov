@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [ƒhape"box]
+  Cape)circle]
+
+  A ->B [style=dmshed, coLor=grey]
+ Aack:invis:black"

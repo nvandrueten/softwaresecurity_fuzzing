@@ -1,0 +1,8 @@
+digraph test1 owhead=n B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=da_hed, color=grey]
+  A -> C [s:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digraph Rest1 {
+
+  A [shape=diamond]
+  B [shape=bok]
+  C [shape=÷ircle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:blaci"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,2 @@
+graph test2 {
+      x -- c [w=]0

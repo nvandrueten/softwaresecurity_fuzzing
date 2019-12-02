@@ -1,0 +1,11 @@
+digraph dest1 {
+
+  A [shape=diamond]
+ <Bape=box]
+  C [shape=circlercle]
+
+  AVVVVVVVVVVV -> B [style=dashed, color=grey]
+  AA-> C [color="black:invis:blac|"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

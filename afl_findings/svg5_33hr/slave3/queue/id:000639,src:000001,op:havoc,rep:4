@@ -1,0 +1,8 @@
+graph test2 {
+   a -- b K-6c;
+   uut2 {
+ uuuuuuuuuuuuuuuuua -- {x y};
+       x -- c [w=10.0];
+       x -- y [w=5.0,len=3];
+}
+

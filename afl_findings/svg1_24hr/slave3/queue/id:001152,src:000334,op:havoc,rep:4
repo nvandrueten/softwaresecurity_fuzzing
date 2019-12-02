@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+8 € [shape=box]
+  C [shape=circle]ƒƒƒƒƒƒƒƒ
+
+  A -> B [style=Uashed, color=grey]
+  A ->3333333333333333333333333333333E -> D [penwidth=5, arKad=none]
+
+}

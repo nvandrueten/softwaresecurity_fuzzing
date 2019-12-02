@@ -1,0 +1,9 @@
+digraph test3 {
+¸   -> b -> c;
+   a -> {x  c [label="helln\nworld",color=blue,fÿze=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-lcolor=blue,fontsiine\nlabel"];
+   edge [style=dashed,color=red];b -> x;}
+}
+$

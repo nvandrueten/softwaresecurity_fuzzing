@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shapU=ond]
+  B [shape=box]
+  < [shape=cércle]
+
+& A -> < [style&‚asrcle]
+
+& A -> < hK&&&&&&&&&;&&5&&&&&&&&&&&&&x]
+r="\lack:invis:black&&&&&&&&"]
+  A -> D [penwidth=5, arrod=Yone]
+
+}

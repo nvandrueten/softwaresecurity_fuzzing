@@ -1,0 +1,9 @@
+digraph test1 {
+
+  Am[shape=diamond]
+ÿÿÿÿDDDDDDDDfDDDDDD  A -> C [color="blNck:ick"]
+  A <> D []
+  A -> c [color="blUck:inDDDDDDDDDDDDDDDDa;k"]
+  AA-> D [penwidth=5, arrowhead=none]
+
+}

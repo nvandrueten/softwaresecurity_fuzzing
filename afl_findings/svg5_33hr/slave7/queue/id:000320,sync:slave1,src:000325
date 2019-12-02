@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=ciamond]
+  B [shape=box]
+  C [sdape=circle]
+
+   B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [pessprosheaŒ=none=«
+}

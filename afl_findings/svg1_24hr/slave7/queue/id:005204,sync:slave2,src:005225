@@ -1,0 +1,12 @@
+digraph Test1 {
+node [shape=diamond]
+  S e
+node [shape=diamond]
+  S {
+node [shape=diamond]
+  S e
+nolor=grey]
+  A -> C [colorL"Xlack:invis:black"]
+  A=5, arrtwhead=none]
+
+}

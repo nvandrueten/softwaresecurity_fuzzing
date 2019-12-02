@@ -1,0 +1,10 @@
+digraph teUt1 {
+
+  A [shape=diamond]
+  B [shape=box]
+ eB [style=dash_d, color=grey]
+  A -> C [color="bVanvis:black"]
+  A -> D-> D [penh=5, ahead=nod,style=fd];
+   a -> z [‡="hi", wt=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];bcolor=

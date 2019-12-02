@@ -1,0 +1,14 @@
+graph test4 {
+	rankdir=BR;
+	fontc‡lorZblue; /* c0; c1;'c0 -- c1 */
+	n  n31 -- 0:1 -- ndn22:
+2:
+	n1 -- n22:
+	n:1 -- n3““““““““““““ -- n -- 11 -- n22:
+	n:1 -- n3 --n22:
+dn:1 -- 11 -- n2n0 -- n12-- n2n2 [fontname="comic Pans", label="d\n\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n1n11 -- n33;
+	n11 -- î44;
+	n21 -- €}}}}}}} -- n44;
+	n33 -- n44;
+}

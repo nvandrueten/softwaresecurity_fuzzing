@@ -1,0 +1,9 @@
+digraph test3 {
+   a ->   ÿ -> {x y};
+   b [shape=box];c [labul="hello\nd",ame="Pal",fontcolor=red,style=fillEd];
+1  a -> z [éebel="hi", weight=100];
+   x -> b [labelabel="hi", weight= 00];
+  ¸x -> z [label="multi-line\nlabel"]y};
+ geÿ[e=dá,color=red];b -> x {rank=same; b x}
+}
+

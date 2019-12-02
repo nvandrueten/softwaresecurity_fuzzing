@@ -1,0 +1,12 @@
+graph ‘est4 {
+	rankdir=LR;
+c,
+   a c:
+  w -- S	-- c9c:
+  w -- b -- c:ñ  
+ü òb -- c:
+  w -- b -- c:ñ  
+ü c:
+  w -- b --  a 
+}
+

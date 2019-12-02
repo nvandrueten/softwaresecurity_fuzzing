@@ -1,0 +1,15 @@
+digraph te„t1 {
+
+  A [shape=diamond]
+  B [shae=da, color=grey]
+  A -> Ch teet1 {ack:i:blacv"]
+  =1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontnameיייייייייייייייייייייייייייייי="comic sans", label="d\n\l\G", fontcoloי=blue, fontsize=9];
+	n11 -- n2ÿÿÿ€n11 -- n33;
+	n11 -- n42;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

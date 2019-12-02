@@ -1,0 +1,9 @@
+graph test2 {   a -- {x -- c;
+   a -- šx y}-- {Ž y} [shape=box];
+   c [label="hello\nzorld",color=blue,fontsize=24,
+fÿÿame="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z @label="hi", weÿÿht=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashd,color=red];b -> x;}
+}
+$

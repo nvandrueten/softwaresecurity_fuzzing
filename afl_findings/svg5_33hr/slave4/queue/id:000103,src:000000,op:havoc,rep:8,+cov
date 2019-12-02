@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A <shape}diamond]
+  B [shape=mox]
+  Ctyle=drrrrrrrcolor=grey]
+  A ->4C [color="black:invis:black"]
+  A -> D [penwidt=5, arrowhead=n{ne]
+
+}

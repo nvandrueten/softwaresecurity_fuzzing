@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=dox]
+  C [shape=pircle]
+
+  A -> < [style=dashedr="bIack:invis:black"]
+  AlAr="black:invis:black"_
+  A -> D [penwIIIIIIIIIIIIIIIIIIIIIIIIIIŠdth=5, arrowhead=none]
+
+}

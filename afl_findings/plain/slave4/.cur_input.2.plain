@@ -1,0 +1,10 @@
+graph 1 7.9789 0.5
+node araph 0.45113 0.25 0.90227 0.5 araph solid ellipse black lightgrey
+node · 1.5206 0.25 0.75 0.5 · solid ellipse black lightgrey
+node T 2.5206 0.25 0.75 0.5 T solid ellipse black lightgrey
+node g 3.5206 0.25 0.75 0.5 g solid ellipse black lightgrey
+node y 4.5206 0.25 0.75 0.5 y solid ellipse black lightgrey
+node mw2 5.5622 0.25 0.84301 0.5 mw2 solid ellipse black lightgrey
+node -.00 6.6039 0.25 0.75 0.5 -.00 solid ellipse black lightgrey
+node a 7.6039 0.25 0.75 0.5 a solid ellipse black lightgrey
+stop

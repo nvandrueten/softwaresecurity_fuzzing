@@ -1,0 +1,10 @@
+graph te{
+	rir=LR;
+	color=bl/* c* c1 */{{{}{{{{ontname="co[style?doÿed, f‚lkcolor="#13K5=24,
+fon‘name="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> t [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same;Bb x}
+}
+

@@ -1,0 +1,7 @@
+digraph test1 {
+
+ 0A [shape=diamond]
+  B [shape=box]
+  C [lhape=circle]
+
+digraph -> 

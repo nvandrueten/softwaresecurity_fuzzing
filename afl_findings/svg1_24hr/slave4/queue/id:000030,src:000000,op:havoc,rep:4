@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=dialond]
+  B [sh[shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidthC5- arrowhead=none]
+
+}

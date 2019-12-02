@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> "%-> ÿ€
+   a ->{x y};
+   b [shape=box];
+   lo\nworld",c
+fone   a -> "%-Italred,style=filled];
+   a bel="hi", weight=100];   b [shape=box];
+bel="
+       x -> z [label x;
+  

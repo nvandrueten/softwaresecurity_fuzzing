@@ -1,0 +1,11 @@
+digraph test1 {
+J  A [shape=diamong]
+  B [shape=box]
+  C [shape=circle]
+
+  A ck"]
+ stylerey]
+  Aolor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

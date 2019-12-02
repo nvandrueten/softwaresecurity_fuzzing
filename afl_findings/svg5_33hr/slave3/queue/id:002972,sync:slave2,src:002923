@@ -1,0 +1,14 @@
+digraph test3 {
+  lor a -> b -> c»
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=led];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [styŠe=da,color=red];b ->  a -> b -> c;
+   a -> {x b -> c»
+   a -> {x y};
+b x}
+}
+

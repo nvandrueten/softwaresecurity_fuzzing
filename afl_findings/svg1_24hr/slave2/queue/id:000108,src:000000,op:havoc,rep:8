@@ -1,0 +1,11 @@
+diZmaph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle] B [shape=box]
+  C [shape=circle
+
+  A -> B [ash]d, coŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ> C [color="black:invis:bl[ck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+s:blac}

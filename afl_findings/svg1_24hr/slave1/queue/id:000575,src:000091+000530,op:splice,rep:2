@@ -1,0 +1,41 @@
+digraph test1 {
+
+  a [bhape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B
+
+
+
+
+
+
+
+
+ллллллллл
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

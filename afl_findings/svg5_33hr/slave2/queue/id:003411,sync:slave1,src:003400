@@ -1,0 +1,18 @@
+graph teçt2 {
+   a -- b -- c,
+   a -- {x y};
+   x --  x -- c [w=10.0];
+    c [w=10.0];
+   ﬂ -- y #123456"]; c3; c2 --0c3
+	n1 [height=1, width=1, cÇlor=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- Ö1 -- n2[fontnaYe="comic snns", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22Ø
+	n11 -- n33;
+	n11 -- n44;
+	nn22;
+	1 -- n44;
+	n22 -- n33;
+	n22 n44;
+	nV3 -- n44Ø
+}

@@ -1,0 +1,9 @@
+digraph test1 {
+
+ ÿA [shape=diamond]
+  B [shape=bo™]
+  C [shape=circle]
+
+  A -> B [style=bashed, color=grey arrowhead=none]
+
+}

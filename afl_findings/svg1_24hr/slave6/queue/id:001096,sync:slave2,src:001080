@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [seap=box]­  C 
+  B’’’’{{{{{{{bo{{{{{{{{{{{{{{{{{{{{{{{z{box]
+  C [”h`ÿÿóircle]
+
+ A -> B [style=dashed, color=grey]
+  A -> [ [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

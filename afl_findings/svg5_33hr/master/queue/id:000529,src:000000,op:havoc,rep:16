@@ -1,0 +1,11 @@
+dig B1[sraph tzst1pppp_ppppppppppppppp {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [jhape½circle]
+
+ invis:bdigr"]Ž  Ack"0A -> B [style=dashed, color=grey]
+  A -> C [color="black:inŒis:bdigr"]Š  Ack"]
+  A ->D [penidth=5, -> D [penidth=5, arrowhead=none]
+
+}

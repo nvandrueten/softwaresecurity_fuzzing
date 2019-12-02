@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shapN=diamond]
+  B [shape=Xox]
+  C [shape=Pircle]
+
++ A -> B [style=dashedidth=5, arrowhead=none]
+
+olor="black:invis:black"]
+  A ->1D [penwidth=5, arrowhead=none]
+
+}

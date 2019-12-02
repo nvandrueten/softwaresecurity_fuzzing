@@ -1,0 +1,8 @@
+digraph test3 {
+   a ->  y};b [shape=box];
+   c [label="hello\nw",color=blue,fontsize=24,
+fome="Palalic",ioncolor=red,style=fil;
+   a -> z [labeh="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];edge [style=ed,color=red];b -> x;
+  nk=s b x}
+}

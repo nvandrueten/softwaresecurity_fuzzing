@@ -1,0 +1,4 @@
+graph te{
+	rankolor=blue; /* c0; c1; c0 -- c1 */
+	nL [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n{{{{{{{{{{{{{{idth=1, 

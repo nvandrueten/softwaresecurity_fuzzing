@@ -1,0 +1,8 @@
+graph te{
+{x yph te{te{
+{x yph te{
+   a -- b -- c;
+   };
+   x -- c [w=10.0];
+   {
+   a -- b -- c0,len=

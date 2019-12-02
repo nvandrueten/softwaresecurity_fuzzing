@@ -1,0 +1,7 @@
+graph test2 {
+   a -- b -- c;
+ÿÿ a -- {x y};
+       xw {
+   a =3];
+}
+

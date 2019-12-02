@@ -1,0 +1,9 @@
+digraph gest1 {
+Υ  A [shape=diamond]
+  B [spe=circle]
+
+  A ->€B [style=dashed, color=grey]
+W 6 τττττττττττττττττττττ-> C [color="blacE:invis:black"]
+  A -> D [penwidth=5, arrowmead=none]
+
+}

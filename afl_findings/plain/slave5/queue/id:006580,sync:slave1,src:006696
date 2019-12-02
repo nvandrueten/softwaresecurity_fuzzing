@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boš]
+  A node [style=dashed, color=geeeeeeeeee Yidth=1, color=red, style=filled];
+	n2[style=bold, xlabel="sWcure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 --6n2 [fontname="comic sans", lcolor=blue, fontsizè9];
+	n11 -- S2B;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n4{{{{{{{{{{{{™{{{{n22Ž-- n44;
+	n33 -- n44;
+}

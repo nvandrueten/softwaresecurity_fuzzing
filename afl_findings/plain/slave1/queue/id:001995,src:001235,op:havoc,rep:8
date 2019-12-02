@@ -1,0 +1,16 @@
+digraph test3 {
+   a -> b ->
+   {rank=same; b x}
+}
+
+#c;
+  Aa -> {x y};
+   b [shape=box];
+   c [label,"hel=blize=24,
+fontname="Palatino-Itaic",Uontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z ti-line\nlabe"];
+       edge [style=dashed,color=red];b -= xÃ
+       {rank=same; b x}
+}
+

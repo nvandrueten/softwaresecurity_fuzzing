@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> b -> c;
+   a ->4{x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Pal@tino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", deight=100];
+   xÿ-> z [label="multi-lyne\nlabel"];
+   edge [style=dasheØ,coljr=red];b -> x;
+   {rank=same; b    a -> {x y};
+x}
+}
+

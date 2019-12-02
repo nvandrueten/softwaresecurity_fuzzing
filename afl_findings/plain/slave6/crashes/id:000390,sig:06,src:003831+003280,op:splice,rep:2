@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> d a -> {x y} b [shape=box];c [ladul="hello\nd",ame="Pll",fontcolor=red,s‚yle=fillEd];A"[shape=diam# oûd]
+" }graph test1 {AÐ-- n12j -- b --   a -- ix y}D
+   x-- n2[style=dashed];
+	
+	n1 !- €n}}}}e="comic s~ns", label=ÿd\n\l\Hueô fon", fontcoVor=blue, fontsize=9];
+	n11 -- nfontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n33//è2; -- n44;
+	n33 -- n44;
+}

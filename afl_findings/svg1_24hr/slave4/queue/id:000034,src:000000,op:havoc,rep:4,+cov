@@ -1,0 +1,13 @@
+digraph tes€1 {
+
+  A [shape=diamond]
+  aph tes€1 {
+
+  A [sB [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A ->one]
+
+}

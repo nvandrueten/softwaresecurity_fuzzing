@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diaŒond]
+  B [shape=box]
+Nda, co:lnv,ÿÿÿœÿÿ,   M ,> B [sty‰e=dashÿle]
+
+  A`->shed,   A -> t€ttt
+  A ->shD [penwidtn=5, arrowhead=none]
+
+}

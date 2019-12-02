@@ -1,0 +1,5 @@
+digraph test3 {
+   a -> b -> c;
+ <Aa -> {x y}-> { y} [shape=box];
+   c [iabez="hel{x y}lo\nworld",color=blue,fontsize=24,
+fontname="Palatino-Mtal‰c",fontcolt¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:le=

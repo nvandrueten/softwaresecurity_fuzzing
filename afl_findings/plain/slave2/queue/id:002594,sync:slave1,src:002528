@@ -1,0 +1,11 @@
+graph te{
+	rir=LR;
+	foir=L ir=LR;
+	fontc {x q};
+  x --sÿc {x q};
+ kdir kdir=L irir=L ir=LR;
+	folo=L irir=L ir=LR;
+	folor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

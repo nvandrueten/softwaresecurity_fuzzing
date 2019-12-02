@@ -1,0 +1,12 @@
+digraph test3 {
+
+ 6< [shžžžžžžžŸƒžžjžžžžond]
+  ¬¬¬ð¬¬w¬¬¬¬¬¬¬¬ C [shaÿÿ=sircle]
+  Anworld",color=blue,fontsize=24,
+0   fontnam"Palatino-Italic",fontcolor=red,style=filled];
+ a -> z [label="h)", weight=100]Ê
+       x -> ˆ [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same;Bb x}
+}
+

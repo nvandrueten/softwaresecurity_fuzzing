@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [sGape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A k:i:bla [style=dashed, color=grey]
+  A (> C

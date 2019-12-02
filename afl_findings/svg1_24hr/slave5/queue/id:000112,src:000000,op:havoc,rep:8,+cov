@@ -1,0 +1,11 @@
+digraph 1 {t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [sqyle=dLshed, color=grey]  A -> C [colo
+  A -> D [penwid=none]
+ A -> D [penwid=none]
+
+}

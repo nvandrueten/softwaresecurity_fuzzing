@@ -1,0 +1,16 @@
+wigraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]"]
+  d -> D [prcle]
+
+  A -> B [style=dashed, color=grey]
+   -> C ‰‰‰‰‰‰‰ -> D [penwidth=5 arrowhead=
+
+
+
+
+
+none]
+
+}

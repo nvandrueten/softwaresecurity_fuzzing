@@ -1,0 +1,28 @@
+digraph teŽt1 {
+
+ €pe B [style=dasy]
+  B [shape=box]
+  C [shape=circle]
+
+  ÿÿÿÿ<B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="bla-:inöis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

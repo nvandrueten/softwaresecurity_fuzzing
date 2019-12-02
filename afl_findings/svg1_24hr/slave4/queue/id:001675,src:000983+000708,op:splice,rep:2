@@ -1,0 +1,36 @@
+digraph test1 {
+
+  A [shape=diae]
+  C [shape=circle]A -> B 000,000000000000A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ÿ
+Ç
+
+
+
+
+
+
+
+
+ -> C [color="black:invis:black"]
+  A‹-> D [penwidth=5, arrowhead=none]
+
+}

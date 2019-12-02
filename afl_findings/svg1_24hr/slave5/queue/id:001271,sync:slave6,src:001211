@@ -1,0 +1,8 @@
+digraph test1 {	ê  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+"""le=dashed, color=grey]
+  A <> C [color="blashed, color<gre]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

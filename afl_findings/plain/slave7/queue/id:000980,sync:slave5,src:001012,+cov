@@ -1,0 +1,11 @@
+graph tes {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n4 [style=dotted, fillcolor="#123456"]; // c2; n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+}}}}}}}}}}}}}t=100];
+   x -> z [label="multi-dge [style=dashed,colline\nlcbel"];
+     ê edge [style=dashed,color=red];b -> x;
+     me;Bb x}
+}
+

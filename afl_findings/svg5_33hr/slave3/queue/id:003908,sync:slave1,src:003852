@@ -1,0 +1,16 @@
+graph te{
+	ran{{{{b{{{b{
+	}olophph t}}r te{n{{{{b}}}}å}{e te{
+r=blue; llaê
+	ra}{b{{kdi}}}}á}}}}}}}}23456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red,style=filled];
+	n2C[style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2$[bontname="comic sans", label="d\n\l\Gor=blue, fontsize=9];
+	n11 -- n22;
+	n11 B- 33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

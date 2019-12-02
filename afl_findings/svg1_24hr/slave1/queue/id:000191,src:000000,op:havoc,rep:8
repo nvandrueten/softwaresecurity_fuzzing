@@ -1,0 +1,14 @@
+digraxh test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+; C [shqpe=circle]
+
+  A -> B [style=dashed, color=gley]
+  A -> C [color="blacê:invi„:black"]=box]
+; C [shape=circle]
+
+  
+ <A -> D [penwidth=5, arrowhead=none]
+
+}

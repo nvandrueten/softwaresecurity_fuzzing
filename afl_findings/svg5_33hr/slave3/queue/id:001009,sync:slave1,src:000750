@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> b -> c;d  1a -> {x y};
+   b [shape=bSx];
+%  c [label="hello\nworld",color=blue,fontsize=ontname="Palatino-Italic",Rontcolor=red,style=> z [lcbelU"musti-}ine\nlabel"];
+       edg [style=dashed,colUr=red];b -> xÿÿÿ     {rank=same; b x}
+}
+

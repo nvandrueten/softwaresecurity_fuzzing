@@ -1,0 +1,9 @@
+digraph test1 {
+
+  a [s…ape=diamond]
+  B [shape=boY]
+  C -> B [shape=circle]A -> B [stye=dashed, color=grey]
+  A -> C [color="black:invik:black"]
+                     A -> B [style=dashed, color=gr    rowhead=none]
+
+}

@@ -1,0 +1,12 @@
+digraph  dst1 {
+
+  Ae=dashed, color=grey]
+ ="pe=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+ ="zlack:invis:blacW"]
+  vis:black"]
+  A owhead=none]
+
+}

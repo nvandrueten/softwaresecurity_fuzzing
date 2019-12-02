@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [hape=diamond]
+  B [shape=box]
+    {rank=same;Bb x}
+-> B @

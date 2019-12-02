@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	fontc0 -- ted, fill [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, widtW=1, dolor=red, style=fillehhhhhhhhhhhhhhhhhhhhhhhhhhl="secure"];
+	n@ÿ- n1 -- n2[svyle=dashed];
+	n1 -- n2 [fontname="c	mic sans", label="d\n\l\G", fontcolor=blue, fon€ÿÿÿÿ9];
+	-- n44;
+	
+	n33 --%n44;
+}

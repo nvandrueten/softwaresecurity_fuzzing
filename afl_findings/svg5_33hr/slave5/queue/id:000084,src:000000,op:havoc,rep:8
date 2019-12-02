@@ -1,0 +1,9 @@
+digraph test1 {"
+ 
+  B [’hape=box]
+  C [shape=box]
+  Cÿ A ->  B [style=dashed, colïr=grRy]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

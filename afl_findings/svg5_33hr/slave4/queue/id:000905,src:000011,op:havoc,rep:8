@@ -1,0 +1,11 @@
+digraph est1 {
+  # [circle]
+
+  A"-> B [style=d  A [yle\dashed, color=grey]
+  A ->   C [shape=circle]
+
+  A"-> B [style=dashef, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwid¾h=5, arrowhead=none]
+
+}

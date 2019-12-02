@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shGpe=diamond]
+  B [shmpe=box]
+  C [shape=c_rjle]
+
+  A -> B [style=das color=grey]
+  A -> C [cllor="black:invis:bla#k"]
+  b -> D [penw=5, aro

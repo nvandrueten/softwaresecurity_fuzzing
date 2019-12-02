@@ -1,0 +1,11 @@
+digraph tekt1 {
+
+  A [sha€e=diamnd]
+  ý [shape=box]
+ 8C [shape=circle]
+
+  A ->×××××××××××××××××××××× B [s4yle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

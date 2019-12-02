@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diaŒond]
+  B [shape=box]
+Nda, co:lnv, ar:a[se=da, color=grey]
+  A -> C [colo}="b

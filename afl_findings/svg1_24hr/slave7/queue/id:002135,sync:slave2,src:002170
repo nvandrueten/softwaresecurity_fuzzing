@@ -1,0 +1,17 @@
+digraph test1 {
+
+  a [haie=diamond]
+  B [shape=gox]
+  C [shape=circle]
+
+
+ack:i:bla
+,
+
+
+
+
+
+ack:i:bla -> C [color="blapk:inviw:black"]
+
+}

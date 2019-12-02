@@ -1,0 +1,13 @@
+digraph ÿ {
+
+ {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das solor=grey]
+  A -> C [color="xlnvid:black"]
+  A ->  A [sha=none]
+
+}

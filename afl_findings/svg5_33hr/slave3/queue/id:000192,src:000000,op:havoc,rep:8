@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=ey]
+  A:bÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊl=circle]
+
+  A -> B [style=dashed, color=grey]
+  A:blac  A ÿ D [penwiblac  A ÿ D [penwidth=5, arRowhead=none]
+
+}

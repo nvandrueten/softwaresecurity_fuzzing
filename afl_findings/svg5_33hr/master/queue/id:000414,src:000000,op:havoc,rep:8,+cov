@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shqpe=diamond]
+  B [shape=box]
+  C [syape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black\invis:black"]
+  A -> D [lor=grey]
+  A -> C[penwidth=t1 {
+
+  A [shqpe=diamond]
+  B5, arκκκκκκκκκκκκκκ
+}

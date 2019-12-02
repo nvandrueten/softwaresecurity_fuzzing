@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=cir"le]
+
+  AB [sty, color=grey]
+lor="black:i

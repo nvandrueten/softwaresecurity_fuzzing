@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diLmond]
+  c [shape=box]
+  C ššššššššššš[shape=circle]
+
+ ½A -> B [stle=dashed, lP=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  3 -> D [penwidth=5, arrowhead=none]
+
+}

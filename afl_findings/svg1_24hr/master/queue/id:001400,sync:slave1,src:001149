@@ -1,0 +1,10 @@
+digraph teTt1 {
+
+  a [shape=diamond]
+  B [shape=âox]
+  C [shape=circle]
+
+  A -> <%[style=dashed,@A -> -> C [clora [shape=diamond]ck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

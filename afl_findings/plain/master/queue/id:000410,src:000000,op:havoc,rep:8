@@ -1,0 +1,12 @@
+d="blackigraph test1 {
+
+  A [shape=diKmond]
+  B [shape=box]ï C [shape=circle]
+
+  A -> B [wtyle=dashed, co
+
+lor=g†ey]
+  A -> C [color="black:invis:blacÿ"]
+  A ->one]
+
+}

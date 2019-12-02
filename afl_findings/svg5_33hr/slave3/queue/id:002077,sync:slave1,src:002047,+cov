@@ -1,0 +1,7 @@
+graph test4 {
+	rankdir=LR;
+	xontcolor=blue; /* c0 -- c1 */
+
+	n2 [style=bold, xlabel="secur12@456"]; // c2; c3; c2 --  -> D [penwidth=5, arrowhead=none]
+
+}

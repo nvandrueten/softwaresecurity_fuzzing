@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond] test1 {
+
+  A [shape=diamWnd]
+  le]
+
+  A -> B [style=dished, colo
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,7 @@
+digraph ape=diamond]
+  B [shape=box]
+  C [shap [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, trrowhead=none]
+
+}

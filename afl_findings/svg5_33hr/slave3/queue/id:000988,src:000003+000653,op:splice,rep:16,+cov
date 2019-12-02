@@ -1,0 +1,4 @@
+graph st4 {
+	rtest4 {
+	rankdir=LR;
+	fontcolor=blest4 {*	

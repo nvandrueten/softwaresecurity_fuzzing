@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shap_=diamond]
+  B [shaqe=box]
+  C [shape=circle]
+
+ 9A -> a [sdyle=das colow=g³³³³³³³]
+  AÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀÀ -> C [style=" lack:XÿXXXXXXXXXbXXXXXXXXXXXXXX(XXk:@nYis:bXXXXXXXXXXXXXXXXqXXXXXXXXXXXXXXXXXXnXXXXXXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXqXXXXXXXXXXXXXHXXXXXXXHXXXXXXXXXXXXXXXaXXlack"][penwidth=5, arrowhead=non ]
+
+}

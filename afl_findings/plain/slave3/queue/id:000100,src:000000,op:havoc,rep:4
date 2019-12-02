@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [she=did]
+  B [shape=box]
+  C [shape=circle]
+
+&d, co-> C [color="black:invis:bl

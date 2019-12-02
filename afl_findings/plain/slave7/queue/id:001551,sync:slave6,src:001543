@@ -1,0 +1,8 @@
+graph te{
+	rankdir=LR;
+	color=bl a -- b -- €   a -- b -- c;
+   ac;
+   a   a -- b -- a -- b -- c;  y};
+  Îx -- y [w=5.0,len=3];
+}
+

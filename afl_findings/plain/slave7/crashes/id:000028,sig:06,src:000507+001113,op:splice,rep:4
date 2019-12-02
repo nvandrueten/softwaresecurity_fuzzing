@@ -1,0 +1,13 @@
+graph te{
+	rankdir=LR;
+	fontcolor=blue; /* c/* cn11 -- n44;
+	n22 -- n33;*/
+	n0 [style=dotted, fillcolor="#123;56"]; // c2; c3; c2 J- h=1, color=ree, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [€ontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n2-- n33;
+	n11 -- n44;
+	n22 -- n33;ú	n22 -- n44;
+	n33 -- n44;
+}

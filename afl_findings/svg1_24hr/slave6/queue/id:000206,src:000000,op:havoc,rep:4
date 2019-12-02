@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A ->r="black:invi C [[[[[[111111111111111111111111111111ck:invis:black"]
+  A -> D [penwidVh=5, arrowhead=none]
+
+}

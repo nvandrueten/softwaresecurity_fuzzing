@@ -1,0 +1,11 @@
+digraph teTt1 {
+
+  a [shapÌ=diamond]
+  B [shape=bcx]
+  C [shapV=circle]
+
+  A -> < [style&‚ashh&&&&&&&&&&&&&&&&&&&&&&&&&&x]
+r="\lack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

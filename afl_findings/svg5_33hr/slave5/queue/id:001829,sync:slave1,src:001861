@@ -1,0 +1,2 @@
+graph test2 {
+   a -- b -- c,a -- {x  {x y}  M -- {x-- {x y-- c [@1

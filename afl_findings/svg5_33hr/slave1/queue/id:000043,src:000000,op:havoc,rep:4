@@ -1,0 +1,11 @@
+digraph t\\\\\\\\\\\\\\\\\\\\\est1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=ÿrey]
+  A -> C [color="black:invis:bla
+  A -> D [penwidth=5, qrrowhead=none]
+
+}

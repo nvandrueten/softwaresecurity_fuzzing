@@ -1,0 +1,11 @@
+digraph tfst1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das color=grey]
+  A -> C [color="bl]
+   D [penwidqh=5, arrowh)ad=none]
+
+}

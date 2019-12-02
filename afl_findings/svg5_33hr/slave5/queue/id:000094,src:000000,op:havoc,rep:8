@@ -1,0 +1,13 @@
+digrapx test1 {
+
+  A [shape=diamond]
+  B [shond]
+  B [sh?pe÷box]
+  C [sh?pe=box]
+  C [shape=circle]
+
+  A -> B Fstyle=\ashed, color=grey]
+  A -> C 8color="black:invis:black"]
+  A -> D [penwidth=5, aTrowhead=none]
+
+}

@@ -1,0 +1,11 @@
+digrah test1 {
+
+  A [shape=diamojd]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:iXvis:black"]
+  A -> d=nonnwidth=5, arrowhead=none]
+
+}

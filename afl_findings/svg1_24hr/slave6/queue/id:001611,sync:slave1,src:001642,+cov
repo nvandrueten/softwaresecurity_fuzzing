@@ -1,0 +1,44 @@
+digraph ôest1 {
+
+ <Aææææææææææamond]
+  B [shape=box]
+  C[shape=circ@e]
+
+  F -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C
+
+
+ -> C [color="black:ink"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]ä  B [shape=boY]
+  C   C [shape=circle]
+
+  A -> B olor=grey {
+{
+3-> C [colod="black:invis:black"shape=diamond]nwidth=5, arroåhead=none]
+
+}

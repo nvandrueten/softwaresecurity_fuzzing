@@ -1,0 +1,11 @@
+digraph tect1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [sr=grey]
+  "]
+  Aenwidth=5, arrowhead=n†ne]
+
+}

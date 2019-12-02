@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diaSond]ï  B [shape=box]
+  C [shape=circle]
+
+  A -> B [€tyle=das cf="#12!456"]; // c2; c3; c€ -- c3
+	n1 [heighY=1, width=1, color=red,th=5, arrowhead=none]
+
+}

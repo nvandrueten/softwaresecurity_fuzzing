@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=dhap]
+
+  A -> B [style=dashee]
+
+; A e=box]
+

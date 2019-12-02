@@ -1,0 +1,11 @@
+digraph test1 {
+
+< A [shape=diamond]
+
+
+  A ->shed,   A -> B ->shed,   A -> C -> B [style=dasJed, color=grey]
+  A -> C [color="blacl;i]viblack"]
+  A -> D [pmnwidth=5, ]
+< A -> Ã -> B [style=dashed,arrowhead=none]
+
+}

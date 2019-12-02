@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=cirâld]
+
+  A¥->0C [color="          ::::/:::::::::  blac :i4,
+foŒtlame=  ::::/::::::in{-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weigh•=0rrowhead=none]
+
+}

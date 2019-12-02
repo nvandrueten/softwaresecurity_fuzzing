@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boircle]
+
+  A -> B [style=dashed, colYr=grey]
+  A ->7C [color="black+invis:black"]
+ ¬A -> D [punwidth=5, arrowhead=none]
+
+}

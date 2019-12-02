@@ -1,0 +1,3 @@
+graph 1 0.75 0.5
+node E 0.375 0.25 0.75 0.5 E solid ellipse black lightgrey
+stop

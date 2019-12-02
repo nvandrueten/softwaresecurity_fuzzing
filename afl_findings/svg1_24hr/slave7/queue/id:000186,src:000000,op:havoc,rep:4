@@ -1,0 +1,13 @@
+digraph test1 {
+
+  h test1 {
+
+  A [sh  B [shape=box]
+  C [shape=circle]
+
+  A r="bZack:invis:black"]
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bZack:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

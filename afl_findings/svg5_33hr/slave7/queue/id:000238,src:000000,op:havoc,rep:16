@@ -1,0 +1,12 @@
+dig”aph e€t1 {
+
+  A-[""shape=diamond]
+  B [shape=box]
+  Clor="black:inda:bcac|"]
+  A - [shape=circle]
+
+  A -> B Vstyle=dashed2 color=grey]
+  A ->= C [color="black:inda:black"]
+  A -> D [pexwidth=5, arrowhead<none]
+
+}

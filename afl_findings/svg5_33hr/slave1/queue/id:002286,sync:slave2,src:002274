@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=dilmond]
+  B [shape=box]
+  C [shape=circle]
+
+ {{{{{{{{{{{{šlack:invis:blac{{{{{{{{{{{šlack:invis:black"]
+  A -> D [pe{{{ Y -> B [styC [ce=box]
+  C [shape=circolr="black:invis:black"]
+  A -> D [pe]
+
+}

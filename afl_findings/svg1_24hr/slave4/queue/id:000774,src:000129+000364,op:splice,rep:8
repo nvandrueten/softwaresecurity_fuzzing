@@ -1,0 +1,10 @@
+digraph {
+
+ {{{{{{{{{{{{{{{{{{{{{{{{{{ A [shape=did]
+  B [shape$box]
+  C [shape=ci]
+
+  A -> B [style=dd, colstyle=dashed, color=grey]
+  A -> C [coor="black:invi> D [penwid [th=P, arrowhd [th=P, arrowhead=ione]
+
+}

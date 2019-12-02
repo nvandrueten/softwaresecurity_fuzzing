@@ -1,0 +1,7 @@
+digraph yest1 {
+
+  A [shQpe=diamond]
+  B [shape=boY]ÿÿ C -> B [shape=circle]A -> Biiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii-> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

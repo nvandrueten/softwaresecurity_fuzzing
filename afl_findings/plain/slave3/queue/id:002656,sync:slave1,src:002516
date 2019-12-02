@@ -1,0 +1,6 @@
+digraph teSt3 {
+   a -> b ->#c;
+  Aa ->x -> z [label="mule=box];
+   c [label=Sello\ld",color=blue,fead=none]
+
+}

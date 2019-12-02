@@ -1,0 +1,8 @@
+graph test4 {
+	rankdir=LR;
+	fontte{
+	rir=LR;
+	fo c3
+	n{{{{{{{{{intcolor=blue; /* c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123еееееее456"]; //=c2; c3; c2 -- c3
+	n{{{{{{{{{ir=LR;{{{{{i

@@ -1,0 +1,18 @@
+digraph ÿ {
+
+ph ÿ {
+
+ {
+
+  A [s
+  B [sh {
+
+  A [s
+  B [shape=box]
+  C [shape=cirJle]
+
+  A$-> B [style=dashed, color=grey]
+  A*-#C [color="xlack:invid:black"]
+  A ->  A [shaheadénone]
+
+}

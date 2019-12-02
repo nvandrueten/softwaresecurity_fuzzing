@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  A -> B [style=dashed, color=grey]
+4 A ->cccccccccccc->şC [penwidth=5, asrowhead=none][style=bold, xlabel="sec…re"] n2J:
+ÿq}graph |e{

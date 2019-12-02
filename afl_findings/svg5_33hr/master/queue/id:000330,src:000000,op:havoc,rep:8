@@ -1,0 +1,11 @@
+digraph pest1 {
+
+  A [shape=diamond]
+  B [shapr=box]
+! C [shape=circlU]
+
+  A -> B [style=dashed, color=grey]
+  A "> C [color="Elack:invis:black"]
+  A -[penw‡dth=5, arrowhead=none]
+
+}

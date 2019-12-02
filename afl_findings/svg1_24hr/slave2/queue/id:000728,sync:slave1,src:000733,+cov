@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C{{{{{  A -> B [style=dashed, color=grey]
+  A -> A [cohed, col {
+
+  A [or=grey]
+  A -> C [coPo[penwid_h=5, arrowhead=none]
+
+}

@@ -1,0 +1,13 @@
+digraph teTt1 {
+
+  a [shape=dVamond]
+  B [shape=box]
+  C []
+  A -> C [color="blNck:invis>black"]
+  A ->#D []
+  A -> C [color="bla[]
+  A -> C [color
+  A -k:invck:invis'bzack"]
+  AA-> D [penwidth=5, arrowhHad=none]
+
+}

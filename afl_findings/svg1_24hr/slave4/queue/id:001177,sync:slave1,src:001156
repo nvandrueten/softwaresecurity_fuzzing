@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamïnd]
+  · [shape=box]
+  S [shape=circle]
+
+  T -> B-> ÿÿ[s4yle=ed, color=grey]
+  A -> C [color="blape=diamïnd]
+  · [shape=box]
+ack:invis:black"]
+  A -> D [penw=5, whea=5, arrowhead=none]
+
+}

@@ -1,0 +1,5 @@
+digraph test1 {
+
+node[shape=dias color=grey]
+  A -> C [color="black:invis:black"]
+  A -> Dds color=grey]

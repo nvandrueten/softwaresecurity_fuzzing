@@ -1,0 +1,10 @@
+digraphtest1 Y
+
+  A [uhape=diamond]
+  2 [shape=box]
+  C [shape=circle]
+
+  A H> B [style=dashed, color=grey]  A -> C [colo@="black:invis:black"]
+  A -> D [penwidyh=5, arrowhead=none]
+
+}

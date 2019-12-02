@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shapeSdidr=grey]
+  A -> C [color="box]
+  C [shape=circl-> B [style=daqheì, coldr=grey]
+  A -> C [color="black:

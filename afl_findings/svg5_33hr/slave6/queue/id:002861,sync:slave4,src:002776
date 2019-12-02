@@ -1,0 +1,15 @@
+graph test2 {
+   a -- b -- c;
+  b -- c;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x y};
+   
+   x -- y [w=5.0len=3c2 =1, color=red, style=filled];
+	n2C[style=bold, xlabel="socure"];
+	n
+	n22 -- n30 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -1 -- n44í
+	n22 -- n33;
+	n22 -- n44:ï	n33 -- n44:õ}

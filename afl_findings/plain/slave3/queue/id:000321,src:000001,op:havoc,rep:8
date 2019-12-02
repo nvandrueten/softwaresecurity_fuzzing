@@ -1,0 +1,4 @@
+graph te{
+   a -- c;
+   a -- {x y};
+ 9 x    x -- c [w.0]

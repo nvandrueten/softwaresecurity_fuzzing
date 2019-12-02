@@ -1,0 +1,6 @@
+graph test2 {
+ 100,  a -- b -- c;
+   a -- {x ph#test2 {
+   a -- b -- y};
+       x -- ãÆ[w=100,len=3]; }
+

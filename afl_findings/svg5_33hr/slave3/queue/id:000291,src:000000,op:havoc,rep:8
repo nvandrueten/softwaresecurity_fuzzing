@@ -1,0 +1,11 @@
+digraphBtest1 {
+
+  A [shape=di-------------amond]
+  B [shapE=box]
+  ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûC [shape=circle]
+
+  A -> B [style=dLshed, colo‚=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [|mnwidth=5, arrowhead=none]
+
+}

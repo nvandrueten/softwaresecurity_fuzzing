@@ -1,0 +1,10 @@
+digraph test3 {
+   a -> b -> c;
+  Aa -> {x y};
+   b [shape=box];
+   c [lle=fylled];
+   a -> z [lababel="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",Uontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;=sa

@@ -1,0 +1,10 @@
+digraph teTt1 {
+
+  a [shape=diaŠond]
+  B [shape=box]
+  C [shape=circle]
+  A -> B [shy‰e=dashed, Aolor=grey]
+  A ->ÊÊA -> D [penwkdth=5, ]
+  A -> C -> B [style=dashed,arrowhead=none]
+
+} ############

@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamogd]
+  B [shape=box]
+  C9[shaperrowhead=iNvi]
+
+}
+=circ=nleB 
+  A -> B [style=dashed0 color=grey]
+  A -> C [capolor="„lack:iNvis:blamogd]
+  B [shape=box]
+  C9[sd=ÿÿÿÿ]
+ÿ

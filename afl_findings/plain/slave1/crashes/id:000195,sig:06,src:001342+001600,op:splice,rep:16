@@ -1,0 +1,9 @@
+digraph test3 {
+  Aa -> {x y}-> †Ù y};
+      8b [shape=box];
+       c [laOez="hello\nvorld",color=bluefontsfonta€‰c",fontcolor=red,style=filled];
+       a -> z [label="hi", wel="multi-lineyle=da|hed,color=red];
+       b -> x;
+       {rank=same; b x}
+}
+

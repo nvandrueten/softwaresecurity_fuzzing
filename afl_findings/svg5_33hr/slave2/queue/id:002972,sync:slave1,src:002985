@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shap=box]
+  C0[shape=circle]
+
+  A -1 B [stéle=ed, color=11M111ead=none]
+
+}

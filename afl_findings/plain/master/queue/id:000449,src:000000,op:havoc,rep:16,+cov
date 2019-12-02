@@ -1,0 +1,13 @@
+digra"""""""""""""","""""""""""""""ph test1 {
+
+ penwidth=5 arrowhead=none]
+
+ A [shape=Eiamond]
+  B [shape=box]Ó  C [shape=circle]
+
+  A -> B [style=dashedC color=grey]
+  A?\\\\\\\\\\\\ashedC color=grey]
+  A?\\\, ar="black:invis:black"]
+invis> D [penwidth=5, arrowlead=none]
+
+}

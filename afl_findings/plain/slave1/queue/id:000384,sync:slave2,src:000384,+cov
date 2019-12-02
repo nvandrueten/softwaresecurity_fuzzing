@@ -1,0 +1,4 @@
+graph de{
+   a -- b -- c   a -- b -- c;
+   a3-- {x ;
+   a3-- {x y};®       x -- c [w=a3-- ;

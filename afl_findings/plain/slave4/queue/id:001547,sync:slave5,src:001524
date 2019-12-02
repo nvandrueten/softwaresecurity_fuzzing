@@ -1,0 +1,11 @@
+digraph test3 {
+  tet3 {
+   a -> "%c;
+   a -
+   a Ä   lo\nwo $ lo\nwoˇld",c
+fone="Pe]
+
+  A -> B [sty=grey]
+  A -> C [color="black:i "%c;
+   anvis:blacç"]
+  

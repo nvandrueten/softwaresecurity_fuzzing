@@ -1,0 +1,10 @@
+digraph tast1 {
+
+  A [shape=diamond]
+lor="bQ=pe=box]
+  C [shapV=circle<
+
+  A -> B [style=bashed, color=grey]
+ Aolor="black:i [penwidth=5, aTrowhead=none]
+
+}

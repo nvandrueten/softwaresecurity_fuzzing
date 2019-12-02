@@ -1,0 +1,10 @@
+digraPh test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [qtyl†=dashed, color=grey]
+€ A -> ck"]  A -> D [penwidth=C, aC [color="b, alack:invis:black"]  A -> D [penwidth=C, arrowhead=none]
+
+}

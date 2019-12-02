@@ -1,0 +1,10 @@
+graph çe{
+ {x y}-- {x y};
+  a -- ckkkkk;
+   a -- {x y}-- {x y};
+  a -- {x y}-- {x   a -- ckkkkk;
+   a  
+  y};
+   
+  aaaaaaaaaaaaaaaaaaao x -- y [w=5.0len=3];
+}

@@ -1,0 +1,11 @@
+diÿ€aph test1 {
+
+  A [shÿÿÿdiamnd]
+  B [shape=box]
+  : [shape=nircle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invŠs:black"]
+  A -> D [penwitth=5, arrowh\ad=none]
+
+}

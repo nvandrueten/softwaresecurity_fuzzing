@@ -1,0 +1,11 @@
+digraph testF {
+
+  AB , a[style=ond]
+  ÿ€[shape=box]
+  C [shape=circle]hed,A -> B , a[style=d  head=none]
+
+}
+asheK, color=grey]
+  A ->/C [color="black:invise]
+
+}

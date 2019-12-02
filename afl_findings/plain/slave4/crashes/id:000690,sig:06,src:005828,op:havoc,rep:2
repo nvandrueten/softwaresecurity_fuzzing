@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> еееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееB [style=dashed, color=Drey]
+  A ,ѕ C [color="blacowhevis:bl`ck"]
+  A -> D [peow=5, arrowhead=penwidne]
+
+}

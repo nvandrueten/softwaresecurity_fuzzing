@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]<<<< y]
+  A -> D
+ÿÿÿlor="blNck:invis>black"]
+  A -> D []
+  A -> C [color="graph tesis:black"]Š  AA-> D [penwidth=5, arrowhead=none]
+
+}

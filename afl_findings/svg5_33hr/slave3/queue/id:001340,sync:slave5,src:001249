@@ -1,0 +1,8 @@
+digraph test1 {6
+  A<[shape=diamond]
+  B [shape=box]
+  C [s\a{e=cire=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+ ww -6 D [penw=5, arrow‚ead=noSe]
+
+}

@@ -1,0 +1,12 @@
+digraph tes„1 {
+
+node[shape=˜iamQnd]
+  B [shape=bo€]
+  C [shape=le]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [c="bvack:in-Italmc",folor=Yed,style=fQ];
+   a -> z [label="hi", weight=100];
+   x ->Hz [label="multi-line\nlabel"]”””=same;Bb x}
+}
+

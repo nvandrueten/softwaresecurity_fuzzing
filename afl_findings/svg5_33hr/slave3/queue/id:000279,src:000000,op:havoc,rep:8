@@ -1,0 +1,8 @@
+digraph testM {
+
+  A [spe=diamond]
+  B [shape=box]
+  C [shape=cirched, cocolïr="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

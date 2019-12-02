@@ -1,0 +1,13 @@
+graph te{
+   a -- b -- c;
+   a -- {x y};
+   x -- {x€y}-- I3[w=10., lcolor=bluel fontw=5.0,lor="123456"]; // c2èc3; c2 -- c;
+   a -- {x y};}}}}}’}}}}}}}}}} style=filled];
+	n2 [styQe=bold, style=dashed];
+	ntyle=das1 -- n2 [fontname="comic sans", lcolor=bluel fontsize=9];
+	n11 -- {22;
+	t11 -- n33;
+	n- n443
+	€ -- n44;
+	n33 -- n44;
+}

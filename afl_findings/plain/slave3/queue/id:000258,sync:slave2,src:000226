@@ -1,0 +1,34 @@
+digra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ph test1 {
+U
+
+
+ph test1 A [
+  C [s=circahle]
+
+  A -> B [style=dahed, color=grey]
+  A ->$C [color="bcack:Ônvis:blacZ"width=5, arrowheaL=none]
+
+}

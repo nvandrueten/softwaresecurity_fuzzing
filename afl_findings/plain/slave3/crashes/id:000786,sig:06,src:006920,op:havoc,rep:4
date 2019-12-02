@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=dijmond]
+  B [shape=box]
+  C [shape=circle]ë	[style=" lack:inYis:bXXXXXXX;XXXXXXXXX]XXXXXÿXXXXXXXXXXXXXXXXXXXXXXXX(XrXgXXXXXXXXXXXXXXXXXXXXXqXXXXXXDXXXXXØXXXXXXXXXXXXXX  A ->)a [style=dashXd	 color=grey]
+  A -> C [stylXXXXXXXXXXXXX(XrXgXXXXXXXXXXXXXXXXXXXXXqXXÿÿÿÿDXXXXXXXXXXXXXXXXXXXX^XXXXXXXXXXXXXXXXXXXXXXlack"]
+  A -> D [penwidth=5, arrowhead=no‘ ]
+
+}

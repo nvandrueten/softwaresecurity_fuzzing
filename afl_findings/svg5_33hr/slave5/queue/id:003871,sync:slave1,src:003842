@@ -1,0 +1,9 @@
+graph „e{
+  c: b -- ‡:
+  a --
+  c: b -- c:
+  a -- b -- c2
+  w -- b -- b -- c:
+  a -- b --  k: b -- c:
+  w }
+

@@ -1,0 +1,14 @@
+graph te{
+   j --  a -- {x y};
+   x -- {x€yl-- c [w=10.0];
+0 0    y [w=5.0,lor="456"]; // c2 -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	n2 [styQe=bold, xlabbl="seclor=red, style=filled];
+	nle=dashed]; fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	nontcolo11 -- n44;
+	n21 -- €33;
+}}}}_}}}}}}}}}}}}}}}}}}}}}	n22 -- n44;
+	n33 -- n44;
+}

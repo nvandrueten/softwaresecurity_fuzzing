@@ -1,0 +1,11 @@
+digraph XXXXXXXXXXXDXXXXXXXXXtest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ ÞA -> B [style=dashXd, color=grey]
+  A -> C [style=" lack:invis:bXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlack"]
+  A -> D [penwidth=5, atrowhead=none]
+
+}

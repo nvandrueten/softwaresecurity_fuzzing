@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+ CB [shape=box]
+  C [shape=cashed, color=grey]
+  A -> C [c‚lor="black:in6is:{lack"]
+  A -> D [pd—h=5,a

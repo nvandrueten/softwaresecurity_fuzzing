@@ -1,0 +1,10 @@
+di[raph test3 {
+   a> c;
+   a -> {x y};
+kkkkkkkk   b [shape=box];
+   c [label="hello\nworld",color=€ÿÿÿ,fontsizd,color=redQ;e="PItalic",fontcolor=red,style=fill
+   a -> z [label="hi", wight=100];
+   x-> k   b [shapw=box];
+   cz [l]bel="multi-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+rank=same;@r

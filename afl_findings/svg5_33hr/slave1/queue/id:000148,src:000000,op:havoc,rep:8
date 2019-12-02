@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=d]
+  C [shape=ciXcle]
+
+  A ->°B [pe=ciXcle]
+
+  A -> B 8style=dashed, color=grey]
+ »A -> C [color="blacˆ:mnvis:black"]
+  A -> D [penwid=5, arrowhead=none]
+
+}

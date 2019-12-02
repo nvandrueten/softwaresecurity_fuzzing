@@ -1,0 +1,12 @@
+di<r1 {
+
+  A [shond]
+  Bbox]
+  Ccircle]
+
+  A -> B [s=dashed, color=grey]
+  A -> C [color="bls:black"]
+  A -> D [penwidtack"]
+  Ah=5, arrowhead=none]
+
+}

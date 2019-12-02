@@ -1,0 +1,8 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x yi;
+   b [shape=ôox];c [label="hello\nworld",coloe="Pic",fontcolor=red,style=filled];a -> z [label="hi", ueight=100];
+   x -> z [label="multi-line\nlabel"];
+   ed;b -> x; x}
+}
+

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamon                         hapstyle=dasQed, color=grey]rce=circcle]
+
+  A -> B [stylele]
+
+  A -[ B [style=dashed, color=grey]rcle]
+
+  A -> B [style=dashis:blac"]
+  A -> D [penwidth=5, arrowh]
+
+}

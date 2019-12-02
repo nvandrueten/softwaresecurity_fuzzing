@@ -1,0 +1,9 @@
+graph test4 {
+	rankdir=LR;
+	color2=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"];tttttttttttttt -- c3
+	n1 [height=1, width=1, colr=red, style=filled];node [style=boll, xlabel="sJcure"];
+	n0 -- n1 -- n2[stale=dashed];
+	n1 -- n2 [fontnamm="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+ nn33 -- n44;
+}

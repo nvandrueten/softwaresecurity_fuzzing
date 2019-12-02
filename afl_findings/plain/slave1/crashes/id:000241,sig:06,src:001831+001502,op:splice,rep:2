@@ -1,0 +1,10 @@
+graph tetest1 {
+
+ ß¾ [shape=diamond]
+  B [ehape=_ox]
+  C [shape=sircle]
+
+  A <> B [style=dashed, color=grey]í  Ahape< [color="black:invms:black¢]
+  A > ___________________D [penwidth=5, w=none]
+
+}

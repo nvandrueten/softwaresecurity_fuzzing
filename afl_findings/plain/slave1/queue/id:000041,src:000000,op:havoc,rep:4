@@ -1,0 +1,8 @@
+digra`h test
+  A [shape=diamond]
+  B [shape=box]
+  e [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bls:ck:invis:black"]
+  A -> -> D [penwidth=5, arrowhead=none]

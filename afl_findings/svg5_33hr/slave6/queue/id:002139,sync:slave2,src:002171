@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b -> c;
+   k -> {x y};
+   b [shape=box];c [label="hello\nwkrld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=sed,stle=filled];
+   a -> z [laddl="hi", weight=100];
+   x -> z [labeh="multi-line\nlaVel"];
+       edge [style=dashed,color=red];
+       b -> x;
+       {rYnk=same; b x}
+}
+

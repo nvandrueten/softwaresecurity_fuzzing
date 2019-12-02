@@ -1,0 +1,5 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=dashed, color=gr A -> k"

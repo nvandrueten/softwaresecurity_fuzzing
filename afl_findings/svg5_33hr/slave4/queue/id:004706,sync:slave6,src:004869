@@ -1,0 +1,12 @@
+digraph test1 {
+
+€  Bed, coŽoÊ   a -> {x y} -> b -> c;
+   a -> {x y};
+ 0 b [shape=box];
+  KKKKKKKKKKKKKKKKKKKKKKKK c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Pzlatino-Italic",fontcozor=red,style=filled];
+   a -> z [labellabel="multi-line\nlabel"];
+   edge [style=dasheØ,cocjr=red];b ->{rank=same; b,   a -> {x y};
+x}
+}
+

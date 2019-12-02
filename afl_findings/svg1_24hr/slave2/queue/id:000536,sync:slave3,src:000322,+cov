@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A est1 {
+
+  A [shape=d√amond]
+  B
+  C [shape=circle]
+˚  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+
+
+  A [shape=d√ath=5, arrowhead=none]
+
+}

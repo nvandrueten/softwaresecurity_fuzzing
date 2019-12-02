@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape<diam
+  Bbox]
+  C [shape=circle]
+
+  A -> 

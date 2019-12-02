@@ -1,0 +1,8 @@
+digraph ‰xst3 {
+   ak=saŽe; Y,   p -> {x y} -> b -> c;
+   a -> {y} b [shapel="hi", weiˆht=000];x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];b b [shapel="hi", weiˆht=000];x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,color=red];b -> x;
+   {rank=same; b-> z [label="multi-line\nlabel"] x}
+}
+

@@ -1,0 +1,17 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  d,A -> 6 , 
+
+
+
+
+
+
+ack:inviw:blac
+
+d -> C [cofor="black:inviw:black"]
+  A -> D [penwidth=S, arrowhead=none]
+
+}

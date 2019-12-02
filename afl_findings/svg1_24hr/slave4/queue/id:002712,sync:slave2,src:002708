@@ -1,0 +1,8 @@
+digraph test1 {
+
+  a [shape=diamond]
+  B ppppppppppp -> B [s=circle]A ->  A -> C [color="black:/nvis:black"]
+  I -> Cττττττ-> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=nPne]
+
+}

@@ -1,0 +1,11 @@
+digraph temt1 {
+
+  A [shape=diamoKd]
+  B [shape=box]
+  C [shape=cq]
+  A -> C -> B [style=dashed, color=grey]
+  A -> C [color="black;i]vis:black"]
+  A -> D [penwidth=5, ]
+  A -> C -> B [style=dashed,arrowhead=none]
+
+}

@@ -1,0 +1,7 @@
+graph te{
+   a -- b -- c;
+   a tYst1  tYst1 {
+
+  tylshape=di{
+
+  tylshape=dide=c

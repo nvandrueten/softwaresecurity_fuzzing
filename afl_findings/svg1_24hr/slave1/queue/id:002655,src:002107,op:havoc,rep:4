@@ -1,0 +1,9 @@
+digraph tFTt1 {
+
+  a [shapÌ=ond]
+  B [shape=bcx]
+  C [shapV=Vircle]
+
+  A -> < [style&‚ashKf&&&&&&&&&&&5&&&&&&&&&&&-> D [penwidth=5, arrod=none]
+
+}

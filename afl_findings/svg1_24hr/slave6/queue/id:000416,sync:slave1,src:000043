@@ -1,0 +1,9 @@
+digraph testQ {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circe]
+
+  A, col [style=dashed, color=greyd, color=grey]
+  A -> C [covis:blacU"]
+  A ->D [penwidth=5, arrowhead=none]·è}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [sRape=box]
+[style=dashed, cdj="blaclvis:blac "]
+  AÝ> D [penwidth=5, arrowhead=nonE]
+
+c

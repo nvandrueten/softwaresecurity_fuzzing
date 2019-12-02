@@ -1,0 +1,11 @@
+digraph {est1 {
+
+  A[peºwidth=5,ad=none]
+
+}
+ [shape=diamond]
+  B [ghape=box]
+  C [shapehed, color=grey]
+  A -> C [color="black:invis:black"]
+ AAAAAAAAAAAAAAAAAAA A -> D [penwidth=5, arrowhead=none]
+

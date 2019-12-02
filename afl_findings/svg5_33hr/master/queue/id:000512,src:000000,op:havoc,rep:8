@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B ph test1 {
+
+ hhhhhhhh A [shape=circle]
+
+  d -> B [style=d6 [color="black:nvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

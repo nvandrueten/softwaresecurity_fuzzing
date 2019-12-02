@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  Be=""""+""""color="black:invis:rlack" -> B [style=dashed, [color="black:invis:rlack"]
+  A [`enwidth=5, arrowhead=none]
+
+}

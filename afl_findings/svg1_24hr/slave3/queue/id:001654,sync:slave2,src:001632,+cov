@@ -1,0 +1,9 @@
+digraph testccccccc1 {
+
+  A """"""""""""""""""[shape=diamond]
+  B [shape=boY]
+  C -> B [shapeyle=das color=grey]
+  A -> C [color="black:invis:black"]
+  V -> D [penwidth=5, arrowhead=none]
+
+}

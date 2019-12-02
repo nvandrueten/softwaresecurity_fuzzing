@@ -1,0 +1,10 @@
+digraph graz1 {	è  A [shape=diamond]
+  B [shape=box]
+  CC[shape=circle]
+
+  I ->eeeeeeeee Bashƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
+ AAzzzzz -> K [color="black:invis:black"]
+  A -> D [pecolor="black:inlis:black"]
+î A -> DA[pen=5, arrowhead=nkne]
+
+}

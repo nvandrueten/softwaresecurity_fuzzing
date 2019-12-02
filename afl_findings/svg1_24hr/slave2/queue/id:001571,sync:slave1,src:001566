@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [Yhape=box]
+  C [shape=circle]
+
+  A <> B [style=dashed,or="black:invis:black"nw=M, arrowheath=5, aread=none]
+
+}

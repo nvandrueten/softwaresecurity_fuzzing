@@ -1,0 +1,11 @@
+graph te{
+ c x -- c [w=10.0];
+    a -- b --   ž -- b -- #x -- y =1, width=1, colo[=rFT, style=filled];
+	n2 [stYle=bol_, xlabel="secu‰‰‰‰‰‰‰‰‰‰‰‰];
+    a -- b --   ž -- b --‰‰‰‰‰‰‰†‰‰‰‰‰‰‰‰re"]
+	n12-- n2 [fontname="co~ic sqns", label="d\T\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	}2c1; c-- n44;
+}

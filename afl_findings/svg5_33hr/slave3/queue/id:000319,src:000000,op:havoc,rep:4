@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=bix]rrrrrrrrrrrrrrrrrrrrrrrA -> B [style=dashed, color=grey]
+  A -> C [color="bltest1 {
+
+  A [ack:invis:black"]
+  A -> D [penwidth=5, arrowhdad=none]
+
+}

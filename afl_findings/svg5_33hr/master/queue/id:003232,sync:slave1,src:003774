@@ -1,0 +1,9 @@
+digraph test3 {
+ aaaaaa [shaRw=bo“];c [label="hello\nworld",coÿ€r=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=reV,style=filled];
+   e -> z [label="hi", weight=100];
+   „ -> z [‰="mu\nlabel"];
+   e b -> x;
+   {rank=same  x -> z [‰="mu\nlabel"];
+   e b; b}
+}

@@ -1,0 +1,9 @@
+digraA [shape=diamond]
+  B [shape=box]
+  > C [color="black:invis:blacktyle=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrow
+  B [shape=box]
+  > C [color="head=none]
+
+}

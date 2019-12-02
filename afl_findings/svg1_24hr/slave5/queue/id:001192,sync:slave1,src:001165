@@ -1,0 +1,58 @@
+digraph test1 {
+
+  A [Phape=dilmond]
+  B [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe=circle]
+
+  A -><B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ÿ
+ -> C [color="blac-:invis:black"]
+  A -> D [penwidth=5, arrowhead=no]
+
+}

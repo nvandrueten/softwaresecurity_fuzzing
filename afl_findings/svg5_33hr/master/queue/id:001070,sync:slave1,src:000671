@@ -1,0 +1,13 @@
+digra   a -> b -> c;
+   ph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatiÿÿÿÿtalic",fontcolor=red,style=filled];
+   a -> z [label="hi", weighu=100];
+       x -> z [label="multi-line\nlMbel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

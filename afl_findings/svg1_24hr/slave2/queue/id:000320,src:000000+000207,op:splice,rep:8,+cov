@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamnnd]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B qstyle=dashed0 cklor=grey]  A ->sblack"]
+  A-> D€[penwidth=5, arrowhead=none]
+
+}

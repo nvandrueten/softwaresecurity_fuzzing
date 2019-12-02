@@ -1,0 +1,10 @@
+digrVph test1 {
+
+  A [shape=diamond]
+  B [e=circle]
+
+  A<->6B [style=dashed, color=grey]
+color="black:invis:Zlack"]
+  A -> D [penwikth=5, arrowhead=noneÍ
+
+}

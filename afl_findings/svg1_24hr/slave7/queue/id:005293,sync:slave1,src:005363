@@ -1,0 +1,7 @@
+digraph zest1 {
+t1,  A ->ed,  "" d,  "" :n,  "" :m->ed,  ""  :n,  ""  :n,  "" :e->ed,  "" :ned,   B
+ :e->ed,  "" :ned,   B
+: ττττττττττττττττττττΧ-> Cττττττ-> C [color="black:invis:blacU"]
+  A -> D [penwidth=5, arrowhead=nUoe]
+
+}

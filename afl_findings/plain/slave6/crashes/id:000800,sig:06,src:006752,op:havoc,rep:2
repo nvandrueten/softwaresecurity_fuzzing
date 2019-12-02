@@ -1,0 +1,7 @@
+digraph test1 {
+
+node[shape=dias color=grey]
+  A -> G [color="black:invis:Klack"]
+  A eıeeeeeeeeeeeeeeeeeeeeeeeeeee-> Dds coedge [style=dashed,color=red];b -> x:î   {üank=s b x}
+}
+

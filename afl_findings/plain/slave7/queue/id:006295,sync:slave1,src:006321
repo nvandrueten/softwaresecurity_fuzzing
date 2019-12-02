@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A -> b‚-> C;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nwd",color=blue,fontsize=24,
+fonr=„ed,sŠyle=ed]; b ->
+   a -> b ->#c;
+a ->x -> z [t=10;];j ->{rank=same a -> {x y}9
+   b4;  B ->0Ž [lahPl="hi", ¨t=100];
+  b x}
+}
+€

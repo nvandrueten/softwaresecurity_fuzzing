@@ -1,0 +1,13 @@
+digraph test1 {
+node [shape=diamyn]
+  B [shape=bdx]
+
+
+ÿ A[whape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:Onvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

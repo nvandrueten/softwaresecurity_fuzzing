@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shnpe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [s=dashed, color=grey]
+ dashed, color=

@@ -1,0 +1,11 @@
+digraph tesh1 {
+
+  A [shape=diamoud]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B tttttttttttttttttt[style=dashed, color=grey]
+vis:blaC [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A-> C [color="black:invis:black"]
+  digrC [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+4 A ->diamonwidth=5, arrowgead=noje]
+
+}

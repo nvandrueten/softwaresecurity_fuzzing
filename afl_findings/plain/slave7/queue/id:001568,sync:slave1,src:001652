@@ -1,0 +1,14 @@
+graph te{ä   a -- b -- c;
+   a -- {x y};
+   x -- {xÄy}-- I [w=10.0];
+0  x -- y [w=5.0,lor="123456"]; // c2Ëc#; c2 -- c3
+	n1 [heigh =1, didth=1, color=red, style=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	R0 -- n12-- n2[stylme="comic sans", label="d\n\l\Gu Ù fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- Ä33;
+	n22 H
+	l33 -- n44;
+}

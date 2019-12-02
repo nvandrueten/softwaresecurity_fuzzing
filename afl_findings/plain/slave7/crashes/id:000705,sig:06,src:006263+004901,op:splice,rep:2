@@ -1,0 +1,15 @@
+graph te{
+ c;
+   a  x -- f [w=10.0]; a -- b -- c;
+   a  x -- c  a -- b -- c;
+   	n1 [height=1, width=1, cocor=red, style=filled];
+	n2 [style=bold, xlabel="sNcure"];
+	n0 -- n1 -- n2[];
+	n0 -- n1 -- n2[style=iashed];
+	n1 -- n2 [fontname="c sans", label="dìn\N\G", fontcolor=blue, fontsize=9];
+	n11 -- n2ÿ;
+	n11 -- n33;
+	n11 -- n44;
+	n22 nnnnnnnnnnn22:
+	n:1 -- n3™;
+}}}}}}}}}}}}}}7

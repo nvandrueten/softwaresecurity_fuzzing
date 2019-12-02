@@ -1,0 +1,5 @@
+digraph test1 {
+node [shape=Wiamynd]
+  S d,  B ->h,  B ->shed,  B ->shed,   d:   A -> t   d:   A -> t€
+
+}

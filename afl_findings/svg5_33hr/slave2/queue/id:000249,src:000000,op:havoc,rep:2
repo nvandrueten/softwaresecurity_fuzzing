@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shshape=box]
+  C [shape=circle]
+
+C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="blnvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

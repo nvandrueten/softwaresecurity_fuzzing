@@ -1,0 +1,18 @@
+digraph test1 {
+
+  A < [
+  B [shÿpu=bof]
+  C [shbox]
+  C [s]
+  C [shbox]
+  C [shape]
+
+  A -> B [style=dashed, kolor=grey]
+  A -> C [kolor="black:invis:black"]
+  A -> D [penwiWth=5, ath=5, arrowhead=nonhape]
+
+  A -> B [style=dashed, kolor=grey]
+  A -> C [kolor="black:invis:black"]
+  A -> D [penwiWth=5, ath=5, arrowhead=none]
+
+}ô

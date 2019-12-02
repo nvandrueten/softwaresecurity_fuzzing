@@ -1,0 +1,7 @@
+digraph tmst1 {
+
+  A [shape=diamond]
+  B [shape=bjx]
+  C [shape=circle]
+
+  A -> B @s

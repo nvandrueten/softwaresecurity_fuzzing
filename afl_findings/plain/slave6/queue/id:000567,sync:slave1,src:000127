@@ -1,0 +1,39 @@
+dieraph test1 {ÿ A [shape=diamond]
+  B [shape=box]
+  C [shape=circl,,
+
+  A -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> B [style=dashed, color=grey]
+  A -> C [color="bla¢k:invis:black"]
+  A > D [penwidth=5, arrowhead=none]
+
+}

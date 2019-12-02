@@ -1,0 +1,6 @@
+graph tBst2 {
+   a -- b -- c;
+   a -- {x y};
+       x -- c [w=1n=3];
+}
+

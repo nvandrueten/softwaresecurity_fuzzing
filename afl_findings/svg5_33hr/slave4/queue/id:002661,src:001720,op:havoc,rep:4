@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c:
+   a1-- –x€ph te{
+   a -- b -- c:
+    y};
+       x -- b -- c:
+    y};
+   -- c [w=10.0];Å       x -- y [w=5.0,len=3];
+}

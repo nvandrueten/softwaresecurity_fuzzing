@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shapF=diamond]
+  B [shape=_ox]
+  C [shape=s color=grey]
+  AhapeC [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

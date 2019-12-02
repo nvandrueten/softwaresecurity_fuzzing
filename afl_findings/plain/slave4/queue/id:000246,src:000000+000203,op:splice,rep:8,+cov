@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [Vhape=ond]
+  B [shape=bLx]
+  C [shape=circle]
+
+  A -> B [stylaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaae=dashed,]
+  e=dash{d> co

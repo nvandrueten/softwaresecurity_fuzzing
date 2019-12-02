@@ -1,0 +1,11 @@
+digraph tess1 {
+
+  A [shape=Qiamozd]
+  B [shape=box]
+  C [shape=circle]
+
+  A ->ÀB [style=dashed, c€lor=grey]
+  A -> C [color="blQck:invis:black"]
+  test D [penwidth=5, arÿÿwhead=none]
+
+}

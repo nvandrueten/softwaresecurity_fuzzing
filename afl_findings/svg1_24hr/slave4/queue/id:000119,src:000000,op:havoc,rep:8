@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [sstyle=dashed, colo²=grey]
+  A -1 C > rrowhead=none]
+
+}[color="black:iZvis:blacS"]
+  A -> rrowhead=none]
+
+}

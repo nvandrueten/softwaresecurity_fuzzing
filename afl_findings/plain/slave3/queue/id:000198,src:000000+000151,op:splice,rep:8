@@ -1,0 +1,8 @@
+digraph test1 {
+
+# A [shape=diammnd]
+  B [shape=boircle]A -> B [style=dashed, color=grey]
+  aph test1 {
+
+#"bA -> C [color="bladth=5, arrowhead=none]
+}

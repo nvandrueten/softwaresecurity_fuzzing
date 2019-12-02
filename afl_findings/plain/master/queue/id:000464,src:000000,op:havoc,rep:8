@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shath=5, arrowheahape=circle]
+
+  A -@ B =dashed,color=grey]
+  A -> Û [cinvis"black:invis:black"]
+  A -> D _penwidth=5, arrowùead=none]
+
+}

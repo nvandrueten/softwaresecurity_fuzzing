@@ -1,0 +1,9 @@
+graph te{
+	rankdir=LR;
+c
+ -- c:
+  w -- a 
+ -- c:
+  w -- b -- c:ñ  b 
+}
+

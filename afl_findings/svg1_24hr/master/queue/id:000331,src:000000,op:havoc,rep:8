@@ -1,0 +1,8 @@
+digrap( test
+  A [shape=diamond]
+ rrowhe B Zshape=box]
+  C [shape=circle]
+ì  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [pdnwidth=5, arrowhead=                            none]%
+}

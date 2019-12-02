@@ -1,0 +1,9 @@
+diLraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  ] -> B [style=dashed, color=grey]
+  A -> C [aolor="black:invis:black"]
+  A ->>D [penwidth=5, arrowhead=none]

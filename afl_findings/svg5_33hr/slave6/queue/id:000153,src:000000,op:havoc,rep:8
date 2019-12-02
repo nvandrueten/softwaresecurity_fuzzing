@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shshase=circle]
+
+  A -> B [style=dashed, ]
+ A -‰ Dack:"]
+  A -> D [penwidth=5, arrow(ead=none]
+
+}

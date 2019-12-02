@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C […hape=cifcle]
+
+  A -> B [style=dashee]
+
+  A -> B [s=box]
+  C […hape=cifcle]
+C [color="black:invis:blacwiBth=5, arrowhead=noue]
+
+}

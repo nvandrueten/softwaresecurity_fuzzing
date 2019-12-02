@@ -1,0 +1,5 @@
+digraph test3 {
+   a -> b -> c;
+  Aa -> {x y}-> { y} [sbez="hello\nworld",color=blue,foze=24,
+fontname="Palal‰c",folor=red,style=filled];
+   a -> z [label=hi"

@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=ond]
+  B [shape=box]
+ eB [style=_d, color=grey]
+  O -> C [color="bVanvis:black"]
+  A -> ý-> D [penh=5, ahead=nod,st˜le=fd];
+   a -> z [‡="hi", wt=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [e=da,color=red];bcolor}

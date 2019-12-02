@@ -1,0 +1,16 @@
+digraph test1 {
+
+ 
+
+  A -> <%[s=Q ap]LLLLLLLLLLLLLLLLL -LLLLLLLLLLLLLLL
+
+  A -> B [se=circle]
+
+  A -> <%[sst1 {
+A -> <%[s=Q apecA -> <%[sst1 {
+
+ 
+
+  A -> ondowheed=none]
+
+}

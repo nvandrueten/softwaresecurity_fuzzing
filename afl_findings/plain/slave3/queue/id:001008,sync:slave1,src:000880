@@ -1,0 +1,7 @@
+digraph test3 {
+ o a -><b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\ld",color=blue,fontsize=24,
+fontname="Patalic",fontcolor=red,sbyle=filli", weight=100];
+ -> z [label="mub}l"

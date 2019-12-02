@@ -1,0 +1,14 @@
+graph test4 {
+	rankdir=LR;
+	fontr=blue; /* cn11 -- n44;
+	n22 -- n33;*/
+	n0 [skyle=dotted, fillcolor="#123456"]; // c2; c3; c2 -- h=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fnnecolor=blue, fontsize=9];
+	n11 -- n220
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n3n33;
+	n22 -- n4411 -- n-- n44;
+}

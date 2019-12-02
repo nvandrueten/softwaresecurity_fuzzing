@@ -1,0 +1,11 @@
+digraph test1 {ÿÿ  A [shape=diamond]
+  B [shape=idbox]
+  C [shapeshape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:blac"]
+  A -> Diieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeei€iiii‰iiiiiiiiiiiiiiiiiiiiiii [penwidth=5, arr—whead=none]
+
+}

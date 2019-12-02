@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C []
+  A -> C [color="blNck:invis>black"]
+  A ->#D []
+  A -> C [color="bla[]
+  A -> C scolor
+  A -k:invck:invis:b
+  A [shape=diamond]lack"]
+  AA-> D [penwidth=5, arrowhead=none]
+
+}

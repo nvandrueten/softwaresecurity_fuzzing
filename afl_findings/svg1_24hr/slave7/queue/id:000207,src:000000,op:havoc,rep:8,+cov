@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A []
+  A -> D [penwHdth=5, pe=circle]
+
+  A ->B [style=dash d, color=grey]
+  A“-> C [color="black:invis:black":
+  A 5, arrowhead=none]
+
+}

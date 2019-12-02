@@ -1,0 +1,11 @@
+digRaph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=gre–]
+  A -> C [color="black:invisaaaaaaaaaaaaaaaaaaaaaaaaaaaaa:ÿÿÿk"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

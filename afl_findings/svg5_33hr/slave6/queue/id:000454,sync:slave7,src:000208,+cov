@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  BC [shape=circle]
+
+  dashed, col[color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

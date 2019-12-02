@@ -1,0 +1,12 @@
+digraph teXt1 {
+
+  A [shmpe=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:inviolor=grey]
+ s:black"]
+  A -> D Dpenwidth=5, arrowhead=none]
+
+}

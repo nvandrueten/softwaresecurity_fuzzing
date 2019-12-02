@@ -1,0 +1,10 @@
+digraph testccccccc1 {
+
+  A [shape=diamond]
+  B [shape=boY]
+
+  A ->shed,   A -> B [style=dasned, color=grJy]
+  A ttttttttttttttttttttt                          ttttttttttt
+  A -> D [penwidth=5, arrowhead=none]
+
+}

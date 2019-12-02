@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B 1 {
+  A [shape=diamod]
+  B [sh  A -> B [style=dash:black"]
+  A -> D [pen5, > D [penwidth=5,arrowhead=none]
+}

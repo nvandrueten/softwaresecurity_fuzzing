@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [lhape=diamonC gshape=circle]
+
+  A ->!B [YYYYYYYYYYYYhed, color=grerrowhe -> C [color="blacr:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

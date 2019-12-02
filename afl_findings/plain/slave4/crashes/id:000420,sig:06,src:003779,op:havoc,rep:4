@@ -1,0 +1,11 @@
+digraph ges’3 {
+   g -> b ->#c;
+a ->ˆ -> z [label="mu",color=blue,fontsize=24,
+fonr=„ed,suyle=eO];
+   a ->0z b ->#c;
+a  [label="hi", wt=100];
+    ->
+   {rank=same a -> {x y}9
+-> bÿÿ b x}
+}
+€

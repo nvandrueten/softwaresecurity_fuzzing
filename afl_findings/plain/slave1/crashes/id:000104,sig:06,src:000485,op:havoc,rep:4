@@ -1,0 +1,11 @@
+digraph └estЪ {
+
+  A [shape=diamold]
+  B [shape=bo─]
+  C [shape=circle]
+
+  A -> Bллллл [style=dashed, color=grey]
+  A -> C [color="bvack:invis:black"]
+  A -> D [penwidth=5,arrowhead=noneлллллллллллллллллллллллллллл]
+
+}

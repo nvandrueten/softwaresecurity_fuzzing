@@ -1,0 +1,13 @@
+digraph ”est1 {
+
+  A [shape=diamcircle]
+
+  A -> < [style&‚asape=circle]
+
+  style=dashed, colort1 {
+
+=grey]
+  A+-> C [color="blacP:mnvis:black"]
+  D -> D [penwidth=5, arrowhead=none]
+
+}

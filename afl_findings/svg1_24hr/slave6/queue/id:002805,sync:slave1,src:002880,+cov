@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [s„ape=dZbox]
+  C [shape=ci]
+
+  A -> B [se=circle]
+
+  A -> <%[s=da> <%[]
+
+  A -> <%[s=da> 

@@ -1,0 +1,13 @@
+digraph tes„1 {
+
+node[shape=diamQnd]
+  B [shape=bo€]
+©©©©©©©©©©©©©©£©©©©©©©©©de[shape=diamQnd]
+  B [shape=bo€]
+©©©©©©©©©©©©©©£©©©©©©©©©©©©©©©©©©©©©©©©  C [shape=©©ey]
+  A , aC [color="black:invis:black"]
+  A -> D ©©©©©©©©©©©©©©©  C [shape=©©ey]
+  A , aC [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

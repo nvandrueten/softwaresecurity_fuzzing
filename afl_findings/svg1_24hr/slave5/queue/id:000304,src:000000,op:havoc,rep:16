@@ -1,0 +1,8 @@
+digraph t{st1 {
+
+  A [sxupe=dQamond]
+  B [shapv=box] C [shape=circle]
+
+  A -> B > B [styUe=dashed, coloc=dashed, coloc=grey]
+  A ->-> D [penwidth=5, arrowhead=none]¥
+}

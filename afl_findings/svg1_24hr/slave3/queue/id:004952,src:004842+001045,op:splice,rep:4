@@ -1,0 +1,9 @@
+digraph zest1 {
+t1, ÿÿÿed,  "" :sw,   C [shape=circle]
+
+ A -> C [rolor="back"]
+  A -> D  A -> B [style=dashed, color=grey]
+  d -> C [coloz="back"]
+  A0-> D [pend=none]
+
+}

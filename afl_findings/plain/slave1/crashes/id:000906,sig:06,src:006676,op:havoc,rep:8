@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=dhamond]
+  B [shaqe=box]
+  C [shape=circle]
+
+  A -> a [style=dashXd, colow=g³³³³³³³]
+  A ->שששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששששש C [style=" lack:inYis:bXXXXXXXXÿXXXXXXXXXXXXXXXÿXXXXXXXXXbXXXXXÿ€XXXXXXX(XXXXXXXXXXqXXXXXXXXXXXO€XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXXXXXXXXUXXX8XinYis:bXXXXXXXXXXXXXXXXXXXXXXXXÿXXXXXXXXXbXXXXXXsXXXXXXX(XrXXXXXXXXXXXXXXXXXXXXXXXqXXXXXXXXXXXXXXXXXXXXXHXXXXXXXXXXXXXXXaXXlack"]
+   [penwidth=5, arrowhead=non ]
+
+}

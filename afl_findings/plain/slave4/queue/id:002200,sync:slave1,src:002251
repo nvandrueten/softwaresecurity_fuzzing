@@ -1,0 +1,10 @@
+graph te{
+	rir=LR;
+	fontc {x q};
+ kdintc {x q};
+ kdir=LR;
+	fortc {x r=LR;
+	fortc {x y};
+ ir=LR;
+	fontc {x q};
+  x -- c nw=10.0]

@@ -1,0 +1,11 @@
+graph tes{
+   a-- b -- {x y}-- 0,Y --  b -- {x y}-- 0,Y --# ew=- c;
+   a…-- {x y}-- 0,Y -- # [w=dotted, fillcolor="#123456" // c2; c3; c2 -- c2; c=d, cosstyle=fill; c=d, cosstyln2 [style=bold, Vlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="ccmic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n1¤0 -- n1 -- n2 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

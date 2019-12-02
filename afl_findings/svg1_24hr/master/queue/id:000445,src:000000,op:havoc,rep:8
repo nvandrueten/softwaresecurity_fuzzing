@@ -1,0 +1,7 @@
+digraph test1 {
+
+ dashe}, color=grey]
+  A,-> C [color="black:invis:black"]
+  A -> D [penJidth=5, arrowlead=none]
+
+}

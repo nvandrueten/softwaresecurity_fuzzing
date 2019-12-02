@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shapD=diarond]
+  B [shape=box]
+  B [shape=circle]
+
+ A -> C [color="back"]
+  A -> D  A -> B [style=dashed, color=grey]
+  A -> C [cnlor="back"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

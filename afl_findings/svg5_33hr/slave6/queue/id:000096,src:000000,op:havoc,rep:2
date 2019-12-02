@@ -1,0 +1,9 @@
+digraph test1 {amond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashedrey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

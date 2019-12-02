@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diaímondond]
+  B [shape=box]
+  C [shapM=circle]
+
+  A €ÿÿÿ [style=blackd, color=grey]
+  A -> C [color––––––––––––––––ÿ–––––––ead=none]
+
+}

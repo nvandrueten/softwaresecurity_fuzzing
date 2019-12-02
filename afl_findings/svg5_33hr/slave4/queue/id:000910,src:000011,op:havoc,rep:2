@@ -1,0 +1,10 @@
+digraph tesnnnnnnnnnnnnnnnnnnnnnnnnnnnt1 {
+  A [yle=dashed, color=grey]
+  A ->   C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhe=grey]
+  A ->   C [ad=none]
+
+}

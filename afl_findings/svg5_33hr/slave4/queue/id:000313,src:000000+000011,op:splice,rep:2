@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [yle=dashed, colar=grey]
+  A ->   #ape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

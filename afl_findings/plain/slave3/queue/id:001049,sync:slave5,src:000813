@@ -1,0 +1,9 @@
+digraph tesy1 {
+k  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=das cf="#123456"]; // c3; c€ -- c3
+	n1 [heighY=1, width=1, color=red,th=5, arrowhead=none]
+
+}

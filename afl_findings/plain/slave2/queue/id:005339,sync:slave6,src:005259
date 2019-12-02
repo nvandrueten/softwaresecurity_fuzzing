@@ -1,0 +1,6 @@
+digraph test3 {
+ # a -> bontcolor=red,styl7777777777777777777777777777777777777777777777777777777777777777(
+   edge [style=dashed,color=red];b -> x;
+   {rank=same; b x}
+}
+

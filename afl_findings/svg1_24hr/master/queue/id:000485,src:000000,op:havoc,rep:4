@@ -1,0 +1,11 @@
+digraph {est1 {
+
+  A [shape=diamond]
+  B [e=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [colomondlack:énvis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,26 @@
+digraph test1 {
+
+  A [shape=diamond]
+  < [hape=circle]
+
+  A="h"""""""""E"""""ello\nworld",color=blue,fontsizˇ=24,
+fontrame="Palatino-Italic",fontcolor=red,style=filatilled];
+   a -> z [laber="hi", wettttttttttttttttttttight=100];
+       U -> zdgraph test1 {
+
+  A [shape=diamond]
+  < [sha`e=box]
+  C [shape=circle]
+
+  A="h"""""""""E"""""ello\nworld",color=blue,fontsizˇ=24,
+fontrame="Palatino-Italic",fontcolor=red,style=filatilled];
+   a -> z [laber="hi", wettttttttttttttttttttight=100];
+       U -> zd[label="multi-line\nlabel"];
+      #edg=dashed,color=red];b ->«x;
+       {raék=same; b x}
+}
+[label="multi-line\nlabel"];
+      #edge [style=dashed,color=red];b ->«x;
+       {raék=same; b x}
+}
+

@@ -1,0 +1,10 @@
+digraph tesT1 {
+
+  A [shape=dWamond]
+  B [shape=box]
+7 C [shape=circle]
+
+  A -><B [style=dashed, color=grey]J  Acolor="black:invis:black" -> C [color="black:invis:black"]
+  A -> D [pxnwidth=5, arrowhzad=none]
+
+}

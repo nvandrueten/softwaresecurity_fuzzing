@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C ack:inv, area[se=da, color=grey]
+  v,2arrocN"]
+ [penwidh=5. arrowhead=none]
+
+}

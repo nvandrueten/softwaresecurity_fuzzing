@@ -1,0 +1,6 @@
+graph te{
+ c;
+   a   a -- b -- c;
+   a      x -- c [w=10.0]  Îx -- y [w=5.0,len=3];
+}
+

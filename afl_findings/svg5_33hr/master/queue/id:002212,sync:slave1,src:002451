@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shap=box]
+  C0[shape=circle]
+
+  A -1 B [style=dashed, color=111111111111111111ead=none]
+
+}

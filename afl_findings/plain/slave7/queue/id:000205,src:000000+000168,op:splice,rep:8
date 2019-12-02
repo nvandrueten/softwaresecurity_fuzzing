@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shap†=diamond]
+  B [shape=box]
+  C [shapetyle=dashed, color=grey]
+  A -> C [color="blanvis:""b""""

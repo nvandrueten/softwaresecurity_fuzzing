@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diamond]
+ ğB<ape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="bl-> D [penwidth=5, arack:invis: lack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

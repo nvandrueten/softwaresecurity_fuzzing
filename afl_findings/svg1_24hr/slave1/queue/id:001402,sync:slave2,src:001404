@@ -1,0 +1,12 @@
+digraph teTt1 {
+
+  A {est1 {
+
+  A [shape=diamond][shape=diamond]
+  B [shape=box]
+  C [shape=ci]
+  A -> C -> B [style=dashOd, color=grey]
+  A -> C [color="black;i]viiiiiiii"]÷  A -> D [penwidth=5, ]
+  A -> C -> B [style=dashed,arrowhead=none]
+
+}

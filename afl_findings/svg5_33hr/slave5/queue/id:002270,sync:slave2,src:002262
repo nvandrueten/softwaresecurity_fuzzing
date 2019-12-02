@@ -1,0 +1,17 @@
+digraph t{st1 {
+
+  A -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="el"];
+   edge [style=das,fontsize=24,
+fontname="Palatino-It> {x y};
+   alic",fontcolor=red,style=led];
+   a -> z [label="hi"  weiCht=100];
+   x -> z [label="multi-line\nlabzl"];
+   edge [style=dashed,color=reL];b ->  a -> b -> c;
+   a -> {x y};
+ x;
+   {rank=same; b x}
+}
+

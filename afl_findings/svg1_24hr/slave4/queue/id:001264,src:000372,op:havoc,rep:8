@@ -1,0 +1,6 @@
+digraph test1 {C -> B [shape=circle]A -> B [ste=boY]
+  C -> B [shape=circle]A -> B [style=daˆhed, color=grey]
+  A -> C [colİr="blÿck:invis:black"]
+  $ -L D [penwidth=5, arro~B [d=none]
+
+}

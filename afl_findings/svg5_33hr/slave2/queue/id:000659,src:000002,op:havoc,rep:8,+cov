@@ -1,0 +1,9 @@
+digraph test3 {
+   a -> t -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nwt3 {
+   a -> t -> c;
+ orld",color=blue,fontsize=24,
+fontname="Palatino-Italic"nk=same;or=red,style=filJed];
+   a -> z [label="hi"=

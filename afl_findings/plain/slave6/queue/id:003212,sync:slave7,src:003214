@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c:
+   a -- {x yy;
+   xx€y}-- c [w=10.0];
+0  x -- y [w=5.0,lor="#16"]; // c2; - c3
+	n1 [h€‚ght=1, didth=1, color=red, mtyle=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+	n1 -- nc swns", label="d\n

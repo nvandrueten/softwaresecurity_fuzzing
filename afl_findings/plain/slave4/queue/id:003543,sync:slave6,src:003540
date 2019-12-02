@@ -1,0 +1,18 @@
+graph te{
+   a -- b -- c:
+   a -- {x yy;xx -- {x€y} c [w=10.0];
+0  x -- y [w=5.0,lo€="#1:34 6"]; // c2c3
+	n1 [h€didth=1, color=red, mtyle=ed];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+€y}-- c [w=10.0];
+0  x -- tn11 -- n44;
+	n2n44;
+	n3[fontname="c\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n1S -- n44;
+	n21 -- €33;
+}}}}}}}}}}}}}}}}}}}}}}}}}}}	n22 -- n44;
+	n33 -- ÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝÝn44;
+}

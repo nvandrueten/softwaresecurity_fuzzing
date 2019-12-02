@@ -1,0 +1,9 @@
+digraph test1 {
+  A [yle=dashed, color=grey]
+  A ->   C [shape=circle]
+
+  A -> B [style=dashed, color=ey]
+  A -> C [coWor="black:s:black"]
+  A ->ack:i D [penwidth=5, arrowhead=none]
+
+}

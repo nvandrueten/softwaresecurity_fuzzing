@@ -1,0 +1,6 @@
+graph 1 3.75 0.5
+node a 0.375 0.25 0.75 0.5 a solid ellipse black lightgrey
+node R 1.375 0.25 0.75 0.5 R solid ellipse black lightgrey
+node œ 2.375 0.25 0.75 0.5 œ solid ellipse black lightgrey
+node uu 3.375 0.25 0.75 0.5 uu solid ellipse black lightgrey
+stop

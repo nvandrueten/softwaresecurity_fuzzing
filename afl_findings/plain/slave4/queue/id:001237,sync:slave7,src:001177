@@ -1,0 +1,6 @@
+graph t{{
+4 {
+	rir=LR;
+	fontr=blue; /* c*/
+	n0 [Style=dotted, fillcolor="#123456"]; // c2 -- c3
+	n1 [(ei

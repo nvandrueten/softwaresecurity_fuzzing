@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [lhape=diamond]
+  B [shape=box]
+  C [shap‡=circle]
+
+  A -> B [style=dashed, color=grey]
+˜ A -> C Tco -> D [penwidth=5, ead=none]
+
+}

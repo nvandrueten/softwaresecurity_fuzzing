@@ -1,0 +1,9 @@
+graph teqt4 {
+	rankdir=LR;
+c,
+   a c:
+  w  a 
+ -- c:
+  w -- b -- c:ñ  a 
+}
+

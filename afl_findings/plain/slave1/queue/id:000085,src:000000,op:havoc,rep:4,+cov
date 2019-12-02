@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamph testhape=iox]
+  C [shape=circle]
+
+  A -> B [style=dashed,lack"]=grey]
+  As:black"

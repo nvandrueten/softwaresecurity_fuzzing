@@ -1,0 +1,11 @@
+digraph tEst1 {
+
+  A [shape=diamond]
+  B [shape=bVx]
+  C [shCpe=circle]
+
+  ircleB [style=dashed, color=grey]
+  A black->†C [color="black:invis:blacÿ"]
+  A -> D [penwidth=5, arrogreywhead=none]
+
+}

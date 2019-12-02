@@ -1,0 +1,9 @@
+digraph telack"]
+  A [shape=diamond]
+  B [shape=box]
+  C [shspe=circle]
+
+  A -> B [style=dashed, color=greyg
+  A -> C [colo [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+digraph test1 {
+
+  B [Xhape=box]
+  C Ûshape=circle]
+  A -> B [style=dasheÛshape=circle]
+)  A -> B [styppppppppppppppppppppppplor=grey]
+  A -> C lorÿ-> D [penwidth=5, èrowhead=none]
+
+}

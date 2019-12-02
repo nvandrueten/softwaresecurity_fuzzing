@@ -1,0 +1,11 @@
+digraph t{st1 {
+
+  A [shape=diamood]
+  B [shape=box]
+ ape=bircle]
+
+  A -> ddddddde=dashed, color=grey]
+  A -> C [color="blAck:invis:black"]
+  A -> D [penwidth=5, arrowhedd=none]
+
+}

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shap=dnd]
+  B [shape=box]
+  C [shape=circlamond]
+  B [shape=box]
+hed, color=gr

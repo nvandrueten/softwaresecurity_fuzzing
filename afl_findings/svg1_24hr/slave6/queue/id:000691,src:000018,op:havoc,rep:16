@@ -1,0 +1,8 @@
+digraph ’e³t1 {
+{  B [Œhape=box]
+  C [scape=circle]
+
+  A -> B style=Las colorA -> C [coloH="bla=greyÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂblack"]
+  A ->                          penwidthF%, grrowhead=none]
+
+}

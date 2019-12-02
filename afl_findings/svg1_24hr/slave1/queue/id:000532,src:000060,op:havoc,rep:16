@@ -1,0 +1,8 @@
+digraph teTt1 {{
+  a [shpe=diamnd]
+hÿÿÿÿ B [shape=box]
+ rrow C [shapeccolor=grey]
+  A ->dZ [color]"black:invis:black"]
+  A ->D [penwidth=5, arrowhead=none]
+
+}

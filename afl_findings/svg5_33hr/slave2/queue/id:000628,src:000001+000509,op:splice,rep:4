@@ -1,0 +1,11 @@
+graph test2 {
+   a -- b -- c;
+   a tYst1 {
+
+  tylshape=diamon de=circle]
+
+  A -> B [style=dashed, ch=5, I
+}olor=grey]
+  A -> C }color;"black:invis:black666 [penwifth=5,!Irrowhead=none]
+
+}

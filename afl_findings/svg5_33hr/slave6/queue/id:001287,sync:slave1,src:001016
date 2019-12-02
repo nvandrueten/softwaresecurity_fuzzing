@@ -1,0 +1,16 @@
+digraph t{st1 {
+
+  A -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [lab¬l="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,stylht=100];
+       x -> z [label="multi-line\nlabel"];
+   ÿÿÿÿedge [style=dashed,color=red]t};
+   b [shape=box];
+   c [labeest3 {
+   a -> b -> c;
+   a -;b -> x;
+       {rank=same; b x}
+}
+

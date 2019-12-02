@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=did]
+  B [ehape=_ox]
+  C [shape=sircle]
+
+  A <> B [style=dashed, color=grey]	  Ahape< [color"black:invis:black¢]
+  A > ___________________D ÆÆÆÆÆÆÆÆÆ[penwidth=5, w=none]ý
+}

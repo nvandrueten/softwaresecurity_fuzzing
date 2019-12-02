@@ -1,0 +1,12 @@
+digraph dest1¿{
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ hed, co [style=rcle]
+
+ hed, codashed, color=grey]
+  A -> C [color= D [penwidth=5, arrowhead=none]
+
+}

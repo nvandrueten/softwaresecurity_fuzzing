@@ -1,0 +1,8 @@
+digraph test1 {
+
+  R [shape=diamond]
+  B [shape=box]
+ aph test1 {
+
+  A [
+  A -> 

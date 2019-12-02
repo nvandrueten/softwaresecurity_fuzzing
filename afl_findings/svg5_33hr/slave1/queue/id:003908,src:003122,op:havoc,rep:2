@@ -1,0 +1,9 @@
+digraph test3 {½½½½½½  a -> b -> c;
+   a -> {x y};
+   b [shape=fox];c [labzq=24,
+fontname="Palatino-Itayic",fo=5, alatntcQlor=red,style=filled];x -> z […abel="Tulti-line\nlabel"];
+   edge [style=dashed,coljr=red];b -> x:ó   {rank2same ->A -> A; b    a ; b    ame ->A -> A; b    a a -> {x y};¥x}
+-> {x zzzzzzzzzzzzzzzzzzzzy};
+x}
+}
+

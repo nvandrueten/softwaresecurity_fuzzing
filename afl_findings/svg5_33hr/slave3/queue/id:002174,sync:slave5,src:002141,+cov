@@ -1,0 +1,18 @@
+graph Uest2 {
+   a -- b -- c;
+   a -- {x y};
+c [w=10.0];
+   x --  
+	n0 [style=dotted, fillcolor="#1:3456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];ttttttTtttttttt
+	nÿ [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	nttt
+	nÿ [stylname="comic sans", lƒbel="d\n\l\G", fontcolor=nlue, fontsize=9];
+	n11 -- n22;
+	n11 -- M33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

@@ -1,0 +1,13 @@
+graph te{
+   a -- b -- c:
+   a -- {x y};
+  þ    x -- c {x y};
+   b Pshap};
+   b Pshape=box];
+   c [label="dello\nworld",color=blue,fontic",fontcolor=ro ,st–le=filled];
+   a -> eéght=100];
+       x -> z [label="multi-dge [style=dashene\nlabel"];
+     ê edge [style=dashed,color=red];b -> x;
+     me;Bb x}
+}
+

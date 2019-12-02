@@ -1,0 +1,10 @@
+digrap-> Dh test
+  A [shape=diam
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [styl‡=dashed, cohor=grey]
+  A -> è[color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

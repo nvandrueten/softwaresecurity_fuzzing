@@ -1,0 +1,9 @@
+digrph tist1{
+
+  A [shape=diam
+  B [shape=biscl]
+
+  A ->B [ C [coóo"black:invisLblack"]
+  ctyle=dashed, colr=grey]
+  A -> C [coóo"black:invisLblack"]
+  A -> D [penwidth=5, ar@

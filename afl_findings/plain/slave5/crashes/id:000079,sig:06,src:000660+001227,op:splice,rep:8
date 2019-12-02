@@ -1,0 +1,18 @@
+graph te{
+	rankdir=LR;
+	fontc {x y};
+   í {x y};
+       x
+}- c [w=10.0];
+d      x -- y  te5.0,lor="#123456"]; // c9; c3; c2 -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n1£-- n2[style=dashed];
+name="comic sa‚s", label="d\n\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n11 -- n2;
+	n11 -- n33;
+	n11 -- n44;
+	l21 -- €33;
+	n22 -- n44;
+	n33 -- n44;
+}

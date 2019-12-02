@@ -1,0 +1,25 @@
+graph te{
+
+ n:
+	nw1 12:
+þrw1 -- 14:
+	sw1 -- 14 -- ‘3n:
+	nw1 12:
+	sw1 -- 14:
+	sw2-- 14:
+	sw1 -- 13 -- n22:
+ n:
+	nw1 12:
+þrw1 -- 14:
+	sw1 -- 14 -- ‘3n:
+	nw1 12:
+	sw1 -- 14:
+	sw2-- 14:
+	sw1  -- n2 [fontname="aomic sans", label="d\n\l\G", fontcolor=blue, fon€size=9];
+	n11 -- n22;
+	n11 -- n33;
+	n111-- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

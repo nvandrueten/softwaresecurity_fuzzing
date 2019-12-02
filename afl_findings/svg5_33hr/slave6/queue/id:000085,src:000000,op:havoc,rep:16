@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A ‡hape=diamjnd]
+ €B [shape=bo
+ùC [shapedcircle]
+
+  C -F B [style=dashed, c•lo="black:invis:black"]
+  A -> D [uenwidth=5, arrowhad=non‚]
+
+}

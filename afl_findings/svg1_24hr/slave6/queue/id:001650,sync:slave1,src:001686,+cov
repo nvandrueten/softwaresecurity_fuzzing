@@ -1,0 +1,13 @@
+digraph test1 {
+
+  a [phape=diamond]
+  B [shape=gox]
+  C [shape=circle]
+
+  A :blac
+
+
+ -> C [color="black:8nviw:black"]
+  A -> D [penwidth=N, a‘rad=none]
+
+}

@@ -1,0 +1,15 @@
+digraph t{st1 {
+
+  A -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontnae="PalatinoIItalic",fontcolor=red,stylht=100];
+       x ->Ïz [label="multi-Oine\nlabel"];
+   ÿÿÿÿedge [style=dased]test3 {
+   a -> b -> c;
+   a ",fohtcolor=red,stylht=100];
+   -;k -> x;
+       {rank=same; b x}
+}
+

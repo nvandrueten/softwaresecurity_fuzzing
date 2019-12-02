@@ -1,0 +1,5 @@
+graph qest2 {
+   a -- b -- c,
+   a --    ß -- y [w=5.0,len=3];
+}
+

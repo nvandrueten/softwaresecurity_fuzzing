@@ -1,0 +1,16 @@
+digraph testccccccc1 {
+
+  A [shape=diamond]
+  B [shape=boY]
+  CO-> B [shape=circle]A -> B [sty€e=dashed7 color=grey]
+ [color="Plack:invis:black"]
+  A -> D
+
+
+
+
+
+
+ -> C [coNwhead=none]
+
+}

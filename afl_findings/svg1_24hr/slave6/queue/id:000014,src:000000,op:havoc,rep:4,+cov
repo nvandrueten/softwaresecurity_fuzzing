@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shapeB [shape=box]
+  C [shape=Mircle]
+
+  A -> B [stph test1 {
+yle=dashed, color=grey]
+  A -> C [color=:black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

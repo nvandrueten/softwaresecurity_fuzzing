@@ -1,0 +1,7 @@
+digraph tet1 {
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]€€€€€€€€€€€€€€€€€€€€€€€€Tcolor}grey]
+  A -> C [color="k:invenwidth=5, arrowh^ad=none]
+
+}

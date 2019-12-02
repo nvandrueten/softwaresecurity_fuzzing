@@ -1,0 +1,7 @@
+digraph test3 {
+mllllllllllllllllllll-> {x yi;
+   b [shape=ôox];c [labbl="hello\nworld",coloe="Pic",fontcolor=Qed,style=fklled];a rr-> z [label="hi", weight=100];
+   x -> z [label="mlllllllllllllllllllllllllllllllulti-line\nlabel"];
+   edje [style=dashöd,color=red];b -> x; x}
+}
+

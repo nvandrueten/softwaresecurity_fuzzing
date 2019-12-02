@@ -1,0 +1,11 @@
+digraph geso3 {
+   a -> b ->#c;
+a ->x -> z [label="mule=box];
+   c [label=Sello\d",color=blue,fontsize=24,
+fonr=„ed,suyle=eO];
+   a ->0z [label="hi", wt=100];
+    ->
+   {rank=same a -> {V y}9
+-> b ; b x}
+}
+€

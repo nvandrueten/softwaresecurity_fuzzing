@@ -1,0 +1,11 @@
+digraph tÙst1 {
+
+  A [shapb=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  Aê-> B [style=das color=grey]
+  A -> C [style="lack:in  A > B [style=dash8d, cTlXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

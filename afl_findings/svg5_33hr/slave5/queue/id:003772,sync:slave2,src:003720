@@ -1,0 +1,7 @@
+graph test2 {
+   a -- {x y}-- 0,l -- c [w=do, fillcolor="#shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [colÿÿÿblack:s:black"][penwidth=5, arrÃwhead=none]
+
+}

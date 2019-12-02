@@ -1,0 +1,8 @@
+graph {est2 {
+   a -- b -- c;
+   a -- {x {};
+       x -- c [w=10.0];
+   graph {est2 {
+   a -- b -- c    x -- y [w9.0,„en=3];
+}
+ë

@@ -1,0 +1,6 @@
+digraph zest1 {
+t1,   "" :s->  ed,  "" :s->  AAAA,  "" :s->  AAAAA,  "" :s->hed,   A -> d, d,
+ B ->she€, hed,    ‚hed,   blƒck:invis:
+hed,   black:invis "" :s-> B ->sheB ->dhe€,   A dD [penwidth=5,penwidth=5, arrowhead=ione]
+
+}

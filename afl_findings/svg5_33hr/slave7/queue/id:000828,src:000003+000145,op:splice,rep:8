@@ -1,0 +1,5 @@
+graph te{
+	rir=LR;
+	f	fontcolor=be; /* c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; Q2 -- c3
+	n1 [he="#123456"]; dth=1, c

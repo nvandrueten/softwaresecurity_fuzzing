@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A
+
+  A -> 1 v
+€ÿ A
+
+  A -> B 9styÿ¿ÿÿaB  [shap†=box]
+  C   A -> B 9styÿ¿ÿÿaB[shape=circle]
+õßß¾ -> B [style=Tashed, colkr=grey]
+  A -> C [color="black:invis:bl  Ak"]
+  Aø-> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,18 @@
+graph te{
+ c;
+   a  x -- c [w=10.0];
+    a -- b -- c;
+   a  x -- c  a -- b -- c;
+   a      c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=yashed];
+	n1 -- n2 [fame="comn\l\G", fontr=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

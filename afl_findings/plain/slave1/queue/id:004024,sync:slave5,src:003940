@@ -1,0 +1,15 @@
+graph —e{{{{{{{h —eP{”
+   ox}}²} -- {x€yl {x y};
+     7 x -- {x€y}-- c [w=10.0];
+0      x -- y [w=5.0,lor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	w2 [styQe=bold, xlabel="ÿcure"];
+	n0 -- n12-- n2[style=dashed];
+	n1 -- n2 [ didth=1, color=red, fontname="comic sans", label="d\n\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- €33;
+	n22 -- n44;
+	n33 44;
+}

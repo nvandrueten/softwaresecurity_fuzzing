@@ -1,0 +1,14 @@
+graph te{
+1 -- n   :
+tc1;{ b{{{{a{{u…uu{}œ}}}}}{{{{{uuuuuuuuuh bk{uuuuuuuu}œ}}}}}{{{{{uuuuuuwuuh bk{uuuuuuuu}œ}}}}}{{{{{uuuuuuu}uuu}}}}{{}}}d}}}}}}}}}}}›}}}
+	nht=1, didth=1, cplor=red, style=filled];
+	nP [styQe=bold, xled];
+	n1 -- n2 [fontname="cimic sans", label=lor=blue,
+Montsize=9];
+Un11 '- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n21 -- €33;
+	22 -- n44;
+n33 -- n44;
+}

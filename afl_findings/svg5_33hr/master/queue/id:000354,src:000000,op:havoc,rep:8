@@ -1,0 +1,9 @@
+digrap  A [shape=diamond]
+ MMMMMMMMMMMMMMMMMMMMMMM B [shape=box]
+  C [shape=cbrcle]
+
+  A -> B [vtyle=dashed, color=grey]
+  A -3 C [colmondor="black:invis:black"]ircle
+  A -> D [penwidth=5,$arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=dmamond][s‹ape=box]
+  C [shapeC =circle]
+
+[label="hello\nwoíld",color=blue,fontsize=24,
+fontname="Palatino-Itplic",fontcolor=red,style=filled];
+ label="hi",

@@ -1,0 +1,6 @@
+graph te{
+ c;
+   „  x -- c [w=10.0];
+    a    MMMMMMMMMMMMM  € cÿÿMMM  € cÿÿa -- b MMMMM    a    MMMMMMMMMMMMMMM  x -- c[w=5.0,len=3];
+}
+

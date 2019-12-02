@@ -1,0 +1,26 @@
+digraph test1 {
+
+  a [phape=diamond]
+  B [shape=gox]
+  C [shape=circle]
+
+  Aack:inviw:blac
+lack:8nviw:blac -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+ack:inviw:blac
+lack:8nviw:black"]
+  A -> D [penwidth=N, arrowhead=none]
+
+}

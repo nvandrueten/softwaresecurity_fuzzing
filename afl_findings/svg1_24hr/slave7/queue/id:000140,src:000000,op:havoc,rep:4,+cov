@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamÿnd]
+  B [shape=box]
+  C [shape=circle]
+
+aph test1 {
+
+  A [shap, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [pÿÿÿdth=5- arrowhead=none]
+
+}

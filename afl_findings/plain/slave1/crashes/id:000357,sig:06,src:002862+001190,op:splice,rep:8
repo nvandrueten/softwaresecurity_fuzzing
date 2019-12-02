@@ -1,0 +1,16 @@
+graph te{
+   a -- b  a -0 b{
+
+ph3te{
+   a -0 b{{{{{ b{{{{{{{uuuuuuuuuu}}{}}}}{{{{{uuuuuuuuuh t{
+   a -0ëb{{X{{{{uuuuuuuuuuu}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}u6d]; /[style=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed!;
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolÿKblue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n#4;
+}

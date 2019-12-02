@@ -1,0 +1,7 @@
+digraph test3 {{   } -> b
+  st3 {{   } -> b
+   a -- {x {x a -- {x {x y~  M -- [w10.0];
+      {x y-- c [w10.0];
+     len=3] y [w=5.0,leP=3];
+}
+

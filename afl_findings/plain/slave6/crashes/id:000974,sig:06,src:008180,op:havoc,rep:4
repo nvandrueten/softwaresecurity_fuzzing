@@ -1,0 +1,17 @@
+digraph test1 {
+
+  A [shape=diamond]
+  <"[shape=box]
+  C [shape=circle]
+
+  A="hello\nworld",color=blue,fontsizˇ=24ape=diamond]
+  <"Kshape=box]
+  C [shape=circle]
+
+  A="hello\nworld",color=blue,fontsizˇ=24,
+fontname=tÄˇˇˇtttttight=100];
+       x -> zd[label="multi-line\nlabel"];
+      #edge [style=dashed,color=red];b ->«x;
+       {raék=same; b x}
+}
+

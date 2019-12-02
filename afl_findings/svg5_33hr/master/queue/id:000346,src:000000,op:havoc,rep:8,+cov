@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shMpe=box]
+  digraph te"black:invis[ˆtyle=dashed, color=grey]
+  A -> O [ÿlOr="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

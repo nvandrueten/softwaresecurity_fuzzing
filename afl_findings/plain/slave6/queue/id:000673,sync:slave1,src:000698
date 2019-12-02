@@ -1,0 +1,11 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B"[shapbo\]
+  C [shape=circle]
+
+  A - {
+
+  tyle=dashed, color9-> C [color="black:invisA -> D [penidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,13 @@
+digraph tesT1 {
+
+  A [shape=dWamond]
+  B [shape=box]
+7 C [shape=circle]
+
+  A -><B [styleph tesT1 {
+
+  A [shape=dWamond]hed, color=gqey]
+  A -> C [color="xlack:invid:black"]
+ 8A ->  A [shahead=none]
+
+}

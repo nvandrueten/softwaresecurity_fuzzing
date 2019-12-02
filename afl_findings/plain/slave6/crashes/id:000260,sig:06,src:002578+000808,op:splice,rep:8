@@ -1,0 +1,12 @@
+digraph {
+   a3-> "% lorld",c
+fo   a -> {x y};
+ÿ  b [shape=box];
+   c [label="hello\nwoqld",color=Plue,fontsize=24,
+fontname="Palatino-Italic",contcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="multi-dgeÿ[style=dashemmmmmmmmmmmmmm{mmmmmmmmmmmmd,col_ine\nlabel"];
+       edge [style=dashed,color=red];b x;
+       {rank=same;Bb x}
+}
+

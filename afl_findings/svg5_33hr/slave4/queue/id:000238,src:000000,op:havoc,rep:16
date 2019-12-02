@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A ,,,,,,,&,,,,,,,,,,,,,,,A,,,,,,,,[shape=dia       $          !         rcle]
+
+  A is:blaMk"]  A -ed, color=grey]
+  A - C [color="black:dnvis:blaMk"]
+  A -> D [penwidty=5, arrowhead=none]
+
+}

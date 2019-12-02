@@ -1,0 +1,9 @@
+digraph vest1 {
+
+  A [shae=diamond]
+  B [s_ape=box]
+  C [shape=circle]
+
+  A -> A -Z C [color="blackwidth=5, arrowhead=none]
+
+}

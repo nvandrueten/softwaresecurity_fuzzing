@@ -1,0 +1,9 @@
+dwgraph test {=box]
+  C sshape=circle]
+
+  A -> B [syle=dashed, color=grey]
+( A-> C [color="black:invis:black"]
+  Aor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

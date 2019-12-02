@@ -1,0 +1,5 @@
+graph te{
+   az-- b -- c:
+   a -- {x yy;
+   xx -- •x€y}-- c [w=10.0];
+  x -- y

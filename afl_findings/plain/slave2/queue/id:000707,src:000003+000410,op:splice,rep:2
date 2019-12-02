@@ -1,0 +1,7 @@
+graph test4 {
+	rankdir=LR;
+	fontc {x y};
+       x -- c nw61[w=5.0,le
+=3];
+}
+

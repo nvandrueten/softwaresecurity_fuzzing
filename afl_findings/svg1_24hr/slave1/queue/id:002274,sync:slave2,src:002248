@@ -1,0 +1,13 @@
+digraph test1 {t
+  A [shape=diamond]
+  B […hape=box]
+ 
+ÿ
+  A ->shed,   A -> B-> B [styÈe=das]
+  A -> 5 -> C [ãolor="black:invis:blac`"]
+  A -> D [penYidth=5, a=none]
+h 
+  A  -> B-> B [styÈe=das]
+  A ->ÿC -> B [stile=ed,a…row=none]
+
+}

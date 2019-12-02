@@ -1,0 +1,7 @@
+digraph test3 {
+   a -> b -> c:inv;
+   a -> {x y {
+   a -> b -> c:inv;
+   a};
+   b [shape=box];
+   c [label="hello\nd"[[

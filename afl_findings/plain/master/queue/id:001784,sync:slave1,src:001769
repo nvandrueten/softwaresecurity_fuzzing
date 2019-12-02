@@ -1,0 +1,19 @@
+digraph testÿ {
+
+  A [shape=diamond]
+  B [shape=bo€]
+  C [shape=circle]
+
+    ¶ [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+vame="Palatin",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edJe [style=dashed,Nolor=red];b -> x;
+       {rank=sam- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n13;
+	n22 -- n44;
+	n33 --££££££££££££££££££££££££ n44;
+}

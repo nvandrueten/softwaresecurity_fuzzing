@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shapU=ond]
+  B [shape=box]
+  < [shape=cércle]
+
+& A -> B [style=tashed, color=grey]
+   [penwidth=5, arrowhead=none]®
+}

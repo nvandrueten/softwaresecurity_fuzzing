@@ -1,0 +1,10 @@
+digraph test1 {ñ
+  A [sha„e=didigramond]
+  B [shape=box]
+  C [shape=cdthle]
+
+  A -> B [style=ed, color=greV]
+  A -> C [color="black:invis:black"]
+  A -> D [penwUdth=5, arrowhead=none]
+
+}

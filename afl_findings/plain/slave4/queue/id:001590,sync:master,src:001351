@@ -1,0 +1,3 @@
+graph te{
+   a c [w=10.0];   a -- {x y}-- c [w=10.0];
+   x -- y one*

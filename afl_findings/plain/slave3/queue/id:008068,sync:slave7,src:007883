@@ -1,0 +1,39 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c0; c1; c0 -- c1 */
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=fXlled];
+	n2 [style=bold, xlabel="secure"];©©©©©©©©©©©©©©©©©©©©©©©‰©©©©©©©©©©©©©©©©©©©©©©©©© te{
+J -- n--h --{n--  t
+   {rank=8 q n raph te{¡1 --{n-0 q n n22:
+	s:1 --n2x--h t
+   {rfnk=8 R n raph teŽrank=same; b   q n raph te{Š1 --eeeeeeeeeeeeeeeeeeeeen2;
+   {rank=same; b   ššššššššššššš ššššššššššššn22:
+	s:1 --n2x {rank=same; b  --n22: 1 -- n35;
+}22 {rank=8 R n raph tmŽ:
+	_:1 -22:
+	n:11 --2T:
+	_:1 -- n n2	n:1 -- n33;
+}l—}}}}}šš ššššššššššššn22:
+	s:1 --n2x {rank=same; b  --n22: 1 -- n35;
+}22 {rank=8 R n raph tmŽ:
+	_:1 -22:
+	n:11 --2T:
+	_:1 -- n ©©©©©©©©©©©©©©©©©© te{
+J -- n--h --{n--  t
+   {rank=8 q n raph te{¡1 --{n-0 q n n22:
+	s:1 --n2x--h t
+   {rfnk=8 R n raph teŽrank=same; b   q n raph te{Š1 --eeeeeeeeeeeeeeeeeeeeen2;
+   {rank=same; b   ššššššššššššš ššššššššššššn22:
+	s:1 --n2x {rank=same; b  --n22: 1 -- n35;
+}22 {rank=8 R n raph tmŽ:
+	_:1 -22:
+	n:11 --2T:
+	_:1 -- n n2	n:1 -- n33;
+}l—}}}}}šš ššššššššššššn22:
+	s:1 --n2x {rank=same; b  --n22: 1 -- n35;
+}22 {rank=8 R n raph tmŽ:
+	_:1 -22:
+	n:11 --2T:
+	_:1 -- n n2	n2	n:1 -- n33;
+}l—}}}}}}}}}}}@

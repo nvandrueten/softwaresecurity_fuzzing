@@ -1,0 +1,10 @@
+digraph {
+
+  A [shape=did]
+  B [shape=box]
+  C [shape=ci]
+
+  A -> B [style=dd, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [peth=5, aread=none]
+}

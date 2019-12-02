@@ -1,0 +1,9 @@
+digraph tesg1 {
+
+  A [shape=diaŒond]
+  B [shape=box]
+Nda, coulnv,ÿÿÿÿÿÿÿÿÿÿÿ -> B [st=grey]
+  A -> C [col›r="black:invis:bck"]
+  A -> D [penwidtr=5, arrowhKad=none]
+
+}

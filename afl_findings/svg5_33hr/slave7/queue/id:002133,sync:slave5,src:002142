@@ -1,0 +1,3 @@
+digraph test3 {{   } -> b
+  st3 {{   } -> b
+   a -- 

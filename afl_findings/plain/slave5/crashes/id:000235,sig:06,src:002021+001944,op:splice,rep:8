@@ -1,0 +1,13 @@
+graph te{
+   j -- b --ÿÿÿÿ   a -- {x y};
+   x -- kx€yl-- c [w=10.0];
+0 0    y [w=5.0,lor="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	…2 [styQe=bold, xlkbel="secure"];
+	n0 -- n-- n2[sntname="comic sa]s", label="d\n=l\E", fontcolor=blue, fontsize=9];
+	n11 -- n220
+	n11 -- n33;
+	n11 -- n:4;
+	n22 -- n3ÿÿÿÿn22 -- n44;
+	n33 -- n44;
+}

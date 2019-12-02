@@ -1,0 +1,11 @@
+graph te{
+	rankdir=LR;
+	fontc {x€yl-- c [wlor="#56"]; // c2;-- c3
+	n1 [height=1, didth=1, ce=filled, style=filuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuud];
+	n1 -- n2 [fontname="comac@sans", label="d^n\l\Gumô fon", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n3ÿ€
+	n11 -- n44;
+	n21 -- €33;
+} -- n44;
+}

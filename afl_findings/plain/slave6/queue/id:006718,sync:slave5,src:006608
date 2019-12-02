@@ -1,0 +1,16 @@
+digraph tEst1 {
+
+  A [shape=diamond]mmmmmmmmmmm
+  B [shape=box]
+  C [shape=circle]
+
+  A node [style=dashed, color=grey] [shape=circle]
+
+  A node [style=daóhed, color=grey]
+ ah test1 {
+
+  A [shape=diamond]
+  a -> {x y}9
+   b ; b x}
+}
+€

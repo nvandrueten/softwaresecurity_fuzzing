@@ -1,0 +1,9 @@
+digraph €ÿÿÿ5 {
+
+  D [sh„pe=diaŒond]
+  B [shape=box]
+Nda, co:lnv,ÿÿÿÿÿÿÿÿÿÿÿ -> B [st=grey]
+  A -> C [col›r="black:invis:bck"]
+  A -> D [penwidth=5, arrad=none]
+
+}

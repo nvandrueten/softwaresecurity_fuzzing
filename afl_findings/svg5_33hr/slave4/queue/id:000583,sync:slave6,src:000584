@@ -1,0 +1,10 @@
+{igraph test3 {
+   a -B b .> c;
+   a     edge [style=dashed,col -> x(y};
+ ape=box;
+   c [label="hello\nwŸrld",color=blue,fontsizeoooOooont~ame="PalNqino-It lic",foe=box;  d,styke=filled];
+  "D -Q z [label="hÿÿÿwJJJJJJÿÿÿJJJJJ    x -> z [label="multi-lineÏÏÏÏ\nlabel"];
+  A    edge [sÿÿle=dashed,color=red];b -> x;
+       {rank=same; ~ x}
+}
+

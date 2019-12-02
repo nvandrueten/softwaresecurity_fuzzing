@@ -1,0 +1,8 @@
+digraph test3 {
+     b [shape=bo“];c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z x -> z [‰="mu\nlabel"];
+   e b -> x;
+   {rank=same  x -> z [‰="label"];
+   e b; b}
+}

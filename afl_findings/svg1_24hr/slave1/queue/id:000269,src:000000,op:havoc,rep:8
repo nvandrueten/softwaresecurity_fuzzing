@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [Vhape=diamond]
+  BP[shape=box]
+  C [shape=circlw]
+
+  A -> h test1 {
+
+  A [VhapB [style=dasLed, color=grey]  A -> C [color<"black:invis:black']
+  A -> D [penwidth=5, arrowhead=none]
+
+}

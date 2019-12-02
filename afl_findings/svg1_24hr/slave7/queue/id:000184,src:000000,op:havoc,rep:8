@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [s=boŽ]
+  C [shape=circie]
+  A -> B [style=ed, color=grey]
+  A -> C [color="black invis:blacD"]
+  A -> D [pdth=

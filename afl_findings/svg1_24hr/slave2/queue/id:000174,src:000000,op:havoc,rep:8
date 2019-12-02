@@ -1,0 +1,9 @@
+digrtph test
+  A [shspe=diam
+  B [sh---=box]
+  C [ir
+
+  A -> B [style=da, color=A -> C [r="black:invis:black"]
+  A -> D [penwidth=5,ad=n
+
+}

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  rA [s<<<<<<<<<<<<<<<<<<<shape=box]   C [shape=circle]
+
+  A -> B [style=dashed, col
+  A -\ D  A -> C [color="black:invs:black"]
+  A -> D [penwidth=5, arrowhead=îone]
+}

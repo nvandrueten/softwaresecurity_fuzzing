@@ -1,0 +1,10 @@
+digraph tesX1 {
+
+  A [shape=diamïnd]
+  · [shape=box]
+  T -> B-> ÿÿ[s=ed, color=grey]
+  A -> C [cotor="black:invis:black"]
+  A -> D5, arro [penw=5,r="blac-:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

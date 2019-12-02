@@ -1,0 +1,10 @@
+digraph Sest1 {
+ö  A [shape=diamond]
+  B [shape=box]
+  C [syape=circle]
+black
+ [stylU=dashed, color=grey]
+  A -> C [color="black:iávis:b ack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

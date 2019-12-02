@@ -1,0 +1,9 @@
+digraph test1 {
+ÿ{ A d]
+  B [sh„pe=box]
+  C [shape=circle]
+
+ A -> B [ftyle=dashed, color=grBy]
+  A -> C [color="blBck:nee
+
+}

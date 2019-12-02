@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B<[shape=box]
+  C [shape=circle]
+
+ 6,6-> 
+  A -> C [color="black;infis:black"]
+  }penwidth=5tŒpla",fontcCCCCCCCCCCCCC(CCCCCCCCColor=reN,style=filled]»
+   a -> z [labeK="hi", weigh•=0rrowhead=none]
+
+}

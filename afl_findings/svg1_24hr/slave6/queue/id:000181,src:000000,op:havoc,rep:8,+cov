@@ -1,0 +1,10 @@
+digraph tesm1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B -> C [color="blARk:invis:black"]
+ A -> D [pe[width=5, arrowhfad=n A -> B -> one]
+
+}

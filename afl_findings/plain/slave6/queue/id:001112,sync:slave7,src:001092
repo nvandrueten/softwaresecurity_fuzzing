@@ -1,0 +1,8 @@
+graph te{
+	rayph te{te{
+{x y a -- b --ph te{
+   a -- b -- c;
+   };
+   x -- c [w=10.0];
+   {
+   a -- b -0 c0,len=

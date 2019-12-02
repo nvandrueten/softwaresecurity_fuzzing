@@ -1,0 +1,12 @@
+digraph tewe1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+ÿÿÿ€-> B [s=deshed,or=grey]
+  A -> 
+  A -> C [color="birclelack:invis:black"]
+  A ->ack:invis:bl D [penwidth=5, arrowhead=none]
+
+}

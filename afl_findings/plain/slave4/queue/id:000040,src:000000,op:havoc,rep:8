@@ -1,0 +1,8 @@
+ditraph test1 {
+
+  A [shape=dpe=circ
+  A -> B [stylÿdcolor=grey]
+  A -> C [color="black:=5ÿ arrowheas=noncolor=grey]
+   C [colore]
+
+}

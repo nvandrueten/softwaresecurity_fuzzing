@@ -1,0 +1,35 @@
+digraph gest3 {
+   a -> b ->#G;
+a ->x -> z [label="mul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e=box];
+   c [label=Sello\nworld",colbr=blue,fontsize=24,
+fonr=„ed,suyle=eded,style=filled]ÛÛÛÛÛÛÛ;
+   a -> z [lakel="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

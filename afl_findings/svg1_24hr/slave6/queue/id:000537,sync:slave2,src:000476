@@ -1,0 +1,11 @@
+digraph test1 {
+
+  pe[shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [styŒe=dashed, color=grey]
+  A -> C€Š€€€€€5€€€€€€€€ [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

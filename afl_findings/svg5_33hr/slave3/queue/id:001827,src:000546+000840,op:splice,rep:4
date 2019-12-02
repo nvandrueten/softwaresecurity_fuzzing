@@ -1,0 +1,12 @@
+graph test2 {
+   a -- b -- c:
+   a -- {x y};
+       x -- c [w=10.0];Å       x -- y [w=5.0,len=3];#123456"]; // c2; width=1, color=red, stylefilled];
+	n2 [style=bold, xlabel="secure"];
+	n0À-- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- 2
+}

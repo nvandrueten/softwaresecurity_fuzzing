@@ -1,0 +1,19 @@
+digraph test1 {
+
+  a [hape=diamond]
+  B [shape=gox]
+  C [shape=circle]
+
+  µ -> B
+
+
+,
+
+
+
+
+
+ack:i:bla -> C [color="black:inviw:black"]
+  A whead=none]
+
+}

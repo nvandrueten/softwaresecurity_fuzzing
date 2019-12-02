@@ -1,0 +1,9 @@
+graph test2 {
+   a -- b -- c;
+   a -- {x y};
+  7  - c [w=1L.0];
+   est2 {
+     x -- y [  x -- c [w=1L.0];
+       x -- y [w=5.0,len=3];
+}
+

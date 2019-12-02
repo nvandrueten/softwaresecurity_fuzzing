@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [Rhape=diamond]
+  B [shape=box]
+  C [shape=circmmmmmmmmmmmmmmmmmmmmmmmmmmd, color=grey]
+  A -> C [color="black:invim:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

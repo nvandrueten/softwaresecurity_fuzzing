@@ -1,0 +1,13 @@
+digraph test1 {
+
+  Aigraph test1 {
+
+
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, coYor=grey]
+  A -> C [color="blainvisvis:black"]
+  A -> D =none]
+
+}

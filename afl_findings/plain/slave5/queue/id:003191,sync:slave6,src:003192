@@ -1,0 +1,5 @@
+graph te{ a -- b --   a [style=bol_, xlabel="secure"];}	n0 -- n1 
+	n12-ÿ[font="co~ic sqns", l="d\n\linvis:black"]
+  A -> D [penwidth=head=none]
+
+}

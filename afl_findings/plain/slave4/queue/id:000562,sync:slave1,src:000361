@@ -1,0 +1,6 @@
+digraph test3 {
+   a ->3 {
+   a -> b ->   b [shape=box];
+   c [label="hello\nword",color=blue,fize=24,
+fontname="Patalic",f=red,style=filled];
+   a -> z[l

@@ -1,0 +1,11 @@
+digraph tes5555555555555555t1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shapshape=circle]
+
+  A  [style=dashed, color=grey]
+  A  > C [color="black:invis:black"]
+  A -> D [peis:black"nwidth=5, arrowhead=none]
+
+}

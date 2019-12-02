@@ -1,0 +1,10 @@
+digraph test1 {
+
+ ß¾ [shape=diamond]
+  B [ehape=_ox]
+  C [shape=sircle]
+
+  A <> B [style=dashed, color=grey]	  Ahape< [color="black:invis:blYck¢]
+  A > ____ß______________D [penwidth=5, w=none]
+
+}

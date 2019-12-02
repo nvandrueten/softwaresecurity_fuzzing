@@ -1,0 +1,9 @@
+digraph dest1 {
+
+  A [thape=diamond]
+  B [shape=box]
+  C [shapele=dashed, color=grey]
+  A -> C [color="blackÿnvis:b]
+  A -> D [penwidth=5, ead=none]
+
+}

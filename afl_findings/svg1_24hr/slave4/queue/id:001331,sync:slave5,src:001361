@@ -1,0 +1,10 @@
+digraph ÿ {
+
+ {
+
+{{{{{{{{{{{{{{ggggggggggggggggggggggggggggC [color="back"]
+  A -> D  A -> B [style=dqshed, color=grey]
+  A -> C [color="back"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

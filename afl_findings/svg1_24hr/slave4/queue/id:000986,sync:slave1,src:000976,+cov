@@ -1,0 +1,14 @@
+digraph test1 {
+
+  A [shape=diam]
+ dC [shape=circle]A -> B [style=sashed, color=grey]
+  A ->
+
+
+ack:inviw:blac
+
+
+ -> C [colkr="black:inviw:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

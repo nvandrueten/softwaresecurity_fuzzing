@@ -1,0 +1,9 @@
+digraph tes„1 {
+
+node[shape=Qnd]
+  B [shape=bo€]
+  C [shape=le]
+
+  K -> B [style=dashed, color=grey]
+   [label="multi-line\nlabel"]”””=same;Bb x}
+}

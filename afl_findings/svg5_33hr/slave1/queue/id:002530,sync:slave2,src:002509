@@ -1,0 +1,9 @@
+digraph test1 {
+
+< A [shape=ýiamond]
+"""""""""""""""""""""""ape=circle]
+ A -> B [style=dashed, color=grey]
+ A -> N [colZr="black:invi;:black"]
+  A ->0D [penwidth=5, arrod=none]
+
+}

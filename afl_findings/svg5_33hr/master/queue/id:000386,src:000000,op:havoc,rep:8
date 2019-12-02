@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C lack"]
+  A heaD [penwidth=5, ar[shape=circle]
+
+  A -> B [style=dashed, color=grey]
+…enwidth [Polor="b[ack:invis:blck"]
+  A -> D [penwidth=5, arrowheaõ=none]
+
+}

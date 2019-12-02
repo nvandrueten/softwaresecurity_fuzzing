@@ -1,0 +1,4 @@
+graph te{
+   a -- be{
+   a -- b -- c;
+   a ÿ- {x

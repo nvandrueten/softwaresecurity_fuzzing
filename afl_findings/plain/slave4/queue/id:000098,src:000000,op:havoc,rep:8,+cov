@@ -1,0 +1,10 @@
+d---------------
+  A [shape=diam…nd]
+  B [shHpe=bÿÿÿ  C [shape=circ
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:icle]
+
+  A ->
+  A -> D [penwzdth=5, arrowhead=none]
+
+}

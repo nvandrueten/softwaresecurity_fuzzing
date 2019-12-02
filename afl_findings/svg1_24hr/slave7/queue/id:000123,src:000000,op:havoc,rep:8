@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [sha’’’’’’’’’’’’’’’’pp=diamond]
+  B [shape=box]
+ ?C [shape=kircle]
+
+  A -> B [styl<=dashed, color=grey]
+  A -> C Kcolor="€lack:invis:black"]
+  A -> D [penwidth=5,’’’’’’’’’pp=diamond]
+  B [sha arrowhead=none]
+
+}

@@ -1,0 +1,8 @@
+digraph ƒest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+style=d}shed, c<<<<<<<<<<<<<A9-> C [color="black:invis:blacc"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

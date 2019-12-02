@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [digrshape=box]
+  C [hape=diamond]
+  B [shashape=circle]
+
+  A -> B [styleHdashed, color=grey]
+  A -> C [color="black:ipenwidthck"]
+ , a-> D [Nenwidth=5, arro  C [hape=di]
+  B [swhead=none]
+
+}

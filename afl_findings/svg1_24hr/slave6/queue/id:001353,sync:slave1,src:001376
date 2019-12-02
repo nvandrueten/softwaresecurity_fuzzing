@@ -1,0 +1,10 @@
+digraph ÿ {
+
+ {
+
+{{{{o{{{{{{{{{{{  C [shape=circle]
+
+ A -> C [color="back"]
+  A -> D-> B [style=ed, color=grey]
+  A -> B [color="back"]
+  A -/ D

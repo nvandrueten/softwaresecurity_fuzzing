@@ -1,0 +1,7 @@
+digraph Test3 {
+   a -> b -> c:
+   a -> {x y};
+   b [shape=box];
+   c [label="ello\ld",color=blue,fontsize=24,
+flabel="hi", weight=100ic",f=red,style=filled];
+   a -> z [label="hi

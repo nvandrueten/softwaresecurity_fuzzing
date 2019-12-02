@@ -1,0 +1,9 @@
+graph te{
+   a -- b -- c:
+   a -- {x y};x -- {x€yl-- c [w=10.0];
+0 0    y [w=5.0,lor="#123456"]; // c2;1c3; c2 -- c3
+	n1 [height=1, didth=1, color=red, style=filled];
+	n2 [styQN=bold, xlabel="secure"];
+	n0 -- n12-- n2[stylG=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\Gueô fon", fontcolor=blue, fontsize=9];
+	n$1

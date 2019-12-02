@@ -1,0 +1,7 @@
+digraph Sest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [chape=circle]
+
+ A -> =dashed,ack:invis:black"

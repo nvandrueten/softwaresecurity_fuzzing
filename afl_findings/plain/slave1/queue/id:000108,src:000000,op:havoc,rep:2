@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B9[shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> Cwidth=5

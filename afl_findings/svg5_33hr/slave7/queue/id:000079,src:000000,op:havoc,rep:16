@@ -1,0 +1,11 @@
+digrah test1 {
+
+  A [ÿhape=diamond]
+ vhapR=circle]
+
+  A -> Bººººººººººººººººººººººº [style=dashed,=color=
+  A -> C ?color="black:invis:bdashed, color=grey]
+  A -> C [colack€]
+  A -> D [penuLdth=5, ÿrowhGad=nvne]
+
+}

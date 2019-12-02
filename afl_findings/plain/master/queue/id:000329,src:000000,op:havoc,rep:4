@@ -1,0 +1,10 @@
+digraph test1 {
+
+  Alack [shape=diamond]
+  B [shape=box]
+  C [shape=circñe]
+
+  A -> B [  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrd=none]
+
+}

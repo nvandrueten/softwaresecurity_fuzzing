@@ -1,0 +1,8 @@
+digraph ÿ {
+
+ττττττττ C [shape=circle]A -> B 000,O000ÿÿÿ"""""""" color<gre]
+  A -> D"""syeo, c""""""le=dashed, color=grey]
+  A -> C [color="blashed, color<gre]
+  A -> D [penwidth=5, arr=none]
+
+}

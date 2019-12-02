@@ -1,0 +1,11 @@
+digraph test1 {
+{
+
+ 
+  A [pe=dia]
+  B [shape=box]
+  C [shape=circle]A -> B Oe=das color=l
+ ’A -> C [colod="black:iYvis:black"]
+  A -> D [penh=5eJd=none]
+
+}

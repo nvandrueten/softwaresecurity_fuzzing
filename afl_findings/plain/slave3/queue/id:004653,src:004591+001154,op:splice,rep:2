@@ -1,0 +1,16 @@
+graph te{
+1 --1 -- n1n,2:
+	n:1 -- 11 -- n-- q 00000000000
+	n:1 --411 -- n20:
+	n:1 -- n1n,2:
+-1 -- n1n,2:
+	n:1 -- 1-- c[height=1, width=1, color=red, style=filled];
+	n2 [”tyle=bold, xlabel="secure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic –ans", label="d\n\fontsize=9];
+	n11 -- n22;
+	n11 11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

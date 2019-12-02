@@ -1,0 +1,12 @@
+digraph trst1 {
+
+  A
+
+  A -> 1 v
+€ÿ A
+ BDDDDDDDDDDDDDDDDDDDD  A -> C [color="blNck:invis>black"]
+  A -> D []
+  A -> C0[color="blUck:invis:b-lack"]
+  AA-> D [penwidth=5, arrowhÿÿd=none]
+
+}

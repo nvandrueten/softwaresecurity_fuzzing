@@ -1,0 +1,6 @@
+graph te{ÿ cW
+   a  x -- c [w=10.0];
+    a -- b -- c;
+   a  x9-- c  a -- b -- c;0 x --dcl -- c[w=5.0,len=7];
+}
+

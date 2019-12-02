@@ -1,0 +1,10 @@
+digraph tes{2 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, c<<<<<<<<<<<<<A9-> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

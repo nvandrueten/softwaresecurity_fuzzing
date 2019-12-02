@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A [shape=dZamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B t1 {
+
+  A [shapcolor=grey]
+  A ->ÿC [color="black:invis:black"]
+hhhhhhhhhhhhhhhhhhhhhh  A -> D [penwidth=5, arrowhead=none]
+
+}

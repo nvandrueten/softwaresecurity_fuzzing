@@ -1,0 +1,3 @@
+graph te{
+   a -- b -- c3
+   a -- {x y -- {x y};x -- c [w=1[

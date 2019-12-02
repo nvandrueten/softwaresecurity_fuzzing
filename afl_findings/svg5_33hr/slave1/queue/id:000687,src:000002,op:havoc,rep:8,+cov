@@ -1,0 +1,13 @@
+digraph test3
+{
+   aş-> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",co€or=blue,fontsize=24,
+fontname="Pÿÿÿino-Italic",fontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [label="ulti-linegnlabel"];
+       edge [style=dashed,volor=red];b -> x;
+       {hank=same; b x}
+}
+

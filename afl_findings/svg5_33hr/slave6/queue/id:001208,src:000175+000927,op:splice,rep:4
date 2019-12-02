@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A<[shape> c;
+   T -> {x y};
+   b [shave=box];
+   c [Zabel="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic",fontcolor=‘ed,style=filled];
+   a -> z [label="hi, weigt=100];
+       x -> z [label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}÷

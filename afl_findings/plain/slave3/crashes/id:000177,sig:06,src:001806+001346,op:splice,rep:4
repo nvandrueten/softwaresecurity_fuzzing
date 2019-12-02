@@ -1,0 +1,11 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=blue; /* c*/
+	el="sec/* c1=1 n0 [style=dotted, fillcolor="#123456"];olor="le=f// c2; cC; c2 -- h=1, color=red, style=fille, fillcolor="#12345d];
+	n2 [style=bold, xlabel="se-- n1 -- n2[style=Vashed];
+	n1 -- n2 [fontname=챑omic sans", label="d\n\l\G" fontcoldr=blue, fPntsize=9];
+응응응응응응응응응응응응응응응	n11 -- n220
+	n11 -- n33;
+	n11 -- n44;
+	n22 -- n44;
+}

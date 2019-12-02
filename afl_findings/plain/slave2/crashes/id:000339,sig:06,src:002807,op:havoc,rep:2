@@ -1,0 +1,8 @@
+digraph test3 {
+
+ 6< [sh¬¬w¬¬¬¬¬¬¬ë C [shaAnworld",coT  Anworld",color=blue,fo@tsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];
+   a -> z ÿê   x -> b [label="‡ulti-line\nlbel"];
+  ¬w¬¬¬¬¬¬¬ edge [style=dashed,color=red];b -> x;¬   {rank=same; b x}
+}
+

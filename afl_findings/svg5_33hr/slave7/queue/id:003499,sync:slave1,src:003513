@@ -1,0 +1,10 @@
+graph‘e{
+  c: b -- c:
+  a -- b -- c:
+  w -- b -- ce{
+  c: b -- c:
+  a -- b : b -- c:
+  w -- b -- a:
+ ÿ
+   a 
+}

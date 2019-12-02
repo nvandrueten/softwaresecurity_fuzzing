@@ -1,0 +1,11 @@
+igraph test1 {
+
+                    A shape=diamond]
+  B [shade=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A => C ècolor="black:invis:black"]
+  A -> D [penwidtI=5, arrowhead=none]
+
+}

@@ -1,0 +1,9 @@
+graph te{
+ c x -- c ir=LR;
+	color=bl a -- b -- €   a -- b -- c;
+   ac;
+   a   a -- b --     a -- b --1c;
+     y};
+  Îx -- y [w=5.0,le;n=3];
+}
+

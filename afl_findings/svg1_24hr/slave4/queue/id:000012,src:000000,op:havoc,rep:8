@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shpe=diamond]
+ B [siape=box 
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [:i [pen™idth=5, arrowhead=none]
+
+}

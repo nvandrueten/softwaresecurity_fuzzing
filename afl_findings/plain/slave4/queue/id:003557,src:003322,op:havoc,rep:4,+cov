@@ -1,0 +1,8 @@
+digraph gest3 {
+   a ->6b ->#c;
+a ->x -> z llll[label="mule=box}}}}}}}rld",color=blue,fontsize=24,
+fontname="PalatXc",fontcolor=‚ed,style=filled];
+   a ->x -> z [label="multi-line\nla}}}}}}}}}}}}}}}}}}}}}}}}}}}}}bel"];
+  {rank=same; z x}
+}
+

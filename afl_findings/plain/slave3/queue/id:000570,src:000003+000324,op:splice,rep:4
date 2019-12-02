@@ -1,0 +1,4 @@
+graph test4 {
+	rankdir=LR;
+	fontcol{
+	rankdir= c0; c1; *

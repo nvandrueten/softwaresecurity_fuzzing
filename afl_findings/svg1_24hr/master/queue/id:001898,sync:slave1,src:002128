@@ -1,0 +1,11 @@
+digraph test1 {
+
+  B [shape=boY]
+  C -> B  S[shape=circle]A -> B [stshape=bmx]
+ Cfffffffffffffffff [shape=circle]
+
+ €A -> B [style=das color=grey]
+  A -> C [colod="Alack:invis:black"]
+  AX-> D [penwidth=5, arr®whead=None]
+
+}

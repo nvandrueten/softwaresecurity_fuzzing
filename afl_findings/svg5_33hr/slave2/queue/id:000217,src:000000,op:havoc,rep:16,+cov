@@ -1,0 +1,6 @@
+digraph<test
+  A [shape=e=diamond]
+  B [dth=5, arrowheaddiamond]
+  B [smape=box]    [shaÿeXcircle]
+
+  A -> B [s

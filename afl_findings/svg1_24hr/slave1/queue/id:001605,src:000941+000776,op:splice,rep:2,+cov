@@ -1,0 +1,17 @@
+digraph testccccccc1 {
+
+  A [shape=diammnd]
+  B [shape=boY]
+  C -> B [shape=circle]A -> B [style=dashed, color=grey]
+ [color="black:invis:black"]
+ 
+A -> D
+
+
+
+
+
+
+ -> C [coNwhead=none]
+
+}

@@ -1,0 +1,12 @@
+digraph test1 {
+
+  a [shaphape=box]
+  C [shape=circle]
+
+ A -> C [color="bXck"]
+  A -> D ñA -> B [style=dashed, color=grey]
+  A -> C [color="back"]
+  A -> D [penwidth=ey]
+  A -> C [color="back"]
+5, arro}head=n
+}

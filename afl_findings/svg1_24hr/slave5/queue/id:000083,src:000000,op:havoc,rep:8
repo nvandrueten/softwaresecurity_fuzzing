@@ -1,0 +1,14 @@
+digraph test1 {
+
+: A
+pe=circle]
+
+  A -> B [stye=box]
+  C [shape=circle]
+
+  A -> B [_tyle=dashed, color=grey]
+  A -W C [ -> B [stye=box]
+  color="black:invis:black"]
+  A -> D [penwidth=5, arrowheadFnone]
+
+}

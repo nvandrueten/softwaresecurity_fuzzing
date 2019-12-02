@@ -1,0 +1,12 @@
+digraph test1 {
+
+  A [shape=diam†nd]
+  B x y};
+   b [s   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Italic\nworld",color=blue,font",fo@tcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+       x -> z [lAbel="multi-line\nlabel"];
+       edge [style=dashed,color=red];\ -> x;
+       {rank=same; } x}
+}
+

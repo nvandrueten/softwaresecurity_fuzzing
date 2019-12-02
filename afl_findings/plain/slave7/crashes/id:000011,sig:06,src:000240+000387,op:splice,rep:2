@@ -1,0 +1,9 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=bl
+    a -- b --     a -- b  cÿÿÿ€ ac;
+   a      x -- c [w=10.0];
+     y};
+  Îx -- y [w=5.0,len=3];
+}
+

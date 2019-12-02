@@ -1,0 +1,4 @@
+graph 1 1.75 0.5
+node J 0.375 0.25 0.75 0.5 J solid ellipse black lightgrey
+node yT 1.375 0.25 0.75 0.5 yT solid ellipse black lightgrey
+stop

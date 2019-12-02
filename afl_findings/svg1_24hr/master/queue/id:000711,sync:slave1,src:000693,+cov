@@ -1,0 +1,9 @@
+digraph tesŠ1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C ack:lnv, ar:a[se=da, color=grey]
+  A -> C [color="blkck:inv, arrock"]
+  A -> D [penwidth=5. arrowhead=none]
+
+}

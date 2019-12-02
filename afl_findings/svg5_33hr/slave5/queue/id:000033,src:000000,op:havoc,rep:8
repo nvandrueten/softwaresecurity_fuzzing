@@ -1,0 +1,9 @@
+dig†aph test1 {
+
+  A [shape=or="blacbox]
+acbox]
+ color=greyw
+  A -> C [color="black:invis:Tlack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

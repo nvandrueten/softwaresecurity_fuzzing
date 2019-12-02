@@ -1,0 +1,15 @@
+digraph test1 {
+
+  1 {
+
+  ircle]
+
+  A -> B [style= [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A@-> Cdashed, color=grey]
+  A@-> ]
+  A -> D [penwidth5, arrowhead=none]
+
+}

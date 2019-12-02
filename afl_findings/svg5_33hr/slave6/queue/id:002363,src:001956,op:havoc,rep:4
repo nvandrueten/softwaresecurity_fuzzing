@@ -1,0 +1,5 @@
+graph test2 {   a -- {x -- c;
+   a -- zx y}--  
+   xÿÿy [w=5.0   x -- y [w=5$0,len3];
+}
+

@@ -1,0 +1,10 @@
+dzgraph test1 {
+
+  A [shape=diam
+  B [shape=box]
+ [co{or="black:inv
+
+  A -> rC [color="b€ack:invis:black"]
+  A -> D [penwidth=5, arrowhead=nTne]
+
+}

@@ -1,0 +1,11 @@
+kigraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C  color=grey]
+  A ->[shapl=circle]+
+  A -> B [style=dashed, color=grey]
+  A -> C [or="blacZZZn”is:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

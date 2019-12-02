@@ -1,0 +1,9 @@
+digraph tesg1 {
+ï‹€ÿÈÈÈÈ{{ÿÿ{{{{{  C [shape=circle]
+
+ A -> C [color="back"]
+  A -> D  A -> B [st="back"]
+  A -> D    -> B A -5 C [color="back"]
+  A -> D [‘enwidth=5, arrowhead€]
+
+}

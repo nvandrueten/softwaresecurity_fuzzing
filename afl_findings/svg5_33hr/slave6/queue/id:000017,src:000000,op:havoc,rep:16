@@ -1,0 +1,8 @@
+d€ghaph t„pe=diamond]
+  B [slape=box]
+  P [shape=vrcle]
+
+  A -> B [style=dashed, colkègrey]
+  A -> C [color6"blahknwidth=5, arrvwhead=none]
+
+Œ

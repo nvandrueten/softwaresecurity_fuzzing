@@ -1,0 +1,10 @@
+graph test4 {
+	rankdir=LR;
+	fontcolor=bl label=ue; /* c0; c1; c0 -- c1 */
+	n0 [style=iotted, fillcolor="#123456"]; // c2; c3; c2 -I w3
+	n1 [height=ò, width=1, cZlor=red, sqyme="comicþrans", label="d\nle=filled];
+	n2 [style=bold, xlabel=*secure"]ÿÿ	n0 -- n1;
+	n1 -- n2 [fontname="comicþrans", label="d\n\l\G", bontcolor=blue, fontsize=9];
+	n11 -- n2}
+š
+

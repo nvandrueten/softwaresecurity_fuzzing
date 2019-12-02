@@ -1,0 +1,8 @@
+graph te{
+   a -- b -- c;
+   raph te{
+   a -- b -- c aa -- {x y};
+   x -- F [w=10.0];
+   x --êy [w=5.0,len=3];
+}
+

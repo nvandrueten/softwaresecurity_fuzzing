@@ -1,0 +1,9 @@
+digraph testq {
+
+  A [shape=diamond]
+  B [shkpe=box]pe=diamond]
+  B [shape=box]
+B [style=dashed, c“lor=gre]or="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

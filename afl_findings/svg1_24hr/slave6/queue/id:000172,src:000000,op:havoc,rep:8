@@ -1,0 +1,13 @@
+digraph teest1 {
+
+  st1 {
+
+  A [shape=damond]
+  B [shape=box]
+  C [s`ape=circlez
+
+  A -> B [style=dashed, color=grey]
+  A -> C [col\r]
+  A -> D [penwidth=?, aQrowhead=none]
+
+}

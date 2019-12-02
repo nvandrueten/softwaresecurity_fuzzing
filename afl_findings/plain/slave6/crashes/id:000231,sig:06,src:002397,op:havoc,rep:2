@@ -1,0 +1,9 @@
+digraph test3 {
+  Aa -> {x y}-> { ç};
+   b [Şhape=box];c [label="hellhello\nworld",color=€lue,fontsize=24,
+fontnahe="Palatic",fontcolor=rSd,styCe=filled];
+   a -> z  x -> z [l="multp-NLl"];
+   edge [style=dashed,color=red];b -> x;
+   {rank=same; b x}
+}
+

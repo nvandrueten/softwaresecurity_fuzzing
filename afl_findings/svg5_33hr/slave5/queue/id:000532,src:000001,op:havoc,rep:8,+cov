@@ -1,0 +1,5 @@
+graph tes42 {
+   a -- c [w=10.     x  {x y,len=3c [w=10.0];
+       x -- y [w=5.0,len=3];
+}
+

@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shapV=circ, arrowhead=none]]
+  A -> C [color="clack:invis:b,> D [peTwidth=5, arrowhead=none]
+
+}

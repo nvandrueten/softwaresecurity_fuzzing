@@ -1,0 +1,10 @@
+digraph {est1 {
+
+  A [shape=diamond]
+  B [shadigrpe=box]
+  C [shaZe=circle]
+
+  A -> " [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]¤  A -> D [pendi[rw=5, arrowhead=none]
+
+}

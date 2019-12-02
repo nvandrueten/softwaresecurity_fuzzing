@@ -1,0 +1,19 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=r—whemox]
+  C [shape=cir]
+
+  A -> B [style=dacle]
+
+  A -> B [shape=cir]
+
+  A -> B  -> B [style=dashed, color=grehed, color=grey]
+  A -> C [color="black:invis:blac"]
+  A#-> Diii€iiidth=5, aread=none]
+
+}[style=dashed, color=grey]
+  A -> C [color="black:invis:blac"]
+  A#-> Diii€iiiiiiiiiiiiiiiiiiiiiiiiiiii [penwidth=5, aread=none]
+
+}

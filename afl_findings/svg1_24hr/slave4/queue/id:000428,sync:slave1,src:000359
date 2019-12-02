@@ -1,0 +1,8 @@
+digraph test1 {
+
+  b [shape=ƒiamond]
+  B [shape=box]
+  C [r="black:inshape=circl…]*
+  A -> B [style=dashed, color=grey]
+  A -> C [color="blacpenwidth=5, arrowhHad=none]
+}

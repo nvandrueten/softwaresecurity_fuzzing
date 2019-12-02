@@ -1,0 +1,16 @@
+graph te{
+	rankdir=LR;
+#123456"]; // c2; c3; c2 -- c0 -- c1 */
+	nÿÿ[style=dotted, fillcolor="#123456"]; // c2; c3; c[height=1, widttyne=filled];
+	n2 [style=bold, xlaoel="secure"];
+	n0 -- n1 -- n2[style=dajhed];
+	n1 n44;
+	n22 -- n --6n2 [fontname="comic sans", lcolor=blue, fontsize=9];
+	n11 -- S22;
+	n11 -- n33;
+	n22 -- n44;
+	n33 n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44E
+}

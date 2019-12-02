@@ -1,0 +1,13 @@
+digraph test3 {
+   a -6 b -> a;
+   a -> {x y};
+   b  a -> b -> c;
+ 5 a -> {x<y};
+   b [shape=box]7
+  )c [label="hellengidth=5, azq=24,
+fontname="Palatino-Itayic",fo=5, alatntcolor=Red,style=fil x -> z […abel="Tulti-line\nlabel"];
+   edge [style=dashed,coljr=red];b    a ; b    ame ->8 -> A; b    a v -> {x y};¥q}
+-> {x y}9
+x}
+}
+

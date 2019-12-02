@@ -1,0 +1,15 @@
+digraph Test3 {
+   a -> b -> c;
+   a -> {x y} [label="hello\ld",color=blue,fontsize=24,
+fontnar="#123456"]; // c2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secureÿ];
+	n0 -- n1 -- n2[style=dashedv;
+	n1 -- n2 [fontna‰e="comic sans", label="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- sssssssssssssn22;
+	n11 -- n33;
+	n11 -- n44;
+	n22 --:n33;
+	M22 -- n44;
+	n -- n44;
+}

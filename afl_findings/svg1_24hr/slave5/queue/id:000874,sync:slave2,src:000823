@@ -1,0 +1,7 @@
+digraph tes{{{{{{  A [shape=diamond]
+  B’’’’’’’’’’’’{{{{{{{{{{{{{{{{{{{{{{{{{{box]
+  C [”hapee=desheJ, color=grey]
+ A -> C [color="black:invis:jlack"]
+  A -> D [penwbdth=5, arrowhead=none]
+
+}

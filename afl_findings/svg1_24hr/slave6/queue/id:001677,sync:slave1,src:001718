@@ -1,0 +1,16 @@
+digraph test1 {
+
+  a [phape=diamond]
+  B [shape=gox]
+  C -> B
+
+
+
+
+
+
+
+
+
+w:bla333:bla333333333333333333-> D [penwidth=5, arKap=none]
+¿}

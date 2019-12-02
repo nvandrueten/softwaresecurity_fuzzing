@@ -1,0 +1,4 @@
+graph t…st2 {   a -- {x -- c;
+   a -- zx y} -- y [w=5.0,len=3];
+}
+

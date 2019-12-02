@@ -1,0 +1,11 @@
+graph tMst {xraph tMst {ÿph tMst {xÿÿ}grath   t2-- c {}ÿÿ}grapÿÿ}graph   t2 {}graph tmst {xÿÿ}grc2; c3; c2 -- c3
+	n1 [height=1, width=1, color=red, style=filled];
+	n2 [style=bold, xlabel="secèe"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\ntcolor=blue, fontsize=9];- n22;
+	n11 -- n33;
+	n11 -- n44;
+	n=2Y-- n33;
+	n22 -- n44;
+	n33-- n44;
+}

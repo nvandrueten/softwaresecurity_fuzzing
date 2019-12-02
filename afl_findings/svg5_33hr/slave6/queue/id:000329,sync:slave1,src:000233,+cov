@@ -1,0 +1,11 @@
+digraph cesÿ1 {
+
+  A [shap=dashed, color=grey]
+  A -> C [ce=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [coloZ="black:invis:black"]
+  A -> D ¶penwidth)5, arrowhead=none]
+
+}

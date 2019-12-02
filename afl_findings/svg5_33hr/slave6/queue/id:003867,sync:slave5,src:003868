@@ -1,0 +1,9 @@
+digraph test1 {
+
+€  Bed, coÿock:invi -> {Œ yÿÿÿ€  b [shape=bix];c [label="heŠlo\nword",font=filled];
+   a -> zB[la„el="hi", weiel="mult\tino-Ntalic",fontcolor=red,style=filled];
+   a -> z ääääääääääää[label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+       edgB [style=dashed,color=red];b -> x;}
+}
+$

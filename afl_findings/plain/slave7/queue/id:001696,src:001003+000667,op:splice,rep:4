@@ -1,0 +1,4 @@
+graph te{
+	rankdir=Lt4 {
+	rankdir=L	rankdir=L	rankdir=LR;
+	fe; /

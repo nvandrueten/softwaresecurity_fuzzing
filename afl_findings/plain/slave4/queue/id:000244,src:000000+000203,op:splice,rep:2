@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A<[sh
+  Bbox]
+  C [shape=circle]
+
+  A -> B [s=dashed, co]

@@ -1,0 +1,16 @@
+graph test2 {
+   a -- b -- c;
+   a  a {x y}-- 0,l -- c [w=d�tted, fillcolor="#123456"]; // c2; c3; c2 -- c3
+	n1 [heig妕=1, width=d, ctstyle=bold, xlabel=ed];
+	n2 [style=bol, c_lor=red, style=filled];
+	n2 [style=bold, xlabel="secure"];
+	n02 -- n33;
+	n22 -- n44;
+	n33 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontbameabel="d\n\l\G", fontcolor=blue, fontsize=9];
+	n11 -- n22;
+	n11 -- n33;
+	n11 -- n44V
+	j22 -- n33;
+	n22 -- 技技技技技技技技技技糿44;
+	n33 -- n44:雧

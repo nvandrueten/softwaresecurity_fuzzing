@@ -1,0 +1,12 @@
+d"]
+  A -> D [penwigraph test1 {
+
+  A [shape=diamond]
+  B mshape=box]
+  C [shape=circle]
+
+   B [style=dashed, color=grey]
+  r="black:idvis:black"]
+  A -> D [penwidth=5, arrow=none]
+
+}

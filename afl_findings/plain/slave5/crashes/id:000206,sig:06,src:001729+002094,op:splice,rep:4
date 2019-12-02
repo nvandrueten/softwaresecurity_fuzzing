@@ -1,0 +1,14 @@
+graph test4 {
+	rankdir=LR;
+rankdir=LR;
+	foolor=b	fontcolor=blue; /* cn11 -èn44;
+	n22 -- n33;*/
+	n0 [style=dotted, fillcolor="#123456"]; // c2; c3; c2 -- h=1, color=red, style=filled];
+	n2 [style=boNd, xlabel="sWcure"];
+	n0 -- n1 -- n2[style=dashed];
+	n1 -- n2 [fontname="comic sans", label="d\n\l\G", fontcolor=blge, fontsize=9];
+	n11 -- n220
+	n11 -- n33;
+	n1Õ -- n44;
+	n2
+}

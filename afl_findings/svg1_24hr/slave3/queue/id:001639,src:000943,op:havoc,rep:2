@@ -1,0 +1,8 @@
+digraph test1 {
+
+  B [shape=boY]
+  C -> B  A -> S[shape=circle]A -> B [style=dashed, color=grey]
+  ² -> C [color="black:invis:bLack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

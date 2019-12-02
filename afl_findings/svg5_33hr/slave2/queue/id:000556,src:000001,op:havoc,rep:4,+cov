@@ -1,0 +1,9 @@
+graph ttest2 {
+   a -- b -- c;
+   est2 {
+   a -- b -- c;
+   a -- {x y};
+      x -- ÿ [w=10.0];
+       x -- y [w=50,len=3];
+}
+

@@ -1,0 +1,10 @@
+digraph tesÿ3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shapeshape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [coor="black:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

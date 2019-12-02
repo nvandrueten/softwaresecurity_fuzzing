@@ -1,0 +1,12 @@
+graph te{
+	rirCLR;
+	fontc {x q};
+ kdir=LR;
+	fontc {x y};
+ ir=LR;
+	fontc {x q};
+  x -- c nntc {
+ ir=LR;
+	fontc {x x q};
+ kdir=LR;
+	fontc {xw=€0.0]

@@ -1,0 +1,7 @@
+graph te{
+ c x -- c [w=10.0];
+    a -- b --    -- b -- #x -style=filled];
+	n2 [tname="cs", label="‰‰‰‰‰‰†‰‰‰‰‰‰λλλλλλλλλλλλλλλλλλλ‰‰re"]
+	n12-- n2 [fontname="ns", label="d\T\l\G", fontcolor=blue, fontsize=260000000];
+	n11 ; c-- n44;
+}

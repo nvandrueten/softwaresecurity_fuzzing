@@ -1,0 +1,8 @@
+digraph test1 {
+á  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A ->6B [style=iashed, color=greZ]
+  A -> C [color="black:invis:black"]
+  A -> penwid}h=5, arriihead=none]

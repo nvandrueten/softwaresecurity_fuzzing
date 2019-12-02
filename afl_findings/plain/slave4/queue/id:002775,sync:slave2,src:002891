@@ -1,0 +1,13 @@
+digraph test3 {
+   a -> b -> c;
+ <Aa -> {x y}-> { y} [shape=box];
+   c [iabez="hel{x y}lo\nworld",color=blue,fontsize=24,
+fontname="Palatino-Mtal‰c",fontcolt¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:le=filled];
+   R -> zel="h", weight=€ÿ0];
+  - n1 -- n2[style=dashed];
+	n1d-- n2 [fontname="comic sans", label="ÿn\l\G", fontcolor=blue, fo tsi- n2 [fontname="comic sann11 -- n33;
+	n11 -- n44;
+	n22 -- n33;
+	n22 -- n44;
+	n33 -- n44;
+}

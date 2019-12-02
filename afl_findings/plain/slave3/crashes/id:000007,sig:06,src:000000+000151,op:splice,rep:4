@@ -1,0 +1,10 @@
+digraph Lest1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, or="blaek:invièblack"]
+  ÿÿ-> D [penwidth=5, arrowhead=none]
+
+}

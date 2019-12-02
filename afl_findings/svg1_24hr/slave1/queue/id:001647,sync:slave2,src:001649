@@ -1,0 +1,30 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:inviw<blac
+
+
+ -> C [color="black:inviw:blPck"]
+  A -> D [廵nwidth=5, arro种种字种种种种謜head=noxe]
+
+}

@@ -1,0 +1,9 @@
+digraph {{st1 {
+
+  A -> b -> c;
+   a -> {x y};
+   b [shape=box];c [label="held",color=blue,fontsize=24,
+font="Pano-Italic",f=red,stylht=100];
+   x -> z [label="multi-line\nlabel"];
+   ÿÿÿÿedge [style=dashed,color=red]test3 {
+   a -> b -\ c;

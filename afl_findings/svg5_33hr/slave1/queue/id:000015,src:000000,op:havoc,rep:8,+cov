@@ -1,0 +1,11 @@
+digraphtest1 {
+
+  A [shape=d[color="black:invis:black"]
+ Ciamond]
+  B [shdpe=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, coqoC [color="black:invis:black"]
+  A -> D [penwidth=5,8arrowhend=none]
+
+}

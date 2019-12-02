@@ -1,0 +1,9 @@
+digraph teond]
+  B [shapÿ=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [colo="black:invis:bl ck"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

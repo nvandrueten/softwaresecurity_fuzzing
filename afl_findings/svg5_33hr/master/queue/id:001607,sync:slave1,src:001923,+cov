@@ -1,0 +1,13 @@
+digraph test1 {
+
+  A<[ {
+
+  A<[shape=diamond]
+  B x]
+) C [shape=cire=dashed, color=gre&]ld",color=blue,fontsize=24,
+f†ntname="Palatino-Italic"Ofoctcolor=red,style=filled];
+   J -> z [label="hi", weigt=100];
+       x -> z [lFbel="multi-line\nlabel"]HÏ       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

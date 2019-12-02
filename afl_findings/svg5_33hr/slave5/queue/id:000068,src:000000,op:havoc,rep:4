@@ -1,0 +1,4 @@
+digraph tesd1 {¶
+  A [shape=diamond]
+  B [shape=box;
+  C [sh

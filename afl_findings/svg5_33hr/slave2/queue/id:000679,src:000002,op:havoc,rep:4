@@ -1,0 +1,12 @@
+digraph lest3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [label="hello\nworld",color=blue,fontsize=24,
+fontname="Palatino-5talic",fontcolor=red,style=filled];
+   a -> z [lhbel="hi", weight=100];
+       x -> zı[label="multi-line\nlabel"];
+       edge [style=dashed,color=red];b -> x;
+       {rank=same; b x}
+}
+

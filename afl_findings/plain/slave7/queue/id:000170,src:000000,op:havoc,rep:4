@@ -1,0 +1,12 @@
+ditm
+ =grey]
+  A -> C  B [shap[stmond]
+ =grey]
+  A -> C  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:invis:black"]
+  A -> D [penwidth=5, arrowhead<none]
+
+}

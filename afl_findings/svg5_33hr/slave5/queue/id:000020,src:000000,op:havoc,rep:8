@@ -1,0 +1,7 @@
+dA [shape=diamond]
+  B [                        shape=box]
+  C [shape=ciA -> B"[style=dashed, color=grey]
+  A ->.C [color="blackinvis:black"]
+  A -> D [penwidth=5, arrowh
+
+}

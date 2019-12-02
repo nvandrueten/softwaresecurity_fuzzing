@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shapshape=ce]
+
+  A ->shed,   A -> B [style=dashed, color=grey]
+  A tttt -> D [penwidth=5, arrowhead=none]
+
+}

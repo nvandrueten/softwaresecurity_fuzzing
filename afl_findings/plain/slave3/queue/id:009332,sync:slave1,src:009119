@@ -1,0 +1,8 @@
+digraph test3 {
+ # a}d
+ Ç b [shape=box];
+   c [label="hello\ld",color=€lue,fontsize=24,
+fontname="Patalic",f=red,style=filled];
+   H -> z [label="hi", weight=100];
+   x -> z [label="multi-line\nlabel"];
+   edge [];edge []; 

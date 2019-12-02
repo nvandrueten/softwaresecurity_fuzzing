@@ -1,0 +1,11 @@
+graph ‘e{
+ 5c: b -- c:
+  a -- b -- c:
+  w -- b
+  a -- b -- c:
+  w -- b -- c: b -- c:
+  w -- b -- c:
+  
+   a 
+}
+

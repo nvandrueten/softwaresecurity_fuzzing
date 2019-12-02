@@ -1,0 +1,8 @@
+digraph west3 {
+   t -> b -> c;
+ò  a -> {x y};
+   b [shape=b„x];c [label="hel>>>>>>>>>>>>>>>>>>>>>>>>>>no-Italic",fon5color=„ed,style=filled];
+   a -> z [label=0];x ->
+   {rank=saze; b x}
+}
+€

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B €shape=box]
+  C [shape=ashed, color=gr D [penwidth=5, arrowhead=nonvis:black"]
+  A -> D graph tes=5, arrowHead=none]*
+}

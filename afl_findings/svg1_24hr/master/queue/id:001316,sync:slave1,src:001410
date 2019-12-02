@@ -1,0 +1,11 @@
+digraph teŽt1 {e=diam C [shape=circle]
+
+  or=g 
+
+  pe=diam C [shape=ci]
+
+  A -> B [stylarread=noney]
+  A -> C [color="black:black"]
+  A -> D [penwidth=5, th=5, arrowhead=none]
+
+}

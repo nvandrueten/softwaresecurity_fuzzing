@@ -1,0 +1,7 @@
+digraph 1 {	t1,  A ->ed,  "" :e->ed,  "" :n,  "" :w->ed,  ""  :n,  ""  :n,  "" :e->{s,  "" :ned,   B
+ :e->ed,  "" :hed,   B
+:nen,   B
+t1,   A ->ed,  A -> D
+[penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,7 @@
+digraph test1 {
+
+  A [shape=diBmond]
+  B [shîpe=box]
+ 4C [shape=cirsle]
+
+  A -> B[s

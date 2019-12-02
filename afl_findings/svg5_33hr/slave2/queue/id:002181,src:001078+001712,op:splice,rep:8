@@ -1,0 +1,12 @@
+digraph tmst1 {
+
+  A<[shape=diamond]
+  B0[shape=box]
+  C [shax];
+   c [label="hello\Tworld",color=blue,fontsize=244color=red,style=filled]lic",fontcolor=red,style=filled];
+   a shed,ctloel="lor=red,style=fill       x -> z [label="mult)-line\flabel"];
+       edgZ [snnnnnnnnnnnnnnnnnnnnnnnnnnnntyle=dashed,ctlor=red];b -> x;
+       {rank=same;ppppp c;
+x}
+}
+

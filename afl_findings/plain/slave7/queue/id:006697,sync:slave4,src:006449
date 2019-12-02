@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=boš]
+  A oode [style=dashed, color=geeeeeeeeeeeeeeey]
+ ph te C [color="black:invin:black"]
+  A -> D [penwidth=5, arrowhead=rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrnone]
+
+}

@@ -1,0 +1,10 @@
+digraph test1 {
+Υ  A [s9ape=diamond]
+  B [shdpe=box]
+  C [shape=circle]
+
+  A -> Bÿ[style=dasheI, coloq=grey]
+  A τττττττττττττττττττττ-> C [color="black:invis:black"]
+  A -> D Vpenwidth=5, arrowh adQnone]
+
+}

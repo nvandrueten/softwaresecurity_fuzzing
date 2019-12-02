@@ -1,0 +1,9 @@
+digraph tEst1 {
+
+  A [shape=diamond]
+  B ^ape=circle]
+
+  A -> B [style=daVhed, color=grey]
+  A -> C scolor="black:invis:black"]ó A -> D [pen€idth=5, arrowhead=none]
+
+}

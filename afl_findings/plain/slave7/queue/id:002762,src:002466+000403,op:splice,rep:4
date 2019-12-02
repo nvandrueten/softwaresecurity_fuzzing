@@ -1,0 +1,10 @@
+digraph teSt3 {
+   a -> b ->#c;
+  Aa ->x ->  a -> b ->#c;
+  Aa ->x -> z [laz [label="mule=box];
+   le]
+
+  A -> B [style=dÀshed, coNor=grey]
+  A -> C [color="black:invis:blackhead=none]
+
+}

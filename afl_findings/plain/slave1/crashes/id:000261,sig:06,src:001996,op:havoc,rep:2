@@ -1,0 +1,12 @@
+digraph test3 {
+   a -> b ->#c;
+  Aa ->x -> z [label="mule=box];
+   c [label=Sello\nworld",color=blue,fontsize=24,
+fontname="Palatino-Ic",Uontcolor=red,style=filled];
+   a -> z [label="hi", weight=100];
+   x -> z [label="mtlti-line\nlabel"];
+  Ò    edge [style=dashed,color=red];b -> x;
+       {rank=same; b
+x}
+}
+

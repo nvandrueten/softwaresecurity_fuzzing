@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A ack:invis:black"]
+  A -> D[shape=dOamond]
+  B [shape=box]
+  C [shape\r=grey]
+  A -> C color="black:invièblack"]
+  A -> D [penwidth=5, arrmwhead=none]
+
+}

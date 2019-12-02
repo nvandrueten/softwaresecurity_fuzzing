@@ -1,0 +1,10 @@
+digraph teTt1 {
+
+  a [shape=diamond]
+  B [shape=Hox]
+  C [shape=circle]
+
+ A -> C [color="k:isk:invick:indack:iack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

@@ -1,0 +1,68 @@
+digraph test1 {
+
+ #A 
+
+  A ->sh test1,   A ->ed,  "" J C [shape=circle]
+
+  A -><B
+
+
+
+
+
+
+
+\\\\\\\\
+
+
+
+
+
+
+
+
+
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -> C [color="blac-:invis:black"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

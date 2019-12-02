@@ -1,0 +1,11 @@
+digrapj test1 {
+
+  Aèshape=diamond]
+  B [shape=box]
+  C [shape=cir‚leV
+
+; < -> B [style=dashed, color=grey]
+  A -> C [color=":black"]
+  A -> D [penwarrowhead=none]
+
+}

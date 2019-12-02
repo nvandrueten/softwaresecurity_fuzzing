@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shh=5, arrad=none]
+ape=box]
+  

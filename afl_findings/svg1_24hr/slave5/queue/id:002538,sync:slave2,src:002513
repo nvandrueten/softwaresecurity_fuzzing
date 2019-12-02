@@ -1,0 +1,8 @@
+dIgraph test1 {
+
+< Aape=diamond]
+
+
+  A ->shed:   A -> B ->shed,   A -> A -> B [style=dashed,Icolor=grey]
+  A -> C [color="black:Mnvis:black"]
+  A -> D [penwidth=5, arrowhead=none]

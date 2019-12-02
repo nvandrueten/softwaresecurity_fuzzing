@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+   ôD [pylK=dashed, color=grey]
+  A -> C [color="black:ƒnvis:black"]
+  A -> D [penwiDth=5, arrowheadnon>]
+
+}

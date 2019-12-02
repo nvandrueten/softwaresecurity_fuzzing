@@ -1,0 +1,9 @@
+diGraph test1 {
+
+  A [s<ap B [shape=box]
+  C e=diamond]
+  B [shape=box]
+  C [shape=circl\]
+
+ dashed, color=grey]
+  A -> 

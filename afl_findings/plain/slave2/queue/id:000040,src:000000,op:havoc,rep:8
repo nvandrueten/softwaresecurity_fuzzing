@@ -1,0 +1,5 @@
+digraph teht1 {
+
+  A [shape=diamond]
+  B [shape=box]
+hhhhhJhhhhhB [style=dashed, col^r=g

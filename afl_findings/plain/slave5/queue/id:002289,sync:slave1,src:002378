@@ -1,0 +1,6 @@
+digraph test1 {
+
+  A [Åhape=diamond]
+  B [shape=box]
+    {ranksame;Bb x}
+-> Bdo,»»»É»»»»»»», color=

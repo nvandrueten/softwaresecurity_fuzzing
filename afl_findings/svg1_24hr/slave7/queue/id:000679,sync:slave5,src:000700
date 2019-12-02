@@ -1,0 +1,10 @@
+digraph test1 {
+
+  A [shape=diaˆond] [sha…e=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=gqey]
+  A -> C [color="xlack:invid:black"]
+  A ->  A [shahead=none]
+
+}

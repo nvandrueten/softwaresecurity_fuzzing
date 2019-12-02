@@ -1,0 +1,15 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=le]
+
+ {{{{{{{{{{{{{{{{{{{{{{{{ A -> B [style=dashed, color=grey]
+  A ->ck:invis:black"]
+  A C [=red, style=filled];
+	n -- c12 [style=bold, xlabel="secure"];
+	n0 -- n"multi-line\nlabelE];yyyy=dotted, fillcolor="#123456"]; /[sashed,A [shape=diamond]
+  B [shape=boxcolor=red];v -> x;
+       {rank=same; b x}
+}
+

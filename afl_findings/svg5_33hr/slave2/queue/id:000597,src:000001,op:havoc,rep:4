@@ -1,0 +1,6 @@
+graph test2 {€ÿ  a -- b -- cL
+   a -- {x y};
+       x -- c [w=10.1];
+     8 x -- y [w=5.0,len=3];
+}
+

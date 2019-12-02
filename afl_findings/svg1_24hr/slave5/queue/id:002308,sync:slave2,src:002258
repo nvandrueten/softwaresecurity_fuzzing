@@ -1,0 +1,14 @@
+digraph test1 {
+
+ 
+
+  A -> <%[s=Q ape=ci]LLLLLLLLLLLLLLL,@Q -=diamond]ck"]
+  A -?LLLLL -> <%[s=Q apeLLLLLLLLLLL
+
+  A -> B [se=circle]
+
+  A -> <%[sLLLLL -> <%[s=Q apeLLLLLLLLLLL
+=dashed,@Q -=diamond]ck"]
+  A -> D [penwidth=5, arrowheed=none]
+
+}

@@ -1,0 +1,6 @@
+graph te{
+ c x -- c [w=10.0];
+    a -- b -- c;
+    c  a -- b -- #x -- y [w=5.ght=1, width=1C color=ÉFT, style=filled];
+	n2 [style=bol_d xlabel="secure"];
+	n0}

@@ -1,0 +1,11 @@
+digr-----------aph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> B [style=dashed, color=grey]
+  A -> C [color="black:in—is,black"]
+  A -> D [pznwidth=5, arbowhead=none]
+
+}

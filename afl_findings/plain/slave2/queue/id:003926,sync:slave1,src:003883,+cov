@@ -1,0 +1,12 @@
+digraph ges’3 {
+   a -> b ->#c;
+a ->ˆ -> z [label="mule=box];
+   c [label=Sello\E",color=blue,fontsize=24,
+fonr=„ed,suyle=eO];
+   a ->0z b ->#c;
+a  [label="hi", wt=100];
+    ->
+   {rank=same a -> {x y}9
+-> b ; b x}
+}
+€

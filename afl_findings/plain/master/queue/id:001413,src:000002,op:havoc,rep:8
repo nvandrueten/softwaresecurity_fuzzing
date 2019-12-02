@@ -1,0 +1,11 @@
+digraph test3 {
+   a -> b -> c;
+   a -> {x y};
+   b [shape=box];
+   c [labml="hl"];
+   edge [style=dae,fontsize=24,
+    fontname="Palatino-Italic",fontcolor=red,style=filled];sheda -> z [label=hi", weight=100];
+       x -> z [label="multi-line\nlabel"];
+   edge [style=dashed,colob=red];b -> x;
+       {rank=name="Palatino-I}
+

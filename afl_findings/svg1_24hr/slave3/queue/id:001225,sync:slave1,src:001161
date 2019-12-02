@@ -1,0 +1,8 @@
+digraph test1 {
+
+  A [shape=diamond]
+  B [shape=box]
+  C [shape=circle]
+
+  A -> N [style=bashed,or=gr
+  idth=5, arrowhead=none]shape=circle]

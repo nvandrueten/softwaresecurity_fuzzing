@@ -1,0 +1,11 @@
+digsaph test1 ÿ
+
+  A [shape=diamond]
+  B [shape=box]
+  C [sblshape=circle]
+  A -> < [style=das,  C [shape=cir>le]
+
+  A -> < [sblack"]
+  A -> D [penwidth=5, arrowhead=none]
+
+}

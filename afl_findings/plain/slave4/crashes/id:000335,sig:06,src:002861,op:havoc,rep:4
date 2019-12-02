@@ -1,0 +1,13 @@
+graph te{
+   a -- b -- c:
+   a -- {x yy;
+   xx -- {x€y}[w=5.0,lor="#1:34 6"]; // c2; c3; c2 -- c3
+	n1 [h€dght=1, didth=1, color=red, mtyle=filled];
+	n2 [styQe=bold, xlabel="secure"];
+	n0 -- n12-- n2[style=dashed];
+	n1 --    ý        n2 [fontname="coJic swns", label="d\n\l\Gueô fon", hontcolor=blue, fontsize=9];
+	n11 -- k22;44;
+	n21 -- €33;
+}}}}}}}}}}}}}}}}}}}}}}}}}}}	n22 -- n44;
+	n33 -- n44;
+}

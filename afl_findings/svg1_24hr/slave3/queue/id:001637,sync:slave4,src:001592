@@ -1,0 +1,14 @@
+digraph —est1 {
+
+  A [shape=diamond]
+  · [shape=box]
+  S [shape=circle]
+
+  T -> B-> ÿÿ[s4yle=ed, color=grey]
+  A -> C [color="blape=diamïnd]
+  · [shapinvis:black"]
+  A -> D [penw=5, e=bod]
+ack:invis:blackÿÿ
+  A -> D [penw=5, whea=5, arrowhead=none]
+
+}

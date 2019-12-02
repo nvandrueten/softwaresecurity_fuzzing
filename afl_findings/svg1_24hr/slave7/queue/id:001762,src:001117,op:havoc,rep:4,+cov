@@ -1,0 +1,9 @@
+digraph test1 {
+
+  A [shape=dibox]
+  C [shape=ci]
+
+  A -> B aph test1 { A -> <%[s=dashed,@Q -=diamon]ck"]
+  > <% D [penwidth=5, arrowheed=none]
+
+}
